@@ -1,4 +1,4 @@
-Inspired by the **Julia.jl** repo, I decided to create an exclusive repo listing Python packages, cookbooks, etc.. for data science programmers using Python. There are tons of resources for Python programmers but its scattered across the web, so [DataScience-PY](http://svaksha.github.io/DataScience-PY) is my attempt to curate decibans of resources exclusively for data scientists using Python as their programming language. 
+Inspired by **[Julia.jl](http://svaksha.github.io/Julia.jl)**, the [DataScience-PY](http://svaksha.github.io/DataScience-PY) repo is my attempt to curate decibans of resources exclusively for data scientists using Python as their programming language. There are tons of resources for data scientits and scientific programmers scattered across the web which will be consolidated here as an exclusive repo listing Python packages, tutorials, cookbooks, etc.. for data science programmers using Python (some tutorials may use _R_ language but you can always use the tut learning resource and code with Python instead.)
 
 This repo is mirrored at:
 * [BitBucket](https://bitbucket.org/svaksha/DataScience-PY) :: git clone git@bitbucket.org:svaksha/DataScience-PY.git
@@ -9,7 +9,6 @@ This repo is mirrored at:
 
 
 # PAGES
-* [Actuarial-Science.md](https://github.com/svaksha/DataScience-PY/blob/master/Actuarial-Science.md) :: Finance, economics, stochastic, insurance Statistics... packages.
 * [Biology.md](https://github.com/svaksha/DataScience-PY/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
 * [Computer-Graphics.md](https://github.com/svaksha/DataScience-PY/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
 * [Cookbook.md](https://github.com/svaksha/DataScience-PY/blob/master/Cookbook.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, etc...

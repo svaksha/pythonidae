@@ -10,7 +10,7 @@
 
 ### SciPy
 * [SciPy](http://www.scipy.org) contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
-   * _DOCS:_
+   * _Tutorials_
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 
 
