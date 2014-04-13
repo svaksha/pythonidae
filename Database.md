@@ -1,7 +1,6 @@
 * [NoSQL](#nosql)
    * [SciDB](#scidb)
 * [DATASETS](#datasets)
-   * [Biology](#biology)
 
 # NoSQL
 ## SciDB-py
@@ -9,7 +8,13 @@
 
 
 # DATASETS
-## Biology
+
+* [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
+
+### Biology
 * NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
+
+### Machine Learning
+* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 
