@@ -12,6 +12,8 @@
 #### Coursera.org   
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
+# Machine Learning
+* [Machine Learning Video Library](http://work.caltech.edu/library/)
 
 # Numerical Analysis
 ### NumPy
