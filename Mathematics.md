@@ -1,7 +1,7 @@
 **Python scientific libraries**
 * [Blogs](#blogs)
 * [MOOC](#mooc)
-* [Numerical-Analysis](#numericalanalysis)
+* [SOFTWARE](#software)
    * [NumPy](#numpy)
    * [SciPy](#scipy)
 
@@ -15,9 +15,12 @@
 # Machine Learning
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
 
-# Numerical Analysis
+# SOFTWARE
 ### NumPy
 * [NumPy](http://www.numpy.org) adds support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
+
+### SAGE
+* [Sage](http://www.sagemath.org), System for Algebra and Geometry Experimentation, is mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
 
 ### SciPy
 * [SciPy](http://www.scipy.org) contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
