@@ -8,7 +8,7 @@
 
 
 # DATASETS
-
+* Freebase :: [A community-curated database of well-known people, places, and things](http://www.freebase.com)
 * [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
 
 ### Biology
