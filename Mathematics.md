@@ -8,6 +8,7 @@
 
 
 # Blogs
+* [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 # MOOC
