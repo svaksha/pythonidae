@@ -1,10 +1,8 @@
-Akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, [Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for scientific computing, data science, data visualization, etc... for scientific programmers and data scientists using Python.
-
-This repo is mirrored at:
+[Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing and data visualization, akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, and is mirrored at:
 * [BitBucket](https://bitbucket.org/svaksha/boidae) :: git clone git@bitbucket.org:svaksha/boidae.git
 * [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
 
-_PS_:: Some tutorials may use the "_R_" language but feel free to code with Python while using the tut learning material.
+_PS_:: Some tutorials may use the "_R_" language but feel free to code with Python while using the learning material.
 
 
 # PAGES
