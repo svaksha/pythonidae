@@ -2,6 +2,8 @@
 * [Blogs](#blogs)
 * [MOOC](#mooc)
 * [SOFTWARE](#software)
+* [MATH](#math)
+   * [Calculus](#calculus)
 
 # Blogs
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
@@ -21,6 +23,7 @@
    * _Tutorials_
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 
-
-
+# MATH
+### Calculus 
+* [finitediff](https://github.com/bjodah/finitediff) :: A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 
