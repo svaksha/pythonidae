@@ -1,4 +1,4 @@
-Akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, [Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for scientific computing, data science, data visualization, etc... for scientific programmers and data scientits using Python.
+Akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, [Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for scientific computing, data science, data visualization, etc... for scientific programmers and data scientists using Python.
 
 This repo is mirrored at:
 * [BitBucket](https://bitbucket.org/svaksha/boidae) :: git clone git@bitbucket.org:svaksha/boidae.git
@@ -12,6 +12,7 @@ _PS_:: Some tutorials may use the "_R_" language but feel free to code with Pyth
 
 # PAGES
 * [API.md](https://github.com/svaksha/boidae/blob/master/API.md) :: API wrapper generators, other tools and bindings.
+* [Biology.md](https://github.com/svaksha/boidae/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
 * [Build-Automation.md](https://github.com/svaksha/boidae/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
 * [Cloud-Computing.md](https://github.com/svaksha/boidae/blob/master/Cloud-Computing.md) :: Free python software for cloud computing, cloud infrastructure, ...
 * [Database.md](https://github.com/svaksha/boidae/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
