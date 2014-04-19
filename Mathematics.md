@@ -1,5 +1,5 @@
 **Python scientific libraries**
-* [Blogs](#blogs)
+
 * [MOOC](#mooc)
 * [MATH](#math)
    * [Algebra](#algebra)
@@ -7,16 +7,15 @@
    * [Numerical Analysis](#numerical-analysis)
 
 
-# Blogs
-* [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
-* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 # MOOC
 #### Coursera.org   
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
+
 # Machine Learning
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
+* [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
 
 
 # MATH
