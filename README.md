@@ -6,9 +6,6 @@ This repo is mirrored at:
 
 _PS_:: Some tutorials may use the "_R_" language but feel free to code with Python while using the tut learning material.
 
-### Install
-* To start programming with Python you need to [setup your local Python environment](http://www.datarobot.com/blog/getting-up-and-running-with-python), then work your way through this workshop material for "[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)".
-
 
 # PAGES
 * [API.md](https://github.com/svaksha/boidae/blob/master/API.md) :: API wrapper generators, other tools and bindings.
