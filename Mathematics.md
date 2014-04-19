@@ -2,8 +2,6 @@
 * [Blogs](#blogs)
 * [MOOC](#mooc)
 * [SOFTWARE](#software)
-   * [NumPy](#numpy)
-   * [SciPy](#scipy)
 
 # Blogs
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
@@ -16,17 +14,12 @@
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
 
 # SOFTWARE
-### NumPy
-* [NumPy](http://www.numpy.org) adds support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
-
-### SAGE
-* [Sage](http://www.sagemath.org), System for Algebra and Geometry Experimentation, is mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
-
-### SciPy
-* [SciPy](http://www.scipy.org) contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
+* impyla :: [Python client to Cloudera Impala](https://github.com/cloudera/impyla). Impala allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
+* [NumPy](http://www.numpy.org) :: adds support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
+* [Sage](http://www.sagemath.org) :: System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
+* [SciPy](http://www.scipy.org) :: it contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    * _Tutorials_
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
-
 
 
 
