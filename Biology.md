@@ -1,7 +1,11 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
+* [Bioinformatics](#bioinformatics)
 * [Genetics](#genetics)
 * [Neuroscience](#neuroscience)
+
+# Bioinformatics
+* [epitopes](https://github.com/hammerlab/epitopes) :: Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 
 # Genetics
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) :: A Python client for GeneTorrent.
