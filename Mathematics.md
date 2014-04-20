@@ -7,7 +7,6 @@
    * [Numerical Analysis](#numerical-analysis)
 
 
-
 # MOOC
 #### Coursera.org   
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
@@ -20,6 +19,12 @@
 
 # MATH
 * [impyla](https://github.com/cloudera/impyla) :: Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
+
+
+MultiVariate Pattern Analysis in Python
+
+http://www.pymvpa.org
+
 * [NumPy](http://www.numpy.org) :: adds support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
 
 ### Algebra
