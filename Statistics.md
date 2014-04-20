@@ -27,7 +27,7 @@
 * Scikits-statsmodels :: [Statistical computations and models for use with SciPy](http://scikits.appspot.com/statsmodels). 
 * [Statsmodels](http://statsmodels.sourceforge.net) is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
-## Bayesian 
+### Bayesian 
 * [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
 
 ##### Talks  

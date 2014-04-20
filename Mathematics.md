@@ -1,4 +1,4 @@
-**Python scientific libraries**
+**Mathematical scientific libraries written in Python**
 
 * [MOOC](#mooc)
 * [MATH](#math)
@@ -25,6 +25,8 @@
 ### Algebra
 * [Sympy](http://sympy.org/) :: A computer algebra system written in pure Python.
 * [SAGE](http://www.sagemath.org) :: System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
+* [scikits-sparse](https://github.com/njsmith/scikits-sparse) :: Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
+
 
 ### Calculus 
 * [finitediff](https://github.com/bjodah/finitediff) :: A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
