@@ -1,9 +1,10 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-* [Biotechnology](#biotechnology)
-* [ComputationalBiology](#computationalbiology)
+* [Genetics](#genetics)
 * [Neuroscience](#neuroscience)
 
+# Genetics
+* [pygenetorrent](https://github.com/hammer/pygenetorrent) :: A Python client for GeneTorrent.
 
 # Neuroscience
 * [NIPY](https://github.com/nipy) developers group on GH.
