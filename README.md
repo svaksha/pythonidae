@@ -15,6 +15,7 @@ _PS_:: Some tutorials may use the "_R_" language but feel free to code with Pyth
 * [Database.md](https://github.com/svaksha/boidae/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
 * [Mathematics.md](https://github.com/svaksha/boidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
 * [NEWS.md](https://github.com/svaksha/boidae/blob/master/NEWS.md)
+* [QA.md](https://github.com/svaksha/boidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
 * [Science.md](https://github.com/svaksha/boidae/blob/master/Science.md) :: software related to Physics, Chemistry, geoinformatics, geoscience/GIS, etc...
 * [Statistics.md](https://github.com/svaksha/boidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
 
