@@ -1,7 +1,7 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 * [Biotechnology](#biotechnology)
-* [ComputationalSystemsBiology](#computationalsystemsbiology)
+* [ComputationalBiology](#computationalbiology)
 * [Neuroscience](#neuroscience)
 
 
