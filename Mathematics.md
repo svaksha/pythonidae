@@ -12,21 +12,11 @@
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
 
-# Machine Learning
-* [Machine Learning Video Library](http://work.caltech.edu/library/)
-* [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
-* MLTRP :: [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
-
-
 # MATH
 * [impyla](https://github.com/cloudera/impyla) :: Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
-
-
-MultiVariate Pattern Analysis in Python
-
-http://www.pymvpa.org
-
 * [NumPy](http://www.numpy.org) :: adds support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
+* PyMVPA :: [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org)
+
 
 ### Algebra
 * [Sympy](http://sympy.org/) :: A computer algebra system written in pure Python.
@@ -41,4 +31,5 @@ http://www.pymvpa.org
 * [SciPy](http://www.scipy.org) :: it contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    * _Tutorials_
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
+
 
