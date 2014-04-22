@@ -5,6 +5,7 @@
 # NoSQL
 ## SciDB
 * SciDB-py :: [Python wrapper for SciDB queries](https://github.com/Paradigm4/SciDB-py)
+   * __DOCS__ :: [SciDB-py documentation](http://scidb-py.readthedocs.org/)
 * scidb4py :: [Pure python SciDB client library](https://github.com/artyom-smirnov/scidb4py). The [@Paradigm4 fork](https://github.com/Paradigm4/scidb4py)
 
 
