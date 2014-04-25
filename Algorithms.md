@@ -1,4 +1,4 @@
-ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...
+**ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
 * [MACHINE LEARNING](#machine-learning])
 * [NEURAL NETWORKS](#neural-networks)
