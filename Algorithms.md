@@ -9,6 +9,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 # MACHINE LEARNING
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
 * [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
+* [MLOSS.org](http://mloss.org/software/)
 * MLTRP :: [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
 
 ##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
