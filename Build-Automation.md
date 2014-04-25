@@ -6,7 +6,8 @@
 
 
 # INSTALL
-##### Tutorials
+
+##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * To start programming with Python you need to [setup your local Python environment](http://www.datarobot.com/blog/getting-up-and-running-with-python), then work your way through this workshop material for "[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)".
 
 

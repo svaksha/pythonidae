@@ -15,5 +15,6 @@
 * [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) ::  Optimized Nipype pipelines for brain imaging.
 * [dipy](https://github.com/nipy/dipy) :: Diffusion MR Imaging in Python. [Website](http://dipy.org)
 * [nipype](https://github.com/nipy/nipype) :: Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
+* [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
 * PyMVPA :: [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
 * [psychopy](https://github.com/psychopy/psychopy) :: For running psychology and neuroscience experiments: http://www.psychopy.org
