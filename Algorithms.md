@@ -11,10 +11,14 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
 * MLTRP :: [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
 
+##### Books, Cookbooks, IPYNB's, Tutorials
+* [Alternating Least Squares Method for Collaborative Filtering](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
+* [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
+
 
 # NEURAL NETWORKS
 
-##### Books, Tutorials, Cookbooks,...
+##### Books, Cookbooks, IPYNB's, Tutorials
 * Open book on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
    * Chapter-2. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
