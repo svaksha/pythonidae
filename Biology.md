@@ -6,6 +6,7 @@
 
 # Bioinformatics
 * [epitopes](https://github.com/hammerlab/epitopes) :: Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
+* biostar-central :: [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
 
 # Genetics
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) :: A Python client for GeneTorrent.
