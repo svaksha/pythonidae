@@ -9,7 +9,9 @@
 * biostar-central :: [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
 
 # Genetics
+* CompleteGenomicsTools :: [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) :: A Python client for GeneTorrent.
+
 
 # Neuroscience
 * [NIPY](https://github.com/nipy) developers group on GH.
