@@ -22,6 +22,7 @@
 * [Sympy](http://sympy.org/) :: A computer algebra system written in pure Python.
 * [SAGE](http://www.sagemath.org) :: System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
 * [scikits-sparse](https://github.com/njsmith/scikits-sparse) :: Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
+* pykrylov :: [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
 
 
 ### Calculus 

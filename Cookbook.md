@@ -15,3 +15,6 @@
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 * The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
+
+# Videos
+* [PyData Tutorial videos](http://vimeo.com/channels/612789)
