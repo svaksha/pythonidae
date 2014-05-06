@@ -12,6 +12,10 @@
 * [MLOSS.org](http://mloss.org/software/)
 * MLTRP :: [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
 
+### Graph Theory
+* PyMarkovChain :: [Simple markov chain implementation in python](https://github.com/TehMillhouse/PyMarkovChain)
+
+
 ##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * [Alternating Least Squares Method for Collaborative Filtering](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
 * [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
