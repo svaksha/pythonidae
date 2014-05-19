@@ -23,6 +23,9 @@
 
 # SOFTWARE
 * Pandas :: http://pandas.pydata.org/
+   * DOCS::
+   * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
+
 * Scikits-statsmodels :: [Statistical computations and models for use with SciPy](http://scikits.appspot.com/statsmodels). 
 * [Statsmodels](http://statsmodels.sourceforge.net) is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
