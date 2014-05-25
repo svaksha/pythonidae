@@ -15,12 +15,13 @@
 * [SAGE](http://www.sagemath.org) :: System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
 * pykrylov :: [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
 
-### Scikits
+### Scikit
 * [scikits-sparse](https://github.com/njsmith/scikits-sparse) :: Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
 
 ###### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
 * PyData 2014 :: [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
+* [K-means Clustering with Scikit-Learn](https://github.com/sarguido/k-means-clustering)
 
 # Calculus 
 * [finitediff](https://github.com/bjodah/finitediff) :: A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
