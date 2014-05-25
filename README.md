@@ -2,11 +2,11 @@
 * [BitBucket](https://bitbucket.org/svaksha/boidae) :: git clone git@bitbucket.org:svaksha/boidae.git
 * [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
 
-_PS_:: Some tutorials may use the "_R_" language but feel free to code with Python while using the learning material.
+_PS_:: Some tutorials may use the "_R_" (or other) language(s), feel free to use Python instead.
 
 
 # PAGES
-* [Algorithms.md](https://github.com/svaksha/boidae/blob/master/Algorithms.md) :: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...
+* [AI.md](https://github.com/svaksha/boidae/blob/master/AI.md) :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, Cognitive Science, Linguistics, ...
 * [API.md](https://github.com/svaksha/boidae/blob/master/API.md) :: API wrapper generators, other tools and bindings.
 * [Biology.md](https://github.com/svaksha/boidae/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
 * [Build-Automation.md](https://github.com/svaksha/boidae/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...

@@ -36,3 +36,8 @@
    
 # NLP
 * NLTK :: [Natural Language Toolkit](https://github.com/nltk/nltk) 
+
+### Speech Recognition
+
+##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
+* STT with HMM : [Single Speaker Speech Recognition with Hidden Markov Models](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/)
