@@ -7,6 +7,9 @@
 * [IPyNB](#ipynb)
 * [Videos](#Videos)
 
+# Books
+* [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
+
 # Blogs
 * [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
