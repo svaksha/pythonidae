@@ -6,9 +6,9 @@
 * [MOOC](#mooc)
 
 
+* complex-numbers :: [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
 * [impyla](https://github.com/cloudera/impyla) :: Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
 * PyMVPA :: [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org)
-
 
 # Algebra
 * [Sympy](http://sympy.org/) :: A computer algebra system written in pure Python.
