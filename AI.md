@@ -33,11 +33,13 @@
    * Chapter-6. The state of the art in image recognition
    * Chapter-7. The future of neural nets
    
-   
+
 # NLP
 * NLTK :: [Natural Language Toolkit](https://github.com/nltk/nltk) 
 
 ### Speech Recognition
+* Dragonfly :: [Dragonfly is a speech recognition framework](https://pythonhosted.org/dragonfly/). It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition.
 
 ##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * STT with HMM : [Single Speaker Speech Recognition with Hidden Markov Models](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/)
+
