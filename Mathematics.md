@@ -20,7 +20,7 @@
 
 ###### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
-
+* PyData 2014 :: [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
 
 # Calculus 
 * [finitediff](https://github.com/bjodah/finitediff) :: A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
