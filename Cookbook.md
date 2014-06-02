@@ -13,6 +13,7 @@
 # Blogs
 * [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+* [Jake Van derPlas explains why Python is difficult to optimize, hence slow](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 
 # Cheatsheets
 * [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)

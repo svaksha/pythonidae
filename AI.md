@@ -38,7 +38,8 @@
 * NLTK :: [Natural Language Toolkit](https://github.com/nltk/nltk) 
 
 ### Speech Recognition
-* Dragonfly :: [Dragonfly is a speech recognition framework](https://pythonhosted.org/dragonfly/). It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition.
+* [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
+* Dragonfly :: [Dragonfly is a speech recognition framework](https://code.google.com/p/dragonfly/). It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 
 ##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * STT with HMM : [Single Speaker Speech Recognition with Hidden Markov Models](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/)
