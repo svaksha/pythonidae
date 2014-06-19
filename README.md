@@ -1,8 +1,9 @@
 [Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing and data visualization, akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, and is mirrored at:
-* [BitBucket](https://bitbucket.org/svaksha/boidae) :: git clone git@bitbucket.org:svaksha/boidae.git
-* [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
 
-_PS_:: Some tutorials may use the "_R_" (or other) language(s), feel free to use Python instead.
+* [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
+* [Cloudhost](https://git.cloudhost.io/svaksha/boidae) :: git clone git@git.cloudhost.io:svaksha/boidae.git
+
+_PS_:: Some tutorials may use the "_R_" language, feel free to use Python instead.
 
 
 # PAGES

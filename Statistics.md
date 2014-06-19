@@ -20,6 +20,11 @@
 * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
 * [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
+* FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
+
+
+
+
 
 # SOFTWARE
 * Pandas :: http://pandas.pydata.org/
@@ -29,10 +34,11 @@
 * Scikits-statsmodels :: [Statistical computations and models for use with SciPy](http://scikits.appspot.com/statsmodels). 
 * [Statsmodels](http://statsmodels.sourceforge.net) is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
+
 ### Bayesian 
 * [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
 
 ##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
 * [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
-* _Talk_ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk)
-
+* _Talk_ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki
+* [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
