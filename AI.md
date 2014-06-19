@@ -32,7 +32,7 @@
    * Chapter-5. Deep learning
    * Chapter-6. The state of the art in image recognition
    * Chapter-7. The future of neural nets
-   
+* [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
 
 # NLP
 * NLTK :: [Natural Language Toolkit](https://github.com/nltk/nltk) 
