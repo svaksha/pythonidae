@@ -7,9 +7,9 @@
 #=====
 *.hg/
 .hgignore
-queue.md
 
-#Databases/DB Ignore
+
+# Databases/DB Ignore
 #==================
 *.sql
 *.sqlite
@@ -18,11 +18,13 @@ Thumbs.db
 config/databases.yml
 cache
 
-# LOGS
-#=====
+# DIR / LOGS
+#============
 log
 *.log
 *error_log.txt
+go
+queue.md
 
 
 # OS generated junk files
