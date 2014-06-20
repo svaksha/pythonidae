@@ -25,7 +25,6 @@
 
 
 
-
 # SOFTWARE
 * Pandas :: http://pandas.pydata.org/
    * DOCS::

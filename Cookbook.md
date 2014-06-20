@@ -16,14 +16,20 @@
 * [Jake Van derPlas explains why Python is difficult to optimize, hence slow](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 * @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
 
+#### CS Education
+* [Big Data vs. Ed Psychology: Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
+
+
 # Cheatsheets
 * [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 * [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
+
 
 # IPyNB
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 * The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
+
 
 # Videos
 * [PyData Tutorial videos](http://vimeo.com/channels/612789)
