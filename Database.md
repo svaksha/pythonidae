@@ -11,6 +11,7 @@
 
 # DATASETS
 * Freebase :: [A community-curated database of well-known people, places, and things](http://www.freebase.com)
+* [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 * [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
 
 ### Biology
