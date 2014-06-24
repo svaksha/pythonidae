@@ -28,6 +28,7 @@
 * Pandas :: http://pandas.pydata.org/
    * DOCS::
    * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
+* Patsy :: [Describing statistical models in Python using symbolic formulas](https://github.com/pydata/patsy)
 * Scikits-statsmodels :: [Statistical computations and models for use with SciPy](http://scikits.appspot.com/statsmodels). 
 * [Statsmodels](http://statsmodels.sourceforge.net) is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 * [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 

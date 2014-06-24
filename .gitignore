@@ -24,7 +24,7 @@ log
 *.log
 *error_log.txt
 go
-queue.md
+az.md
 
 
 # OS generated junk files
