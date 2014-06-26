@@ -32,7 +32,7 @@ __Free/Open Datasets__
 - [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
 - [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 - [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
-
+- [OpenfMRI.org](https://openfmri.org) :: A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 
 ### Biology
 * NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
