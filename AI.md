@@ -8,13 +8,16 @@
 
 # MACHINE LEARNING
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
-* [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
+* MILK :: [Machine Learning Toolkit](http://www.luispedro.org/software/milk)
 * [MLOSS.org](http://mloss.org/software/)
 * MLTRP :: [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
+* [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
+
 
 ###### Resources
 * @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
+* [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
 
 ### Graph Theory
 * PyMarkovChain :: [Simple markov chain implementation in python](https://github.com/TehMillhouse/PyMarkovChain)
