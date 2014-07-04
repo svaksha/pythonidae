@@ -28,8 +28,10 @@
 
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+### Numba
+* [Numba](http://numba.pydata.org/) :: is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 
-### Numpy
+### NumPy
 * [NumPy](http://www.numpy.org) :: has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
@@ -39,6 +41,7 @@
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 
+* [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 
 # MOOC

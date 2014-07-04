@@ -39,8 +39,10 @@
    * Chapter-7. The future of neural nets
 * [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
 
+
+
 # NLP
-* NLTK :: [Natural Language Toolkit](https://github.com/nltk/nltk) 
+* NLTK :: [Natural Language Toolkit](http://www.nltk.org/) to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 
 ### Speech Recognition
 * [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
