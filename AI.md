@@ -14,7 +14,7 @@
 
 ###### Resources
 * @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-
+* [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
 
 ### Graph Theory
 * PyMarkovChain :: [Simple markov chain implementation in python](https://github.com/TehMillhouse/PyMarkovChain)
