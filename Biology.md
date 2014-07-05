@@ -15,6 +15,7 @@
 
 # GENETICS
 * CompleteGenomicsTools → [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
+* [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 
 
