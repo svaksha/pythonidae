@@ -15,6 +15,9 @@
 * [SAGE](http://www.sagemath.org) :: System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
 * pykrylov :: [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
 
+### SymPy
+* [SymPy](https://github.com/sympy/sympy) is a Python library for symbolic mathematics.
+
 ### Scikit
 * [scikits-sparse](https://github.com/njsmith/scikits-sparse) :: Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
 
@@ -31,6 +34,9 @@
 ### Numba
 * [Numba](http://numba.pydata.org/) :: is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 
+### numexpr
+* [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
+
 ### NumPy
 * [NumPy](http://www.numpy.org) :: has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
@@ -41,7 +47,6 @@
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 
-* [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 
 # MOOC
