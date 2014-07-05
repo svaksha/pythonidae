@@ -10,7 +10,10 @@
 * MILK → [Machine Learning Toolkit](http://www.luispedro.org/software/milk)
 * [MLOSS.org](http://mloss.org/software/)
 * MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
+* [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
+   * [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 * [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
+
 ###### Resources
 * @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
@@ -24,7 +27,6 @@
 * [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
 * [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 * MST → [python algorithms for minimum spanning trees](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/)
-
 
 
 
