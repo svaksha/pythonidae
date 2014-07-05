@@ -9,6 +9,7 @@
 * [MOOC](#mooc)
 
 
+* Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 
 # PANDAS
 * [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
