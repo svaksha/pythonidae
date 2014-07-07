@@ -56,6 +56,7 @@
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
 - [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
+   - [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
 - [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    - [Official Documentation](http://www.scipy.org/docs.html)
    - [scipy-lectures](http://scipy-lectures.github.io) →  Tutorial material on the scientific Python ecosystem.
