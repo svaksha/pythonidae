@@ -18,6 +18,7 @@
 * @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
 * [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
+* [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 
 
 ### Graph Theory

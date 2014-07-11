@@ -21,4 +21,5 @@
 * [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 * [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
 
-
+#### Non-Python tools
+* [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
