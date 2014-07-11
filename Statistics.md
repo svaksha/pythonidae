@@ -58,4 +58,4 @@
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
 * [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
 * FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
-
+* [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
