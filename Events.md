@@ -21,7 +21,7 @@
 
 
 ## SciPy
-* 2014.July.6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) at Austin, Texas. __There will be a Julia tutorial at SciPy 2014, on July 7th in Austin__.
+* 2014.July.6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) at Austin, Texas. [Videos are online](http://pyvideo.org/category/51/scipy-2014).
 
 
 ## VIS
