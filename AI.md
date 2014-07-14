@@ -1,9 +1,12 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
+* [DATA STRUCTURES](#data-structures)
 * [MACHINE LEARNING](#machine-learning])
 * [NLP](#nlp)
 
-
+# DATA STRUCTURES
+**Arrays / Hash tables / Matrix / Functional / Trees data structures**
+* Xray :: [Extended arrays for working with scientific datasets in Python](https://github.com/xray/xray). [Documentation](http://xray.readthedocs.org)
 
 # MACHINE LEARNING
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
