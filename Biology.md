@@ -10,8 +10,6 @@
 # BIOINFORMATICS
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 * biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
-* screed (GED@MSU.EDU) → [A simple read-only sequence database, designed for short reads](https://github.com/ged-lab/screed) from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
-
 
 
 # GENOMICS
@@ -23,11 +21,16 @@
 * [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 * MetaSVMerge :: [An accurate method-aware merging algorithm for structural variations](https://github.com/bioinform/metasv)
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
+* screed (GED@MSU.EDU) → [A simple read-only sequence database, designed for short reads](https://github.com/ged-lab/screed) from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
+
 
 ##### Publications
 * Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
 * Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
 * Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
+* Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
+
+
 
 ##### Resources
 * Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
