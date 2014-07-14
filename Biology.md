@@ -24,6 +24,9 @@
 * MetaSVMerge :: [An accurate method-aware merging algorithm for structural variations](https://github.com/bioinform/metasv)
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 
+##### Publications
+* Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27 NOV 2013.
+* Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21 JAN 2014
 
 ##### Resources
 * Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
