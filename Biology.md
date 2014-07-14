@@ -2,9 +2,10 @@
 
 * [BIOINFORMATICS](#bioinformatics)
 * [GENOMICS](#genomics)
-* [Neuroscience](#neuroscience)
+* [NEUROSCIENCE](#neuroscience)
    * [Neural-Networks](#neural-networks)
-   
+* [STRUCTURAL-BIOLOGY](#structural-biology)
+
    
 # BIOINFORMATICS
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
@@ -50,4 +51,9 @@
    * Chapter-6. The state of the art in image recognition
    * Chapter-7. The future of neural nets
 * [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
+
+
+# STRUCTURAL BIOLOGY
+* [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
+    
 
