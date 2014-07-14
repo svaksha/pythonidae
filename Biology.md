@@ -20,6 +20,7 @@
 * [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
 * Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
    * [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
+* [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 * MetaSVMerge :: [An accurate method-aware merging algorithm for structural variations](https://github.com/bioinform/metasv)
 * [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 
