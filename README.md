@@ -1,5 +1,7 @@
-[Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing and data visualization, akin to **[Julia.jl](http://svaksha.github.io/Julia.jl)**, and is mirrored at:
+[Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing and data visualization, which is as large as the Boidae, a family of large boas/ boids.
 
+
+##### Mirrors 
 * [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
 * [Cloudhost](https://git.cloudhost.io/svaksha/boidae) :: git clone git@git.cloudhost.io:svaksha/boidae.git
 
