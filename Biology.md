@@ -46,7 +46,7 @@
 * [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
 * [psychopy](https://github.com/psychopy/psychopy) → For running psychology and neuroscience experiments: http://www.psychopy.org
-
+* brainx :: [Tools for analysis of brain imaging-derived networks, based on NetworkX](https://github.com/nipy/brainx)
 
 
 ### Neural Networks
