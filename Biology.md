@@ -46,8 +46,8 @@
 * [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
 * [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
+* PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 * [psychopy](https://github.com/psychopy/psychopy) → For running psychology and neuroscience experiments: http://www.psychopy.org
-* PySurfer :: [Cortical neuroimaging visualization in Python](http://pysurfer.github.com)
  
 
 ### Neural Networks
