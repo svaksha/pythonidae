@@ -1,16 +1,24 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 * [BIOINFORMATICS](#bioinformatics)
+   * [Molecular Biology](#molecular-biology)
+   * [Structural Biology](#structural-biology)
 * [GENOMICS](#genomics)
 * [NEUROSCIENCE](#neuroscience)
    * [Neural-Networks](#neural-networks)
-* [STRUCTURAL-BIOLOGY](#structural-biology)
 
    
 # BIOINFORMATICS
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 * biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
 
+### Molecular Biology
+* BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+
+
+### Structural Biology
+* [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
+    
 
 # GENOMICS
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
@@ -64,8 +72,4 @@
    * Chapter-7. The future of neural nets
 * [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
 
-
-# STRUCTURAL BIOLOGY
-* [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
-    
 
