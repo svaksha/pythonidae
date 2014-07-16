@@ -7,6 +7,8 @@
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
 * Xray :: [Extended arrays for working with scientific datasets in Python](https://github.com/xray/xray). [Documentation](http://xray.readthedocs.org)
+* [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
+
 
 # MACHINE LEARNING
 * [Machine Learning Video Library](http://work.caltech.edu/library/)
