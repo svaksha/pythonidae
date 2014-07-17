@@ -3,7 +3,7 @@
 * [Algebra](#algebra)
 * [Calculus](#calculus)
 * [Numerical Analysis](#numerical-analysis)
-* [MOOC](#mooc)
+* [Resources](#resources)
 
 
 * complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
@@ -52,9 +52,11 @@
 
 
 
-# MOOC
+# Resources
+* [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
+
+## MOOC
 #### Coursera.org   
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
-
 
 
