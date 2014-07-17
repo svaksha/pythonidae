@@ -54,6 +54,7 @@
 * ElemStatLearn :: [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
 * fpp :: [Forecasting principles and practice](https://www.otexts.org/fpp/): a comprehensive introduction to forecasting methods.
 * MCMC :: [Testing MCMC code, part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
+* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
 * scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
 * [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
