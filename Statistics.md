@@ -1,5 +1,7 @@
 **Statistics, etc...**
 
+* [ACTUARIAL SCIENCE](#actuarial-science)
+   * [Econometrics](#econometrics) 
 * [PANDAS](#pandas)
 * [PATSY](#patsy)
 * [PYMC](#pymc)
@@ -8,7 +10,9 @@
 * [THEANO](#theano)
 * [MOOC](#mooc)
 
-
+# ACTUARIAL SCIENCE 
+### Econometrics 
+* Graphical-Lasso-in-Finance :: [Implementations of the graphical lasso method to estimation of covariance matrices in finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance).
 * Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 
 # PANDAS
