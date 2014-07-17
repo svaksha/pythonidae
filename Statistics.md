@@ -19,6 +19,7 @@
 * [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    * __Resources__
    * [Documentation](http://pandas.pydata.org/pandas-docs/)
+   * Materials for ["Python for Data Analysis" by Wes McKinney(https://github.com/pydata/pydata-book), published by O'Reilly Media.
    * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
 
 # PATSY
