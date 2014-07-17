@@ -27,6 +27,7 @@ _PS_:: Some tutorials listed here may use other languages like Go, R-language, J
 * [QA.md](https://github.com/svaksha/boidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
 * [Statistics.md](https://github.com/svaksha/boidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
 * [UI-UX.md](https://github.com/svaksha/boidae/blob/master/UI-UX.md) :: User Interface software in Python.
+* [Utilities.md](https://github.com/svaksha/boidae/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
 
 
 ### Contributing
