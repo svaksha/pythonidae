@@ -22,6 +22,7 @@
 
 # GENOMICS
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
+* [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 * BreakSeq2 : [Ultrafast and accurate nucleotide-resolution analysis of structural variants](https://github.com/bioinform/breakseq2)
 * CompleteGenomicsTools → [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
 * [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)

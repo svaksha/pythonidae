@@ -24,7 +24,7 @@ _PS_:: Some tutorials listed here may use other languages like Go, R-language, J
 * [Physics.md](https://github.com/svaksha/boidae/blob/master/Physics.md) :: software related to Physics.
 * [Publications.md](https://github.com/svaksha/boidae/blob/master/Publications.md) :: Research papers, etc...
 * [QA.md](https://github.com/svaksha/boidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
-* [Resources.md](https://github.com/svaksha/boidae/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other non-standard resources.
+* [Resources.md](https://github.com/svaksha/boidae/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IPython NoteBooks, and other non-standard resources.
 * [Statistics.md](https://github.com/svaksha/boidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
 * [UI-UX.md](https://github.com/svaksha/boidae/blob/master/UI-UX.md) :: User Interface software in Python.
 * [Utilities.md](https://github.com/svaksha/boidae/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
