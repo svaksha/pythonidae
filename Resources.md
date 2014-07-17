@@ -24,6 +24,8 @@
 * [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 * [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
+# Cookbooks
+* Python-data-intro :: [Workshop material for "Introduction to Data Processing with Python"](http://opentechschool.github.io/python-data-intro/)
 
 # IPyNB
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
