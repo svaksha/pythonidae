@@ -18,7 +18,7 @@
 
 #### CS Education
 * [Big Data vs. Ed Psychology: Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
-
+* [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
 
 # Cheatsheets
 * [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
