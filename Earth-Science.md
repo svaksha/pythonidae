@@ -11,4 +11,4 @@
 * Karta → [A tidy Python package for geospatial computation](https://github.com/njwilson23/karta)
 * MASSACR :: [Modeling Altered Seafloor: Simulation and Climatic Response](https://github.com/navahnavahnavah/massacr)
 * pygeoip → [Pure Python API for Maxmind's binary GeoIP databases](https://github.com/appliedsec/pygeoip)
-
+* [Pyshp](https://github.com/GeospatialPython/pyshp) library reads and writes ESRI Shapefiles in pure Python.
