@@ -1,12 +1,15 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, etc..__
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
+   * [AWS](#aws)
    * [APACHE](#apache)
    * [HPC](#hpc)
 
 
 # DISTRIBUTED-PARALLEL
 **Libraries for Cloud/Cluster Computing**
+## AWS
+* Anaconda-ec2 :: [Anaconda plugin for StarCluster](https://github.com/ContinuumIO/anaconda-ec2)
 * [StarCluster](http://star.mit.edu/cluster) is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2). [Source code on Github](https://github.com/jtriley/StarCluster)
 
 ## APACHE 
