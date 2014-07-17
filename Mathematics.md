@@ -14,7 +14,7 @@
 
 # Algebra
 * [Sympy](http://sympy.org/) → A computer algebra system written in pure Python.
-* [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
+* [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 * pykrylov → [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
 
 ### SymPy
