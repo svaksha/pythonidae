@@ -41,10 +41,9 @@
 * Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
 * Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
 
-
-
 ##### Resources
 * Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
+* [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
 
 # NEUROSCIENCE
