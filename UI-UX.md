@@ -7,6 +7,7 @@
 ### IPython
 * [IPython](http://ipython.org/) provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits.
 * [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
+* [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
 * Multiuser-server :: [Multi-user server for Jupyter notebooks](https://github.com/jupyter/multiuser-server)
 * NBDiff :: [A diffing and merging tool for the IPython Notebook](http://nbdiff.org)
 
