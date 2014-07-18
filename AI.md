@@ -30,9 +30,11 @@
    * [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 
 
-### Graph Theory
+## Graph Theory
 * PyMarkovChain  → [Simple markov chain implementation in python](https://github.com/TehMillhouse/PyMarkovChain)
+
 ###### Resources
+* [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Alternating Least Squares Method for Collaborative Filtering](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
 * [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
 * [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
