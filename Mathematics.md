@@ -10,24 +10,14 @@
 * [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org)
 * zero-modform :: [Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms](https://github.com/haochenuw/zero-modform)
+* [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
 
 
 # Algebra
-* [Sympy](http://sympy.org/) → A computer algebra system written in pure Python.
+* [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
 * [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 * pykrylov → [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
 
-### SymPy
-* [SymPy](https://github.com/sympy/sympy) is a Python library for symbolic mathematics.
-
-### Scikit
-* [scikit-learn](http://scikit-learn.org/) →  is a python library for machine learning.
-* [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
-
-###### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
-* [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
-* PyData-2014 Talk → [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
-* [K-means Clustering with Scikit-Learn](https://github.com/sarguido/k-means-clustering)
 
 # Calculus 
 * [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.

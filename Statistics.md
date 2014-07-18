@@ -2,49 +2,38 @@
 
 * [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
-* [PANDAS](#pandas)
-* [PATSY](#patsy)
-* [PYMC](#pymc)
-* [SCIKITS](#scikits)
-* [STATSMODELS](#statsmodels)
-* [THEANO](#theano)
+* [STATISTICS](#statistics)
+   * [Statistical Tests](#stat-tests)
+   * [Valuation](#valuation)
 * [MOOC](#mooc)
+
+
 
 # ACTUARIAL SCIENCE 
 ### Econometrics 
 * Graphical-Lasso-in-Finance :: [Implementations of the graphical lasso method to estimation of covariance matrices in finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance).
 * Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 
-# PANDAS
+### Quant
 * [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    * __Resources__
    * [Documentation](http://pandas.pydata.org/pandas-docs/)
    * Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
    * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
 
-# PATSY
+
+# STATISTICS
 * Patsy :: [Describing statistical models in Python using symbolic formulas](https://github.com/pydata/patsy)
-
-
-# PYMC
 * [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
-
-##### Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos
-* [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
-* _Talk_ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki
-* [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
-
-
-# SCIKITS
+   * __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
+* [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
+* [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
 * Scikits-statsmodels :: [Statistical computations and models for use with SciPy](http://scikits.appspot.com/statsmodels). 
 
+##### Resources
+* [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
+* [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
 
-# STATSMODELS
-* [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
-
-
-# THEANO
-* [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
 
 
 # MOOC

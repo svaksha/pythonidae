@@ -19,12 +19,15 @@
 * [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
    * [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 * [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
-
-###### Resources
-* @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-* [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
-* [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
-* [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
+* [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
+   * __Resources__
+   * [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
+   * PyData-2014 Talk → [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
+   * [K-means Clustering with Scikit-Learn](https://github.com/sarguido/k-means-clustering)
+   * @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+   * [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
+   * [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
+   * [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 
 
 ### Graph Theory
