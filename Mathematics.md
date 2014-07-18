@@ -24,6 +24,11 @@
 
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+### 
+* [Blaze](http://blaze.pydata.org) is the next-generation of NumPy and Pandas for BigData.
+   **Resources**
+   * [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+
 ### Numba
 * [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 
