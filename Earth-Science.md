@@ -6,6 +6,7 @@
 * astropy → [Astronomy Python Library](https://github.com/astropy)
 * [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
 * [EchelleTools](https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format.
+* [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
 
 # GIS 
 * [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
