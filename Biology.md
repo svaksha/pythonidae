@@ -24,6 +24,7 @@
 # GENOMICS
 * [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
+   * [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
    * [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
 * [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 * BreakSeq2 : [Ultrafast and accurate nucleotide-resolution analysis of structural variants](https://github.com/bioinform/breakseq2)
