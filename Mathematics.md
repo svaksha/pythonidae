@@ -6,6 +6,9 @@
 * [Resources](#resources)
 
 
+
+
+
 * complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
 * [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org)
@@ -42,7 +45,7 @@
 
 ### SciPy
 * [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
-   * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
+   * [Official Documentation](http://www.scipy.org/docs.html)
    * scipy-lectures → [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
 
 
