@@ -47,15 +47,17 @@
 
 
 # NEUROSCIENCE
-* [NIPY](https://github.com/nipy) developers group on GH.
 * [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
 * brainx :: [Tools for analysis of brain imaging-derived networks, based on NetworkX](https://github.com/nipy/brainx)
 * [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
+* [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
+* [NIPY](https://github.com/nipy) developers group on GH.
 * nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
 * [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
 * [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
 * Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
 * [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
+* Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
 * PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 * [psychopy](https://github.com/psychopy/psychopy) → For running psychology and neuroscience experiments: http://www.psychopy.org
