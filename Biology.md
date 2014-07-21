@@ -9,8 +9,11 @@
 
    
 # BIOINFORMATICS
-* [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 * biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
+* [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
+* [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
+
+
 
 ### Molecular Biology
 * BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
@@ -60,8 +63,8 @@
 * Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
 * PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
-* [psychopy](https://github.com/psychopy/psychopy) → For running psychology and neuroscience experiments: http://www.psychopy.org
- 
+* [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
+
 
 ### Neural Networks
 ###### Resources
