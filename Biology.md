@@ -13,8 +13,6 @@
 * [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 
-
-
 ### Molecular Biology
 * BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
 
@@ -26,6 +24,7 @@
 # GENOMICS
 * [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
+   * [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
 * [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 * BreakSeq2 : [Ultrafast and accurate nucleotide-resolution analysis of structural variants](https://github.com/bioinform/breakseq2)
 * CompleteGenomicsTools → [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
