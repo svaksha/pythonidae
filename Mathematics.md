@@ -40,6 +40,8 @@
 
 ### NumPy
 * [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
+   * **Libraries based on Numpy**
+   * [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
 
