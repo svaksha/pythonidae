@@ -1,11 +1,10 @@
-[Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing and data visualization, which is as large as the Boidae, a family of large boas/ boids.
-
+Boidae are large boas, just like scientific programming with Python is. [Boidae](http://svaksha.github.io/boidae) curates decibans of FOSS resources exclusively for Python scientific programmers interested in scientific computing, big data and data visualization.
 
 ##### Mirrors 
 * [GitLab](https://gitlab.com/svaksha/boidae) :: git clone git@gitlab.com:svaksha/boidae.git 
 * [Cloudhost](https://git.cloudhost.io/svaksha/boidae) :: git clone git@git.cloudhost.io:svaksha/boidae.git
 
-_PS_:: Some tutorials listed here may use other languages like Go, R-language, Julia, etc.. Feel free to use Python instead.
+_PS_:: Some resources listed here may use other languages like Go, Java, Julia, PhP, R-language, etc.. 
 
 
 # PAGES
@@ -34,7 +33,7 @@ _PS_:: Some tutorials listed here may use other languages like Go, R-language, J
 Some tips for submitting a [pull request (PR)](https://github.com/svaksha/boidae/pulls):
 * Add your link as per the topic, with notes (if any) to the respective MarkDown (.md) pages in the repo.
 * For broken links submit a bug report, or replace the broken URI, then submit a PR.
-* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *Resources*, else use the [Cookbook.md](https://github.com/svaksha/boidae/blob/master/Cookbook.md) page.
+* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *Resources*, else use the [Resources.md](https://github.com/svaksha/boidae/blob/master/Resources.md) page.
 
 
 # LICENSE 

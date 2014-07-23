@@ -9,6 +9,9 @@
 
 # Books
 * [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
+* [List of free programming books](https://github.com/vhf/free-programming-books)
+* [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
+
 
 # Blogs
 * [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
