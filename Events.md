@@ -5,6 +5,10 @@
 
 # CONFERENCES
 
+## EuroPython
+* 2014/July/21~27 :: BCC, Berlin. [Videos](https://www.youtube.com/user/europython2014/videos)
+
+
 ## OpenVisConf
 * April24-25, OpenVisConf :: [@jakevdp's talk at OpenVisConf, Boston, MA](https://github.com/jakevdp/OpenVisConf2014)
 
@@ -21,7 +25,7 @@
 
 
 ## SciPy
-* 2014.July.6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) at Austin, Texas. [Videos are online](http://pyvideo.org/category/51/scipy-2014).
+* 2014/July/06-12 :: [SciPy](https://conference.scipy.org/scipy2014/) at Austin, Texas. [Videos are online](http://pyvideo.org/category/51/scipy-2014).
 
 
 ## VIS
