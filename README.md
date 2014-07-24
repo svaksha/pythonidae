@@ -27,6 +27,8 @@ _PS_:: Some resources listed here may use other languages like Go, Java, Julia, 
 * [Statistics.md](https://github.com/svaksha/boidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
 * [UI-UX.md](https://github.com/svaksha/boidae/blob/master/UI-UX.md) :: User Interface software in Python.
 * [Utilities.md](https://github.com/svaksha/boidae/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
+* [X-Platform.md](https://github.com/svaksha/boidae/blob/master/X-Platform.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
+
 
 
 ### Contributing
