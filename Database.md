@@ -1,6 +1,13 @@
-* [NoSQL](#nosql)
+- [HDF](#hdf)
+- [NoSQL](#nosql)
    * [SciDB](#scidb)
-* [DATASETS](#datasets)
+- [DATASETS](#datasets)
+
+# HDF
+- **Resources**
+- [HDF5 Tutorial](https://github.com/scopatz/hdf5-is-for-lovers)
+
+
 
 # NoSQL
 ## SciDB
@@ -9,7 +16,10 @@
 * scidb4py :: [Pure python SciDB client library](https://github.com/artyom-smirnov/scidb4py). The [@Paradigm4 fork](https://github.com/Paradigm4/scidb4py)
 * scidbpy-aflgen :: [SciDB AFL Parser Generate data for SciDBpy AFL bindings](https://github.com/ChrisBeaumont/scidbpy-aflgen)
 
+
+
 # DATASETS
+__Free/Open Datasets__
 * Freebase :: [A community-curated database of well-known people, places, and things](http://www.freebase.com)
 * [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 * [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.

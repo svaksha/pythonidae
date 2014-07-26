@@ -1,11 +1,11 @@
 **Statistics, etc...**
 
-* [ACTUARIAL SCIENCE](#actuarial-science)
+- [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
-* [STATISTICS](#statistics)
+- [STATISTICS](#statistics)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
-* [MOOC](#mooc)
+- [MOOC](#mooc)
 
 
 
@@ -55,5 +55,6 @@
 * FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
 * [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
 * Doing bayesian data analysis :: [Python version of the programs described in the great book "Doing bayesian data analysis" by John K. Kruschke (AKA the puppy book)](https://github.com/aloctavodia/Doing_bayesian_data_analysis).
+
 
 
