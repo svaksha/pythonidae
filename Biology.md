@@ -76,7 +76,7 @@
 
 ### Neural Networks
 ###### Resources
-* _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
    * Chapter-2. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
    * Chapter-3. Improving the way neural networks learn
@@ -84,6 +84,6 @@
    * Chapter-5. Deep learning
    * Chapter-6. The state of the art in image recognition
    * Chapter-7. The future of neural nets
-* [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
-
+- [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
+- [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
 
