@@ -30,7 +30,7 @@
    * [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
    * [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
    * [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
-
+- [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
 
 ## Graph Theory
 * PyMarkovChain  → [Simple markov chain implementation in python](https://github.com/TehMillhouse/PyMarkovChain)
