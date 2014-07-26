@@ -53,7 +53,8 @@
 * [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
 * brainx :: [Tools for analysis of brain imaging-derived networks, based on NetworkX](https://github.com/nipy/brainx)
 * [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
-* [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
+- [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
+- [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
 * [NIPY](https://github.com/nipy) developers group on GH.
 * nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
 * [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
