@@ -61,7 +61,8 @@
 * Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 - [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
-* Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
+- [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
+- Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
 * PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org). Source repo :: https://github.com/PyMVPA/PyMVPA
 * PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 * [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
