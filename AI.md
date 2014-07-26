@@ -1,8 +1,11 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
-* [DATA STRUCTURES](#data-structures)
-* [MACHINE LEARNING](#machine-learning])
-* [NLP](#nlp)
+- [DATA STRUCTURES](#data-structures)
+- [MACHINE LEARNING](#machine-learning])
+- [NLP](#nlp)
+- [RESOURCES](#resources)
+
+
 
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
@@ -54,4 +57,8 @@
 
 ###### Resources
 * STT with HMM → [Single Speaker Speech Recognition with Hidden Markov Models](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/)
+
+
+# RESOURCES
+- [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) 
 
