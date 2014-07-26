@@ -53,6 +53,7 @@
 * [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
 * brainx :: [Tools for analysis of brain imaging-derived networks, based on NetworkX](https://github.com/nipy/brainx)
 * [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
+- [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 - [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
 - [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
 - [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
