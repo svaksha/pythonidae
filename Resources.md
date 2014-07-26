@@ -39,7 +39,7 @@
 
 # Lists
 - [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata)
-
+- [The definitive list of (awesome) lists curated on GitHub](https://github.com/jnv/lists#technical)
 
 # Videos
 * [PyData Tutorial videos](http://vimeo.com/channels/612789)
