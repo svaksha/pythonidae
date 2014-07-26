@@ -2,8 +2,9 @@
 * [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
 * [Cookbooks](#cookbooks)
-* [IPyNB](#ipynb)
-* [Videos](#Videos)
+- [IPyNB](#ipynb)
+- [Lists](#lists)
+- [Videos](#Videos)
 
 # Books
 - [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
@@ -35,6 +36,9 @@
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 * The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
+
+# Lists
+- [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata)
 
 
 # Videos
