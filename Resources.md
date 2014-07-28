@@ -30,6 +30,7 @@
 
 # Cookbooks
 * Python-data-intro :: [Workshop material for "Introduction to Data Processing with Python"](http://opentechschool.github.io/python-data-intro/)
+* [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
 
 
 # IPyNB
