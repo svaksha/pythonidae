@@ -38,6 +38,7 @@
 - [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 - The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
 - The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
+- [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
 
 
 # Lists
