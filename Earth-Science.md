@@ -6,9 +6,10 @@
 * astropy → [Astronomy Python Library](https://github.com/astropy)
 * [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
 * [EchelleTools](https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format.
-* [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
-* [ProbabilisticLensing](https://github.com/jakevdp/ProbabilisticLensing) :: A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models.
-* [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
+- [Enrico](https://github.com/gammapy/enrico) helps you with your Fermi data analysis. [Documentation](http://enrico.readthedocs.org/)
+- [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
+- [ProbabilisticLensing](https://github.com/jakevdp/ProbabilisticLensing) :: A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models.
+- [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
 
 
 # GIS 
