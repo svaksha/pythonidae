@@ -70,8 +70,9 @@
 * nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
 * [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
 * [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
-* Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
+- Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
+- [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
 - [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
 - [PyCogMo](https://github.com/agravier/pycogmo) :: is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions.
 - [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
@@ -81,6 +82,7 @@
 * PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 - [PyView](https://github.com/lrajmohan/PyView) :: is a project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 * [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
+
 
 
 ### Neural Networks
