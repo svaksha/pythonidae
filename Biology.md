@@ -1,20 +1,25 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-* [BIOINFORMATICS](#bioinformatics)
-   * [Molecular Biology](#molecular-biology)
-   * [Structural Biology](#structural-biology)
+* [BIOTECHNOLOGY](#biotechnology)
+   - [Molecular Biology](#molecular-biology)
+   - [Synthetic Biology](#synthetic-biology)
+   - [Structural Biology](#structural-biology)
 * [GENOMICS](#genomics)
 * [NEUROSCIENCE](#neuroscience)
    * [Neural-Networks](#neural-networks)
 
    
-# BIOINFORMATICS
+# BIOTECHNOLOGY
 * biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
 * [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 
 ### Molecular Biology
-* BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+- BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+
+
+### Synthetic Biology
+- [Synbio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
 
 
 ### Structural Biology
