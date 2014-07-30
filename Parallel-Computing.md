@@ -16,6 +16,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 
 ## APACHE 
+- [SparklingPandas](https://github.com/holdenk/sparklingpandas) aims to make it easy to use the distributed computing power of Py[Spark](http://spark.apache.org/) to scale your data anlysis with Pandas.
+
 #### Hadoop
 * [Hue](https://github.com/cloudera/hue) ::  is a Web application for interacting with Apache Hadoop. It supports a file and job browser, Hive, Pig, Impala, Spark, Oozie, HBase, Solr, Sqoop2, ZooKeeper and more.
 
