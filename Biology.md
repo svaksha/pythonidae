@@ -41,6 +41,7 @@
    * [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 - [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
+- [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 - [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
 - [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
