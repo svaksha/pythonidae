@@ -69,11 +69,12 @@
 - [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 - [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
 - [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
+- [MNE](http://martinos.org/mne/) : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
 - [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
-* [NIPY](https://github.com/nipy) developers group on GH.
-* nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
-* [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
-* [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
+- [NIPY](https://github.com/nipy) developers group on GH.
+- nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
+- [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
+- [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
 - Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 - [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
