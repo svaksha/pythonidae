@@ -6,7 +6,7 @@
 
 # BUILD AUTOMATION
 - [nupic-darwin64](https://github.com/numenta/nupic-darwin64) :: Python distribution for NuPIC on OSX.
-
+- [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 
 # PACKAGING
 - [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
