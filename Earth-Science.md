@@ -4,6 +4,7 @@
 
 # ASTRONOMY
 - [Astropy](https://github.com/astropy) → [Astronomy Python Library.
+- [av3-fc](https://github.com/psas/av3-fc) :: PSAS Flight Computer's avionics version 3 flight computer.
 - [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
 - [EchelleTools](https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format.
 - [Enrico](https://github.com/gammapy/enrico) helps you with your Fermi data analysis. [Documentation](http://enrico.readthedocs.org/)
