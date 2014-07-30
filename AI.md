@@ -49,7 +49,8 @@
 
 
 # NLP
-* NLTK → [Natural Language Toolkit](http://www.nltk.org/) to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
+- [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
+- NLTK → [Natural Language Toolkit](http://www.nltk.org/) to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 
 ### Speech Recognition
 * [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
