@@ -1,7 +1,8 @@
-* [Books](#books)
-* [Blogs](#blogs)
-* [Cheatsheets](#cheatsheets)
-* [Cookbooks](#cookbooks)
+- [Books](#books)
+- [Bootstrapping](#bootstrapping)
+- [Blogs](#blogs)
+- [Cheatsheets](#cheatsheets)
+- [Cookbooks](#cookbooks)
 - [IPyNB](#ipynb)
 - [Lists](#lists)
 - [Videos](#Videos)
@@ -10,6 +11,18 @@
 - [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 - [List of free programming books](https://github.com/vhf/free-programming-books)
 - [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
+
+# Bootstrapping 
+_Fixing bug#1: Resources and guides for Scientists new to Python_
+
+### Begin-Python
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) 
+- [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+- [python-guide](https://github.com/kennethreitz/python-guide) :: Python best practices guidebook, written for Humans. [Documentation](http://docs.python-guide.org)
+
+### Begin-Git
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
 
 # Blogs
 * [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
