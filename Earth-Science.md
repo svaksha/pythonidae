@@ -15,6 +15,7 @@
 
 
 # GIS 
+- [Atmosphere](https://github.com/iPlantCollaborativeOpenSource/atmosphere) :: An integrative, private, self-service cloud computing platform designed to provide easy access to preconfigured, frequently used analysis routines, relevant algorithms, and data sets in an available-on-demand environment designed to accommodate computationally and data-intensive bioinformatics tasks.
 - [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
 - [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 - [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
