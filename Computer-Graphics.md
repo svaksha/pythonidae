@@ -22,8 +22,9 @@
 - [Matplotlib](http://matplotlib.org/) :: is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
    * __DOCS__
    * [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
-* [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
-* [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
+- [Orange](http://orange.biolab.si) :: An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.   
+- [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
+- [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
 #### Non-Python tools
 * [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
