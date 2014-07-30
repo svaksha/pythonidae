@@ -1,19 +1,20 @@
 **Mathematical scientific libraries written in Python**
 
-* [Algebra](#algebra)
-* [Calculus](#calculus)
-* [Numerical Analysis](#numerical-analysis)
-* [Resources](#resources)
-
+- [Algebra](#algebra)
+- [Calculus](#calculus)
+- [Geometry]{#geometry)
+- [Numerical Analysis](#numerical-analysis)
+- [Resources](#resources)
 
 
 
 * [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
 * complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
 * [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
-* PyMVPA → [MultiVariate Pattern Analysis in Python](http://www.pymvpa.org)
-* zero-modform :: [Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms](https://github.com/haochenuw/zero-modform)
-* [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
+- [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
+- zero-modform :: [Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms](https://github.com/haochenuw/zero-modform)
+
+
 
 
 # Algebra
@@ -24,6 +25,10 @@
 
 # Calculus 
 * [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
+
+
+# Geometry
+- [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
 
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
