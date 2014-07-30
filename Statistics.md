@@ -23,7 +23,8 @@
 
 
 # STATISTICS
-* Patsy :: [Describing statistical models in Python using symbolic formulas](https://github.com/pydata/patsy)
+- [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
+* [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
 * [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
    * __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
 - [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
