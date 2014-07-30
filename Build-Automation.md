@@ -12,6 +12,7 @@
 
 
 # PACKAGING
-* [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
+- [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
+- [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
 
 
