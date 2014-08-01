@@ -52,6 +52,8 @@
 - [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
 - NLTK → [Natural Language ToolKit](http://www.nltk.org/) to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 - [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
+- [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
+
 
 ### Speech Recognition
 * [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
