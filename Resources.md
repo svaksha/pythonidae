@@ -15,12 +15,14 @@
 # Bootstrapping 
 _Fixing bug#1: Resources and guides for Scientists new to Python_
 
-- To start programming with Python you need to [setup your local Python environment](http://www.datarobot.com/blog/getting-up-and-running-with-python), then work your way through this workshop material for "[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)".
-
 ### Begin-Python
+- To start programming with Python you need to [setup your local Python environment](http://www.datarobot.com/blog/getting-up-and-running-with-python), then work your way through this workshop material for "[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)".
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) 
 - [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 - [python-guide](https://github.com/kennethreitz/python-guide) :: Python best practices guidebook, written for Humans. [Documentation](http://docs.python-guide.org)
+- [python-intro](http://bennuttall.github.io/python-intro/) :: A set of Python exercises led by hints in comments - suitable for beginner / intermediate level.
+
+
 
 ### Begin-Git
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
