@@ -15,18 +15,19 @@
 * Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 
 ### Quant
-* [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
+- [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    * __Resources__
    * [Documentation](http://pandas.pydata.org/pandas-docs/)
    * Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
    * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
+- [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
+   - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
+   - [bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
 
 
 # STATISTICS
 - [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
 * [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
-* [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
-   * __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
 - [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
 - [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 - [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
@@ -35,7 +36,6 @@
 ##### Resources
 * [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
 * [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
-
 
 
 # MOOC
