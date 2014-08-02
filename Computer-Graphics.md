@@ -4,7 +4,8 @@
 * [INFOGRAPHICS](#infographics)
 
 # GRAPHICS 
-* [EigenFace](https://github.com/bugra/EigenFace) :: EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
+- [bitarray](https://github.com/ilanschnell/bitarray) :: This module provides an object type which efficiently represents an array of booleans.
+- [EigenFace](https://github.com/bugra/EigenFace) :: EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
 * PIL :: [Python Imaging Library](http://www.pythonware.com/products/pil/), now forked as [pillow](http://pillow.readthedocs.org/) to support Python-3.x
 
 ### Games

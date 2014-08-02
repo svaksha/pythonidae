@@ -1,8 +1,9 @@
-- [ASTRONOMY](#astronomy)
+- [ASTRO](#astro)
 - [GIS](#gis)
 
 
-# ASTRONOMY
+# ASTRO
+*Aeronautics, astronautics, Astronomy*
 - [Astropy](https://github.com/astropy) → [Astronomy Python Library.
 - [av3-fc](https://github.com/psas/av3-fc) :: PSAS Flight Computer's avionics version 3 flight computer.
 - [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
@@ -22,6 +23,6 @@
 - [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 - [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
 - [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
-- [Pyshp](https://github.com/GeospatialPython/pyshp) library reads and writes ESRI Shapefiles in pure Python.
+- [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
 - [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
 
