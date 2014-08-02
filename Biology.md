@@ -14,8 +14,6 @@
 * [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 - [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
-
-##### Galaxy
 - [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
    - [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
@@ -50,6 +48,7 @@
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 - [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
+- [methtools](https://github.com/bgruening/methtools) :: Tools for the processing of genome-wide bisulfite sequencing data.
 - [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
 - [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 - [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
