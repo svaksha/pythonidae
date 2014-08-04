@@ -11,7 +11,8 @@
    
 # BIOTECHNOLOGY
 * biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
-* [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
+- [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
+- [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 - [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
 * [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 - [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
