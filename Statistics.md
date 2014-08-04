@@ -15,6 +15,7 @@
 * Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 
 ### Quant
+- [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
 - [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    * __Resources__
    * [Documentation](http://pandas.pydata.org/pandas-docs/)
