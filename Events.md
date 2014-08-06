@@ -14,9 +14,9 @@
 
 ## PyData
 * July25-27 [Berlin-2014](http://pydata.org/berlin2014/)
+   - [Fast Serialization of Numpy Arrays with Bloscpack](https://github.com/esc/PyDataBerlin2014-bloscpack-talk)
 * May02-04 [Silicon-Valley-2014](http://pydata.org/sv2014), [Videos](https://www.youtube.com/user/PyDataTV).
-   * TALKS :
-   * (http://bugra.github.io/work/notes/2014-05-12/pydata-silicon-valley-2014/).
+   - [pydata-silicon-valley-2014](http://bugra.github.io/work/notes/2014-05-12/pydata-silicon-valley-2014/).
 * February21-23 [London-2014](http://pydata.org/ldn2014)
 * November08-10 [NewYork-2013](http://pydata.org/nyc2013)
 * July27-28 [Boston-2013](http://pydata.org/bos2013)
