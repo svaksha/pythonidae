@@ -19,6 +19,7 @@
    - [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
    - [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
+- [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
    
 ### Molecular Biology
 - BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
