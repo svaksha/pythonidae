@@ -21,7 +21,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 - [python-guide](https://github.com/kennethreitz/python-guide) :: Python best practices guidebook, written for Humans. [Documentation](http://docs.python-guide.org)
 - [python-intro](http://bennuttall.github.io/python-intro/) :: A set of Python exercises led by hints in comments - suitable for beginner / intermediate level.
-
+- [Python Koans](https://github.com/gregmalcolm/python_koans) :: Learn Python through TDD.
 
 
 ### Begin-Git
