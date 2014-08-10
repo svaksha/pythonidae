@@ -5,7 +5,6 @@
 - [Geometry]{#geometry)
 - [Numerical Analysis](#numerical-analysis)
 - [MOOC](#mooc)
------
 
 - [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
 - complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)

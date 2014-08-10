@@ -1,20 +1,20 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-* [BIOTECHNOLOGY](#biotechnology)
+- [BIOTECHNOLOGY](#biotechnology)
    - [Molecular Biology](#molecular-biology)
    - [Synthetic Biology](#synthetic-biology)
    - [Structural Biology](#structural-biology)
-* [GENOMICS](#genomics)
-* [NEUROSCIENCE](#neuroscience)
-   * [Neural-Networks](#neural-networks)
+- [GENOMICS](#genomics)
+- [NEUROSCIENCE](#neuroscience)
+   - [Neural-Networks](#neural-networks)
 
    
 # BIOTECHNOLOGY
-* biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
+- biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
 - [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
 - [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 - [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
-* [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
+- [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 - [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
    - [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
@@ -30,7 +30,7 @@
 
 
 ### Structural Biology
-* [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
+- [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
     
 
 # GENOMICS
@@ -38,14 +38,14 @@
 - [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 - [biomartpy]https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
 - [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
-   * [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
-   * [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
+   - [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
+   - [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
 - [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 - BreakSeq2 : [Ultrafast and accurate nucleotide-resolution analysis of structural variants](https://github.com/bioinform/breakseq2)
 - CompleteGenomicsTools → [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
 - [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
 - Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
-   * [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
+   - [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 - [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)

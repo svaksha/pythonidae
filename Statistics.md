@@ -2,11 +2,12 @@
 
 - [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
+- [BENCHMARKS](#benchmarks)
+   * [Optimization](#optimization)
 - [STATISTICS](#statistics)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
 - [MOOC](#mooc)
-
 
 
 # ACTUARIAL SCIENCE 
@@ -24,6 +25,11 @@
 - [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
    - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
    - [bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
+
+
+# BENCHMARKS
+### Optimization
+- [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 
 
 # STATISTICS
