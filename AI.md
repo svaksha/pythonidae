@@ -13,6 +13,9 @@
 - [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
 - [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
 
+###### Resources
+- [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College.
+
 
 # MACHINE LEARNING
 - [Machine Learning Video Library](http://work.caltech.edu/library/)
