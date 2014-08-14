@@ -1,17 +1,17 @@
 **Statistics, etc...**
 
 - [ACTUARIAL SCIENCE](#actuarial-science)
-   * [Econometrics](#econometrics) 
+   - [Econometrics](#econometrics) 
+   - [Quant](#quant)
 - [BENCHMARKS](#benchmarks)
-   * [Optimization](#optimization)
+   - [Optimization](#optimization)
 - [DATA SCIENCE](#data-science)
 - [STATISTICS](#statistics)
-   * [Statistical Tests](#stat-tests)
-   * [Valuation](#valuation)
 - [RESOURCES](#mooc)
 
 
 # ACTUARIAL SCIENCE 
+
 ### Econometrics 
 * Graphical-Lasso-in-Finance :: [Implementations of the graphical lasso method to estimation of covariance matrices in finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance).
 * Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
@@ -29,6 +29,7 @@
 
 
 # BENCHMARKS
+
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 
@@ -45,9 +46,10 @@
 - [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
 - [Scikits-statsmodels](http://scikits.appspot.com/statsmodels) :: Statistical computations and models for use with SciPy. 
 
-##### Resources
+###### Resources
 - [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
 - [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
+- Talk at PyData Berlin Conference :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
 
 
 # RESOURCES
