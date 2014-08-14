@@ -59,10 +59,13 @@
 - [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 - [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 
-
 ### Speech Recognition
 - [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 - Dragonfly → [Dragonfly is a speech recognition framework](https://code.google.com/p/dragonfly/). It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
+
+### Screen Reading
+- [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on. 
+
 
 ###### Resources
 - STT with HMM → [Single Speaker Speech Recognition with Hidden Markov Models](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/)
