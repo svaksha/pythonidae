@@ -7,7 +7,7 @@
 - [STATISTICS](#statistics)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
-- [MOOC](#mooc)
+- [RESOURCES](#mooc)
 
 
 # ACTUARIAL SCIENCE 
@@ -41,29 +41,27 @@
 - [Scikits-statsmodels](http://scikits.appspot.com/statsmodels) :: Statistical computations and models for use with SciPy. 
 
 ##### Resources
-* [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
-* [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
+- [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
+- [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
 
 
-# MOOC
-### Coursera.org   
-* [Data Science](https://www.coursera.org/specialization/jhudatascience/1)
-* [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox)
-* [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
+# RESOURCES
+- _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
+- _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
+- [fpp](https://www.otexts.org/fpp/) :: Forecasting principles and practice - a comprehensive introduction to forecasting methods.
+- MCMC :: Testing MCMC code, [part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
+- [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem
+- [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
+- [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
+- FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
+- [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
+- Doing bayesian data analysis :: [Python version of the programs described in the great book "Doing bayesian data analysis" by John K. Kruschke (AKA the puppy book)](https://github.com/aloctavodia/Doing_bayesian_data_analysis).
+- Class repository for [Fall-2013 Statistics-243](https://github.com/paciorek/stat243-fall-2013) (Intro to Statistical Computing) at UC Berkeley.
 
-###### Resources
-* _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
-* _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
-* ElemStatLearn :: [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
-* fpp :: [Forecasting principles and practice](https://www.otexts.org/fpp/): a comprehensive introduction to forecasting methods.
-* MCMC :: [Testing MCMC code, part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
-* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
-* scipy-lectures :: [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
-* [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
-* [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
-* FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
-* [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
-* Doing bayesian data analysis :: [Python version of the programs described in the great book "Doing bayesian data analysis" by John K. Kruschke (AKA the puppy book)](https://github.com/aloctavodia/Doing_bayesian_data_analysis).
-
-
+### MOOC - Coursera.org   
+- [Data Science](https://www.coursera.org/specialization/jhudatascience/1)
+- [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox)
+- [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
 
