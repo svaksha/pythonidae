@@ -4,6 +4,7 @@
    * [Econometrics](#econometrics) 
 - [BENCHMARKS](#benchmarks)
    * [Optimization](#optimization)
+- [DATA SCIENCE](#data-science)
 - [STATISTICS](#statistics)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
@@ -30,6 +31,10 @@
 # BENCHMARKS
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
+
+
+# DATA SCIENCE
+- Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
 
 
 # STATISTICS
