@@ -41,8 +41,8 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 
 
 # Cheatsheets
-* [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
-* [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
+- [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
+- [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
 
 # Cookbooks
