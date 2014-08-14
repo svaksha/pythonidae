@@ -11,7 +11,7 @@
 # PACKAGING
 - [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
 - [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
-
+   - [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
 
 
 
