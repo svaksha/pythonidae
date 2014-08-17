@@ -23,6 +23,7 @@
    
 ### Molecular Biology
 - BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+- [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
 
 
 ### Synthetic Biology
