@@ -22,7 +22,9 @@
    * __Resources__
    * [Documentation](http://pandas.pydata.org/pandas-docs/)
    * Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
-   * [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
+   - [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
+   - [Pandas101](http://2014.pycon-au.org/wiki/Miniconfs/Miniconf/Pandas101) miniconf talk at pycon-au, 2014. Talk [Video](http://youtu.be/1QOMk2k9aI8) and [Slides](https://slideviewer.herokuapp.com/github/lexual/2014-PyConAU-Pandas-talk/blob/master/slides.ipynb#/)
+
 - [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
    - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
    - [bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
