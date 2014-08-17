@@ -108,7 +108,7 @@
 - _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
    * Chapter-2. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-   * Chapter-3. Improving the way neural networks learn
+   * Chapter-3. [Improving the way neural networks learn](neuralnetworksanddeeplearning.com/chap3.html)
    * Chapter-4. Neural nets: the big picture
    * Chapter-5. Deep learning
    * Chapter-6. The state of the art in image recognition
