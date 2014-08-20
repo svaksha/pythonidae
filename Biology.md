@@ -10,7 +10,7 @@
 
    
 # BIOTECHNOLOGY
-- biostar-central → [The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org](https://github.com/ialbert/biostar-central)
+- [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
 - [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
 - [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 - [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
@@ -22,7 +22,9 @@
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
    
 ### Molecular Biology
-- BioPython :: The [Biopython Project](http://biopython.org) is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+- [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+   __Resources__
+   - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 - [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
 
 
@@ -42,13 +44,14 @@
    - [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
    - [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
 - [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
-- BreakSeq2 : [Ultrafast and accurate nucleotide-resolution analysis of structural variants](https://github.com/bioinform/breakseq2)
+- [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
 - CompleteGenomicsTools → [Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing ](https://github.com/seandavi/CompleteGenomicsTools). Software for manipulating and visualizing Complete Genomics data, with a focus on cancer: http://watson.nci.nih.gov/~sdavis/software/cgent/
 - [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
 - Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
    - [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 - [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
+- [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 - [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
@@ -56,17 +59,17 @@
 - [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
 - [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 - [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
-- screed (GED@MSU.EDU) → [A simple read-only sequence database, designed for short reads](https://github.com/ged-lab/screed) from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
+- [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
 - [singlecell](https://github.com/roryk/singlecell) data analysis incubator for analysing single-cell data generated by the method outlined here: http://biorxiv.org/content/early/2014/03/05/003236
 
 ###### Publications
-* Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
-* Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
-* Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
-* Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
+- Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
+- Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
+- Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
+- Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
 
 ###### Resources
-* Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
+- Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
 * [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
 
@@ -95,9 +98,9 @@
 - Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
 - [PYEZMINC](https://github.com/BIC-MNI/pyezminc) :: is a python module to read and write MINC files.
 - [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
-* PySurfer :: [Cortical neuroimaging visualization in Python](https://github.com/nipy/PySurfer). [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
+- [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 - [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
-* [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
+- [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
 
 
 
