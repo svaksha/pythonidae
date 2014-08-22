@@ -14,6 +14,7 @@
 - [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
    __Resources__
    - [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
+   - [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
    - [A brief IPython notebook-based tutorial on basic Theano concepts](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb), including a toy multi-layer perceptron example.
 - [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
 
