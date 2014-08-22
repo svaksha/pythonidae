@@ -1,3 +1,4 @@
+- [BigData](#bigdata)
 - [Books](#books)
 - [Bootstrapping](#bootstrapping)
 - [Blogs](#blogs)
@@ -7,10 +8,15 @@
 - [Lists](#lists)
 - [Videos](#Videos)
 
+# BigData
+- [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
+
+
 # Books
 - [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 - [List of free programming books](https://github.com/vhf/free-programming-books)
 - [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
+
 
 # Bootstrapping 
 _Fixing bug#1: Resources and guides for Scientists new to Python_
