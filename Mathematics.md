@@ -9,7 +9,6 @@
 - [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
 - complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
 - [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
-- [Theano](http://deeplearning.net/software/theano/) is a Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
 - zero-modform :: [Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms](https://github.com/haochenuw/zero-modform)
 
 

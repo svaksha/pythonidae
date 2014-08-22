@@ -11,6 +11,10 @@
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
 - [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
 - [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
+- [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
+   __Resources__
+   - [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
+   - [A brief IPython notebook-based tutorial on basic Theano concepts](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb), including a toy multi-layer perceptron example.
 - [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
 
 ###### Resources
