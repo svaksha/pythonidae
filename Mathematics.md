@@ -6,23 +6,26 @@
 - [Numerical Analysis](#numerical-analysis)
 - [MOOC](#mooc)
 
+
+
 - [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
-- complex-numbers → [The code respository for the post "Learning to Love Complex Numbers"](https://github.com/j2kun/complex-numbers)
+- [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
+- [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
 - [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
-- zero-modform :: [Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms](https://github.com/haochenuw/zero-modform)
+- [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
 
 
 # Algebra
-* [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
-* [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
-* pykrylov → [A library of Krylov methods in pure Python](http://dpo.github.com/pykrylov)
+- [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
+- [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
+- [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
 
 ##### Resources
-* [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
+- [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
 
 # Calculus 
-* [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
+- [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 
 
 # Geometry
@@ -42,11 +45,11 @@
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
 - [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
-   * [Official Documentation](http://www.scipy.org/docs.html)
-   * scipy-lectures → [Tutorial material on the scientific Python ecosystem](http://scipy-lectures.github.io)
+   - [Official Documentation](http://www.scipy.org/docs.html)
+   - [scipy-lectures](http://scipy-lectures.github.io) →  Tutorial material on the scientific Python ecosystem.
 
 # MOOC
 #### Coursera.org   
-* [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
+- [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
 
