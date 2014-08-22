@@ -10,6 +10,7 @@
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
 - [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
+- [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
 - [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
 - [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
    __Resources__
