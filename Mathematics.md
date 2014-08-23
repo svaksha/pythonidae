@@ -8,6 +8,7 @@
 
 # CRYPTOGRAPHY
 - [Cryptography](https://cryptography.io/) :: A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
+- [ed25519](https://github.com/pyca/ed25519) :: Optimized version of the reference implementation of Ed25519.
 
 
 # MATH
@@ -18,7 +19,7 @@
 - [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
 
 
-# Algebra
+### Algebra
 - [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
 - [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 - [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
@@ -27,15 +28,15 @@
 - [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
 
-# Calculus 
+### Calculus 
 - [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 
 
-# Geometry
+### Geometry
 - [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
 
 
-# Numerical Analysis
+### Numerical Analysis
 - https://en.wikipedia.org/wiki/Category:Numerical_analysis
 - [Blaze](http://blaze.pydata.org) is the next-generation of NumPy and Pandas for BigData.
    **Resources**
