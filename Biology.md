@@ -67,6 +67,7 @@ https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pa
 - [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
 - [methtools](https://github.com/bgruening/methtools) :: Tools for the processing of genome-wide bisulfite sequencing data.
 - [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
+- [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
 - [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 - [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 - [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
