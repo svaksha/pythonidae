@@ -44,6 +44,7 @@ https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pa
 - [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
 - [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 - [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
+- [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
 - [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
 - [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
    - [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
