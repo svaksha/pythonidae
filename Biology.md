@@ -58,6 +58,7 @@ https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pa
 - [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
 - [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
+- [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
 - [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
