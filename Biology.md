@@ -57,6 +57,7 @@
    - [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 - [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
 - [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
+- [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
 - [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
 - [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
