@@ -22,7 +22,6 @@
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
    - [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
-https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pandas DataFrames
 
    
 ### Molecular Biology
@@ -87,7 +86,7 @@ https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pa
 
 # NEUROSCIENCE
 - [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
-- brainx :: [Tools for analysis of brain imaging-derived networks, based on NetworkX](https://github.com/nipy/brainx)
+- [brainx](https://github.com/nipy/brainx) :: Tools for analysis of brain imaging-derived networks, based on NetworkX.
 - [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
 - [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
 - [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
@@ -101,7 +100,7 @@ https://github.com/daler/encode-dataframe Convert UCSC's ENCODE metadata into pa
 - nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
 - [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
 - [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
-- Nitime :: [Timeseries analysis for neuroscience data](http://nipy.org/nitime)
+- [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 - [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
 - [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)

@@ -6,7 +6,7 @@
 # GRAPHICS 
 - [bitarray](https://github.com/ilanschnell/bitarray) :: This module provides an object type which efficiently represents an array of booleans.
 - [EigenFace](https://github.com/bugra/EigenFace) :: EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
-* PIL :: [Python Imaging Library](http://www.pythonware.com/products/pil/), now forked as [pillow](http://pillow.readthedocs.org/) to support Python-3.x
+- [PIL](http://www.pythonware.com/products/pil/) :: Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3.
 
 ### Games
 * [PySoy](http://www.pysoy.org/) is a 3d cloud game engine for  Python. [Source code](http://hg.pysoy.org/pysoy)
@@ -27,5 +27,8 @@
 - [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 - [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
+
 #### Non-Python tools
 * [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
+
+

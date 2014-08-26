@@ -8,6 +8,6 @@ __Python 2&3 tools__
 
 # DOCUMENTATION
 **Documentation tools**
-* Scisphinx :: [Sphinx extensions common to the scientific computing ecosystem](https://github.com/numfocus/scisphinx).
+- [Scisphinx](https://github.com/numfocus/scisphinx) :: Sphinx extensions common to the scientific computing ecosystem.
 
 

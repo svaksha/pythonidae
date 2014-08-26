@@ -13,8 +13,8 @@
 # ACTUARIAL SCIENCE 
 
 ### Econometrics 
-* Graphical-Lasso-in-Finance :: [Implementations of the graphical lasso method to estimation of covariance matrices in finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance).
-* Zipline :: [A Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
+- [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
+- [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 ### Quant
 - [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
@@ -51,7 +51,7 @@
 ###### Resources
 - [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
 - [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
-- Talk at PyData Berlin Conference :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
+- Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
 
 
 # RESOURCES

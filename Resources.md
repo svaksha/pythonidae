@@ -52,7 +52,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 
 
 # Cookbooks
-- Python-data-intro :: [Workshop material for "Introduction to Data Processing with Python"](http://opentechschool.github.io/python-data-intro/)
+- [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
 - [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
 
 

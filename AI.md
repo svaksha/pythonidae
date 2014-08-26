@@ -23,13 +23,15 @@
 - [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College.
 
 
+
 # MACHINE LEARNING
 - [Machine Learning Video Library](http://work.caltech.edu/library/)
-- MILK → [Machine Learning Toolkit](http://www.luispedro.org/software/milk)
+- [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
 - [MLOSS.org](http://mloss.org/software/)
 - MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
 - [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
 - [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
+- [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
 - [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
    - [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 - [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
