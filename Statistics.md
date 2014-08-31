@@ -25,6 +25,10 @@
    - [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
    - [Pandas101](http://2014.pycon-au.org/wiki/Miniconfs/Miniconf/Pandas101) miniconf talk at pycon-au, 2014. Talk [Video](http://youtu.be/1QOMk2k9aI8) and [Slides](https://slideviewer.herokuapp.com/github/lexual/2014-PyConAU-Pandas-talk/blob/master/slides.ipynb#/)
    - [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)
+   - Baypiggies meetup on Pandas Data Analysis [slides](https://www.youtube.com/watch?v=3Chgzna2nMg) and [talk video](https://www.youtube.com/watch?v=3Chgzna2nMg) with accompanying IPython notebooks while listening to the audio in the video (that's what was on the screen):
+      - https://www.wakari.io/sharing/bundle/hayd/baypiggies
+      - https://www.wakari.io/sharing/bundle/hayd/vbench
+      - https://www.wakari.io/sharing/bundle/hayd/pandorable  
 - [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
    - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
    - [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
