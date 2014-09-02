@@ -4,6 +4,7 @@
    - [Molecular Biology](#molecular-biology)
    - [Synthetic Biology](#synthetic-biology)
    - [Structural Biology](#structural-biology)
+- [ECOLOGY](#ecology)
 - [GENOMICS](#genomics)
 - [NEUROSCIENCE](#neuroscience)
    - [Neural-Networks](#neural-networks)
@@ -39,6 +40,9 @@
 - [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 
     
+# ECOLOGY
+- [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
+
 
 # GENOMICS
 - [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
