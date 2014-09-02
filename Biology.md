@@ -1,6 +1,7 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 - [BIOTECHNOLOGY](#biotechnology)
+   - [Microbiology](#microbiology)
    - [Molecular Biology](#molecular-biology)
    - [Synthetic Biology](#synthetic-biology)
    - [Structural Biology](#structural-biology)
@@ -24,7 +25,11 @@
    - [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 
-   
+
+### Microbiology
+- [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
+
+
 ### Molecular Biology
 - [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
    __Resources__
