@@ -16,6 +16,7 @@
 - [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
 - [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
 - [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
+- [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
 - [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
 
 
