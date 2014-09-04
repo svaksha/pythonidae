@@ -70,6 +70,7 @@
 - [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 - [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
 - [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
+- [hts-python](https://github.com/brentp/hts-python) :: pythonic wrapper for libhts.
 - [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
