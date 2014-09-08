@@ -32,6 +32,7 @@
 - [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
    - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
    - [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
+- [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
 
 
 # BENCHMARKS
