@@ -9,6 +9,7 @@
 - [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 - [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
 - [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
+- [ipython-in-depth](https://github.com/ipython/ipython-in-depth) :: IPython in-depth Tutorial, first presented at PyCon 2012, is meant to be executed with IPython 2.0 or newer.
 - [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 - [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
 
