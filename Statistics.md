@@ -1,8 +1,7 @@
 **Statistics, etc...**
 
 - [ACTUARIAL SCIENCE](#actuarial-science)
-   - [Econometrics](#econometrics) 
-   - [Quant](#quant)
+   - [Financial Accounting](#financial-accounting)
 - [BENCHMARKS](#benchmarks)
    - [Optimization](#optimization)
 - [DATA SCIENCE](#data-science)
@@ -11,12 +10,8 @@
 
 
 # ACTUARIAL SCIENCE 
-
-### Econometrics 
+## Financial Accounting
 - [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
-- [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
-
-### Quant
 - [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
 - [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    _Resources_
@@ -33,10 +28,11 @@
    - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
    - [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
 - [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
+- [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
+- [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 
 # BENCHMARKS
-
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 
@@ -47,7 +43,7 @@
 
 # STATISTICS
 - [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
-* [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
+- [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
 - [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
 - [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 - [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
