@@ -12,6 +12,7 @@
 - [Gammapy](https://github.com/gammapy/gammapy) :: A Python package for gamma-ray astronomy. [Documentation](https://gammapy.readthedocs.org/)
 - [Gamma-speed](https://github.com/gammapy/gamma-speed) :: Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/)
 - [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
+- [pyMarsTime](https://github.com/ashima/pyMarsTime) :: Mars Time Calculation in Python.
 - [ProbabilisticLensing](https://github.com/jakevdp/ProbabilisticLensing) :: A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models.
 - [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
 - [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
