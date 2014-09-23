@@ -36,6 +36,7 @@
    __Resources__
    - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 - [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
+- [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
 
 
 ### Synthetic Biology
