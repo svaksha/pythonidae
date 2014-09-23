@@ -44,6 +44,7 @@
 # STATISTICS
 - [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
 - [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
+- [pymbar](https://github.com/choderalab/pymbar) :: Statistically optimal analysis of samples from multiple equilibrium states.
 - [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
 - [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 - [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
