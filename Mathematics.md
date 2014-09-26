@@ -35,6 +35,7 @@
 
 ### Geometry
 - [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
+- [Shapely](https://github.com/Toblerity/Shapely) :: Python package for manipulation and analysis of geometric objects in the Cartesian plane. [Documentation](http://toblerity.github.com/shapely/)
 
 
 ### Numerical Analysis
