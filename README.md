@@ -1,10 +1,9 @@
-Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) curating decibans of FOSS resources in scientific computing, big data and data visualization.
+Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) curating decibans of FOSS resources in scientific computing, big data and data visualization. Some resources listed here may use other languages like Go, Java, Julia, Php, R-language, etc.. 
 
-##### Mirrors 
-* [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
-* [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
-
-_PS_:: Some resources listed here may use other languages like Go, Java, Julia, PhP, R-language, etc.. 
+- [PAGES](#pages)
+- [LICENSE](#license)
+   - [Mirrors](#mirrors)
+   - [Contributing Guidelines](#contributing-guidelines)
 
 
 # PAGES
@@ -31,12 +30,19 @@ _PS_:: Some resources listed here may use other languages like Go, Java, Julia, 
 
 
 
-### Contributing
-Some tips for submitting a [pull request (PR)](https://github.com/svaksha/pythonidae/pulls):
-* Add your link as per the topic, with notes (if any) to the respective MarkDown (.md) pages in the repo.
-* For broken links submit a bug report, or replace the broken URI, then submit a PR.
-* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against the *Resources* title, else use the [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) page.
-
-
 # LICENSE 
 * This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file for full details.
+
+## Mirrors 
+* [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
+* [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
+
+
+
+## Contributing Guidelines
+##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
+- Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
+- For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
+- For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) page.
+- For those unable to use git, create a github account, fork the 'Julia.jl' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+
