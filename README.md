@@ -1,12 +1,12 @@
 Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) curating decibans of FOSS resources in scientific computing, big data and data visualization. Some resources listed here may use other languages like Go, Java, Julia, Php, R-language, etc.. 
 
-- [PAGES](#pages)
+- [INDEX](#index)
 - [LICENSE](#license)
    - [Mirrors](#mirrors)
    - [Contributing Guidelines](#contributing-guidelines)
 
 
-# PAGES
+# INDEX
 * [AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md) :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, Cognitive Science, Linguistics, ...
 * [API.md](https://github.com/svaksha/pythonidae/blob/master/API.md) :: API wrapper generators, other tools and bindings.
 * [Biology.md](https://github.com/svaksha/pythonidae/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
