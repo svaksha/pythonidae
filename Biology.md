@@ -86,6 +86,7 @@
 - [mmgenome](http://madsalbertsen.github.io/mmgenome/) :: Tools for extracting individual genomes from metagneomes.
 - [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
 - [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
+- [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
 - [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
 - [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 - [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
