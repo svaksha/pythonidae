@@ -5,6 +5,7 @@
    - [Genomics](#genomics)
    - [Microbiology](#microbiology)
    - [Molecular Biology](#molecular-biology)
+   - [OpenWorm](#openworm)
    - [Synthetic Biology](#synthetic-biology)
    - [Structural Biology](#structural-biology)
 - [ECOLOGY](#ecology)
@@ -29,8 +30,6 @@
 
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
-- [org.geppetto](https://github.com/openworm/org.geppetto) :: [Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment. 
-
 ### Genomics
 - [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
 - [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
@@ -93,6 +92,11 @@
    - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 - [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
 - [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
+
+### OpenWorm
+- The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
+- [PyOpenWorm](https://github.com/openworm/PyOpenWorm) :: Unified, simple data access library for data & facts about c. elegans anatomy.
+- [org.geppetto](https://github.com/openworm/org.geppetto) :: [Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment. 
 
 ### Synthetic Biology
 - [SynBio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
