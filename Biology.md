@@ -1,18 +1,19 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-- [BIOTECHNOLOGY](#biotechnology)
+- [BIOTOOLS](#biotools)
+- [SYSTEOMICS](#systeomics)
+   - [Genomics](#genomics)
    - [Microbiology](#microbiology)
    - [Molecular Biology](#molecular-biology)
    - [Synthetic Biology](#synthetic-biology)
    - [Structural Biology](#structural-biology)
 - [ECOLOGY](#ecology)
-- [GENOMICS](#genomics)
 - [NEUROSCIENCE](#neuroscience)
    - [Neural-Networks](#neural-networks)
 
 
    
-# BIOTECHNOLOGY
+# BIOTOOLS
 - [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
 - [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
 - [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
@@ -27,31 +28,10 @@
 - [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
 
-### Microbiology
-- [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
+# [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
+- [org.geppetto](https://github.com/openworm/org.geppetto) :: [Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment. 
 
-
-### Molecular Biology
-- [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
-   __Resources__
-   - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
-- [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
-- [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
-
-
-### Synthetic Biology
-- [SynBio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
-
-
-### Structural Biology
-- [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
-
-    
-# ECOLOGY
-- [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
-
-
-# GENOMICS
+### Genomics
 - [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
 - [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 - [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
@@ -102,6 +82,29 @@
 ###### Resources
 - Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
 * [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+
+
+### Microbiology
+- [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
+
+### Molecular Biology
+- [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+   __Resources__
+   - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
+- [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
+- [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
+
+### Synthetic Biology
+- [SynBio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
+
+### Structural Biology
+- [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
+
+
+    
+# ECOLOGY
+- [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
+
 
 
 # NEUROSCIENCE
