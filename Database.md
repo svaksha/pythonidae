@@ -17,6 +17,7 @@
 - [SciDB-py](https://github.com/Paradigm4/SciDB-py) :: Python wrapper for [SciDB](http://scidb.org) queries.
    * __DOCS__ :: [SciDB-py documentation](http://scidb-py.readthedocs.org/)
 - [scidb4py](https://github.com/artyom-smirnov/scidb4py) :: Pure python SciDB client library. The [@Paradigm4 fork](https://github.com/Paradigm4/scidb4py)
+- [scidbload](https://github.com/nicksteiner/scidbload) :: Load scidb arrays to python.
 - [scidbpy-aflgen](https://github.com/ChrisBeaumont/scidbpy-aflgen) :: SciDB AFL Parser Generate data for SciDBpy AFL bindings.
 - [spheredb](https://github.com/jakevdp/spheredb) :: Python utilities for storage and manipulation of spherical data in SciDB.
 
