@@ -4,7 +4,6 @@
 - [MACHINE LEARNING](#machine-learning])
 - [NLP](#nlp)
 - [RESOURCES](#resources)
-
 -----
 
 # DATA STRUCTURES
@@ -23,6 +22,7 @@
 - [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College.
 
 
+-----
 
 # MACHINE LEARNING
 - [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
@@ -61,6 +61,7 @@
 - [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
 
 
+-----
 
 # NLP
 - [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
@@ -79,6 +80,7 @@
 ###### Resources
 - [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) →  Single Speaker Speech Recognition with Hidden Markov Models.
 
+-----
 
 # RESOURCES
 - [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) 

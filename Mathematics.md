@@ -5,12 +5,14 @@
    - [Geometry]{#geometry)
    - [Numerical Analysis](#numerical-analysis)
 - [MOOC](#mooc)
+-----
 
 # CRYPTOGRAPHY
 - [Cryptography](https://cryptography.io/) :: A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
 - [ed25519](https://github.com/pyca/ed25519) :: Optimized version of the reference implementation of Ed25519.
 
 
+-----
 # MATH
 - [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
 - [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
@@ -55,6 +57,7 @@
    - [Official Documentation](http://www.scipy.org/docs.html)
    - [scipy-lectures](http://scipy-lectures.github.io) →  Tutorial material on the scientific Python ecosystem.
 
+-----
 # MOOC
 #### Coursera.org   
 - [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)

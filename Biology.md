@@ -12,7 +12,7 @@
 - [NEUROSCIENCE](#neuroscience)
    - [Neural-Networks](#neural-networks)
 
-----
+-----
    
 # BIOTOOLS
 - [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
@@ -28,7 +28,7 @@
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 - [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
-----
+-----
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
 ### Genomics

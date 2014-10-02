@@ -2,7 +2,7 @@
 
 - [Jupyter](#jupyter)
 - [Web](#web)
-
+-----
 
 # Jupyter
 - [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/), provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits.
@@ -20,5 +20,6 @@
 - Talk: [Project Jupyter](https://speakerdeck.com/fperez/project-jupyter) by Fernando Perez at Scipy-2014.
 
 
+-----
 # Web
 - [Spyre](https://github.com/adamhajari/spyre) : A Web Application Framework for providing a simple user interface for Python data projects and data visualization, so you'll also need pandas and matplotlib in addition to cherrypy, with jinja2 templating. 

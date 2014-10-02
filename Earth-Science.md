@@ -1,6 +1,6 @@
 - [ASTRO](#astro)
 - [GIS](#gis)
-
+-----
 
 # ASTRO
 *Aeronautics, astronautics, Astronomy*
@@ -18,7 +18,7 @@
 - [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
 - [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
 
-
+-----
 # GIS 
 - [Atmosphere](https://github.com/iPlantCollaborativeOpenSource/atmosphere) :: An integrative, private, self-service cloud computing platform designed to provide easy access to preconfigured, frequently used analysis routines, relevant algorithms, and data sets in an available-on-demand environment designed to accommodate computationally and data-intensive bioinformatics tasks.
 - [biggus](https://github.com/SciTools/biggus) ::  Virtual large arrays and lazy evaluation. [Documentation](http://biggus.readthedocs.org/)
