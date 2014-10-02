@@ -1,5 +1,6 @@
 - [ASTRO](#astro)
 - [GIS](#gis)
+
 ----
 
 # ASTRO
@@ -19,6 +20,7 @@
 - [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
 
 ----
+
 # GIS 
 - [Atmosphere](https://github.com/iPlantCollaborativeOpenSource/atmosphere) :: An integrative, private, self-service cloud computing platform designed to provide easy access to preconfigured, frequently used analysis routines, relevant algorithms, and data sets in an available-on-demand environment designed to accommodate computationally and data-intensive bioinformatics tasks.
 - [biggus](https://github.com/SciTools/biggus) ::  Virtual large arrays and lazy evaluation. [Documentation](http://biggus.readthedocs.org/)
@@ -29,6 +31,4 @@
 - [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
 - [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
 - [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
-
-
 

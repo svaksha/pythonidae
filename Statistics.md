@@ -7,6 +7,7 @@
 - [DATA SCIENCE](#data-science)
 - [STATISTICS](#statistics)
 - [RESOURCES](#mooc)
+
 ----
 
 # ACTUARIAL SCIENCE 
@@ -33,15 +34,18 @@
 - [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 ----
+
 # BENCHMARKS
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 
 ----
+
 # DATA SCIENCE
 - Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
 
 ----
+
 # STATISTICS
 - [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
 - [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
@@ -58,6 +62,7 @@
 
 
 ----
+
 # RESOURCES
 - _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
 - _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.

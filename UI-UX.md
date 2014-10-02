@@ -2,6 +2,7 @@
 
 - [Jupyter](#jupyter)
 - [Web](#web)
+
 ----
 
 # Jupyter
@@ -22,5 +23,6 @@
 
 
 ----
+
 # Web
 - [Spyre](https://github.com/adamhajari/spyre) : A Web Application Framework for providing a simple user interface for Python data projects and data visualization, so you'll also need pandas and matplotlib in addition to cherrypy, with jinja2 templating. 

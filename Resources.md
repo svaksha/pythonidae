@@ -7,12 +7,14 @@
 - [IPyNB](#ipynb)
 - [Lists](#lists)
 - [Videos](#Videos)
+
 ----
 
 # BigData
 - [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
 
 ----
+
 # Books
 - [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 - [List of free programming books](https://github.com/vhf/free-programming-books)
@@ -20,6 +22,7 @@
 
 
 ----
+
 # Bootstrapping 
 _Fixing bug#1: Resources and guides for Scientists new to Python_
 
@@ -37,6 +40,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 
 
 ----
+
 # Blogs
 - [Graphs, Databases and Graphlab](http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/)
 - [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
@@ -44,22 +48,25 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
 
 #### CS Education
-- [Big Data vs. Ed Psychology: Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
+- [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
 - [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 - [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
 
 ----
+
 # Cheatsheets
 - [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 - [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
 ----
+
 # Cookbooks
 - [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
 - [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
 
 ----
+
 # IPyNB
 - [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 - [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
@@ -68,11 +75,13 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
 
 ----
+
 # Lists
 - [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
 - [The definitive list of (awesome) lists curated on GitHub](https://github.com/jnv/lists#technical)
 - [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
 
 ----
+
 # Videos
 - [PyData Tutorial videos](http://vimeo.com/channels/612789)

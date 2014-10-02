@@ -1,6 +1,7 @@
-* [NEWS](#news)
-   * [Blogs](#blogs)
-* [INTERVIEWS](#interviews)
+- [NEWS](#news)
+   - [Blogs](#blogs)
+- [INTERVIEWS](#interviews)
+
 ----
 
 # NEWS 
@@ -12,6 +13,7 @@
 
 
 ----
+
 # INTERVIEWS
 * [18 Data Scientist Interviews - Vol 1, April 2014](http://www.datascienceweekly.org/blog/18-data-scientist-interviews-volume-1-april-2014)
 

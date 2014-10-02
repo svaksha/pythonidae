@@ -81,7 +81,7 @@
 
 ###### Resources
 - Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
-* [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+- [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
 
 ### Microbiology
