@@ -12,7 +12,7 @@
 - [NEUROSCIENCE](#neuroscience)
    - [Neural-Networks](#neural-networks)
 
-
+----
    
 # BIOTOOLS
 - [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
@@ -28,6 +28,7 @@
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 - [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
+----
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
 ### Genomics
@@ -104,12 +105,12 @@
 ### Structural Biology
 - [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 
-
+----
     
 # ECOLOGY
 - [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
 
-
+----
 
 # NEUROSCIENCE
 - [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
@@ -139,7 +140,6 @@
 - [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 - [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 - [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
-
 
 
 ### Neural Networks

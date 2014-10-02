@@ -3,20 +3,24 @@
    * [SciDB](#scidb)
 - [DATASETS](#datasets)
 
+----
+
 # HDF
 - **Resources**
 - [HDF5 Tutorial](https://github.com/scopatz/hdf5-is-for-lovers)
 
-
+----
 
 # NoSQL
 ## SciDB
+
 - [SciDB-py](https://github.com/Paradigm4/SciDB-py) :: Python wrapper for [SciDB](http://scidb.org) queries.
    * __DOCS__ :: [SciDB-py documentation](http://scidb-py.readthedocs.org/)
 - [scidb4py](https://github.com/artyom-smirnov/scidb4py) :: Pure python SciDB client library. The [@Paradigm4 fork](https://github.com/Paradigm4/scidb4py)
 - [scidbpy-aflgen](https://github.com/ChrisBeaumont/scidbpy-aflgen) :: SciDB AFL Parser Generate data for SciDBpy AFL bindings.
+- [spheredb](https://github.com/jakevdp/spheredb) :: Python utilities for storage and manipulation of spherical data in SciDB.
 
-
+----
 
 # DATASETS
 __Free/Open Datasets__
