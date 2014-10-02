@@ -3,7 +3,7 @@
 * [GRAPHICS](#graphics) 
 * [INFOGRAPHICS](#infographics)
 
------
+----
 
 # GRAPHICS 
 - [bitarray](https://github.com/ilanschnell/bitarray) :: This module provides an object type which efficiently represents an array of booleans.
@@ -13,7 +13,7 @@
 ### Games
 * [PySoy](http://www.pysoy.org/) is a 3d cloud game engine for  Python. [Source code](http://hg.pysoy.org/pysoy)
 
------
+----
 
 # INFOGRAPHICS
 * [Biggles](https://github.com/nolta/biggles) : Scientific Plotting with/in/for Python.

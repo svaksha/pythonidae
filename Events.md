@@ -2,7 +2,7 @@
    * [OpenVisConf](#openvisconf)
    * [PyData](#pydata)
    * [SciPy](#scipy)
------
+----
 
 
 # CONFERENCES

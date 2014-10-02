@@ -3,7 +3,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 - [LOGGING](#logging)
 - [SANDBOX](#sandbox)
 - [UNITTEST](#unittest)
------
+----
 
 # UNITTEST
 - [nupic.regression](https://github.com/numenta/nupic.regression) :: Regression test suite for NuPIC.

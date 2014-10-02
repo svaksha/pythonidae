@@ -4,7 +4,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 - [LICENSE](#license)
    - [Mirrors](#mirrors)
    - [Contributing Guidelines](#contributing-guidelines)
------
+----
 
 # INDEX
 * [AI.md](https://github.com/svaksha/pythonidae/blob/master/AI.md) :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, Cognitive Science, Linguistics, ...
@@ -30,7 +30,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 
 
 
------
+----
 # LICENSE 
 * This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file for full details.
 

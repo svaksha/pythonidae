@@ -7,7 +7,7 @@
 - [DATA SCIENCE](#data-science)
 - [STATISTICS](#statistics)
 - [RESOURCES](#mooc)
------
+----
 
 # ACTUARIAL SCIENCE 
 ## Financial Accounting
@@ -32,16 +32,16 @@
 - [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
 - [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
------
+----
 # BENCHMARKS
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 
------
+----
 # DATA SCIENCE
 - Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
 
------
+----
 # STATISTICS
 - [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
 - [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
@@ -57,7 +57,7 @@
 - Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
 
 
------
+----
 # RESOURCES
 - _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
 - _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
