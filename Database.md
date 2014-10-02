@@ -21,8 +21,9 @@
 - [scidbpy-aflgen](https://github.com/ChrisBeaumont/scidbpy-aflgen) :: SciDB AFL Parser Generate data for SciDBpy AFL bindings.
 - [spheredb](https://github.com/jakevdp/spheredb) :: Python utilities for storage and manipulation of spherical data in SciDB.
 - [scidbbackup](https://github.com/nicksteiner/scidbbackup) :: Script to backup/manage SciDB arrays during upgrades.
+- [modis2scidb](https://github.com/albhasan/modis2scidb) ::  Python scripts for uploading MODIS images to SciDB.
 
-====
+----
 
 # DATASETS
 __Free/Open Datasets__

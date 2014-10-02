@@ -5,7 +5,7 @@
 - [NLP](#nlp)
 - [RESOURCES](#resources)
 
-
+-----
 
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
