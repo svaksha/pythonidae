@@ -34,11 +34,12 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 ----
 
 # LICENSE 
-* This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file for full details.
+- This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file for full details.
 
 ## Mirrors 
-* [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
-* [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
+- [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
+- [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
+- [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
 
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
