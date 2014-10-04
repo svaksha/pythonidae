@@ -110,6 +110,9 @@
 # ECOLOGY
 - [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
 
+### Bioacoustics
+- [Chirp](http://melizalab.github.io/chirp/) :: A set of related tools for pitch-based analysis and comparison of bioacoustic signals. [Source code](https://github.com/melizalab/chirp)
+
 ----
 
 # NEUROSCIENCE

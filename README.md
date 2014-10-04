@@ -19,7 +19,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 * [Events.md](https://github.com/svaksha/pythonidae/blob/master/Events.md) :: Conferences, Talks, etc...
 * [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
 * [NEWS.md](https://github.com/svaksha/pythonidae/blob/master/NEWS.md)
-* [Parallel-Computing.md](https://github.com/svaksha/pythonidae/blob/master/Parallel-Computing.md) :: Free python software for HPC, Distributed Computing, Cloud computing/ infrastructure, Cluster computing, Grid computing, ...
+* [Parallel-Computing.md](https://github.com/svaksha/pythonidae/blob/master/Parallel-Computing.md) :: Free python software for HPC, Distributed Computing, Cloud                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                computing/ infrastructure, Cluster computing, Grid computing, ...
 * [Physics.md](https://github.com/svaksha/pythonidae/blob/master/Physics.md) :: software related to Physics.
 * [Publications.md](https://github.com/svaksha/pythonidae/blob/master/Publications.md) :: Research papers, etc...
 * [QA.md](https://github.com/svaksha/pythonidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
@@ -29,8 +29,6 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 * [Utilities.md](https://github.com/svaksha/pythonidae/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
 * [X-Platform.md](https://github.com/svaksha/pythonidae/blob/master/X-Platform.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
 
-
-
 ----
 
 # LICENSE 
@@ -39,7 +37,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 ## Mirrors 
 - [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
 - [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
-- [Cloudhost](https://git.cloudhost.io/svaksha/pythonidae) :: git clone git@git.cloudhost.io:svaksha/pythonidae.git
+- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/pythonidae) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/pythonidae.git
 
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
