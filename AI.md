@@ -39,6 +39,7 @@
    __Resources__
    - [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
    - [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
+   - [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
 - [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
    __Resources__
    - [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
