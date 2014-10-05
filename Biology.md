@@ -92,7 +92,7 @@
    - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 - [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
 - [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
-- [tRNA](https://github.com/klmr/trna) :: Gene regulation downstream analysis pipeline of the Schmitt, Rudolph & al. paper.
+- [tRNA_evo](https://github.com/vhsvhs/trna_evo) :: This project analyzes the evolution of tRNAs, from across the tree of life. How prevalent is anticodon switching?
 
 ### OpenWorm
 - The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
