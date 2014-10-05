@@ -83,7 +83,6 @@
 - Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
 - [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
-
 ### Microbiology
 - [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
 
@@ -93,6 +92,7 @@
    - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 - [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
 - [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/SimTk/msmbuilder) to report bugs and contribute patches.
+- [tRNA](https://github.com/klmr/trna) :: Gene regulation downstream analysis pipeline of the Schmitt, Rudolph & al. paper.
 
 ### OpenWorm
 - The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
