@@ -8,5 +8,6 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 
 # UNITTEST
 - [nupic.regression](https://github.com/numenta/nupic.regression) :: Regression test suite for NuPIC.
+- [Pypete](https://github.com/Artimi/pypete) :: Write python performance tests with this plugin in the traditional nosetests way. 
 - [testkraut](https://github.com/neurodebian/testkraut) :: a framework for software testing, that minimizes the overlap with the scopes of unit testing, regression testing, and continuous integration testing.
 
