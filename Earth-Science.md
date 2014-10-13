@@ -24,6 +24,7 @@
 # GIS 
 - [Atmosphere](https://github.com/iPlantCollaborativeOpenSource/atmosphere) :: An integrative, private, self-service cloud computing platform designed to provide easy access to preconfigured, frequently used analysis routines, relevant algorithms, and data sets in an available-on-demand environment designed to accommodate computationally and data-intensive bioinformatics tasks.
 - [biggus](https://github.com/SciTools/biggus) ::  Virtual large arrays and lazy evaluation. [Documentation](http://biggus.readthedocs.org/)
+- [BurnMan](http://www.burnman.org) :: is a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments. Get the [source code](https://github.com/geodynamics/burnman) from github.
 - [Cartopy](http://scitools.org.uk/cartopy/) :: A cartographic python library with matplotlib support. [Source code](https://github.com/SciTools/cartopy) on github.
 - [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
 - [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
