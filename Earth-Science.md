@@ -29,6 +29,7 @@
 - [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 - [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
 - [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
+- [PyLith](https://github.com/geodynamics/pylith) :: is a finite element code for the solution of dynamic and quasi-static tectonic deformation problems.
 - [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
 - [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
 
