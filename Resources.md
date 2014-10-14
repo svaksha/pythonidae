@@ -43,6 +43,8 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 - [Jake Van derPlas explains why Python is difficult to optimize, hence slow](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 - @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
+- [Getting started with Python in HPC](http://andy.terrel.us/blog/2012/09/27/starting-with-python/) by Andy R. Terrel.
+
 
 #### CS Education
 - [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
