@@ -16,6 +16,8 @@
 * April24-25, OpenVisConf :: [@jakevdp's talk at OpenVisConf, Boston, MA](https://github.com/jakevdp/OpenVisConf2014)
 
 ## PyData
+* 2014Oct15 : [PyData@StrataNYC](http://strataconf.com/stratany2014/public/schedule/detail/37035?cmp=pe-strata-confreg-home-stny14_pydata)
+   - [Introduction to NumPy and Matplotlib](https://github.com/jakevdp/PyData2014) talk by Jake Vanderplas.
 * July25-27 [Berlin-2014](http://pydata.org/berlin2014/)
    - Talk: [Fast Serialization of Numpy Arrays with Bloscpack](https://github.com/esc/PyDataBerlin2014-bloscpack-talk), [Video](http://www.youtube.com/watch?v=TZdqeEd7iTM), [slides as PDF](http://slides.zetatech.org/haenel-bloscpack-talk-2014-PyDataBerlin.pdf) and [nbviewer](http://nbviewer.ipython.org/github/esc/PyDataBerlin2014-bloscpack-talk/blob/master/2014-07-results/neuronal.ipynb)
 * May02-04 [Silicon-Valley-2014](http://pydata.org/sv2014), [Videos](https://www.youtube.com/user/PyDataTV).
