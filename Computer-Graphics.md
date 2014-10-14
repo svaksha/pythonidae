@@ -31,9 +31,10 @@
    __DOCS__
    * [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
 - [Orange](http://orange.biolab.si) :: An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.   
+- [Pygal](http://pygal.org) :: PYthon SVG GrAph plotting Library. [Source code](https://github.com/Kozea/pygal).
 - [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 - [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
-* [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
+- [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
 
 #### Non-Python tools
 * [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
