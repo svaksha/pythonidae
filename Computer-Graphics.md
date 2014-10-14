@@ -26,7 +26,8 @@
 - [brewer2mpl](https://github.com/jiffyclub/brewer2mpl) :: Connect colorbrewer2.org color maps to Python and matplotlib. [Wiki](https://github.com/jiffyclub/brewer2mpl/wiki)
 - [d3py](https://github.com/mikedewar/d3py) :: is a plotting library for Python based on the JavaScript library "[D3.js](http://d3js.org/)".
 - [Glue](https://github.com/glue-viz/glue) :: is a python project to link visualizations of scientific datasets across many files.
-- GmtPy :: [A Python interface to GMT](http://emolch.github.com/gmtpy). [Tutorial](http://emolch.github.io/gmtpy/tutorial.html)
+- [GmtPy](http://emolch.github.com/gmtpy) :: A Python interface to GMT. [Tutorial](http://emolch.github.io/gmtpy/tutorial.html)
+- [Healpy](https://github.com/healpy/healpy) :: A python package to manipulate healpix maps, based on the standard numeric and visualisation tools for Python, Numpy and matplotlib.
 - [Matplotlib](http://matplotlib.org/) :: is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
    __DOCS__
    * [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
