@@ -1,6 +1,7 @@
 - [AstroPhysics](#astropysics)
 - [Nuclear Physics](#nuclear-physics)
 - [Plasma Physics](#plasma-physics)
+- [Quantum Mechanics](#quantum-mechanics)
 
 ----
 
@@ -13,8 +14,11 @@
 - [xsgen](https://github.com/bright-dev/xsgen) :: Cross section generation.
 
 
-
 # Plasma Physics
 - [PIConGPU](http://picongpu.hzdr.de) :: A fully relativistic, many GPGPU, 3D3V particle-in-cell (PIC) code. [Source code](https://github.com/ComputationalRadiationPhysics/picongpu)
+
+
+# Quantum Mechanics
+- [Carlfg](http://pypi.python.org/pypi/carlfg) :: Python package to calculate Clebsch-Gordan coefficients. Get the [source code](https://github.com/psachin/carlfg). 
 
 
