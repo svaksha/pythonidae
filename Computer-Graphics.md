@@ -1,9 +1,13 @@
 *Graphics and other Visualization libraries and packages. Also includes relevant documentation/tutorials and blog links narrating user experiences and howto's.*
 
-* [GRAPHICS](#graphics) 
-* [INFOGRAPHICS](#infographics)
+- [CAD](#cad)
+- [GRAPHICS](#graphics) 
+- [INFOGRAPHICS](#infographics)
 
 ----
+
+# CAD
+- [OSCAD](https://github.com/hardythe1/OSCAD) :: An open source CAD tool for electronics & electrical engineering.
 
 # GRAPHICS 
 - [bitarray](https://github.com/ilanschnell/bitarray) :: This module provides an object type which efficiently represents an array of booleans.
