@@ -84,7 +84,9 @@
 - [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
 ### Microbiology
+- [Ebola](https://github.com/cmrivers/ebola) :: Data for the 2014 Global Ebola outbeak.
 - [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
+
 
 ### Molecular Biology
 - [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
