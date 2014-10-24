@@ -67,6 +67,7 @@
 
 # NLP
 - [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
+- [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
 - [NLTK](http://www.nltk.org/) →  Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 - [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 - [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
