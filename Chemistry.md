@@ -1,4 +1,6 @@
-**Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...**
+**Analytical chemistry, cheminformatics, computational chemistry, crystallography, nanochemistry, nuclear chemistry ...**
+
+- [Computational Chemistry](#computational-chemistry)
 
 ----
 
@@ -7,3 +9,7 @@
    - Paper : [Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis](https://www.sciencedirect.com/science/article/pii/S0927025612006295?np=y)
 - [Pymol-script-repo](https://github.com/Pymol-Scripts/Pymol-script-repo) :: Collected scripts for Pymol. [Pymol wiki](http://www.pymolwiki.org/index.php/Git_intro)
 
+----
+
+# Computational Chemistry
+- [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
