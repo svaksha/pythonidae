@@ -13,3 +13,4 @@
 
 # Computational Chemistry
 - [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
+- [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
