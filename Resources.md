@@ -52,24 +52,27 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 - [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
 
+----
 
 # Cheatsheets
 - [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 - [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
+----
 
 # Cookbooks
 - [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
 - [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
 
+----
 
 # IPyNB
+- [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/cookbook/) and the [recipes used in the IPython Cookbook](https://github.com/ipython-books/cookbook-code) :: Your definitive guide to high-performance scientific computing and data science in Python.
 - [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 - [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 - The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
 - The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
 - [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
-
 
 # Lists
 - [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
