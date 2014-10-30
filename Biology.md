@@ -30,6 +30,7 @@
 - [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 - [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
+
 ----
     
 # ECOLOGY
@@ -85,7 +86,7 @@
 ### RNA
 - [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
 - [gimme](https://github.com/likit/gimme) :: A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
-
+- Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
 
 ###### Publications
 - Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
