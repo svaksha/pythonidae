@@ -7,9 +7,13 @@
 
 # CONFERENCES
 
+## EuroScipy
+- EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Stephen G. Johnson.
+- [Highlights from EuroSciPy](http://www.agilegeoscience.com/journal/2014/9/2/highlights-from-euroscipy.html)
+
+
 ## EuroPython
 * 2014/July/21~27 :: BCC, Berlin. [Videos](https://www.youtube.com/user/europython2014/videos)
-
 
 ## OpenVisConf
 * 2014/April/24-25, OpenVisConf :: [@jakevdp's talk at OpenVisConf, Boston, MA](https://github.com/jakevdp/OpenVisConf2014)
@@ -27,10 +31,8 @@
 * 2013/March/18-20 [Silicon-Valley-2013](http://pydata.org/sv2013)
 * 2013/October/26-27 [NewYork-2012](http://pydata.org/nyc2012)
 
-
 ## SciPy
 * 2014/July/06-12 :: [SciPy](https://conference.scipy.org/scipy2014/) at Austin, Texas. [Videos are online](http://pyvideo.org/category/51/scipy-2014).
-
 
 ## VIS
 * 2013 :: [Supporting the "Visualization and Analytics in Python" tutorial at VIS 2013](https://github.com/ContinuumIO/PythonVIS2013) by @pzwang. 

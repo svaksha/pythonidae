@@ -48,6 +48,7 @@
 - [Blaze](http://blaze.pydata.org) is the next-generation of NumPy and Pandas for BigData.
    **Resources**
    * [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+- [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
 - [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 - [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
 - [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
