@@ -136,6 +136,7 @@
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 - [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
 - [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
+- [pydcemri](https://github.com/welcheb/pydcemri) :: Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp.
 - [PyCogMo](https://github.com/agravier/pycogmo) :: is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions.
 - [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
 - Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
