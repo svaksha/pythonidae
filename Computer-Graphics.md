@@ -32,6 +32,7 @@
 - [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 - [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
 - [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
+- [YT](http://yt-project.org/):: A python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community.
 
 #### Non-Python tools
 * [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
