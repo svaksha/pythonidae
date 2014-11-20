@@ -26,6 +26,7 @@
 
 # MACHINE LEARNING
 - [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
+- [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
 - [Machine Learning Video Library](http://work.caltech.edu/library/)
 - [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
 - [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
