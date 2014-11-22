@@ -41,4 +41,5 @@ __Free/Open Datasets__
 ### Machine Learning
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
-
+### Research Data
+- [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
