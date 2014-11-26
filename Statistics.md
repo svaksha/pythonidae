@@ -33,7 +33,7 @@
    - [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
 - [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
 - [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
-   - [Quantitative economic modelling](http://quant-econ.net/py/index.html) Python lecture series designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file.
+   - [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
 - [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 ----
