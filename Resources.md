@@ -73,6 +73,9 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
 - The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
 - [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
+- [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
+
+----
 
 # Lists
 - [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
@@ -80,6 +83,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
 - [The Open-Source Data Science Masters](http://datasciencemasters.org)
 
+----
 
 # Videos
 - [PyData Tutorial videos](http://vimeo.com/channels/612789)
