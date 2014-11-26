@@ -1,7 +1,6 @@
 - [HDF](#hdf)
 - [NoSQL](#nosql)
    * [SciDB](#scidb)
-- [DATASETS](#datasets)
 
 ----
 
@@ -26,19 +25,5 @@
 - [spheredb](https://github.com/jakevdp/spheredb) :: Python utilities for storage and manipulation of spherical data in SciDB.
 
 ----
-
-# DATASETS
-__Free/Open Datasets__
-- [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
-- [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
-- [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
-- [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
-- [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
-
-### Biology
-- NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
-
-### Machine Learning
-- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 
