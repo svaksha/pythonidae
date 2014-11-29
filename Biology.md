@@ -75,6 +75,7 @@
 - [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
 - [mmgenome](http://madsalbertsen.github.io/mmgenome/) :: Tools for extracting individual genomes from metagneomes.
 - [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
+- [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
 - [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
 - [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
 - [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
