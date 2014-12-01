@@ -11,10 +11,11 @@
 ----
 
 # NoSQL
-## SciDB
 
+## SciDB
 - [SciDB-py](https://github.com/Paradigm4/SciDB-py) :: Python wrapper for [SciDB](http://scidb.org) queries.
    * __DOCS__ :: [SciDB-py documentation](http://scidb-py.readthedocs.org/)
+   * [Dev tools](https://github.com/Paradigm4/dev_tools) :: Tools for installing SciDB plugins from GitHub. 
 - [bio_scidb](https://github.com/ChrisBeaumont/bio_scidb) : ScidDB-Py Biology Demo.
 - [gdal2scidb](https://github.com/albhasan/gdal2scidb) :: Python scripts for exporting a raster (supported by GDAL) to SciDB binary format.
 - [modis2scidb](https://github.com/albhasan/modis2scidb) ::  Python scripts for uploading MODIS images to SciDB.
