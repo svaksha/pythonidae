@@ -13,6 +13,7 @@
 
 # Electromagnetism
 * [Dipole](https://github.com/manuamador/Dipole) :: Compute E and B of an Hertz Dipole (3 functions: full fields, far fields only, near fields only).
+* [RandomEUT](https://github.com/manuamador/RandomEUT) :: Computes the radiation pattern of a random equipment under test made of Hertzian dipoles on a sphere.
 
 ----
 
