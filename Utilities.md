@@ -14,7 +14,7 @@ __Python 2&3 tools__
 
 # DOCUMENTATION
 **Documentation tools**
-- [PythonTeX](https://github.com/gpoore/pythontex) :: A LaTeX package that provides fast, user-friendly access to Python code entered within a TeX document to be executed, and the output to be included in the original document. It also provides syntax highlighting for code within LaTeX documents via the Pygments syntax highlighter.
+- [PythonTeX](https://github.com/gpoore/pythontex) :: A LaTeX package that provides fast, user-friendly access to Python code entered within a TeX document to be executed, and the output to be included in the original document. It also provides syntax highlighting for code within LaTeX documents via the Pygments syntax highlighter. PythonTeX also provides support for Ruby, Julia, and Octave programming languages.
 - [Scisphinx](https://github.com/numfocus/scisphinx) :: Sphinx extensions common to the scientific computing ecosystem.
 
 ----
