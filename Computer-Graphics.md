@@ -11,6 +11,7 @@
 - [Gizeh](https://github.com/Zulko/gizeh) :: Simple Vector Graphics for Python. 
    - [Vector Animations With Python](https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/) using Gizeh.
 - [MoviePy](http://zulko.github.io/moviepy/) :: Video editing with Python.
+   - [Data Animations With Python and MoviePy](https://zulko.github.io/blog/2014/11/29/data-animations-with-python-and-moviepy/)
 - [PIL](http://www.pythonware.com/products/pil/) :: Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3.
 
 ### Games
