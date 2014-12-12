@@ -2,6 +2,8 @@
 
 - [DATA STRUCTURES](#data-structures)
 - [MACHINE LEARNING](#machine-learning])
+   - [Classification Algorithms](#classification-algorithms)
+   - [Graph Theory](#graph-theory)
 - [NLP](#nlp)
 - [RESOURCES](#resources)
 
@@ -53,6 +55,14 @@
    - [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
    - [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 - [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
+
+
+## Classification Algorithms
+
+###### Resources
+**Naive Bayes**
+* Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+
 
 ## Graph Theory
 - [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
