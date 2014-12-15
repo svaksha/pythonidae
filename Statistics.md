@@ -40,7 +40,8 @@
 
 ##### Resources
 * [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
-* ISLR chapters in R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python
+* [ISLR chapters from R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python)
+* [538model](https://github.com/jseabold/538model) - 538 Election Forecasting Model  :: Python scripts that replicates some features of Nate Silver's 538 Election Forecasting Model.
     
 ----
 
