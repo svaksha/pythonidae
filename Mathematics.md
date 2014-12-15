@@ -1,10 +1,10 @@
--  [CRYPTOGRAPHY](#cryptography)
--  [MATH](#math)
+*  [CRYPTOGRAPHY](#cryptography)
+*  [MATH](#math)
    - [Algebra](#algebra)
    - [Calculus](#calculus)
    - [Geometry](#geometry)
    - [Numerical Analysis](#numerical-analysis)
-- [MOOC](#mooc)
+* [MOOC](#mooc)
 
 ----
 
@@ -31,11 +31,11 @@
 - [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
 
 ##### Resources
-- [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
+* [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
 
 ### Calculus 
-- [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
+* [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 
 
 ### Geometry
@@ -68,5 +68,5 @@
 
 # MOOC
 #### Coursera.org   
-- [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
+* [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 

@@ -38,6 +38,9 @@
    - [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
 - [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
+##### Resources
+* [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
+
 ----
 
 # BENCHMARKS
