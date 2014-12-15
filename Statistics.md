@@ -40,7 +40,8 @@
 
 ##### Resources
 * [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
-
+* ISLR chapters in R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python
+    
 ----
 
 # BENCHMARKS
