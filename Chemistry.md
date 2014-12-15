@@ -1,6 +1,7 @@
 **Analytical chemistry, cheminformatics, computational chemistry, crystallography, nanochemistry, nuclear chemistry ...**
 
 - [Computational Chemistry](#computational-chemistry)
+- [Quantum Chemistry](#quantum-chemistry)
 
 ----
 
@@ -14,3 +15,6 @@
 # Computational Chemistry
 - [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
 - [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
+
+# Quantum Chemistry
+- [Clusterchem](https://github.com/jiahao/clusterchem) :: Q-Chem Grid Engine handler.
