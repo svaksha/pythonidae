@@ -21,7 +21,7 @@
 - D3 in IPython Notebook-2 :: [Here is an example of getting information back from d3 into the kernel](http://nbviewer.ipython.org/gist/anonymous/9975962) and another [eventful_graph and eventful_dict datastructures written for a demo with live-updating graphs (NetworkX -> D3)](https://gist.github.com/takluyver/9619942351cdc571a302). Mailing list discussion: http://mail.scipy.org/pipermail/ipython-dev/2014-June/014109.html
 - [ipython-in-depth](https://github.com/ipython/ipython-in-depth) :: IPython in-depth Tutorial, first presented at PyCon 2012, is meant to be executed with IPython 2.0 or newer.
 - Talk: [Project Jupyter](https://speakerdeck.com/fperez/project-jupyter) by Fernando Perez at Scipy-2014.
-- 
+
 
 ----
 
