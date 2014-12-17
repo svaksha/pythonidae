@@ -1,5 +1,6 @@
 - [HDF](#hdf)
 - [NoSQL](#nosql)
+   * [Neo4J](#neo4j)
    * [SciDB](#scidb)
 
 ----
@@ -11,6 +12,8 @@
 ----
 
 # NoSQL
+## Neo4J 
+* [Neomodel](https://github.com/robinedwards/neomodel) :: An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
 
 ## SciDB
 - [SciDB-py](https://github.com/Paradigm4/SciDB-py) :: Python wrapper for [SciDB](http://scidb.org) queries.
