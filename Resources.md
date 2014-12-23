@@ -4,7 +4,6 @@
 - [Blogs](#blogs)
 - [Cheatsheets](#cheatsheets)
 - [Cookbooks](#cookbooks)
-- [IPyNB](#ipynb)
 - [Lists](#lists)
 - [Videos](#Videos)
 
@@ -63,17 +62,6 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 # Cookbooks
 - [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
 - [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
-
-----
-
-# IPyNB
-- [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/cookbook/) and the [recipes used in the IPython Cookbook](https://github.com/ipython-books/cookbook-code) :: Your definitive guide to high-performance scientific computing and data science in Python.
-- [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-- [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
-- The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
-- The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
-- [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
-- [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
 
 ----
 
