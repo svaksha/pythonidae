@@ -49,7 +49,7 @@
 # BENCHMARKS
 ### Optimization
 - [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
-
+- [Mystic](https://github.com/uqfoundation/mystic) :: highly-constrained non-convex optimization and uncertainty quantification.
 ----
 
 # DATA SCIENCE
