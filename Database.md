@@ -2,6 +2,7 @@
 - [NoSQL](#nosql)
    * [Neo4J](#neo4j)
    * [SciDB](#scidb)
+- [RESOURCES](#resources)
 
 ----
 
@@ -30,4 +31,5 @@
 
 ----
 
-
+# RESOURCES
+* [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
