@@ -3,6 +3,7 @@
 - [Nuclear Physics](#nuclear-physics)
 - [Plasma Physics](#plasma-physics)
 - [Quantum Mechanics](#quantum-mechanics)
+- [Resources-Physics](#resources-physics)
 
 ----
 
@@ -31,4 +32,8 @@
 # Quantum Mechanics
 - [Carlfg](http://pypi.python.org/pypi/carlfg) :: Python package to calculate Clebsch-Gordan coefficients. Get the [source code](https://github.com/psachin/carlfg). 
 
+----
+
+# Resources-Physics
+* [Physics.codes](http://physics.codes) website with [Examples of exercises that accompany Effective Computation in Physics](https://github.com/physics-codes/examples)
 
