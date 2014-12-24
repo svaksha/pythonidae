@@ -9,6 +9,10 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 # DISTRIBUTED-PARALLEL
 **Libraries for Cloud/Cluster Computing**
+
+* [Pathos](https://github.com/uqfoundation/pathos) :: A framework for parallel graph management and execution in heterogeneous computing. It primarily provides the communication mechanisms for configuring and launching parallel computations across heterogenous resources. Pathos provides configurable launchers for parallel and distributed computing, where each launcher contains the syntactic logic to configure and launch jobs in an execution environment.
+
+
 ## AWS
 - [AmazonEC2scripts](https://github.com/swederik/AmazonEC2scripts) :: Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
 - [Anaconda-ec2](https://github.com/ContinuumIO/anaconda-ec2) :: Anaconda plugin for StarCluster.
