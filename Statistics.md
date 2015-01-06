@@ -97,7 +97,6 @@
 - _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
 - [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
-- Doing bayesian data analysis :: [Python version of the programs described in the great book "Doing bayesian data analysis" by John K. Kruschke (AKA the puppy book)](https://github.com/aloctavodia/Doing_bayesian_data_analysis).
 - [Doing bayesian data analysis](https://github.com/aloctavodia/Doing_bayesian_data_analysis) :: This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke (AKA the puppy book). 
 
 ### MOOC - Coursera.org   
