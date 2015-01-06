@@ -50,6 +50,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 - [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
+- [Intro CS notebooks](https://github.com/alanedelman/ExploringIntroCS) :: Playing around with codes for Intro CS.
 
 ----
 
