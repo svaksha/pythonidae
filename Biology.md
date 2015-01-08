@@ -134,6 +134,7 @@
 - nibabel :: [Python package to access a cacophony of neuro-imaging file formats](http://nipy.org/nibabel/). [Source code](https://github.com/nipy/nibabel).
 - [nipype](https://github.com/nipy/nipype) → Workflows and interfaces for neuroimaging packages <=> [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/)
 - [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
+    - [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
 - [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
 - [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 - [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
