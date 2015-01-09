@@ -44,6 +44,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
 - [Getting started with Python in HPC](http://andy.terrel.us/blog/2012/09/27/starting-with-python/) by Andy R. Terrel.
 - Gael Varoquaux on [Improving your programming style in Python](http://gael-varoquaux.info/programming/improving-your-programming-style-in-python.html).
+- @bugra muses "[I wish I knew these things when I learned Python](https://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)".
 
 ### CS Education
 - [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
