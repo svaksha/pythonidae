@@ -45,12 +45,15 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [Getting started with Python in HPC](http://andy.terrel.us/blog/2012/09/27/starting-with-python/) by Andy R. Terrel.
 - Gael Varoquaux on [Improving your programming style in Python](http://gael-varoquaux.info/programming/improving-your-programming-style-in-python.html).
 
-#### CS Education
-- [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
+### CS Education
 - [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
-- [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
 - [Intro CS notebooks](https://github.com/alanedelman/ExploringIntroCS) :: Playing around with codes for Intro CS.
+
+###### Data Science
+- [How To Choose A Data Science Project For Your Data Science Portfolio](http://www.getadatasciencejob.com/advice/how-to-choose-a-data-science-project-for-your-data-science-portfolio)
+- [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
+- [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
 
 ----
 
