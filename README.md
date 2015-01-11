@@ -34,7 +34,8 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae) cu
 ----
 
 # LICENSE 
-* This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file.
+- COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved. 
+- This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/pythonidae/blob/master/LICENSE.md) file.
 
 ## Mirrors 
 - [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
