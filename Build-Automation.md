@@ -8,10 +8,17 @@
 ----
 
 # BUILD AUTOMATION
+- [Autopkg](https://github.com/autopkg) has more automation recipes:
+   - [48kRAM-recipes](https://github.com/autopkg/48kRAM-recipes).
+   - [Hansen-m-recipes](https://github.com/autopkg/hansen-m-recipes) :: More recipes for Autopkg.
+   - [Jaharmi-recipes](https://github.com/autopkg/jaharmi-recipes) :: Recipes for the Mac OS X system administration tool.
+   - [Jleggat-recipes](https://github.com/autopkg/jleggat-recipes) :: Recipes for [autopkg](http://autopkg.github.io/autopkg/).
+   - [ScriptingOSX-recipes](https://github.com/autopkg/scriptingosx-recipes).
+   - [Thenikola-recipes](https://github.com/autopkg/thenikola-recipes).
+   - [Timsutton-recipes](https://github.com/autopkg/timsutton-recipes).
 - [nupic-darwin64](https://github.com/numenta/nupic-darwin64) :: Python distribution for NuPIC on OSX.
 - [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 - [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
-- [jleggat-recipes](https://github.com/autopkg/jleggat-recipes) :: Recipes for [autopkg](http://autopkg.github.io/autopkg/)
 
 ----
 
