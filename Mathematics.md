@@ -26,6 +26,7 @@
 
 
 ### Algebra
+- [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
 - [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
 - [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 - [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
