@@ -9,21 +9,22 @@
 
 # ASTRONOMY
 *Astronautics, Astronomy*
-- [Astropy](https://github.com/astropy) → [Astronomy Python Library.
+- [Astropy](https://github.com/astropy) → Astronomy Python Library.
 - [Caput](https://github.com/radiocosmology/caput) :: Cluster Astronomical Python Utilities.
 - [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
 - [EchelleTools](https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format.
 - [Enrico](https://github.com/gammapy/enrico) helps you with your Fermi data analysis. [Documentation](http://enrico.readthedocs.org/)
 - [Gammapy](https://github.com/gammapy/gammapy) :: A Python package for gamma-ray astronomy. [Documentation](https://gammapy.readthedocs.org/)
 - [Gamma-speed](https://github.com/gammapy/gamma-speed) :: Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/)
-- [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
-- [periodogram](https://github.com/astroML/periodogram) :: Unified implementation for period-finding in astronomical time series.
-- [PyFITS](https://github.com/spacetelescope/PyFITS) :: Git repository for the PyFITS project; PyFITS is still actively maintained in SVN, but this repository exists to ease the migration into AstroPy (see above). http://www.stsci.edu/resources/software_hardware/pyfits
-- [Pylades](https://github.com/helgee/plyades) :: Plyades is an astrodynamics library, written in Python and based on Numpy and Scipy. [Documentation for the astrodynamics library](http://plyades.readthedocs.org)
-- [pyMarsTime](https://github.com/ashima/pyMarsTime) :: Mars Time Calculation in Python.
-- [ProbabilisticLensing](https://github.com/jakevdp/ProbabilisticLensing) :: A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models.
-- [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
-- [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
++ [gatspy](https://github.com/jakevdp/gatspy) :: General tools for Astronomical Time Series in Python. 
++ [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
++ [periodogram](https://github.com/astroML/periodogram) :: Unified implementation for period-finding in astronomical time series.
++ [PyFITS](https://github.com/spacetelescope/PyFITS) :: Git repository for the PyFITS project; PyFITS is still actively maintained in SVN, but this repository exists to ease the migration into AstroPy (see above). http://www.stsci.edu/resources/software_hardware/pyfits
++ [Pylades](https://github.com/helgee/plyades) :: Plyades is an astrodynamics library, written in Python and based on Numpy and Scipy. [Documentation for the astrodynamics library](http://plyades.readthedocs.org)
++ [pyMarsTime](https://github.com/ashima/pyMarsTime) :: Mars Time Calculation in Python.
++ [ProbabilisticLensing](https://github.com/jakevdp/ProbabilisticLensing) :: A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models.
++ [ShutterCorrect](https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination.
++ [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
 
 ----
 
