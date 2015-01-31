@@ -18,6 +18,7 @@
 - [Gamma-speed](https://github.com/gammapy/gamma-speed) :: Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/)
 + [gatspy](https://github.com/jakevdp/gatspy) :: General tools for Astronomical Time Series in Python. 
 + [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
++ [oec_outreach](https://github.com/hannorein/oec_outreach) :: A variant of the Open Exoplanet Catalogue (a database of all discovered extra-solar planets) with additional data and images mainly useful for outreach projects. 
 + [periodogram](https://github.com/astroML/periodogram) :: Unified implementation for period-finding in astronomical time series.
 + [PyFITS](https://github.com/spacetelescope/PyFITS) :: Git repository for the PyFITS project; PyFITS is still actively maintained in SVN, but this repository exists to ease the migration into AstroPy (see above). http://www.stsci.edu/resources/software_hardware/pyfits
 + [Pylades](https://github.com/helgee/plyades) :: Plyades is an astrodynamics library, written in Python and based on Numpy and Scipy. [Documentation for the astrodynamics library](http://plyades.readthedocs.org)
