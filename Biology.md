@@ -88,6 +88,7 @@
 ### RNA
 - [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
 - [gimme](https://github.com/likit/gimme) :: A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
+- [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
 - Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
 
 ###### Publications
