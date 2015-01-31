@@ -7,7 +7,7 @@
    - [Optimization](#optimization)
 - [DATA SCIENCE](#data-science)
 - [STATISTICS](#statistics)
-- [RESOURCES](#mooc)
+- [LearningResources](#learningresources)
 
 ----
 
@@ -74,20 +74,18 @@
 - [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 - [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
 
-###### Resources
-- [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
-- [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
-- Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
-
 
 ----
 
-# RESOURCES
+# LearningResources
 - _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
 - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
 - [fpp](https://www.otexts.org/fpp/) :: Forecasting principles and practice - a comprehensive introduction to forecasting methods.
 - MCMC :: Testing MCMC code, [part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
 - [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem
+- [statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) :: IPython notebooks for exercises covered in Stanford's online StatLearning class.
+- [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
+- Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
 - [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
 - [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
 - FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
@@ -97,12 +95,11 @@
 - _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
 - [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
+- [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
 - [Doing bayesian data analysis](https://github.com/aloctavodia/Doing_bayesian_data_analysis) :: This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke (AKA the puppy book). 
 
 ### MOOC - Coursera.org   
 - [Data Science](https://www.coursera.org/specialization/jhudatascience/1)
 - [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox)
 - [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
-
-
 
