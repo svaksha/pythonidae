@@ -21,9 +21,10 @@
 - [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
 - [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
 - [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
-- [encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
+- [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
+- [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
 - [Epipy](https://github.com/cmrivers/epipy) :: Epipy is a Python package for epidemiology.
-- [epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
+- [Epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 - [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
    - [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
