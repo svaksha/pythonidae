@@ -93,6 +93,7 @@
 
 ### Bayesian Stats
 - _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
+   + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
 - [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
 - [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp
