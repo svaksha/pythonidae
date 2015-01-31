@@ -1,4 +1,3 @@
-
 - [Data Formats](#data-formats)
 - [Programming Paradigms](#programming-paradigms)
    - [Functional Programming](#functional-programming)
@@ -14,7 +13,6 @@
 ----
 
 # Programming Paradigms
-
 - [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
