@@ -5,6 +5,7 @@
 - [GENOMICS](#genomics)
    - [RNA](#rna)
 - [MICROBIOLOGY](#microbiology)
+   - [Org-biocore](#org-biocore)
 - [MOLECULAR BIOLOGY](#molecular-biology)
 - [NEUROSCIENCE](#neuroscience)
    - [Neural-Networks](#neural-networks)
@@ -105,8 +106,27 @@
 ----
 
 # MICROBIOLOGY
-- [Ebola](https://github.com/cmrivers/ebola) :: Data for the 2014 Global Ebola outbeak.
-- [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
++ [Ebola](https://github.com/cmrivers/ebola) :: Data for the 2014 Global Ebola outbeak.
++ [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
++ [ProkaryMetrics](https://github.com/smdabdoub/ProkaryMetrics) :: Visualize and analyze 3D biofilm data from fluorescent micrographs. http://justicelab.org/pkm
+
+## Org-[biocore](https://github.com/biocore)
++ [burrito](https://github.com/biocore/burrito) :: Python framework for controlling command-line applications.
++ [burrito-fillings](https://github.com/biocore/burrito-fillings) :: Application controllers for command line bioinformatics applications 
++ [emperor](https://github.com/biocore/emperor) :: Emperor a tool for the analysis and visualization of large microbial ecology datasets. http://emperor.colorado.edu
++ [glowing-dangerzone](https://github.com/biocore/glowing-dangerzone) :: Easy SQL connection handlers.
++ [QIIME](http://www.qiime.org) :: Quantitative Insights Into Microbial Ecology. [Official repository](https://github.com/biocore/qiime) for software and unit tests.
+   __Fork__
+   - [phylotoast](https://github.com/smdabdoub/phylotoast) :: Additions to the QIIME (Quantitative Insights Into Microbial Ecology) project including data analysis, visualizations, and cluster-computing support. DOCS :: http://qiime-tools.readthedocs.org
++ [mustached-octo-ironman](https://github.com/biocore/mustached-octo-ironman) :: Easy dispatched compute via in a Tornado environment.
++ [my-microbes](https://github.com/biocore/my-microbes) :: A set of tools for delivering personal microbiome results to individuals participating in microbiome sequencing studies. 
++ [PyNAST](http://biocore.github.io/pynast/) :: Python Nearest Alignment Space Termination tool - Official repository for software and unit tests.
++ [qiita](https://github.com/biocore/qiita) :: A QIIME databasing effort. 
++ [Platypus Conquistador](https://github.com/biocore/Platypus-Conquistador) :: A bioinformatic command line tool for the confirmation of the presence/absence of a specific taxon (or set of taxa) in environmental shotgun sequence reads. 
++ [pyqi](https://github.com/biocore/pyqi) :: Tools for developing and testing command line interfaces in Python. 
++ [StrainDB](https://github.com/biocore/StrainDB) :: A database to store strain genomes.
++ [tax2tree](https://github.com/biocore/tax2tree) :: Automated taxonomy decoration onto a tree.
++ [verman](https://github.com/biocore/verman) :: Python module version information.
 
 ----
 
