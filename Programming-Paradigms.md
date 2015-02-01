@@ -8,6 +8,7 @@
 **Libraries for Data/File formats.**
 - [Arf](https://github.com/melizalab/arf) :: Advanced recording format for physiology and behavior.
 - [lbl](https://github.com/kylerbrown/lbl) :: A python library for reading/writing and manipulating lbl files, represented within python as a numpy record array with fields 'name', 'start', and 'stop'. This format is useful for writing data to the arf file format.
+- [sam](https://github.com/smdabdoub/sam) :: Simple parsing tools in python for SAM-format files.
 - [xlrd3](https://github.com/joidegn/xlrd3) :: port of xlrd for reading excel files to python-3. 
 
 ----
