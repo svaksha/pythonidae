@@ -68,6 +68,7 @@
 - [hts-python](https://github.com/brentp/hts-python) :: pythonic wrapper for libhts.
 - [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
+- [KGML](https://github.com/widdowquinn/KGML) :: Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data.
 - [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
 - [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 - [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
