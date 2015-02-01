@@ -124,6 +124,7 @@
 + [qiita](https://github.com/biocore/qiita) :: A QIIME databasing effort. 
 + [Platypus Conquistador](https://github.com/biocore/Platypus-Conquistador) :: A bioinformatic command line tool for the confirmation of the presence/absence of a specific taxon (or set of taxa) in environmental shotgun sequence reads. 
 + [pyqi](https://github.com/biocore/pyqi) :: Tools for developing and testing command line interfaces in Python. 
++ [scikit-bio](http://scikit-bio.org) :: Core objects, functions and statistics for working with biological data in Python.
 + [StrainDB](https://github.com/biocore/StrainDB) :: A database to store strain genomes.
 + [tax2tree](https://github.com/biocore/tax2tree) :: Automated taxonomy decoration onto a tree.
 + [verman](https://github.com/biocore/verman) :: Python module version information.
