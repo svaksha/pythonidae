@@ -108,6 +108,7 @@
 
 # MICROBIOLOGY
 + [Ebola](https://github.com/cmrivers/ebola) :: Data for the 2014 Global Ebola outbeak.
++ [fylm](https://github.com/jimrybarski/fylm) :: Extracts data from Fission Yeast Lifespan Microdissector images.
 + [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
 + [ProkaryMetrics](https://github.com/smdabdoub/ProkaryMetrics) :: Visualize and analyze 3D biofilm data from fluorescent micrographs. http://justicelab.org/pkm
 
