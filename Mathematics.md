@@ -46,11 +46,12 @@
 
 
 ### Numerical Analysis
-* https://en.wikipedia.org/wiki/Category:Numerical_analysis
-* [Blaze](http://blaze.pydata.org) is the next-generation of NumPy and Pandas for BigData.
-   - [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
++ https://en.wikipedia.org/wiki/Category:Numerical_analysis
++ [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
+   + [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
    **Resources**
-   * [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+   + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+   + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
 * [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
 * [La](http://pypi.python.org/pypi/la) :: Larry, the labeled numpy array. The main class of the la package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension). [Source Code](https://github.com/kwgoodman/la).
 * [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
