@@ -1,8 +1,9 @@
 **Analytical chemistry, cheminformatics, computational chemistry, crystallography, nanochemistry, nuclear chemistry ...**
 
-- [Computational Chemistry](#computational-chemistry)
-- [Molecular Chemistry](#molecular-chemistry)
-- [Quantum Chemistry](#quantum-chemistry)
++ [Computational Chemistry](#computational-chemistry)
+   + [Org-Chemreac](#org-chemreac)
++ [Molecular Chemistry](#molecular-chemistry)
++ [Quantum Chemistry](#quantum-chemistry)
 
 ----
 
@@ -17,6 +18,11 @@
 # Computational Chemistry
 - [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
 - [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
+
+### Org-[Chemreac](https://github.com/chemreac)
+Open Source chemical kinetics library
++ [chemreac](https://github.com/chemreac/chemreac) :: Library for chemical kinetics in homogeneous or isotropically symmetric inhomogenous systems. 
++ [chemreac-benchmarks](https://github.com/chemreac/chemreac-benchmarks) :: benchmarks for chemreac.
 
 ----
 
