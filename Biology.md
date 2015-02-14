@@ -88,6 +88,7 @@
 - [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
 - [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
 - [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
+- [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
 - [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
 - [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 - [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
