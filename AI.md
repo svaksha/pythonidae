@@ -33,7 +33,7 @@
 - [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
 - [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
 - [MLOSS.org](http://mloss.org/software/)
-- MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp )
+- MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp)
 - [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
 - [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
 - [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
@@ -57,9 +57,16 @@
 - [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 - [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
 
+###### Resources
++ [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
++ [Machine Learning HowTo](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/preview?sle=true) from HN.
++ [Alternating Least Squares Method for Collaborative Filtering](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
++ [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
++ [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
++ [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
+
 
 ## Classification Algorithms
-
 ###### Resources
 **Naive Bayes**
 * Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
@@ -67,14 +74,6 @@
 
 ## Graph Theory
 - [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
-
-###### Resources
-- [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
-- [Alternating Least Squares Method for Collaborative Filtering](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
-- [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
-- [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
-- [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
-
 
 ----
 
