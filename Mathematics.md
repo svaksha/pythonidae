@@ -1,16 +1,16 @@
-*  [CRYPTOGRAPHY](#cryptography)
-*  [MATH](#math)
-   - [Algebra](#algebra)
-   - [Calculus](#calculus)
-   - [Geometry](#geometry)
-   - [Numerical Analysis](#numerical-analysis)
-* [MOOC](#mooc)
++  [CRYPTOGRAPHY](#cryptography)
++  [MATH](#math)
+   + [Algebra](#algebra)
+   + [Calculus](#calculus)
+   + [Geometry](#geometry)
+   + [Numerical Analysis](#numerical-analysis)
++ [MOOC](#mooc)
 
 ----
 
 # CRYPTOGRAPHY
-- [Cryptography](https://cryptography.io/) :: A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
-- [ed25519](https://github.com/pyca/ed25519) :: Optimized version of the reference implementation of Ed25519.
++ [Cryptography](https://cryptography.io/) :: A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
++ [ed25519](https://github.com/pyca/ed25519) :: Optimized version of the reference implementation of Ed25519.
 
 ----
 
@@ -37,8 +37,8 @@
 
 
 ### Calculus 
-* [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
-
++ [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
++ [HyperPython](https://github.com/ketch/HyperPython) :: A brief and practical introduction to the solution of [hyperbolic conservation laws](http://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
 
 ### Geometry
 * [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
