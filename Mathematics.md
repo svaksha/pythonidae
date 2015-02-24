@@ -28,11 +28,10 @@
 ### Algebra
 - [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
 - [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
-- [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 - [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
 - [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
 
-##### Resources
+###### Resources
 * [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
 
@@ -63,14 +62,18 @@
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
 * [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
    - [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
-* [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
++ [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
++ [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    - [Official Documentation](http://www.scipy.org/docs.html)
    - [scipy-lectures](http://scipy-lectures.github.io) →  Tutorial material on the scientific Python ecosystem.
-* [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class. 
++ [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class. 
+
+###### Resources
++ [Teaching numerical methods with IPython notebooks](https://github.com/ketch/teaching-numerics-with-notebooks) :: a tutorial prepared for Scipy 2014.
 
 ----
 
 # MOOC
-#### Coursera.org   
+### Coursera.org   
 * [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
