@@ -23,8 +23,11 @@
 - [DX](https://github.com/yhilpisch/dx) :: DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
 - [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
 - [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
-- [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
-   _Resources_
++ [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
+   + [pandasql](https://github.com/yhat/pandasql) :: Query pandas DataFrames using SQL syntax with SQLite.
+   + [sandals](https://github.com/jbochi/sandals) :: Query pandas dataframes and objects using SQL.
+   
+   __Resources__
    - [Documentation](http://pandas.pydata.org/pandas-docs/)
    - Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
    - [Half day pandas tutorial](http://nbviewer.ipython.org/urls/gist.github.com/wesm/5773719/raw/1399562c0a02b9edc3d13c71a70387a31d87260b/tutorial.ipynb) at Pycon Singapore 2013 by WesMcKinney.
