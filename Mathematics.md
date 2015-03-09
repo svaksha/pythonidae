@@ -59,6 +59,7 @@
    **Libraries based on Numpy**
    * [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
    * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
+   * [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/python-numpy-tutorial/)
    * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
 * [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
    - [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
