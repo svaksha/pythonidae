@@ -26,7 +26,7 @@
 + [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    + [pandasql](https://github.com/yhat/pandasql) :: Query pandas DataFrames using SQL syntax with SQLite.
    + [sandals](https://github.com/jbochi/sandals) :: Query pandas dataframes and objects using SQL.
-   
+   + [sql4pandas](https://github.com/keeganmccallum/sql4pandas) :: Efficient SQL bindings for the pandas data analysis library implemented entirely in python. Compile and execute sql queries directly on pandas data frames without copying to an external database. It uses [sqlparse](https://pypi.python.org/pypi/sqlparse) at the backend.
    __Resources__
    - [Documentation](http://pandas.pydata.org/pandas-docs/)
    - Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
