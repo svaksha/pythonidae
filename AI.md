@@ -11,18 +11,19 @@
 
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
-- [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
-- [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
-- [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
-- [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
++ [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
++ [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
++ [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
++ [python-graph](https://github.com/pmatiello/python-graph) :: A library for working with graphs in Python.
++ [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
    __Resources__
    - [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
    - [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
    - [A brief IPython notebook-based tutorial on basic Theano concepts](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb), including a toy multi-layer perceptron example.
-- [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
++ [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
 
 ###### Resources
-- [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College.
++ [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College.
 
 ----
 
@@ -55,9 +56,16 @@
    - [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
    - [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
    - [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
-   + 
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 + [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
+
+## Classification Algorithms
+###### Resources
+**Naive Bayes**
++ Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+
+## Graph Theory
++ [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
 
 ###### Resources
 + Some [machine learning libraries](http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/)
@@ -67,16 +75,6 @@
 + [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
-
-
-## Classification Algorithms
-###### Resources
-**Naive Bayes**
-* Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
-
-
-## Graph Theory
-- [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
 
 ----
 
