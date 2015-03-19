@@ -28,7 +28,8 @@
 - [Glue](https://github.com/glue-viz/glue) :: is a python project to link visualizations of scientific datasets across many files.
 - [GmtPy](http://emolch.github.com/gmtpy) :: A Python interface to GMT. [Tutorial](http://emolch.github.io/gmtpy/tutorial.html)
 - [Healpy](https://github.com/healpy/healpy) :: A python package to manipulate healpix maps, based on the standard numeric and visualisation tools for Python, Numpy and matplotlib.
-- [Matplotlib](http://matplotlib.org/) :: is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
++ [HoloViews](http://ioam.github.io/holoviews) :: A Python package for scientific and engineering data visualization that provides composable, sliceable, declarative data structures for building complex visualizations easily.
++ [Matplotlib](http://matplotlib.org/) :: is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
    __DOCS__
    * [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
 - [Orange](http://orange.biolab.si) :: An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.   
