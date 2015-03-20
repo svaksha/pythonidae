@@ -43,11 +43,11 @@
 ----
     
 # ECOLOGY
-- [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
-- [Bird-colony](https://github.com/melizalab/django-bird-colony) :: A Django application used to manage bird colonies (including breeding colonies).
++ [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
++ [Bird-colony](https://github.com/melizalab/django-bird-colony) :: A Django application used to manage bird colonies (including breeding colonies).
 
 ### Bioacoustics
-- [Chirp](http://melizalab.github.io/chirp/) :: A set of related tools for pitch-based analysis and comparison of bioacoustic signals. [Source code](https://github.com/melizalab/chirp)
++ [Chirp](http://melizalab.github.io/chirp/) :: A set of related tools for pitch-based analysis and comparison of bioacoustic signals. [Source code](https://github.com/melizalab/chirp)
 
 ----
 
@@ -184,13 +184,12 @@
 - [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 - [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
 
-
 ### Neural Networks
 - [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
 - [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
 
 ###### Resources
-- _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
++ _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
    * Chapter-2. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
    * Chapter-3. [Improving the way neural networks learn](neuralnetworksanddeeplearning.com/chap3.html)
@@ -198,21 +197,21 @@
    * Chapter-5. Deep learning
    * Chapter-6. The state of the art in image recognition
    * Chapter-7. The future of neural nets
-- [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)   
-- [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
++ [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)
++ [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
 
 ----
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
 ## OpenWorm
-- The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
-- [PyOpenWorm](https://github.com/openworm/PyOpenWorm) :: Unified, simple data access library for data & facts about c. elegans anatomy.
-- [org.geppetto](https://github.com/openworm/org.geppetto) :: [Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment. 
++ The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
++ [PyOpenWorm](https://github.com/openworm/PyOpenWorm) :: Unified, simple data access library for data & facts about c. elegans anatomy.
++ [org.geppetto](https://github.com/openworm/org.geppetto) :: [Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment. 
 
 ## Synthetic Biology
-- [SynBio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
++ [SynBio](https://bitbucket.org/chapmanb/synbio/src/) :: is a Python Synthetic Biology library collection of synthetic biology code.
 
 ## Structural Biology
-- [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
++ [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 
 

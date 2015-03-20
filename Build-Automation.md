@@ -1,21 +1,23 @@
-**Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...**
+**Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Virtualization, Release engineering and management tools, Software configuration management (SCM) software...**
 
-- [BUILD AUTOMATION](#build-automation)
-- [CONTINUOUS INTEGRATION](#continuous-integration)
-- [PACKAGING](#packaging)
-   - [Sandboxes](#sandboxes)
-   
++ [BUILD AUTOMATION](#build-automation)
++ [CONTINUOUS INTEGRATION](#continuous-integration)
++ [Operating System Technology](#operating-system-technology)
+   + [Packaging](#packaging)
+   + [Sandboxes](#sandboxes)
+   + [Virtualization](#virtualization)
+
 ----
 
 # BUILD AUTOMATION
 + [Autopkg](https://github.com/autopkg) has more automation recipes:
-   - [48kRAM-recipes](https://github.com/autopkg/48kRAM-recipes).
-   - [Hansen-m-recipes](https://github.com/autopkg/hansen-m-recipes) :: More recipes for Autopkg.
-   - [Jaharmi-recipes](https://github.com/autopkg/jaharmi-recipes) :: Recipes for the Mac OS X system administration tool.
-   - [Jleggat-recipes](https://github.com/autopkg/jleggat-recipes) :: Recipes for [autopkg](http://autopkg.github.io/autopkg/).
-   - [ScriptingOSX-recipes](https://github.com/autopkg/scriptingosx-recipes).
-   - [Thenikola-recipes](https://github.com/autopkg/thenikola-recipes).
-   - [Timsutton-recipes](https://github.com/autopkg/timsutton-recipes).
+   + [48kRAM-recipes](https://github.com/autopkg/48kRAM-recipes).
+   + [Hansen-m-recipes](https://github.com/autopkg/hansen-m-recipes) :: More recipes for Autopkg.
+   + [Jaharmi-recipes](https://github.com/autopkg/jaharmi-recipes) :: Recipes for the Mac OS X system administration tool.
+   + [Jleggat-recipes](https://github.com/autopkg/jleggat-recipes) :: Recipes for [autopkg](http://autopkg.github.io/autopkg/).
+   + [ScriptingOSX-recipes](https://github.com/autopkg/scriptingosx-recipes).
+   + [Thenikola-recipes](https://github.com/autopkg/thenikola-recipes).
+   + [Timsutton-recipes](https://github.com/autopkg/timsutton-recipes).
 + [nupic-darwin64](https://github.com/numenta/nupic-darwin64) :: Python distribution for NuPIC on OSX.
 + [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 + [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
@@ -37,12 +39,17 @@
 
 ----
 
-# PACKAGING
-- [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
-- [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
+# [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
+
+### Packaging
++ [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
++ [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
 
 ### Sandboxes
-- [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
-   - [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
-   - [ctox](https://github.com/hayd/ctox) : Tox with conda.
++ [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
+   + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
+   + [ctox](https://github.com/hayd/ctox) : Tox with conda.
+
+### Virtualization
++ [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
 
