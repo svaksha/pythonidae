@@ -1,11 +1,11 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
-- [DATA STRUCTURES](#data-structures)
-- [MACHINE LEARNING](#machine-learning])
++ [DATA STRUCTURES](#data-structures)
++ [MACHINE LEARNING](#machine-learning])
    - [Classification Algorithms](#classification-algorithms)
    - [Graph Theory](#graph-theory)
-- [NLP](#nlp)
-- [RESOURCES](#resources)
++ [NLP](#nlp)
++ [RESOURCES](#resources)
 
 ----
 
@@ -16,6 +16,7 @@
 + [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
 + [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
 + [python-graph](https://github.com/pmatiello/python-graph) :: A library for working with graphs in Python.
++ [sparray](https://github.com/jesolem/sparray) :: Sparse n-dimensional arrays in Python.
 + [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently. 
    __Resources__
    - [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
@@ -29,11 +30,11 @@
 ----
 
 # MACHINE LEARNING
-- [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
-- [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
-- [Machine Learning Video Library](http://work.caltech.edu/library/)
-- [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
-- [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
++ [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
++ [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
++ [Machine Learning Video Library](http://work.caltech.edu/library/)
++ [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
++ [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
 - [MLOSS.org](http://mloss.org/software/)
 - MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp)
 - [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
@@ -43,12 +44,12 @@
 - [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
 - [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
    - [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
-- [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
++ [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
    - [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
    - [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
    - [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
-- [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
++ [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
    __Resources__
    - [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
    - PyData-2014 Talk → [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
@@ -93,12 +94,12 @@
 - [Dragonfly](https://code.google.com/p/dragonfly/) →  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 
 ### Screen Reading
-- [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on. 
++ [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on. 
    __Resources__
-   - [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) →  Single Speaker Speech Recognition with Hidden Markov Models.
+   + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) →  Single Speaker Speech Recognition with Hidden Markov Models.
 
 ----
 
 # RESOURCES
-- [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) 
++ [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) 
 
