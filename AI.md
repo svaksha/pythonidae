@@ -2,8 +2,8 @@
 
 + [DATA STRUCTURES](#data-structures)
 + [MACHINE LEARNING](#machine-learning])
-   - [Classification Algorithms](#classification-algorithms)
-   - [Graph Theory](#graph-theory)
+   + [Classification Algorithms](#classification-algorithms)
+   + [Graph Theory](#graph-theory)
 + [NLP](#nlp)
 + [RESOURCES](#resources)
 
@@ -32,17 +32,18 @@
 # MACHINE LEARNING
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
++ [hips-lib](https://github.com/HIPS/hips-lib) :: Library of common tools for machine learning research.
 + [Machine Learning Video Library](http://work.caltech.edu/library/)
 + [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
 + [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
-- [MLOSS.org](http://mloss.org/software/)
-- MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp)
-- [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
-- [MLTP](https://github.com/stefanv/MLTP) :: ML Timeseries Platform. 
-- [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
-- [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
-- [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
-- [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
++ [MLOSS.org](http://mloss.org/software/)
++ MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp)
++ [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
++ [MLTP](https://github.com/stefanv/MLTP) :: ML Timeseries Platform. 
++ [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
++ [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
++ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
++ [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
    - [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__

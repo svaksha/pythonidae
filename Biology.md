@@ -186,8 +186,11 @@
 - [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
 
 ### Neural Networks
-- [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
-- [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
++ [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
++ [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
++ [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
++ [optofit](https://github.com/HIPS/optofit) :: A python framework for fitting biophysical models to optically recorded neural signals. 
+
 
 ###### Resources
 + _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
