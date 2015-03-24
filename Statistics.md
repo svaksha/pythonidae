@@ -20,9 +20,10 @@
 
 # ACTUARIAL SCIENCE 
 ## Financial Accounting
-- [DX](https://github.com/yhilpisch/dx) :: DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
-- [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
-- [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
++ [autograd](https://github.com/HIPS/autograd) :: Computes derivatives of complicated numpy code. 
++ [DX](https://github.com/yhilpisch/dx) :: DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
++ [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
++ [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
 + [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. [Source code](https://github.com/pydata/pandas)
    + [pandasql](https://github.com/yhat/pandasql) :: Query pandas DataFrames using SQL syntax with SQLite.
    + [sandals](https://github.com/jbochi/sandals) :: Query pandas dataframes and objects using SQL.
