@@ -44,6 +44,7 @@
 ### Packaging
 + [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
 + [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
++ [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
 
 ### Sandboxes
 + [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
