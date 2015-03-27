@@ -14,6 +14,7 @@
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
    + [Structural Biology](#structural-biology)
++ [WORKSHOPS](#workshops)
 
 ----
 
@@ -218,4 +219,8 @@
 ## Structural Biology
 + [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 
+----
+
+# WORKSHOPS
++ [2013-norwich-bioinfo](https://github.com/ngs-docs/2013-norwich-bioinfo) :: 2013 advanced bioinformatics workshop at Norwich.
 
