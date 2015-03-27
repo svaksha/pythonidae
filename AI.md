@@ -82,25 +82,26 @@
 ----
 
 # NLP
-- [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
-- [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
-- [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
-- [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
-- [NLTK](http://www.nltk.org/) →  Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
-- [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
-- [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
++ [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
++ [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
++ [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
++ [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
++ [NLTK](http://www.nltk.org/) :: Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
++ [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
++ [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 
 ### Speech Recognition
-- [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
-- [Dragonfly](https://code.google.com/p/dragonfly/) →  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
++ [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
++ [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 
 ### Screen Reading
 + [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on. 
    __Resources__
-   + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) →  Single Speaker Speech Recognition with Hidden Markov Models.
+   + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) ::  Single Speaker Speech Recognition with Hidden Markov Models.
 
 ----
 
 # RESOURCES
++ [bci-challenge-ner-2015](https://github.com/alexandrebarachant/bci-challenge-ner-2015) :: Code and documentation for the winning solution at the BCI Challenge @ NER 2015 : https://www.kaggle.com/c/inria-bci-challenge
 + [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) 
 

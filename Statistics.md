@@ -1,11 +1,11 @@
 **Statistics, etc...**
 
-- [COOKBOOKS](#cookbooks)
-- [ACTUARIAL SCIENCE](#actuarial-science)
++ [COOKBOOKS](#cookbooks)
++ [ACTUARIAL SCIENCE](#actuarial-science)
    - [Financial Accounting](#financial-accounting)
-- [BENCHMARKS](#benchmarks)
++ [BENCHMARKS](#benchmarks)
    - [Optimization](#optimization)
-- [DATA SCIENCE](#data-science)
++ [DATA SCIENCE](#data-science)
 + [STATISTICS](#statistics)
 + [LearningResources](#learningresources)
 
@@ -85,18 +85,18 @@
 ----
 
 # LearningResources
-- _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
-- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
-- [fpp](https://www.otexts.org/fpp/) :: Forecasting principles and practice - a comprehensive introduction to forecasting methods.
-- MCMC :: Testing MCMC code, [part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
-- [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem
-- [statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) :: IPython notebooks for exercises covered in Stanford's online StatLearning class.
-- [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
-- Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
-- [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
-- [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
-- FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
-- Class repository for [Fall-2013 Statistics-243](https://github.com/paciorek/stat243-fall-2013) (Intro to Statistical Computing) at UC Berkeley.
++ _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
++ [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
++ [fpp](https://www.otexts.org/fpp/) :: Forecasting principles and practice - a comprehensive introduction to forecasting methods.
++ MCMC :: Testing MCMC code, [part 1: unit tests](https://hips.seas.harvard.edu/blog/2013/05/20/testing-mcmc-code-part-1-unit-tests/)
++ [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem
++ [statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) :: IPython notebooks for exercises covered in Stanford's online StatLearning class.
++ [Statistics and Data Mining with Open Source Tools](http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/)
++ Talk :: [IPython and Sympy to Develop a Kalman Filter for Multisensor Data Fusion](https://github.com/balzer82/PyData-Berlin-2014-Kalman) by Paul Balzer at PyData-Berlin-2014 Conference. [Video](https://www.youtube.com/watch?v=XSRr2HHedrY) #StochasticDifferentialEquations.
++ [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/)
++ [Introduction to SciPy](http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/)
++ FIFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950](http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb)
++ Class repository for [Fall-2013 Statistics-243](https://github.com/paciorek/stat243-fall-2013) (Intro to Statistical Computing) at UC Berkeley.
 
 ### Bayesian Stats
 + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
@@ -111,4 +111,5 @@
 + [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox)
 + [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
 
+----
 

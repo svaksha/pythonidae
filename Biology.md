@@ -1,19 +1,19 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-- [BIOGERONTOLOGY](#biogerontology)
-- [BIOTOOLS](#biotools)
-- [ECOLOGY](#ecology)
-- [GENOMICS](#genomics)
-   - [RNA](#rna)
-- [MICROBIOLOGY](#microbiology)
-   - [Org-biocore](#org-biocore)
-- [MOLECULAR BIOLOGY](#molecular-biology)
-- [NEUROSCIENCE](#neuroscience)
-   - [Neural-Networks](#neural-networks)
-- [SYSTEOMICS](#systeomics)
-   - [OpenWorm](#openworm)
-   - [Synthetic Biology](#synthetic-biology)
-   - [Structural Biology](#structural-biology)
++ [BIOGERONTOLOGY](#biogerontology)
++ [BIOTOOLS](#biotools)
++ [ECOLOGY](#ecology)
++ [GENOMICS](#genomics)
+   + [RNA](#rna)
++ [MICROBIOLOGY](#microbiology)
+   + [Org-biocore](#org-biocore)
++ [MOLECULAR BIOLOGY](#molecular-biology)
++ [NEUROSCIENCE](#neuroscience)
+   + [Neural-Networks](#neural-networks)
++ [SYSTEOMICS](#systeomics)
+   + [OpenWorm](#openworm)
+   + [Synthetic Biology](#synthetic-biology)
+   + [Structural Biology](#structural-biology)
 
 ----
 
@@ -24,21 +24,21 @@
 ----
    
 # BIOTOOLS
-- [bionetwork](https://github.com/machbio/bionetwork) :: Graph Database, a network of everything bio.
-- [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
-- [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
-- [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
-- [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
-- [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
-- [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
-- [Epipy](https://github.com/cmrivers/epipy) :: Epipy is a Python package for epidemiology.
-- [Epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
-- [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
++ [bionetwork](https://github.com/machbio/bionetwork) :: Graph Database, a network of everything bio.
++ [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
++ [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
++ [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
++ [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
++ [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
++ [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
++ [Epipy](https://github.com/cmrivers/epipy) :: Epipy is a Python package for epidemiology.
++ [Epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
++ [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
    - [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
    - [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
-- [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
-- [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
++ [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
++ [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
 ----
     
@@ -77,41 +77,41 @@
 - [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
 - [KGML](https://github.com/widdowquinn/KGML) :: Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data.
 - [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
-- [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
-- [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
-- [HasBin](https://github.com/bpow/HasBin) :: A project for keeping track of genes/diagnoses and custom annotations.
-- [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
-- [methtools](https://github.com/bgruening/methtools) :: Tools for the processing of genome-wide bisulfite sequencing data.
-- [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
-- [mmgenome](http://madsalbertsen.github.io/mmgenome/) :: Tools for extracting individual genomes from metagneomes.
-- [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
-- [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
-- [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
-- [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
-- [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
-- [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
-- [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
-- [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
-- [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
-- [singlecell](https://github.com/roryk/singlecell) data analysis incubator for analysing single-cell data generated by the method outlined here: http://biorxiv.org/content/early/2014/03/05/003236
++ [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
++ [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
++ [HasBin](https://github.com/bpow/HasBin) :: A project for keeping track of genes/diagnoses and custom annotations.
++ [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
++ [methtools](https://github.com/bgruening/methtools) :: Tools for the processing of genome-wide bisulfite sequencing data.
++ [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
++ [mmgenome](http://madsalbertsen.github.io/mmgenome/) :: Tools for extracting individual genomes from metagneomes.
++ [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
++ [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
++ [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
++ [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
++ [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
++ [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
++ [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
++ [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
++ [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
++ [singlecell](https://github.com/roryk/singlecell) data analysis incubator for analysing single-cell data generated by the method outlined here: http://biorxiv.org/content/early/2014/03/05/003236
 + [Smash](https://github.com/amplab/smash) :: A benchmarking toolkit for variant calling.
 + [theprimerdirective](https://github.com/jimrybarski/theprimerdirective) :: A Python interface to Primer3. 
 
 ### RNA
-- [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
-- [gimme](https://github.com/likit/gimme) :: A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
-- [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
-- Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
++ [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
++ [gimme](https://github.com/likit/gimme) :: A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
++ [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
++ Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
 
 ###### Publications
-- Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
-- Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
-- Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
-- Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
++ Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
++ Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
++ Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
++ Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
 
 ###### Resources
-- Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
-- [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
++ Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
++ [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
 
 ----
 
@@ -171,19 +171,19 @@
 + [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
     - [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
 + [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
-- [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
-- [pipelines](https://github.com/NeuroanatomyAndConnectivity/pipelines) :: Neuroimgaing data processing pipelines used in the lab.
-- [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
-- [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
-- [pydcemri](https://github.com/welcheb/pydcemri) :: Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp.
-- [PyCogMo](https://github.com/agravier/pycogmo) :: is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions.
-- [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
-- Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
-- [PYEZMINC](https://github.com/BIC-MNI/pyezminc) :: is a python module to read and write MINC files.
-- [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
-- [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
-- [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
-- [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
++ [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
++ [pipelines](https://github.com/NeuroanatomyAndConnectivity/pipelines) :: Neuroimgaing data processing pipelines used in the lab.
++ [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
++ [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
++ [pydcemri](https://github.com/welcheb/pydcemri) :: Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp.
++ [PyCogMo](https://github.com/agravier/pycogmo) :: is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions.
++ [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
++ Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
++ [PYEZMINC](https://github.com/BIC-MNI/pyezminc) :: is a python module to read and write MINC files.
++ [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
++ [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
++ [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
++ [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
 
 ### Neural Networks
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
