@@ -14,7 +14,7 @@
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
    + [Structural Biology](#structural-biology)
-+ [WORKSHOPS](#workshops)
++ [RESOURCES](#resources)
 
 ----
 
@@ -221,6 +221,10 @@
 
 ----
 
-# WORKSHOPS
+# RESOURCES
+__Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + [2013-norwich-bioinfo](https://github.com/ngs-docs/2013-norwich-bioinfo) :: 2013 advanced bioinformatics workshop at Norwich.
++ [2013-norwich-biology](https://github.com/ngs-docs/2013-norwich-biology) :: Advanced biology workshop at Norwich.
++ [2013-davis-assembly](https://github.com/ngs-docs/2013-davis-assembly)
+
 
