@@ -226,5 +226,5 @@ __Cookbooks, tutorials and learning materials from Workshops, hackathon codebase
 + [2013-norwich-bioinfo](https://github.com/ngs-docs/2013-norwich-bioinfo) :: 2013 advanced bioinformatics workshop at Norwich.
 + [2013-norwich-biology](https://github.com/ngs-docs/2013-norwich-biology) :: Advanced biology workshop at Norwich.
 + [2013-davis-assembly](https://github.com/ngs-docs/2013-davis-assembly)
-
++ [2015-khmer-wok4-multimap](https://github.com/ctb/2015-khmer-wok4-multimap)
 
