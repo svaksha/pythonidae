@@ -2,10 +2,10 @@
 
 + [COOKBOOKS](#cookbooks)
 + [ACTUARIAL SCIENCE](#actuarial-science)
-   - [Financial Accounting](#financial-accounting)
-+ [BENCHMARKS](#benchmarks)
-   - [Optimization](#optimization)
+   + [Financial Accounting](#financial-accounting)
 + [DATA SCIENCE](#data-science)
++ [OPERATIONS RESEARCH](#operations-research)
+   + [Optimization](#optimization)
 + [STATISTICS](#statistics)
 + [LearningResources](#learningresources)
 
@@ -58,16 +58,17 @@
     
 ----
 
-# BENCHMARKS
-### Optimization
-+ [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
-+ [Mystic](https://github.com/uqfoundation/mystic) :: highly-constrained non-convex optimization and uncertainty quantification.
-
-----
-
 # DATA SCIENCE
 + Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
 + [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
+
+----
+
+# OPERATIONS RESEARCH
+### Optimization
++ [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
++ [Mystic](https://github.com/uqfoundation/mystic) :: highly-constrained non-convex optimization and uncertainty quantification.
++ [nelder-mead](https://github.com/fchollet/nelder-mead) :: Pure Python/Numpy implementation of the Nelder-Mead algorithm. 
 
 ----
 
