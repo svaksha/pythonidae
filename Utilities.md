@@ -1,8 +1,9 @@
-- [2to3](#2to3)
-- [DOCUMENTATION](#documentation)
-- [General Utilities](#general-utilities)
++ [2to3](#2to3)
++ [DOCUMENTATION](#documentation)
++ [General Utilities](#general-utilities)
    - [Desktop Document Processing](#desktop-document-processing)
-- [TERMINAL](#terminal)
++ [HARDWARE](#hardware)
++ [TERMINAL](#terminal)
 
 ----
 
@@ -22,6 +23,11 @@ __Python 2&3 tools__
 # General Utilities 
 ## Desktop Document processing 
 * [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
+
+----
+
+# HARDWARE
++ [aravisGigE](https://github.com/areaDetector/aravisGigE) :: An EPICS areaDetector driver using the glib aravis library for video acquisition with Genicam cameras. 
 
 ----
 
