@@ -10,7 +10,7 @@
 ----
 
 # BigData
-- [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
++ [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
 
 ----
 

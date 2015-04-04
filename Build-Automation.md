@@ -27,7 +27,7 @@
 
 # CONTINUOUS INTEGRATION
 
-##### CI Resources
+##### Resources
 * Blog post series on Continuous integration in Python by @jni:
    * [Volume 1: automated tests with pytest](http://ilovesymposia.com/2014/10/01/continuous-integration-0-automated-tests-with-pytest/)
    * [Volume 2: measuring test coverage](http://ilovesymposia.com/2014/10/02/continuous-integration-1-test-coverage/)
@@ -41,16 +41,24 @@
 
 # [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
 
-### Packaging
+## Packaging
 + [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
 + [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
 
-### Sandboxes
+## Sandboxes
+
+#### Anaconda
 + [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
-   + [ctox](https://github.com/hayd/ctox) : Tox with conda.
+   + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
+   
+###### Resources
++ [Continuum Analytics: Documentation](http://docs.continuum.io)
++ [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3
 
-### Virtualization
+****
+
+## Virtualization
 + [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
 
