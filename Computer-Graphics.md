@@ -21,6 +21,7 @@
 ----
 
 # INFOGRAPHICS
+__Visualization software__
 + [Arfview](https://github.com/kylerbrown/arfview) :: A data visualization program for use with data in the arf format.
 + [Biggles](https://github.com/nolta/biggles) : Scientific Plotting with/in/for Python.
 + [Bokeh](http://bokeh.pydata.org) :: is a Python library for visualizing large and realtime datasets on the web. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity to thin clients. Bokeh includes its own Javascript library (BokehJS) that implements a reactive scenegraph representation of the plot, and renders efficiently to HTML5 Canvas. Bokeh works well with IPython Notebook, but can generate standalone graphics that embed into regular HTML. If you are a Matplotlib user, you can just use %bokeh magic to start interacting with your plots in the notebook immediately!
@@ -38,6 +39,7 @@
 - [Pygal](http://pygal.org) :: PYthon SVG GrAph plotting Library. [Source code](https://github.com/Kozea/pygal).
 - [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 - [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
++ [SnakeViz](https://github.com/jiffyclub/snakeviz) :: A viewer for Python profiling data that runs as a web application in your browser. 
 - [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
 - [YT](http://yt-project.org/):: A python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community.
 
