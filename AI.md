@@ -94,6 +94,8 @@
 + [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
++ [IEPY](https://github.com/machinalis/iepy) :: IEPY is an open source tool for Information Extraction focused on Relation Extraction.
++ [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
 
 ### Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
