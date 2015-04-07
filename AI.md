@@ -94,6 +94,7 @@
 + [NLTK](http://www.nltk.org/) :: Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 + [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 + [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
++ [PLY](https://github.com/dabeaz/ply) :: Python Lex-Yacc. http://www.dabeaz.com/ply/index.html
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 
