@@ -33,6 +33,7 @@
 # MACHINE LEARNING
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
++ [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 + [hips-lib](https://github.com/HIPS/hips-lib) :: Library of common tools for machine learning research.
 + [Machine Learning Video Library](http://work.caltech.edu/library/)
 + [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
@@ -45,15 +46,13 @@
 + [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
 + [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
 + [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance. 
-   - [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
+   + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
    + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
    + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
    + [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
    + [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) :: Materials for @jakevdp's Pycon 2015 scikit-learn tutorial. 
-   + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
-
 + [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
    __Resources__
    - [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
@@ -89,14 +88,14 @@
 # NLP
 + [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
 + [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
++ [IEPY](https://github.com/machinalis/iepy) :: An open source tool for Information Extraction focused on Relation Extraction.
 + [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
 + [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
 + [NLTK](http://www.nltk.org/) :: Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk) 
 + [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
++ [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
-+ [IEPY](https://github.com/machinalis/iepy) :: IEPY is an open source tool for Information Extraction focused on Relation Extraction.
-+ [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
 
 ### Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
