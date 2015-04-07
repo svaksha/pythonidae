@@ -1,6 +1,7 @@
 + [Data Formats](#data-formats)
 + [Programming Paradigms](#programming-paradigms)
    + [Functional Programming](#functional-programming)
+   + [RE](#re)
    + [Software Optimization](#software-optimization)
 
 ----
@@ -24,6 +25,9 @@
 
 ### Functional Programming 
 + [fn.py](https://github.com/kachayev/fn.py) :: Implementation of missing features to enjoy Functional programming in Python.
+
+### RE
++ [refo](https://github.com/machinalis/refo) :: Regular expressions for objects. 
 
 ### [Software Optimization](https://en.wikipedia.org/wiki/Category:Software_optimization) 
 + [line_profiler](https://github.com/rkern/line_profiler) :: Line-by-line profiling for Python. 
