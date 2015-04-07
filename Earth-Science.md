@@ -41,6 +41,7 @@
 + [Cora](https://github.com/radiocosmology/cora) :: Code for simulating skies for 21cm Intensity Mapping, including galactic and extragalactic foregrounds.
 + [Driftscan](https://github.com/radiocosmology/driftscan) :: A Python project for simulating and analysing the transit radio interferometers telescopes, with a particular focus on 21cm Cosmology.
 + [geopandas](https://github.com/geopandas/geopandas) :: Python tools for geographic data.
++ [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) :: A toolbox for visualizing geographical data.
 + [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
 + [geo-tools](https://github.com/jesolem/geo-tools) :: Collection of Python modules for working with geo data.
 + [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
