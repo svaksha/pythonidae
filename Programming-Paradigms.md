@@ -13,7 +13,8 @@
 + [PyCIF](https://github.com/quantumjockey/pycif) :: A python module for reading from, writing to, and manipulating International Union of Crystallography (IUCr) CIF-formatted data files.
 + [pymarkdown](https://github.com/mrocklin/pymarkdown) :: Evaluate code in markdown.
 + [sam](https://github.com/smdabdoub/sam) :: Simple parsing tools in python for SAM-format files.
-+ [xlrd3](https://github.com/joidegn/xlrd3) :: port of xlrd for reading excel files to python-3. 
++ [xlrd3](https://github.com/joidegn/xlrd3) :: Port of xlrd for reading excel files to python-3. 
++ [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
 
 ----
 
