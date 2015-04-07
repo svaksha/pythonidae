@@ -19,6 +19,7 @@
 
 # Programming Paradigms
 + [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
++ [me-al](https://github.com/dabeaz/me-al) :: Meẗal - The Decorator.
 
 ### Functional Programming 
 + [fn.py](https://github.com/kachayev/fn.py) :: Implementation of missing features to enjoy Functional programming in Python.
