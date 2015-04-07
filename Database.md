@@ -1,20 +1,22 @@
-- [HDF](#hdf)
-- [NoSQL](#nosql)
++ [HDF](#hdf)
++ [NoSQL](#nosql)
    * [Neo4J](#neo4j)
    * [SciDB](#scidb)
-- [RESOURCES](#resources)
++ [RDBMS](#rdbms)
+   + [PostgreSQL](#postgresql)
++ [RESOURCES](#resources)
 
 ----
 
 # HDF
 **Resources**
-- [HDF5 Tutorial](https://github.com/scopatz/hdf5-is-for-lovers)
++ [HDF5 Tutorial](https://github.com/scopatz/hdf5-is-for-lovers)
 
 ----
 
 # NoSQL
 ## Neo4J 
-* [Neomodel](https://github.com/robinedwards/neomodel) :: An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
++ [Neomodel](https://github.com/robinedwards/neomodel) :: An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
 
 ## SciDB
 - [SciDB-py](https://github.com/Paradigm4/SciDB-py) :: Python wrapper for [SciDB](http://scidb.org) queries.
@@ -31,5 +33,11 @@
 
 ----
 
+# RDBMS
+## PostgreSQL
++ [governor](https://github.com/compose/governor) :: Runners to orchestrate a high-availability PostgreSQL. 
+
+----
+
 # RESOURCES
-* [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
++ [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
