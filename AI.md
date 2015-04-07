@@ -52,6 +52,7 @@
    + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
    + [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
    + [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) :: Materials for @jakevdp's Pycon 2015 scikit-learn tutorial. 
+   + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
 
 + [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
    __Resources__
