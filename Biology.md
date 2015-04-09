@@ -120,8 +120,11 @@
 # MICROBIOLOGY
 + [Ebola](https://github.com/cmrivers/ebola) :: Data for the 2014 Global Ebola outbeak.
 + [fylm](https://github.com/jimrybarski/fylm) :: Extracts data from Fission Yeast Lifespan Microdissector images.
++ [molecbio](https://github.com/dave-the-scientist/molecbio) :: Molecular biology informatics functions. 
++ [patternHmm](https://github.com/dave-the-scientist/patternHmm) :: Matching patterns of symbols using a profile Hidden Markov Model.
 + [phageParser](https://github.com/BillMills/phageParser) :: A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
 + [ProkaryMetrics](https://github.com/smdabdoub/ProkaryMetrics) :: Visualize and analyze 3D biofilm data from fluorescent micrographs. http://justicelab.org/pkm
+
 
 ## Org-[biocore](https://github.com/biocore)
 + [burrito](https://github.com/biocore/burrito) :: Python framework for controlling command-line applications.
