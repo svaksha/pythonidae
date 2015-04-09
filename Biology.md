@@ -53,31 +53,32 @@
 ----
 
 # GENOMICS
-- [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
-- [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
-- [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
-- [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
-- [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
-- [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
++ [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
++ [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
++ [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
++ [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
++ [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
++ [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
    - [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
    - [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
-- [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
-- [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
-- [CompleteGenomicsTools](https://github.com/seandavi/CompleteGenomicsTools) →  Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing. Software for manipulating and visualizing Complete Genomics data, with a [focus on cancer](http://watson.nci.nih.gov/~sdavis/software/cgent/)
-- [CaPSID](https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification) :: A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/).
-- [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
-- [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
-- Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
++ [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
++ [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
++ [CompleteGenomicsTools](https://github.com/seandavi/CompleteGenomicsTools) →  Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing. Software for manipulating and visualizing Complete Genomics data, with a [focus on cancer](http://watson.nci.nih.gov/~sdavis/software/cgent/)
++ [CaPSID](https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification) :: A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/).
++ [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
++ [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
++ [figmop](https://github.com/dave-the-scientist/figmop) :: Finding Genes using Motif Patterns. 
++ Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
    - [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
-- [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
-- [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
-- [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
-- [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
-- [hts-python](https://github.com/brentp/hts-python) :: pythonic wrapper for libhts.
-- [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
-- [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
-- [KGML](https://github.com/widdowquinn/KGML) :: Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data.
-- [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
++ [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
++ [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
++ [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
++ [hapmuc](https://github.com/usuyama/hapmuc) ::  A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations. 
++ [hts-python](https://github.com/brentp/hts-python) :: pythonic wrapper for libhts.
++ [HTSeq](https://pypi.python.org/pypi/HTSeq) :: A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
++ [khmer](https://github.com/ged-lab/khmer) :: In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)
++ [KGML](https://github.com/widdowquinn/KGML) :: Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data.
++ [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
 + [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
 + [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
 + [HasBin](https://github.com/bpow/HasBin) :: A project for keeping track of genes/diagnoses and custom annotations.
