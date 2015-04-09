@@ -42,12 +42,11 @@
 # [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
 
 ## Packaging
-+ [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide)
++ [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide) and another post explaining Python [Modules, Packages, and all that](https://python4astronomers.github.io/installation/packages.html).
 + [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
 
 ## Sandboxes
-
 #### Anaconda
 + [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
@@ -57,7 +56,6 @@
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
 + [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3
 
-****
 
 ## Virtualization
 + [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
