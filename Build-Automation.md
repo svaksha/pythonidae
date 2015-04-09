@@ -42,9 +42,12 @@
 # [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
 
 ## Packaging
-+ [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide) and another post explaining Python [Modules, Packages, and all that](https://python4astronomers.github.io/installation/packages.html).
 + [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
+
+###### Resources
++ [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide) 
++ Another post explaining Python [Modules, Packages, and all that](https://python4astronomers.github.io/installation/packages.html).
 
 ## Sandboxes
 #### Anaconda
