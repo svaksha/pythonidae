@@ -9,6 +9,7 @@
 ----
 
 # Genome
++ Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
 + [WormBase](http://www.wormbase.org/species/all#0--10) :: Species genomes with standardized sequence and annotations.
 + [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from "neglected taxa" using the PartiGene suite of programmes.
 + [Nematode Transcriptome Analyses](http://www.nematodes.org/nembase4/)
