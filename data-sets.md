@@ -9,7 +9,7 @@
 ----
 
 # Genome
-+ [WormBase](http://www.wormbase.org/species/all#0--10] :: Species genomes with standardized sequence and annotations.
++ [WormBase](http://www.wormbase.org/species/all#0--10) :: Species genomes with standardized sequence and annotations.
 + [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from "neglected taxa" using the PartiGene suite of programmes.
 + [Nematode Transcriptome Analyses](http://www.nematodes.org/nembase4/)
 * [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
