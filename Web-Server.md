@@ -2,6 +2,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 + [FRAMEWORKS](#frameworks)
 + [Web Crawlers](#web-crawlers)
++ [NETWORKING](#networking)
 
 ----
 
@@ -19,5 +20,9 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [scrapy](http://scrapy.org/) :: A fast high-level web crawling and screen scraping framework for Python. [Source code](https://github.com/scrapy/scrapy).
 + [Soupy](https://github.com/ChrisBeaumont/soupy) :: A wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
 
+----
+
+# NETWORKING
++ [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
 
