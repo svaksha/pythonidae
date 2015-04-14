@@ -1,11 +1,11 @@
-- [BigData](#bigdata)
-- [Books](#books)
-- [Bootstrapping](#bootstrapping)
-- [Blogs](#blogs)
-- [Cheatsheets](#cheatsheets)
-- [Cookbooks](#cookbooks)
-- [Lists](#lists)
-- [Videos](#Videos)
++ [BigData](#bigdata)
++ [Books](#books)
++ [Bootstrapping](#bootstrapping)
++ [Blogs](#blogs)
++ [Cheatsheets](#cheatsheets)
++ [Cookbooks](#cookbooks)
++ [Lists](#lists)
++ [Videos](#Videos)
 
 ----
 
@@ -34,7 +34,7 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - [Python Koans](https://github.com/gregmalcolm/python_koans) :: Learn Python through TDD.
 
 ### Begin-Git
-- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
++ [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 ----
 
@@ -80,4 +80,6 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 ----
 
 # Videos
-- [PyData Tutorial videos](http://vimeo.com/channels/612789)
+__Conference talk videos go to the `Community.md` page__
++ [PyData Tutorial videos](http://vimeo.com/channels/612789)
+
