@@ -62,6 +62,7 @@ __Python 2&3 tools__
 
 # HARDWARE
 + [aravisGigE](https://github.com/areaDetector/aravisGigE) :: An EPICS areaDetector driver using the glib aravis library for video acquisition with Genicam cameras. Python is used to create databases and edm screens from the XML file.
++ [Migen](https://github.com/m-labs/migen) :: A Python toolbox for building complex digital hardware by [M-Labs](http://m-labs.hk).
 
 ----
 
