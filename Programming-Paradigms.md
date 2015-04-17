@@ -21,8 +21,9 @@
 ----
 
 # Programming Paradigms
-+ [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
++ [Boltons](https://github.com/mahmoud/boltons) :: A set of over 100 BSD-licensed, pure-Python utilities in the same spirit as the standard library.
 + [me-al](https://github.com/dabeaz/me-al) :: Meẗal - The Decorator.
++ [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
 + [fn.py](https://github.com/kachayev/fn.py) :: Implementation of missing features to enjoy Functional programming in Python.
