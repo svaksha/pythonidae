@@ -158,23 +158,24 @@
 ----
 
 # NEUROSCIENCE
-- [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
-- [brainx](https://github.com/nipy/brainx) :: Tools for analysis of brain imaging-derived networks, based on NetworkX.
-- [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
-- [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
-- [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
-- [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
-- [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
-- [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
-- [MNE](http://martinos.org/mne/) :: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
-   - [Basic introduction to MNE Python processing](https://github.com/mne-tools/mne-python-intro).
++ [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
++ [brainx](https://github.com/nipy/brainx) :: Tools for analysis of brain imaging-derived networks, based on NetworkX.
++ [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
++ [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
++ [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
++ [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
++ [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
++ [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
++ [MNE](http://martinos.org/mne/) :: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
+   + [Basic introduction to MNE Python processing](https://github.com/mne-tools/mne-python-intro).
 + [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
 + [Neurosciences](https://github.com/rougier/Neurosciences) :: Computational Neurosciences repository.
 + [NIPY](https://github.com/nipy) developers group on GH.
 + [nibabel](http://nipy.org/nibabel/) :: Python package to access a cacophony of neuro-imaging file formats. [Source code](https://github.com/nipy/nibabel).
++ [NIDM](https://github.com/incf-nidash/nidm) ::  Neuroimaging Data Model (NIDM) describing neuroimaging data and provenance. http://nidm.nidash.org
 + [nipype](https://github.com/nipy/nipype) :: Workflows and interfaces for neuroimaging packages. [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/).
 + [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
-    - [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
+   + [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
 + [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
 + [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 + [pipelines](https://github.com/NeuroanatomyAndConnectivity/pipelines) :: Neuroimgaing data processing pipelines used in the lab.
