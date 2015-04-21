@@ -27,8 +27,9 @@
 ----
 
 # General Datasets
-* [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
-* [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
++ [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
++ [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
++ [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
 
 ----
 
