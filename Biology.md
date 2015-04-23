@@ -196,7 +196,7 @@
 + [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
 + [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
 + [optofit](https://github.com/HIPS/optofit) :: A python framework for fitting biophysical models to optically recorded neural signals. 
-
++ [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
 + _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
