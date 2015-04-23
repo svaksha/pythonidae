@@ -1,16 +1,11 @@
-+ [BigData](#bigdata)
 + [Books](#books)
 + [Bootstrapping](#bootstrapping)
 + [Blogs](#blogs)
 + [Cheatsheets](#cheatsheets)
 + [Cookbooks](#cookbooks)
 + [Lists](#lists)
++ [Organisations](#organisations)
 + [Videos](#Videos)
-
-----
-
-# BigData
-+ [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
 
 ----
 
@@ -48,34 +43,40 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 - @bugra muses "[I wish I knew these things when I learned Python](https://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)".
 
 ### CS Education
-- [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
-- [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
-- [Intro CS notebooks](https://github.com/alanedelman/ExploringIntroCS) :: Playing around with codes for Intro CS.
++ [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) for scientists.
++ [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
++ [Intro CS notebooks](https://github.com/alanedelman/ExploringIntroCS) :: Playing around with codes for Intro CS.
 
 ###### Data Science
-- [How To Choose A Data Science Project For Your Data Science Portfolio](http://www.getadatasciencejob.com/advice/how-to-choose-a-data-science-project-for-your-data-science-portfolio)
-- [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
-- [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
++ [How To Choose A Data Science Project For Your Data Science Portfolio](http://www.getadatasciencejob.com/advice/how-to-choose-a-data-science-project-for-your-data-science-portfolio)
++ [Data Science Specialization](https://datasciencespecialization.github.io) :: A community curated content directory.
++ [Big Data vs. Ed Psychology : Work harder vs. work smarter](https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/)
 
 ----
 
 # Cheatsheets
-- [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
-- [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
++ [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
++ [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
 ----
 
 # Cookbooks
-- [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
-- [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
++ [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
++ [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
 
 ----
 
 # Lists
-- [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
-- [The definitive list of (awesome) lists curated on GitHub](https://github.com/jnv/lists#technical)
-- [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
-- [The Open-Source Data Science Masters](http://datasciencemasters.org)
++ [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
++ [The definitive list of (awesome) lists curated on GitHub](https://github.com/jnv/lists#technical)
++ [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
++ [The Open-Source Data Science Masters](http://datasciencemasters.org)
+
+----
+
+# Organisations
++ [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
++ [OSF.io](https://github.com/CenterForOpenScience/osf.io) :: The Open Science Framework (OSF) supports the entire research lifecycle: planning, execution, reporting, archiving, and discovery.
 
 ----
 
