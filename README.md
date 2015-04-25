@@ -47,6 +47,6 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae), c
 + Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
 + For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
 + For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) page.
-+ For those unable to use git, create a github account, fork the 'Julia.jl' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
++ For those unable to use git, create a github account, fork the 'pythonidae' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
 
