@@ -209,6 +209,8 @@
    * Chapter-7. The future of neural nets
 + [Deep Neural Networks: A Getting Started Tutorial](http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx)
 + [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
++ [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
++ [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
 
 ----
 
