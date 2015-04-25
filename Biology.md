@@ -161,6 +161,7 @@
 + [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
 + [brainx](https://github.com/nipy/brainx) :: Tools for analysis of brain imaging-derived networks, based on NetworkX.
 + [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
++ [CPAC](https://github.com/FCP-INDI/C-PAC) :: A configurable pipeline for rsfMRI/connectome analyses.
 + [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
 + [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
 + [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
