@@ -191,6 +191,7 @@
 + [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 + [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
++ [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg)
 
 ### Neural Networks
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
