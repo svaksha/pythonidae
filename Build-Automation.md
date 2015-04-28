@@ -6,6 +6,7 @@
    + [Packaging](#packaging)
    + [Sandboxes](#sandboxes)
    + [Virtualization](#virtualization)
++ [NEWS](#news)
 
 ----
 
@@ -65,4 +66,9 @@
 
 ## Virtualization
 + [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
+
+----
+
+# NEWS
++ [Devops Weekly](http://www.devopsweekly.com/).
 
