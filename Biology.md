@@ -228,6 +228,7 @@
 ## Structural Biology
 + [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 + [Halpain-Lab](http://www.ccb.tu-dortmund.de/groups/CB/bastiaens/dehmelt/NeuriteQuant/) :: Automated analysis for Fluorescent Microscopy of iPSC and in-vitro cell culture images. [Source Code](https://github.com/GrantRVD/Halpain-Lab).
++ [SBioA](https://github.com/aloctavodia/SBioA)  An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
 
 ----
 
