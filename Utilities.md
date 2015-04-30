@@ -1,11 +1,12 @@
 + [2to3](#2to3)
 + [DOCUMENTATION](#documentation)
-+ [General Utilities](#general-utilities)
-   + [Utils](#utils)
-   + [Desktop Document Processing](#desktop-document-processing)
-   + [Jupyter-IPython](#jupyter-ipython)
++ [ENVIRONMENTS](#environments)
+   + [Org-Jupyter](#org-jupyter)
 + [HARDWARE](#hardware)
 + [TERMINAL](#terminal)
++ [UTILS](#utils)
+   + [Desktop Document Processing](#desktop-document-processing)
+   + [Utils](#utils)
 
 ----
 
@@ -22,25 +23,23 @@ __Python 2&3 tools__
 
 ----
 
-# General Utilities 
-**Desktop User Interface, GUI, IDE's, etc..**
+# ENVIRONMENTS
+**Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
-## Desktop Document processing 
-+ [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
-
-## Jupyter-IPython
+## Org-[Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/), provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits.
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
-- [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
-- [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
-- [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a %sql (or %%sql) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
-- [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
-- [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
-- [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
++ [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
++ [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
++ [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a %sql (or %%sql) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
++ [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
++ [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
++ [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
 
 ###### Resources
++ [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
 + [IPython quick reference sheets](http://damontallen.github.io/IPython-quick-ref-sheets/)
 + D3 in IPython Notebook-2 :: [Here is an example of getting information back from d3 into the kernel](http://nbviewer.ipython.org/gist/anonymous/9975962) and another [eventful_graph and eventful_dict datastructures written for a demo with live-updating graphs (NetworkX -> D3)](https://gist.github.com/takluyver/9619942351cdc571a302). Mailing list discussion: http://mail.scipy.org/pipermail/ipython-dev/2014-June/014109.html
@@ -54,11 +53,6 @@ __Python 2&3 tools__
 + [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
 + [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
 
-
-## Utils
-+ [duecredit](https://github.com/yarikoptic/duecredit) :: A package to fix problems of inadequate scientific software/methods citations.
-+ [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
-
 ----
 
 # HARDWARE
@@ -70,3 +64,17 @@ __Python 2&3 tools__
 # TERMINAL
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) :: Library for building powerful interactive command lines in Python.
 + [pythonpy](https://github.com/Russell91/pythonpy) :: command line kung-fu with python.
+
+----
+
+# UTILS
+General tools & useful utilities 
+
+## Desktop Document processing 
++ [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
+
+## Tools
++ [duecredit](https://github.com/yarikoptic/duecredit) :: A package to fix problems of inadequate scientific software/methods citations.
++ [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
+
+

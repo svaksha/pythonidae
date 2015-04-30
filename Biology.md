@@ -14,7 +14,6 @@
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
    + [Structural Biology](#structural-biology)
-+ [RESOURCES](#resources)
 
 ----
 
@@ -105,15 +104,20 @@
 + [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
 
-###### Publications
+###### Research Publications
 + Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
 + Kenneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013.
 + Elien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013.
 + Marc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification](http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012.
 
 ###### Resources
+__Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + Notes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm)
 + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
++ [2013-norwich-bioinfo](https://github.com/ngs-docs/2013-norwich-bioinfo) :: 2013 advanced bioinformatics workshop at Norwich.
++ [2013-norwich-biology](https://github.com/ngs-docs/2013-norwich-biology) :: Advanced biology workshop at Norwich.
++ [2013-davis-assembly](https://github.com/ngs-docs/2013-davis-assembly)
++ [2015-khmer-wok4-multimap](https://github.com/ctb/2015-khmer-wok4-multimap)
 
 ----
 
@@ -133,7 +137,7 @@
 + [glowing-dangerzone](https://github.com/biocore/glowing-dangerzone) :: Easy SQL connection handlers.
 + [QIIME](http://www.qiime.org) :: Quantitative Insights Into Microbial Ecology. [Official repository](https://github.com/biocore/qiime) for software and unit tests.
    __Fork__
-   - [phylotoast](https://github.com/smdabdoub/phylotoast) :: Additions to the QIIME (Quantitative Insights Into Microbial Ecology) project including data analysis, visualizations, and cluster-computing support. DOCS :: http://qiime-tools.readthedocs.org
+   + [phylotoast](https://github.com/smdabdoub/phylotoast) :: Additions to the QIIME (Quantitative Insights Into Microbial Ecology) project including data analysis, visualizations, and cluster-computing support. DOCS :: http://qiime-tools.readthedocs.org
 + [mustached-octo-ironman](https://github.com/biocore/mustached-octo-ironman) :: Easy dispatched compute via in a Tornado environment.
 + [my-microbes](https://github.com/biocore/my-microbes) :: A set of tools for delivering personal microbiome results to individuals participating in microbiome sequencing studies. 
 + [PyNAST](http://biocore.github.io/pynast/) :: Python Nearest Alignment Space Termination tool - Official repository for software and unit tests.
@@ -148,12 +152,14 @@
 ----
 
 # MOLECULAR BIOLOGY
-- [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
-   __Resources__
-   - [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
-- [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
-- [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda - [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/pandegroup/msmbuilder) to report bugs and contribute patches.
-- [tRNA_evo](https://github.com/vhsvhs/trna_evo) :: This project analyzes the evolution of tRNAs, from across the tree of life. How prevalent is anticodon switching?
++ [BioPython](http://biopython.org) :: project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
++ [bcbb](https://github.com/chapmanb/bcbb) :: An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)
++ [MSMBuilder](http://msmbuilder.org/) :: An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda : [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/pandegroup/msmbuilder) to report bugs and contribute patches.
++ [tRNA_evo](https://github.com/vhsvhs/trna_evo) :: This project analyzes the evolution of tRNAs, from across the tree of life. How prevalent is anticodon switching?
+
+###### Resources
+__Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
++ [GFF Parsing](http://biopython.org/wiki/GFF_Parsing) notes.
 
 ----
 
@@ -191,7 +197,7 @@
 + [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 + [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
-+ [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg)
++ [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg).
 
 ### Neural Networks
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
@@ -201,6 +207,7 @@
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
+__Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
    * Chapter-2. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
@@ -228,14 +235,9 @@
 ## Structural Biology
 + [CheShift](https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures.
 + [Halpain-Lab](http://www.ccb.tu-dortmund.de/groups/CB/bastiaens/dehmelt/NeuriteQuant/) :: Automated analysis for Fluorescent Microscopy of iPSC and in-vitro cell culture images. [Source Code](https://github.com/GrantRVD/Halpain-Lab).
-+ [SBioA](https://github.com/aloctavodia/SBioA)  An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
 
-----
+###### Resources
+__Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
++ [SBioA](https://github.com/aloctavodia/SBioA) :: An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
 
-# RESOURCES
-__Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
-+ [2013-norwich-bioinfo](https://github.com/ngs-docs/2013-norwich-bioinfo) :: 2013 advanced bioinformatics workshop at Norwich.
-+ [2013-norwich-biology](https://github.com/ngs-docs/2013-norwich-biology) :: Advanced biology workshop at Norwich.
-+ [2013-davis-assembly](https://github.com/ngs-docs/2013-davis-assembly)
-+ [2015-khmer-wok4-multimap](https://github.com/ctb/2015-khmer-wok4-multimap)
 
