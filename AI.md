@@ -67,14 +67,18 @@
 
 
 ## Classification Algorithms
+
 ###### Resources
 **Naive Bayes**
 + Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
+
 ## Graph Theory
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
 
+
 ###### Resources
++ [Amazon Machine Learning: use cases and a real example in Python](http://cloudacademy.com/blog/aws-machine-learning/).
 + Some [machine learning libraries](http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/)
 + [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 + [Machine Learning HowTo](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/preview?sle=true) from HN.
