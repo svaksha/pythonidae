@@ -4,6 +4,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
    * [AWS](#aws)
    * [APACHE](#apache)
    * [HPC](#hpc)
++ [Virtualization](#virtualization)
 
 ----
 
@@ -24,10 +25,10 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 
 ## APACHE 
-- [SparklingPandas](https://github.com/holdenk/sparklingpandas) aims to make it easy to use the distributed computing power of Py[Spark](http://spark.apache.org/) to scale your data anlysis with Pandas.
++ [SparklingPandas](https://github.com/holdenk/sparklingpandas) aims to make it easy to use the distributed computing power of Py[Spark](http://spark.apache.org/) to scale your data anlysis with Pandas.
 
 #### Hadoop
-* [Hue](https://github.com/cloudera/hue) ::  is a Web application for interacting with Apache Hadoop. It supports a file and job browser, Hive, Pig, Impala, Spark, Oozie, HBase, Solr, Sqoop2, ZooKeeper and more.
++ [Hue](https://github.com/cloudera/hue) ::  is a Web application for interacting with Apache Hadoop. It supports a file and job browser, Hive, Pig, Impala, Spark, Oozie, HBase, Solr, Sqoop2, ZooKeeper and more.
 
 
 ## HPC
@@ -36,3 +37,11 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [Pythran](https://pypi.python.org/pypi/pythran) :: A Static Compilation of Parallel Scientific Kernels a.k.a. Python/Numpy compiler for the mass. [Source Code](https://github.com/serge-sans-paille/pythran) on Github.
    + __Resources__
    + PyData Paris [talk slides](https://serge-sans-paille.github.io/talks/pydata-2015-04-03.html#/0/1).
+   
+----
+
+# [Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
++ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
+
+
+   
