@@ -37,6 +37,8 @@ __Python 2&3 tools__
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
 + [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
++ [Rodeo](https://github.com/yhat/rodeo/) :: A data science IDE for Python - an alternative UI to the notebook for the IPython Kernel, heavily inspired by great projects like Sublime Text and Eclipse.
+   + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
 
 ###### Resources
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
