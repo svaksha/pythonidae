@@ -10,6 +10,7 @@
 + [MOLECULAR BIOLOGY](#molecular-biology)
 + [NEUROSCIENCE](#neuroscience)
    + [Neural-Networks](#neural-networks)
+   + [Neuropsychology](#neuropsychology)
 + [SYSTEOMICS](#systeomics)
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
@@ -184,7 +185,6 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
    + [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
 + [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
-+ [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
 + [pipelines](https://github.com/NeuroanatomyAndConnectivity/pipelines) :: Neuroimgaing data processing pipelines used in the lab.
 + [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
 + [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
@@ -196,8 +196,6 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
 + [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
-+ [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
-+ [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg).
 
 ### Neural Networks
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
@@ -220,6 +218,12 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
 + [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 + [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
+
+### Neuropsychology
++ [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
++ [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
++ [python-pyepl](http://neuro.debian.net/pkgs/python-pyepl.html) :: A module for coding psychology experiments in Python.
++ [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg).
 
 ----
 
