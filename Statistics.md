@@ -7,7 +7,7 @@
 + [OPERATIONS RESEARCH](#operations-research)
    + [Optimization](#optimization)
 + [STATISTICS](#statistics)
-+ [LearningResources](#learningresources)
++ [RESOURCES](#resources)
 
 ----
 
@@ -68,7 +68,7 @@
    + [Half day pandas tutorial](http://nbviewer.ipython.org/urls/gist.github.com/wesm/5773719/raw/1399562c0a02b9edc3d13c71a70387a31d87260b/tutorial.ipynb) at Pycon Singapore 2013 by WesMcKinney.
    + [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
    + [Learn-Pandas](https://bitbucket.org/hrojas/learn-pandas) via ipython notebooks OR use the [Pandas Bootcamp App](https://pandasbootcamp.herokuapp.com/).
-   + [Pandas101](http://2014.pycon-au.org/wiki/Miniconfs/Miniconf/Pandas101) miniconf talk at pycon-au, 2014. Talk [Video](http://youtu.be/1QOMk2k9aI8) and [Slides](https://slideviewer.herokuapp.com/github/lexual/2014-PyConAU-Pandas-talk/blob/master/slides.ipynb#/)
+   + [Pandas101](http://2014.pycon-au.org/wiki/Miniconfs/Miniconf/Pandas101) miniconf talk at pycon-au, 2014. Talk [Video](http://youtu.be/1QOMk2k9aI8) and the talk [slides](https://slideviewer.herokuapp.com/github/lexual/2014-PyConAU-Pandas-talk/blob/master/slides.ipynb#/).
    + [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)
    + Baypiggies meetup on Pandas Data Analysis [slides](https://www.youtube.com/watch?v=3Chgzna2nMg) and [talk video](https://www.youtube.com/watch?v=3Chgzna2nMg) with accompanying IPython notebooks while listening to the audio in the video (that's what was on the screen):
         - https://www.wakari.io/sharing/bundle/hayd/baypiggies
@@ -79,6 +79,7 @@
 + [pandaSDMX](https://github.com/dr-leo/pandaSDMX) :: An Apache 2.0-licensed Python package to retrieve and acquire statistical data and metadata disseminated in SDMX format. It works well with the SDMX services of the European statistics office (Eurostat) and the European Central Bank (ECB).
 + [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
 + [pymbar](https://github.com/choderalab/pymbar) :: Statistically optimal analysis of samples from multiple equilibrium states.
++ [PyMix](https://pypi.python.org/pypi/pymix) :: The Python mixture package.
 + [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
 + [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
@@ -86,7 +87,7 @@
 
 ----
 
-# LearningResources
+# RESOURCES
 + _Book_ "thinkstats" :: [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen B.Downey.
 + [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction.
 + [fpp](https://www.otexts.org/fpp/) :: Forecasting principles and practice - a comprehensive introduction to forecasting methods.
