@@ -43,6 +43,7 @@
 ----
 
 # Neuroscience
++ [Debian Packages for Neuroscience Datasets](http://neuro.debian.net/pkglists/toc_pkgs_for_field_datasets.html#toc-pkgs-for-field-datasets)
 * [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 * [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
 * [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.

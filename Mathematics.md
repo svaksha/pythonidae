@@ -15,14 +15,14 @@
 ----
 
 # MATH
-- [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
++ [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
    - Notebook showing the [Benchmark for querying the MovieLens dataset using pandas and bcolz](http://nbviewer.ipython.org/github/Blosc/movielens-bench/blob/master/querying-ep14.ipynb)
-- [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
-- [bquery](https://github.com/visualfabriq/bquery) :: A query and aggregation framework for Bcolz.
-- [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
-- [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
-- [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
-- [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
++ [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
++ [bquery](https://github.com/visualfabriq/bquery) :: A query and aggregation framework for Bcolz.
++ [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
+ [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
++ [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
++ [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
 
 
 ### Algebra
@@ -32,6 +32,7 @@
 - [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
 
 ###### Resources
++ Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
 + Dr. Juan H Klopper has created an IPython notebook for each MIT-OCW lecture on [Linear Algebra (18.06)](http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/) by [Prof. Gilbert Strang](http://www-math.mit.edu/~gs/).
 + [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
@@ -77,5 +78,5 @@
 + IPython Notebooks training material for [ML, Numpy, Pandas and IPython](https://github.com/addfor/tutorials) distributed by Addfor s.r.l.
 
 ### Coursera.org   
-* [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
++ [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
