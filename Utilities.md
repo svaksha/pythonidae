@@ -6,6 +6,7 @@
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
    + [Desktop Document Processing](#desktop-document-processing)
+   + [File Compression](#file-compression)
    + [Utils](#utils)
 
 ----
@@ -74,6 +75,9 @@ General tools & useful utilities
 
 ## Desktop Document processing 
 + [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
+
+## File Compression
++ [bitshuffle]((https://github.com/kiyo-masui/bitshuffle) :: Filter for improving compression of typed binary data. 
 
 ## Tools
 + [duecredit](https://github.com/yarikoptic/duecredit) :: A package to fix problems of inadequate scientific software/methods citations.
