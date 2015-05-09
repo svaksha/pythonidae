@@ -69,7 +69,7 @@
 + [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
 + [figmop](https://github.com/dave-the-scientist/figmop) :: Finding Genes using Motif Patterns. 
 + Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
-   - [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
+   + [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 + [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 + [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
@@ -145,7 +145,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [qiita](https://github.com/biocore/qiita) :: A QIIME databasing effort. 
 + [Platypus Conquistador](https://github.com/biocore/Platypus-Conquistador) :: A bioinformatic command line tool for the confirmation of the presence/absence of a specific taxon (or set of taxa) in environmental shotgun sequence reads. 
 + [pyqi](https://github.com/biocore/pyqi) :: Tools for developing and testing command line interfaces in Python. 
-+ [scikit-bio](http://scikit-bio.org) :: Core objects, functions and statistics for working with biological data in Python.
++ [scikit-bio](http://scikit-bio.org) :: Core objects, functions and statistics for working with biological data in Python. [Source code](https://github.com/biocore/scikit-bio).
 + [StrainDB](https://github.com/biocore/StrainDB) :: A database to store strain genomes.
 + [tax2tree](https://github.com/biocore/tax2tree) :: Automated taxonomy decoration onto a tree.
 + [verman](https://github.com/biocore/verman) :: Python module version information.
