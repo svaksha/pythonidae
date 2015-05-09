@@ -13,7 +13,7 @@
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
 + [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
 + [keras](https://github.com/fchollet/keras) :: Theano-based Deep Learning library.
-+ [LA](https://pypi.python.org/pypi/la) :: Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension).
++ [LA](https://pypi.python.org/pypi/la) :: Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels and data is stored as a NumPy array with labels as a list of lists (one list per dimension).
 + [propagator.py](https://github.com/lucastx/propagator.py) :: A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator. 
 + [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
 + [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
@@ -65,10 +65,10 @@
    - [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 + [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
++ [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
 
 
 ## Classification Algorithms
-
 ###### Resources
 **Naive Bayes**
 + Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
