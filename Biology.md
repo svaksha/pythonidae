@@ -15,6 +15,7 @@
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
    + [Structural Biology](#structural-biology)
++ [ETC.](#etc)
 
 ----
 
@@ -243,5 +244,11 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 ###### Resources
 __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + [SBioA](https://github.com/aloctavodia/SBioA) :: An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
+
+----
+
+# ETC.
++ [MSDS](http://www.msdsonline.com/msds-search/)
++ [NIH project reporter](http://projectreporter.nih.gov/reporter.cfm)
 
 

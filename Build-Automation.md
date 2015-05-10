@@ -72,3 +72,5 @@
 # NEWS
 + [Devops Weekly](http://www.devopsweekly.com/).
 
+### Interesting Reads
++ [HN thread](https://news.ycombinator.com/item?id=9517392) on the blog post [Python 3 in Science: the great migration has begun](https://astrofrog.github.io/blog/2015/05/09/2015-survey-results/) by astrofrog.
