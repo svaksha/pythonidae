@@ -229,6 +229,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 ----
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
+
 ## OpenWorm
 + The [OpenWorm](http://www.openworm.org) project aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. Read more on [Wikipedia](http://en.wikipedia.org/wiki/OpenWorm) and their various [projects on github](https://github.com/openworm/).
 + [PyOpenWorm](https://github.com/openworm/PyOpenWorm) :: Unified, simple data access library for data & facts about c. elegans anatomy.
@@ -244,6 +245,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 ###### Resources
 __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + [SBioA](https://github.com/aloctavodia/SBioA) :: An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
++ [PymolWiki](http://www.pymolwiki.org/index.php/Main_Page) :: Guide for PyMol users.
 
 ----
 
