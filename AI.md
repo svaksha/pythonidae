@@ -66,6 +66,8 @@
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 + [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
 + [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
+   + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
+
 
 
 ## Classification Algorithms
