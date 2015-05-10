@@ -248,7 +248,12 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 ----
 
 # ETC.
-+ [MSDS](http://www.msdsonline.com/msds-search/)
 + [NIH project reporter](http://projectreporter.nih.gov/reporter.cfm)
++ [ExPASy](http://expasy.org/) :: The SIB Bioinformatics Resource Portal which provides access to scientific databases and software tools (i.e., resources) in different areas of life sciences including proteomics, genomics, phylogeny, systems biology, population genetics, transcriptomics etc.
++ [MSDS](http://www.msdsonline.com/msds-search/)
++ [Open WetWare](http://openwetware.org/wiki/Main_Page) :: A wiki for molecular biology protocols.
++ [MolBio Tools](http://molbiol-tools.ca) :: Tools for molecular biology.
++ [Protocol-online](http://www.protocol-online.org) :: A Q&A portal for molecular biology protocols.
+
 
 
