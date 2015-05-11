@@ -78,6 +78,7 @@
    + Common Excel Tasks Demonstrated in Pandas :: [Part-ONE](http://pbpython.com/excel-pandas-comp.html) and [Part-TWO](http://pbpython.com/excel-pandas-comp-2.html)
 + [pandaSDMX](https://github.com/dr-leo/pandaSDMX) :: An Apache 2.0-licensed Python package to retrieve and acquire statistical data and metadata disseminated in SDMX format. It works well with the SDMX services of the European statistics office (Eurostat) and the European Central Bank (ECB).
 + [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
++ [permute](https://github.com/statlab/permute) :: Permutation tests and confidence sets.
 + [pymbar](https://github.com/choderalab/pymbar) :: Statistically optimal analysis of samples from multiple equilibrium states.
 + [PyMix](https://pypi.python.org/pypi/pymix) :: The Python mixture package.
 + [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
