@@ -58,6 +58,7 @@
 + [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
+   + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI. 
    
 ###### Resources
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
