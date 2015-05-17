@@ -59,6 +59,12 @@
 
 ----
 
+# Medical Imaging
++ [Computed Tomography Emphysema Database](http://image.diku.dk/emphysema_database/)
++ Cornell's Public [Medical Image Databases](http://www.via.cornell.edu/databases/)
+
+----
+
 # Molecular Biology
 + [SASBDB](http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank.
 
