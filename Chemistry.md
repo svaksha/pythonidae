@@ -35,6 +35,7 @@ Open Source chemical kinetics library
 
 # [Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 + [tomopy](https://github.com/tomopy/tomopy) :: An open-sourced Python toolbox to perform tomographic data processing and image reconstruction tasks at the Advanced Photon Source. [Documentation](https://tomopy.readthedocs.org/).
++ [GSAS_Bayes](https://github.com/AntonGagin/GSAS_Bayes) :: Extension to the Rietveld package GSAS-II.
 
 ----
 
