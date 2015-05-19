@@ -48,6 +48,7 @@
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
 
 ###### Resources
++ AOSA book [Python Packaging](http://www.aosabook.org/en/packaging.html) by Tarek Ziadé.
 + [Python Packaging User Guide](https://github.com/pypa/python-packaging-user-guide) 
 + Another post explaining Python [Modules, Packages, and all that](https://python4astronomers.github.io/installation/packages.html).
 + How to [Port Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html) and write a proper [trove classifier](https://pypi.python.org/pypi?%3Aaction=list_classifiers) specifying what versions of Python are supported in your `setup.py` file. Here is the idioms [cheat-sheet](http://python-future.org/compatible_idioms.html)
