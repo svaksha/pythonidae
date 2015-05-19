@@ -32,9 +32,10 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 
 ## HPC
-+ [Pyston](https://github.com/dropbox/pyston) → is an open-source Python implementation using JIT techniques, built using LLVM for performance speed. Their blog [introducing Pyston](https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/)
-+ [PySGE](https://github.com/jiahao/PySGE) :: Low-level Python interface to Sun Grid Engine. 
-+ [Pythran](https://pypi.python.org/pypi/pythran) :: A Static Compilation of Parallel Scientific Kernels a.k.a. Python/Numpy compiler for the mass. [Source Code](https://github.com/serge-sans-paille/pythran) on Github.
++ [Dask](http://dask.pydata.org) :: Task scheduling and blocked algorithms for parallel processing. [Source code](https://github.com/ContinuumIO/dask) and [Documentation](https://dask.pydata.org/en/latest/).
++ [Pyston](https://github.com/dropbox/pyston) : An open-source Python implementation using JIT techniques, built using LLVM for performance speed. Their blog [introducing Pyston](https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/)
++ [PySGE](https://github.com/jiahao/PySGE) : Low-level Python interface to Sun Grid Engine. 
++ [Pythran](https://pypi.python.org/pypi/pythran) : A Static Compilation of Parallel Scientific Kernels a.k.a. Python/Numpy compiler for the mass. [Source Code](https://github.com/serge-sans-paille/pythran) on Github.
    + __Resources__
    + PyData Paris [talk slides](https://serge-sans-paille.github.io/talks/pydata-2015-04-03.html#/0/1).
    

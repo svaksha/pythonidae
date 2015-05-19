@@ -4,7 +4,7 @@
    + [Org-Chemreac](#org-chemreac)
 + [Molecular Chemistry](#molecular-chemistry)
 + [Physical Chemistry](#physical-chemistry)
-   + [Solid-State Chemistry](#solid-state-chemistry)
+   + [Solid State Chemistry](#solid-state-chemistry)
 + [Quantum Chemistry](#quantum-chemistry)
 
 ----
@@ -35,7 +35,7 @@ Open Source chemical kinetics library
 
 # [Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 
-## [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
+## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [GSAS_Bayes](https://github.com/AntonGagin/GSAS_Bayes) :: Extension to the Rietveld package GSAS-II.
 + [tomopy](https://github.com/tomopy/tomopy) :: An open-sourced Python toolbox to perform tomographic data processing and image reconstruction tasks at the Advanced Photon Source. [Documentation](https://tomopy.readthedocs.org/).
 
