@@ -9,6 +9,7 @@
 
 ----
 
++ [Chemharp](https://github.com/Luthaf/Chemharp) :: An efficient IO library for chemistry file formats.
 + [ChemSpiPy](https://github.com/mcs07/ChemSpiPy) :: Python wrapper for the ChemSpider API. [Documentation](http://chemspipy.readthedocs.org)
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, rewritten as PyQuante2 to clean up the old package.
 + [Pymatgen](http://pymatgen.org/) :: is the [Python materials analysis library](https://pypi.python.org/pypi/pymatgen/2.4.3) powering the [Materials Project](http://www.materialsproject.org). [Source code](https://github.com/materialsproject/pymatgen). 
@@ -18,8 +19,8 @@
 ----
 
 # Computational Chemistry
-- [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
-- [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
++ [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
++ [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
 
 ### Org-[Chemreac](https://github.com/chemreac)
 Open Source chemical kinetics library
