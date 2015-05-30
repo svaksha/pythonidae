@@ -36,6 +36,7 @@
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models. 
 + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 + [hips-lib](https://github.com/HIPS/hips-lib) :: Library of common tools for machine learning research.
++ [MachineLearning](https://github.com/LocalGroupAstrostatistics2015/MachineLearning) :: Materials for the Wednesday Afternoon Machine Learning workshop.
 + [Machine Learning Video Library](http://work.caltech.edu/library/)
 + [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
 + [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
@@ -67,7 +68,6 @@
 + [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
 + [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
    + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
-
 
 
 ## Classification Algorithms
