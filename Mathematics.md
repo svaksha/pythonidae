@@ -58,17 +58,18 @@
 * [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 * [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
 * [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
-   **Libraries based on Numpy**
-   * [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
-   * __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
-   * [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/python-numpy-tutorial/)
-   * [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
+   + **Libraries based on Numpy**
+   + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
+   + __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
+   + [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/python-numpy-tutorial/)
+   + [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
+   + A quick reference guide to the commonly used [NumPy functions](http://people.duke.edu/~ccc14/pcfb/numpympl/NumpyBasics.html).
 + [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
    + [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
 + [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 + [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
-   - [Official Documentation](http://www.scipy.org/docs.html)
-   - [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
+   + [Official Documentation](http://www.scipy.org/docs.html)
+   + [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
 + [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class. 
 
 ----
