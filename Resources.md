@@ -55,9 +55,9 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 ----
 
 # Cheatsheets
++ [Python Basic Operators](http://www.tutorialspoint.com/python/python_basic_operators.htm)
 
-
-----
+---
 
 # Cookbooks
 + [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
