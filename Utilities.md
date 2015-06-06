@@ -27,6 +27,8 @@ __Python 2&3 tools__
 # ENVIRONMENTS
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
++ [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. http://jedi.jedidjah.ch/
+
 ## Org-[Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/), provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits.
 + [bookmarkd](https://github.com/ryansb/bookmarkd) :: Markdown -> IPython conversion tool. 
