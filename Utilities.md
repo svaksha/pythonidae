@@ -29,6 +29,7 @@ __Python 2&3 tools__
 
 ## Org-[Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/), provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits.
++ [bookmarkd](https://github.com/ryansb/bookmarkd) :: Markdown -> IPython conversion tool. 
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
