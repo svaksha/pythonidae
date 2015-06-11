@@ -44,6 +44,8 @@
 
 # [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
 
++ [klusta_process_manager](https://github.com/tymoreau/klusta_process_manager) :: A process manager.
+
 ## Packaging
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub. 
 + [Changes](https://github.com/michaeljoseph/changes) :: It automates python library release tasks.
