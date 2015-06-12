@@ -44,6 +44,7 @@
 + [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) :: A toolbox for visualizing geographical data.
 + [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
 + [geo-tools](https://github.com/jesolem/geo-tools) :: Collection of Python modules for working with geo data.
++ [Iris](http://scitools.org.uk/iris/) :: A Python library for Meteorology and Climatology. The Iris library implements a data model to create a data abstraction layer which isolates analysis and visualisation code from data format specifics. 
 + [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 + [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
 + [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
