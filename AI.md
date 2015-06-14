@@ -11,7 +11,7 @@
 
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
-+ [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org)
++ [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org).
 + [keras](https://github.com/fchollet/keras) :: Theano-based Deep Learning library.
 + [LA](https://pypi.python.org/pypi/la) :: Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels and data is stored as a NumPy array with labels as a list of lists (one list per dimension).
 + [netcdf4-python](https://github.com/Unidata/netcdf4-python) :: A python/numpy interface to the netCDF C library. http://unidata.github.io/netcdf4-python
