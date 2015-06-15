@@ -45,6 +45,7 @@ __Python 2&3 tools__
    + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
 
 ###### Resources
++ [Jupyter notebook beginner guide](https://github.com/tritemio/jupyter_notebook_beginner_guide) :: A brief guide to install and run Jupyter/IPython notebooks.
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
 + [IPython quick reference sheets](http://damontallen.github.io/IPython-quick-ref-sheets/)
