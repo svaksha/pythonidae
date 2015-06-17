@@ -11,6 +11,9 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [scrapy](http://scrapy.org/) :: A fast high-level web crawling and screen scraping framework for Python. [Source code](https://github.com/scrapy/scrapy).
 + [Soupy](https://github.com/ChrisBeaumont/soupy) :: A wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
 
+###### Resources
++ [image_project](https://github.com/IEPUG/image_project) :: A group learning project to scrape flickr, extract some GPS EXIF info from the images, save the images to local storage, and insert some meta data into an sqlite database using SQLAlchemy.
+
 ----
 
 # FRAMEWORKS
