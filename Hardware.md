@@ -2,6 +2,7 @@
 
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
++ [Robots](#robots)
 + [Tools](#tools)
 
 ----
@@ -15,6 +16,11 @@
 **Implementations of numerical algorithms for computations in systems and control theory.**
 
 + [Adskalman](https://github.com/astraw/adskalman) :: Kalman filtering routine in Python/numpy.
+
+----
+
+# Robots
++ [baldr](https://github.com/motet/baldr) :: A flight simulator for quadrotor drones written entirely in Python. 
 
 ----
 
