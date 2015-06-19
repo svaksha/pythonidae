@@ -25,12 +25,13 @@
 + [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
 + [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
 + [Pyfin](https://github.com/opendoor-labs/pyfin) :: Basic options pricing in Python with basic Greeks calculation across valuation models, discrete dividends support in the lattice (binomial tree) and Monte Carlo simulation models.
-+ [PyMC](https://github.com/pymc-devs/pymc) :: is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
-   - __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
-   - [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
++ [PyMC](https://github.com/pymc-devs/pymc) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
+   + __Talk__ : [Bayesian Data Analysis with PyMC3](https://github.com/twiecki/pymc3_talk) by @twiecki.
+   + [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
++ [PyMC3](https://github.com/pymc-devs/pymc3) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms.
 + [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
 + [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
-   - [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
+   + [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
 + [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 ###### Resources
@@ -84,9 +85,9 @@
    + [Pandas101](http://2014.pycon-au.org/wiki/Miniconfs/Miniconf/Pandas101) miniconf talk at pycon-au, 2014. Talk [Video](http://youtu.be/1QOMk2k9aI8) and the talk [slides](https://slideviewer.herokuapp.com/github/lexual/2014-PyConAU-Pandas-talk/blob/master/slides.ipynb#/).
    + [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)
    + Baypiggies meetup on Pandas Data Analysis [slides](https://www.youtube.com/watch?v=3Chgzna2nMg) and [talk video](https://www.youtube.com/watch?v=3Chgzna2nMg) with accompanying IPython notebooks while listening to the audio in the video (that's what was on the screen):
-        - https://www.wakari.io/sharing/bundle/hayd/baypiggies
-        - https://www.wakari.io/sharing/bundle/hayd/vbench
-        - https://www.wakari.io/sharing/bundle/hayd/pandorable  
+        + https://www.wakari.io/sharing/bundle/hayd/baypiggies
+        + https://www.wakari.io/sharing/bundle/hayd/vbench
+        + https://www.wakari.io/sharing/bundle/hayd/pandorable  
    + [Apache log analysis with Pandas](http://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb)   
    + Common Excel Tasks Demonstrated in Pandas :: [Part-ONE](http://pbpython.com/excel-pandas-comp.html) and [Part-TWO](http://pbpython.com/excel-pandas-comp-2.html)
 
