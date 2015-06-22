@@ -84,7 +84,7 @@ General tools & useful utilities
 + [bitshuffle]((https://github.com/kiyo-masui/bitshuffle) :: Filter for improving compression of typed binary data. 
 
 ## Tools
-+ [duecredit](https://github.com/yarikoptic/duecredit) :: A package to fix problems of inadequate scientific software/methods citations.
++ [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
 + [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
 
 
