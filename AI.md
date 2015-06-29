@@ -38,11 +38,11 @@
 + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 + [hips-lib](https://github.com/HIPS/hips-lib) :: Library of common tools for machine learning research.
 + [MachineLearning](https://github.com/LocalGroupAstrostatistics2015/MachineLearning) :: Materials for the Wednesday Afternoon Machine Learning workshop.
-+ [Machine Learning Video Library](http://work.caltech.edu/library/)
++ [Machine Learning Video Library](http://work.caltech.edu/library/).
 + [Masque](https://github.com/faithlessfriend/masque) :: Experiments on Deep Learning and Emotion Classification.
-+ [MILK](http://www.luispedro.org/software/milk) → Machine Learning Toolkit.
++ [MILK](http://www.luispedro.org/software/milk) :: Machine Learning Toolkit.
 + [MLOSS.org](http://mloss.org/software/)
-+ MLTRP → [Machine Learning and the Traveling Repairman Problem](https://github.com/thejat/mltrp)
++ [MLTRP](https://github.com/thejat/mltrp) :: Machine Learning and the Traveling Repairman Problem.
 + [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
 + [MLTP](https://github.com/stefanv/MLTP) :: ML Timeseries Platform. 
 + [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).

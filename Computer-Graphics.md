@@ -7,6 +7,7 @@
 
 # GRAPHICS 
 + [bitarray](https://github.com/ilanschnell/bitarray) :: This module provides an object type which efficiently represents an array of booleans.
++ [colour-analysis](https://github.com/colour-science/colour-analysis) :: Image analysis tools based on Colour and Vispy.
 + [EigenFace](https://github.com/bugra/EigenFace) :: EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
 + [Gizeh](https://github.com/Zulko/gizeh) :: Simple Vector Graphics for Python. 
    - [Vector Animations With Python](https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/) using Gizeh.
