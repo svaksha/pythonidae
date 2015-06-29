@@ -2,6 +2,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 + [CRAWLERS](#crawlers)
 + [FRAMEWORKS](#frameworks)
++ [FRONT-END](#front-end)
 + [JAVASCRIPT](#javascript)
 + [NETWORKING](#networking)
 
@@ -23,6 +24,11 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ###### Resources
 + [Hello Web App](http://hellowebapp.com) :: An Introduction to web app development using Python and Django with notes on how to package and install necessary files for [deployment on Heroku](https://github.com/hellowebapp/hellowebapp-deploy) and the [code repository](https://github.com/hellowebapp/hellowebapp-code) for Hello Web App.
+
+----
+
+# FRONT-END
++ [pyotherside](http://thp.io/2011/pyotherside/) :: Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
 
 ----
 
