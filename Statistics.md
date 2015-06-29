@@ -60,6 +60,7 @@
 + [distcan](https://github.com/spencerlyon2/distcan) :: Probability distributions for python in their canonical form.
 + [emcee](http://dan.iel.fm/emcee) :: The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
 + [hypergrad](https://github.com/HIPS/hypergrad) :: Exploring differentiation w.r.t hyperparameters. 
++ [mcnets](https://github.com/stuhlmueller/mcnets) :: Adaptive Markov chain networks.
 + [pandaSDMX](https://github.com/dr-leo/pandaSDMX) :: An Apache 2.0-licensed Python package to retrieve and acquire statistical data and metadata disseminated in SDMX format. It works well with the SDMX services of the European statistics office (Eurostat) and the European Central Bank (ECB).
 + [Patsy](https://github.com/pydata/patsy) :: Describing statistical models in Python using symbolic formulas.
 + [permute](https://github.com/statlab/permute) :: Permutation tests and confidence sets.
