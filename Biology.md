@@ -3,6 +3,7 @@
 + [BIOGERONTOLOGY](#biogerontology)
 + [BIOTOOLS](#biotools)
 + [ECOLOGY](#ecology)
++ [EMR](#emr)
 + [GENOMICS](#genomics)
    + [RNA](#rna)
 + [MICROBIOLOGY](#microbiology)
@@ -44,6 +45,11 @@
 
 ----
     
+# EMR
++ [AuShadha](https://github.com/dreaswar/AuShadha) :: AuShadha (औषध) means medicine in Sanskrit. This is a Electronic Medical Records (EMR) and Public Health Management for small clinics written in Django and Dojo.
+
+----
+
 # ECOLOGY
 + [Macroeco](http://macroeco.org) :: Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
 + [Bird-colony](https://github.com/melizalab/django-bird-colony) :: A Django application used to manage bird colonies (including breeding colonies).
