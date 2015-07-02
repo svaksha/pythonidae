@@ -71,6 +71,8 @@
    + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
 
 ###### Resources
++ [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
++ [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
 + [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) :: Classical equations and diagrams in machine learning by @soulmachine.
 + Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
 + [Machine Learning cheatsheet](http://eferm.com/machine-learning-cheat-sheet/).
