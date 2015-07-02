@@ -70,6 +70,13 @@
 + [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
    + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
 
+###### Resources
++ [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) :: Classical equations and diagrams in machine learning by @soulmachine.
++ Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
++ [Machine Learning cheatsheet](http://eferm.com/machine-learning-cheat-sheet/).
++ [Big Data Machine Learning Patterns for Predictive Analytics](http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho.
++ A HN site for [ML](http://news.startup.ml/).
+
 
 ## Classification Algorithms
 ###### Resources
