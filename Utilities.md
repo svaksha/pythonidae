@@ -43,6 +43,7 @@ __Python 2&3 tools__
 + [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
 + [Rodeo](https://github.com/yhat/rodeo/) :: A data science IDE for Python - an alternative UI to the notebook for the IPython Kernel, heavily inspired by great projects like Sublime Text and Eclipse.
    + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
++ [sudospawner](https://github.com/jupyter/sudospawner) :: Spawn JupyterHub single-user servers with sudo.
 + [vIPer](https://github.com/damianavila/vIPer) :: A new tool for IPython notebooks. 
 
 ###### Resources
