@@ -38,6 +38,7 @@ __Python 2&3 tools__
 + [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
 + [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
 + [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a %sql (or %%sql) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
++ [jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) :: A tool for testing Jupyter kernels. 
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
 + [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
