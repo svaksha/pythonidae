@@ -53,6 +53,7 @@
 + [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems.
 + [Mystic](https://github.com/uqfoundation/mystic) :: highly-constrained non-convex optimization and uncertainty quantification.
 + [nelder-mead](https://github.com/fchollet/nelder-mead) :: Pure Python/Numpy implementation of the Nelder-Mead algorithm. 
++ [hyperopt](http://hyperopt.github.io/hyperopt) :: Distributed Asynchronous Hyperparameter Optimization in Python. 
 
 ----
 
