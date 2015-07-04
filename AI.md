@@ -106,6 +106,9 @@
 # NEURAL NETWORKS 
 + [cnn-vis](https://github.com/jcjohnson/cnn-vis) :: Use CNNs to generate images.
 
+###### Resources
++ [deepdream](https://github.com/google/deepdream) :: This repository contains IPython Notebook with sample code, complementing Google Research blog post about Neural Network art.
+
 ----
 
 # NLP
