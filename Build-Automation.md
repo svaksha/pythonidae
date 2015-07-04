@@ -24,6 +24,7 @@
 + [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
 + [Chef cookbook for Python](https://github.com/poise/python) :: Chef cookbook to install Python and related tools. http://community.opscode.com/cookbooks/python
 + [Diamond](https://github.com/python-diamond/Diamond) :: A python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source. 
++ [GRR](https://github.com/google/grr) Rapid Response :: remote live forensics for incident response.
 + [SCons](http://scons.org/) :: A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
 
 ----
