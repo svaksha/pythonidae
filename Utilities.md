@@ -74,6 +74,7 @@ __Python 2&3 tools__
 # TERMINAL
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) :: Library for building powerful interactive command lines in Python.
 + [pythonpy](https://github.com/Russell91/pythonpy) :: command line kung-fu with python.
++ [Xonsh_Kernel](https://github.com/Calysto/xonsh_kernel) :: Jupyter Kernel for Xonsh.
 
 ----
 
