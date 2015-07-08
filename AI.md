@@ -53,6 +53,7 @@
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
+   + [scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) :: Scikit-Learn tutorial material for Scipy 2015.
    + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
    + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
    + [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
