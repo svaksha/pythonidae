@@ -54,5 +54,5 @@
 + [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
 
 ###### Resources
-+ [SciPy-Tutorial-2015](https://kjordahl.github.io/SciPy-Tutorial-2015/) :: Geospatial Data with Open Source Tools in Python.
++ [SciPy-Tutorial-2015](https://kjordahl.github.io/SciPy-Tutorial-2015/) :: TUTORIAL on Geospatial Data with Open Source Tools in Python.
 
