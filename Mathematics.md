@@ -16,7 +16,7 @@
 
 # MATH
 + [bcolz](https://blosc.org) :: A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
-   - Notebook showing the [Benchmark for querying the MovieLens dataset using pandas and bcolz](http://nbviewer.ipython.org/github/Blosc/movielens-bench/blob/master/querying-ep14.ipynb)
+   + Notebook showing the [Benchmark for querying the MovieLens dataset using pandas and bcolz](http://nbviewer.ipython.org/github/Blosc/movielens-bench/blob/master/querying-ep14.ipynb)
 + [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
 + [bquery](https://github.com/visualfabriq/bquery) :: A query and aggregation framework for Bcolz.
 + [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
@@ -26,10 +26,10 @@
 
 
 ### Algebra
-- [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
-- [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
-- [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
-- [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
++ [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
++ [pykrylov](http://dpo.github.com/pykrylov) →  A library of Krylov methods in pure Python.
++ [Sympy](http://sympy.org/) → A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
++ [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
 
 ###### Resources
 + Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
@@ -53,6 +53,7 @@
    **Resources**
    + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
    + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
+   + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
 + [Boost.NumPy](https://github.com/ndarray/Boost.NumPy) :: The Boost.Python interface for NumPy; in preparation for eventual proposal to Boost (manual mirror of Boost Sandbox SVN).
 + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
 + [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
