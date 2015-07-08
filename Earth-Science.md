@@ -53,4 +53,6 @@
 + [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) :: A fast, offline reverse geocoder in Python. 
 + [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
 
+###### Resources
++ [SciPy-Tutorial-2015](https://kjordahl.github.io/SciPy-Tutorial-2015/) :: Geospatial Data with Open Source Tools in Python.
 
