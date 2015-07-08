@@ -213,6 +213,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
++ [CodeNeuro-notebooks](https://github.com/CodeNeuro/notebooks) :: Interactive notebooks for trying analyses and exploring datasets. http://notebooks.codeneuro.org
 __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
