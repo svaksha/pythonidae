@@ -43,6 +43,7 @@ __Visualization software__
 + [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
 + [SnakeViz](https://github.com/jiffyclub/snakeviz) :: A viewer for Python profiling data that runs as a web application in your browser. 
 + [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
++ [Toyplot](https://github.com/sandialabs/toyplot) ::  Interactive plotting for Python. [Documentation](http://toyplot.readthedocs.org)
 + [YT](http://yt-project.org/):: A python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community.
 
 #### Non-Python tools
