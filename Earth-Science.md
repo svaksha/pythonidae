@@ -47,6 +47,7 @@
 + [Iris](http://scitools.org.uk/iris/) :: A Python library for Meteorology and Climatology. The Iris library implements a data model to create a data abstraction layer which isolates analysis and visualisation code from data format specifics. 
 + [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 + [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
++ [MetPy](https://github.com/metpy/MetPy) :: A Python Package for Meteorological Data.
 + [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
 + [PyLith](https://github.com/geodynamics/pylith) :: is a finite element code for the solution of dynamic and quasi-static tectonic deformation problems.
 + [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
