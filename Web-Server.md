@@ -39,6 +39,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # NETWORKING
 + [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
++ [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
 ----
 
