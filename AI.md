@@ -89,7 +89,8 @@
 
 
 ## Graph Theory
-+ [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) →  Simple markov chain implementation in python.
++ [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
++ [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
 
 ###### Resources
