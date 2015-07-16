@@ -12,6 +12,7 @@
 
 # DATA STRUCTURES
 **Arrays / Hash tables / Matrix / Functional / Trees data structures**
++ [Datarray](https://github.com/fperez/datarray) :: Prototyping numpy arrays with named axes for data management. Docs are available at: http://fperez.github.com/datarray-doc
 + [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org).
 + [keras](https://github.com/fchollet/keras) :: Theano-based Deep Learning library.
 + [LA](https://pypi.python.org/pypi/la) :: Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels and data is stored as a NumPy array with labels as a list of lists (one list per dimension).
