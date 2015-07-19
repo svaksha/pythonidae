@@ -50,6 +50,7 @@
 ## Packaging
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub. 
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
++ [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries. 
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pynsist](https://pypi.python.org/pypi/pynsist) :: Build Windows installers for Python apps.
