@@ -16,3 +16,4 @@
 
 # PYTHON
 + [ParsePy](https://github.com/dgrtwo/ParsePy) :: A Python wrapper for the Parse.com API.
++ [github3.py](https://github.com/sigmavirus24/github3.py) :: Python library for interfacing with the GitHub APIv3. [Documentation](http://github3py.readthedocs.org/)

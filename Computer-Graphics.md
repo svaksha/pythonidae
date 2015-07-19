@@ -1,6 +1,7 @@
 **Graphics and other Visualization libraries and packages. Also includes relevant documentation/tutorials and blog links narrating user experiences and howto's.**
 
 + [GRAPHICS](#graphics) 
+   + [Games](#games)
 + [INFOGRAPHICS](#infographics)
 
 ----
@@ -18,7 +19,7 @@
 + [python-colormath](https://github.com/gtaylor/python-colormath) :: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org).
 
 ### Games
-+ [PySoy](http://www.pysoy.org/) is a 3d cloud game engine for  Python. [Source code](http://hg.pysoy.org/pysoy)
++ [PySoy](http://www.pysoy.org/) is a 3D cloud game engine for Python. [Source code](http://hg.pysoy.org/pysoy)
 
 ----
 
