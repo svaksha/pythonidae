@@ -2,6 +2,7 @@
 + [Bootstrapping](#bootstrapping)
 + [Blogs](#blogs)
 + [Cheatsheets](#cheatsheets)
++ [CONF PRESENTATIONS](#conf presentations)
 + [Lists](#lists)
 + [Organisations](#organisations)
 + [Videos](#Videos)
@@ -58,7 +59,13 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 # Cheatsheets
 + [Python Basic Operators](http://www.tutorialspoint.com/python/python_basic_operators.htm)
 
----
+
+----
+
+# CONF PRESENTATIONS
++ [PyData Seattle 2015](https://github.com/wrobstory/pydataseattle2015) :: Python Data Bikeshed.
+
+----
 
 # Lists
 + [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
@@ -85,7 +92,4 @@ __Conference talk videos go to the `Community.md` page__
 + [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) :: Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines. 
 + [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
 + [San Diego Python Users Group Presentations](https://github.com/pythonsd/presentations)
-
-----
-
 
