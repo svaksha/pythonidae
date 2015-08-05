@@ -8,6 +8,10 @@
 
 ----
 
++ [Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) :: Notebooks for "Python for Signal Processing" book.
+
+----
+
 # AstroPhysics
 + [Astrophysics](https://github.com/eteq/astropysics) :: A python library for astronomy/astrophysics calculations and data analysis, available as a [python package](http://packages.python.org/Astropysics/).
  
