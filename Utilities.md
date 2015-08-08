@@ -35,6 +35,7 @@ __Python 2&3 tools__
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
++ [ipyparallel](https://github.com/ipython/ipyparallel) :: Interactive Parallel Computing in Python. [Documentation](http://ipyparallel.readthedocs.org/).
 + [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
 + [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
 + [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a %sql (or %%sql) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
@@ -46,6 +47,7 @@ __Python 2&3 tools__
    + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
 + [sudospawner](https://github.com/jupyter/sudospawner) :: Spawn JupyterHub single-user servers with sudo.
 + [vIPer](https://github.com/damianavila/vIPer) :: A new tool for IPython notebooks. 
+
 
 ###### Resources
 + [Jupyter notebook beginner guide](https://github.com/tritemio/jupyter_notebook_beginner_guide) :: A brief guide to install and run Jupyter/IPython notebooks.
