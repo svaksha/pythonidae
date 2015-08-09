@@ -25,6 +25,7 @@
 ### Org-[Chemreac](https://github.com/chemreac)
 Open Source chemical kinetics library
 + [chemreac](https://github.com/chemreac/chemreac) :: Library for chemical kinetics in homogeneous or isotropically symmetric inhomogenous systems. 
++ [chemreac_anaconda](https://github.com/chemreac/chemreac_anaconda) :: Conda recipes for conda packages published under `conda.anaconda.org/chemreac`.
 + [chemreac-benchmarks](https://github.com/chemreac/chemreac-benchmarks) :: benchmarks for chemreac.
 
 ----
