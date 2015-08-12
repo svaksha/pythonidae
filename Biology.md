@@ -209,6 +209,9 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 
 ### Neural Networks
++ [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition) :: A recurrent neural network designed to generate classical music. 
++ [cnn-vis](https://github.com/jcjohnson/cnn-vis) :: Use CNNs to generate images.
+https://github.com/hexahedria/biaxial-rnn-music-composition :: A recurrent neural network designed to generate classical music. 
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
 + [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
 + [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
@@ -216,7 +219,8 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
-+ [CodeNeuro-notebooks](https://github.com/CodeNeuro/notebooks) :: Interactive notebooks for trying analyses and exploring datasets. http://notebooks.codeneuro.org
++ [deepdream](https://github.com/google/deepdream) :: This repository contains IPython Notebook with sample code, complementing Google Research blog post about Neural Network art.
++ [CodeNeuro-notebooks](https://github.com/CodeNeuro/notebooks) :: Interactive notebooks for trying analyses and exploring datasets. [Website](http://notebooks.codeneuro.org).
 __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
 + _Open book_ on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
    * Chapter-1. [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)

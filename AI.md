@@ -4,7 +4,6 @@
 + [MACHINE LEARNING](#machine-learning])
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
-+ [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
 + [RESOURCES](#resources)
 
@@ -103,14 +102,6 @@
 + [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
-
-----
-
-# NEURAL NETWORKS 
-+ [cnn-vis](https://github.com/jcjohnson/cnn-vis) :: Use CNNs to generate images.
-
-###### Resources
-+ [deepdream](https://github.com/google/deepdream) :: This repository contains IPython Notebook with sample code, complementing Google Research blog post about Neural Network art.
 
 ----
 
