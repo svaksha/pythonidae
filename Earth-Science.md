@@ -12,6 +12,7 @@
 # ASTRONOMY
 **Astronautics, Astronomy**
 + [Astropy](https://github.com/astropy) → Astronomy Python Library.
++ [astroscrappy](https://github.com/astropy/astroscrappy) :: Speedy Cosmic Ray Annihilation Package.
 + [ASV | Airspeed Velocity](http://spacetelescope.github.io/asv) :: A simple Python benchmarking tool with web-based reporting.
 + [Caput](https://github.com/radiocosmology/caput) :: Cluster Astronomical Python Utilities.
 + [Celestialbody](https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons.
