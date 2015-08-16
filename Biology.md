@@ -4,6 +4,7 @@
 + [BIOTOOLS](#biotools)
 + [ECOLOGY](#ecology)
 + [EMR](#emr)
++ [EPIDEMIOLOGY](#epidemiology)
 + [GENOMICS](#genomics)
    + [RNA](#rna)
 + [MICROBIOLOGY](#microbiology)
@@ -35,9 +36,6 @@
 + [Cosmos](https://cosmos.hms.harvard.edu) :: A Python library for Workflow Management System that tracks massively parallel computing clusters as well as cloud-based services. Download it [here](https://cosmos.hms.harvard.edu/download.html).
 + [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
 + [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
-+ [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
-+ [Epipy](https://github.com/cmrivers/epipy) :: Epipy is a Python package for epidemiology.
-+ [Epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 + [Galaxy](http://galaxyproject.org) is an open, web-based platform for data intensive biomedical research. Use it [online](https://usegalaxy.org/)
    + [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    + [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
@@ -46,7 +44,7 @@
 + [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
 ----
-    
+  
 # EMR
 + [AuShadha](https://github.com/dreaswar/AuShadha) :: AuShadha (औषध) means medicine in Sanskrit. This is a Electronic Medical Records (EMR) and Public Health Management for small clinics written in Django and Dojo.
 
@@ -58,6 +56,14 @@
 
 ### Bioacoustics
 + [Chirp](http://melizalab.github.io/chirp/) :: A set of related tools for pitch-based analysis and comparison of bioacoustic signals. [Source code](https://github.com/melizalab/chirp)
+
+----
+
+# EPIDEMIOLOGY
++ [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
++ [Epipy](https://github.com/cmrivers/epipy) :: Epipy is a Python package for epidemiology.
++ [episounds](https://github.com/cmrivers/episounds) :: A sonification of human to human transmission of Middle East Respiratory Syndrome Coronavirus. 
++ [Epitopes](https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides).
 
 ----
 
