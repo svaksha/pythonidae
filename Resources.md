@@ -5,6 +5,7 @@
 + [CONF PRESENTATIONS](#conf presentations)
 + [Lists](#lists)
 + [Organisations](#organisations)
++ [Tools](#tools)
 + [Videos](#Videos)
 + [Workshop Tutorials](#workshop-tutorials)
 
@@ -16,6 +17,7 @@
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
+https://github.com/dejacode/about-code-tool ::  AboutCode provides a simple way to document the provenance (origin and license) and other important or interesting information about third-party software components that you use in your project.http://aboutcode.org/
 
 ----
 
@@ -77,6 +79,11 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 # Organisations
 + [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
 + [OSF.io](https://github.com/CenterForOpenScience/osf.io) :: The Open Science Framework (OSF) supports the entire research lifecycle: planning, execution, reporting, archiving, and discovery.
+
+----
+
+# Tools
++ [About-Code-Tool](https://github.com/dejacode/about-code-tool) :: It provides a simple way to document the provenance (origin and license) and other important or interesting information about third-party software components that you use in your project. [Website](http://aboutcode.org/)
 
 ----
 
