@@ -26,6 +26,7 @@
 + [Diamond](https://github.com/python-diamond/Diamond) :: A python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source. 
 + [GRR](https://github.com/google/grr) Rapid Response :: remote live forensics for incident response.
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
++ [Pinball](https://github.com/pinterest/pinball) :: A scalable workflow manager.
 + [SCons](http://scons.org/) :: A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
 
 ----
