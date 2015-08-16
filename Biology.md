@@ -32,6 +32,7 @@
 + [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
 + [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
 + [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
++ [Cosmos](https://cosmos.hms.harvard.edu) :: A Python library for Workflow Management System that tracks massively parallel computing clusters as well as cloud-based services. Download it [here](https://cosmos.hms.harvard.edu/download.html).
 + [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
 + [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
 + [Epibayes](https://github.com/jzelner/epibayes) :: (Rudimentary) tools for epidemiological modeling w/Bayesian statistics. 
@@ -42,6 +43,7 @@
    - [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
    - [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
 + [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
++ [rubra](https://github.com/bjpop/rubra) :: Infrastructure code to support DNA pipeline.
 + [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 
 ----
