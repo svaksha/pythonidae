@@ -59,7 +59,6 @@ _Fixing bug#1: Resources and guides for Scientists new to Python_
 # Cheatsheets
 + [Python Basic Operators](http://www.tutorialspoint.com/python/python_basic_operators.htm)
 
-
 ----
 
 # CONF PRESENTATIONS
@@ -88,6 +87,7 @@ __Conference talk videos go to the `Community.md` page__
 ----
 
 # Workshop Tutorials
++ [python-bootcamp](https://github.com/profjsb/python-bootcamp) :: Bootcamp docs and lectures.
 + Scipy-2015 [tutorial workshops](http://www.scipy2015.scipy.org/ehome/115969/304620/?&) list.
 + [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) :: Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines. 
 + [Python-data-intro](http://opentechschool.github.io/python-data-intro/) :: Workshop material for "Introduction to Data Processing with Python".
