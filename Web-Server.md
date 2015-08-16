@@ -5,6 +5,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [FRONT-END](#front-end)
 + [JAVASCRIPT](#javascript)
 + [NETWORKING](#networking)
++ [SERVER TOOLS](#server-tools)
 
 ----
 
@@ -41,5 +42,8 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
 ----
+
+# SERVER TOOLS
++ [python-webpack](https://github.com/markfinger/python-webpack) :: Python bindings to webpack. 
 
 
