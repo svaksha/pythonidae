@@ -14,4 +14,4 @@
 
 ### Open Portals
 + [GitXiv](http://gitxiv.com) :: Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
-
++ The [ReScience journal](https://github.com/ReScience/ReScience) and [Wiki](https://github.com/ReScience/ReScience/wiki).
