@@ -67,6 +67,7 @@
    + A quick reference guide to the commonly used [NumPy functions](http://people.duke.edu/~ccc14/pcfb/numpympl/NumpyBasics.html).
 + [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
    + [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
++ [python-flint/](http://fredrik-johansson.github.com/python-flint/) :: Python bindings for FLINT (Fast Library for Number Theory).
 + [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 + [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    + [Official Documentation](http://www.scipy.org/docs.html)
