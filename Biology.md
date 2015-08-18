@@ -202,6 +202,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [NIPY](https://github.com/nipy) developers group on GH.
 + [nibabel](http://nipy.org/nibabel/) :: Python package to access a cacophony of neuro-imaging file formats. [Source code](https://github.com/nipy/nibabel).
 + [NIDM](https://github.com/incf-nidash/nidm) ::  Neuroimaging Data Model (NIDM) describing neuroimaging data and provenance. http://nidm.nidash.org
+   + [nidm-training](https://github.com/incf-nidash/nidm-training) :: Training materials for learning NIDM.
 + [nipype](https://github.com/nipy/nipype) :: Workflows and interfaces for neuroimaging packages. [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/).
 + [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
    + [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
