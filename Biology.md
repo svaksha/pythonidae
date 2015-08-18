@@ -95,12 +95,13 @@
 + [KGML](https://github.com/widdowquinn/KGML) :: Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data.
 + [KneadData](https://bitbucket.org/biobakery/kneaddata) :: A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.
 + [Harvest](https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees.
-+ [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
 + [HasBin](https://github.com/bpow/HasBin) :: A project for keeping track of genes/diagnoses and custom annotations.
++ [MAF](https://github.com/vsbuffalo/maf) :: a light framework to pipeline short read mapper/aligner testing.
 + [metaseq](https://github.com/daler/metaseq) :: A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/)
 + [methtools](https://github.com/bgruening/methtools) :: Tools for the processing of genome-wide bisulfite sequencing data.
 + [MetaSVMerge](https://github.com/bioinform/metasv) :: An accurate method-aware merging algorithm for structural variations.
 + [mmgenome](http://madsalbertsen.github.io/mmgenome/) :: Tools for extracting individual genomes from metagneomes.
++ [MixClone](https://github.com/uci-cbcl/MixClone) :: A mixture model for inferring tumor subclonal populations.
 + [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
 + [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
 + [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
