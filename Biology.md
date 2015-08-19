@@ -5,6 +5,7 @@
 + [ECOLOGY](#ecology)
 + [EMR](#emr)
 + [EPIDEMIOLOGY](#epidemiology)
++ [EVOLUTIONARY BIOLOGY](#evolutionary-biology)
 + [GENOMICS](#genomics)
    + [RNA](#rna)
 + [MICROBIOLOGY](#microbiology)
@@ -67,6 +68,17 @@
 
 ----
 
+# [EVOLUTIONARY BIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology)
++ [DEAP](https://github.com/DEAP/deap) :: Distributed Evolutionary Algorithms in Python. [Documentation](http://deap.readthedocs.org/)
+   + [Notebooks](https://github.com/DEAP/notebooks) on how to use Distributed Evolutionary Algorithm in Python (DEAP). 
++ Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
+   + [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
++ [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
++ [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
++ [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/).
+
+----
+
 # GENOMICS
 + [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
 + [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
@@ -80,11 +92,8 @@
 + [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
 + [CompleteGenomicsTools](https://github.com/seandavi/CompleteGenomicsTools) →  Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing. Software for manipulating and visualizing Complete Genomics data, with a [focus on cancer](http://watson.nci.nih.gov/~sdavis/software/cgent/)
 + [CaPSID](https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification) :: A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/).
-+ [Distributed Evolutionary Algorithms in Python (EA)](http://code.google.com/p/deap/)
 + [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
 + [figmop](https://github.com/dave-the-scientist/figmop) :: Finding Genes using Motif Patterns. 
-+ Genetic Programming → [Evolution of Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). Here is the [non-Python LGPL licensed source code](http://code.google.com/p/alsing/downloads/list), which should make an interesting project to port to Python. 
-   + [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 + [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 + [gvl_flavor](https://github.com/afgane/gvl_flavor) :: Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
@@ -105,16 +114,13 @@
 + [nexus-fusetester](https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node.
 + [Oncotator](https://github.com/ankurdave/oncotator) :: A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator
 + [PAAP](https://github.com/RILAB/paap) :: Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
-+ [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
 + [peddy](https://github.com/brentp/peddy) :: An API for dealing with pedigree files.
-+ [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
 + [piper](https://github.com/NationalGenomicsInfrastructure/piper) :: A genomics pipeline build on top of the GATK Queue framework. 
 + [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
 + [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 + [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 + [rbac-23andme-oauth2](https://github.com/offapi/rbac-23andme-oauth2) :: Genetic Access Control using the 23andME API.
 + [rubra](https://github.com/bjpop/rubra) :: Infrastructure code to support DNA pipeline.
-+ [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)
 + [singlecell](https://github.com/roryk/singlecell) data analysis incubator for analysing single-cell data generated by the method outlined here: http://biorxiv.org/content/early/2014/03/05/003236
 + [Smash](https://github.com/amplab/smash) :: A benchmarking toolkit for variant calling.
 + [theprimerdirective](https://github.com/jimrybarski/theprimerdirective) :: A Python interface to Primer3. 
@@ -282,6 +288,5 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [Open WetWare](http://openwetware.org/wiki/Main_Page) :: A wiki for molecular biology protocols.
 + [MolBio Tools](http://molbiol-tools.ca) :: Tools for molecular biology.
 + [Protocol-online](http://www.protocol-online.org) :: A Q&A portal for molecular biology protocols.
-
 
 
