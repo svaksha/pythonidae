@@ -9,8 +9,10 @@
 ----
 
 # HDF
++ [h5io](https://github.com/h5io/h5io) :: Read and write simple Python objects using HDF5.
+
 **Resources**
-+ [HDF5 Tutorial](https://github.com/scopatz/hdf5-is-for-lovers)
++ [hdf5-is-for-lovers](https://github.com/scopatz/hdf5-is-for-lovers) :: HDF5 Tutorial notebooks.
 
 ----
 
