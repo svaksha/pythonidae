@@ -108,6 +108,7 @@
 # NLP
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
++ [Geiger](https://github.com/ftzeng/geiger) :: An automated system for grouping similar comments and then identifying the best representative from each group.
 + [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
 + [IEPY](https://github.com/machinalis/iepy) :: An open source tool for Information Extraction focused on Relation Extraction.
 + [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
