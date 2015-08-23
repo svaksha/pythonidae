@@ -12,6 +12,7 @@
 ----
 
 # Books
++ [Intermediate Python](http://book.pythontips.com) :: The [source](https://github.com/yasoob/intermediatePython) on github.
 + [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) :: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. 
 + [Python 3 Tutorial](http://www.python-course.eu) by Bernd Klein.
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
