@@ -93,4 +93,7 @@ General tools & useful utilities
 + [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
 + [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
 
+## MTA
++ [python-slimta](http://slimta.org/) :: Lightweight, asynchronous SMTP libraries. [Source code](https://github.com/slimta/python-slimta).
+
 

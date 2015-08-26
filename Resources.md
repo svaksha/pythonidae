@@ -23,7 +23,7 @@ https://github.com/dejacode/about-code-tool ::  AboutCode provides a simple way 
 ----
 
 # Bootstrapping 
-_Fixing bug#1: Resources and guides for Scientists new to Python_
+__Resources and guides for Scientists new to Python.__
 
 ### Begin-Python
 + To start programming with Python you need to [setup your local Python environment](http://www.datarobot.com/blog/getting-up-and-running-with-python), then work your way through this workshop material for "[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)".
