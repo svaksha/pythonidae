@@ -83,6 +83,7 @@
    + [How to contribute to Pandas](http://pandas.pydata.org/pandas-docs/stable/contributing.html)
    + [Source code](https://github.com/pydata/pandas) and [Source tarballs, windows binaries are available on PyPI](https://pypi.python.org/pypi/pandas).
    __Resources__
+   + [Cohort Analysis with Python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/).
    + Materials for ["Python for Data Analysis" by Wes McKinney](https://github.com/pydata/pydata-book), published by O'Reilly Media.
    + [Half day pandas tutorial](http://nbviewer.ipython.org/urls/gist.github.com/wesm/5773719/raw/1399562c0a02b9edc3d13c71a70387a31d87260b/tutorial.ipynb) at Pycon Singapore 2013 by Wes McKinney.
    + [MultiIndex_Drop](https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop)
