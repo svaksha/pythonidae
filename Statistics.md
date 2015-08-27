@@ -102,6 +102,7 @@
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 
 ###### Resources
++ [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
 + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
    + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
 + [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
