@@ -16,6 +16,7 @@
 + [distarray](https://github.com/enthought/distarray) :: DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org).
 + [keras](https://github.com/fchollet/keras) :: Theano-based Deep Learning library.
 + [LA](https://pypi.python.org/pypi/la) :: Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels and data is stored as a NumPy array with labels as a list of lists (one list per dimension).
++ [Lasagne](https://github.com/Lasagne/Lasagne) :: A Lightweight library to build and train neural networks in Theano. [Documentation](http://lasagne.readthedocs.org/).
 + [netcdf4-python](https://github.com/Unidata/netcdf4-python) :: A python/numpy interface to the netCDF C library. http://unidata.github.io/netcdf4-python
 + [propagator.py](https://github.com/lucastx/propagator.py) :: A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator. 
 + [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
