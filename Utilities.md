@@ -35,6 +35,7 @@ __Python 2&3 tools__
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
++ [ipymd](https://github.com/rossant/ipymd) : Use the IPython notebook as an interactive Markdown editor.
 + [ipyparallel](https://github.com/ipython/ipyparallel) :: Interactive Parallel Computing in Python. [Documentation](http://ipyparallel.readthedocs.org/).
 + [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
 + [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
