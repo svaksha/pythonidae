@@ -40,6 +40,7 @@
 # RDBMS
 ## PostgreSQL
 + [governor](https://github.com/compose/governor) :: Runners to orchestrate a high-availability PostgreSQL. 
++ [postgresql-metrics](https://github.com/spotify/postgresql-metrics) :: Tool that extracts and provides metrics on your PostgreSQL database.
 
 ----
 
