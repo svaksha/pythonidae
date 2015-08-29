@@ -19,6 +19,7 @@
 + [Lasagne](https://github.com/Lasagne/Lasagne) :: A Lightweight library to build and train neural networks in Theano. [Documentation](http://lasagne.readthedocs.org/).
 + [netcdf4-python](https://github.com/Unidata/netcdf4-python) :: A python/numpy interface to the netCDF C library. http://unidata.github.io/netcdf4-python
 + [propagator.py](https://github.com/lucastx/propagator.py) :: A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator. 
++ [PyGraphistry](https://github.com/graphistry/pygraphistry) :: A library to extract, transform, and visually explore big graphs.
 + [pymf](https://github.com/nils-werner/pymf) :: Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
 + [PyTables](http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data.
 + [python-graph](https://github.com/pmatiello/python-graph) :: A library for working with graphs in Python.
