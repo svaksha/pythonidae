@@ -1,5 +1,5 @@
-+  [CRYPTOGRAPHY](#cryptography)
-+  [MATH](#math)
++ [CRYPTOGRAPHY](#cryptography)
++ [MATH](#math)
    + [Algebra](#algebra)
    + [Calculus](#calculus)
    + [Geometry](#geometry)
