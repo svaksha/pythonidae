@@ -23,9 +23,9 @@
 + [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 + [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
 + [Chef cookbook for Python](https://github.com/poise/python) :: Chef cookbook to install Python and related tools. http://community.opscode.com/cookbooks/python
-+ [Diamond](https://github.com/python-diamond/Diamond) :: A python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source. 
++ [Diamond](https://github.com/python-diamond/Diamond) :: A python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 + [GRR](https://github.com/google/grr) Rapid Response :: remote live forensics for incident response.
-+ [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
++ [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 + [Pinball](https://github.com/pinterest/pinball) :: A scalable workflow manager.
 + [SCons](http://scons.org/) :: A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
 
@@ -50,12 +50,12 @@
 + [klusta_process_manager](https://github.com/tymoreau/klusta_process_manager) :: A process manager.
 
 ## Packaging
-+ [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub. 
++ [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
-+ [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries. 
-+ [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation. 
++ [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries.
++ [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation.
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
-+ [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh. 
++ [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
 + [pynsist](https://pypi.python.org/pypi/pynsist) :: Build Windows installers for Python apps.
 
 ###### Resources
@@ -67,12 +67,15 @@
 
 
 ## Sandboxes
+
++ [autoenv](https://github.com/kennethreitz/autoenv) :: Directory-based environments. 
+
 #### Anaconda
-+ [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org) 
++ [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org)
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
-   + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI. 
-   
+   + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
+
 ###### Resources
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
 + [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3
