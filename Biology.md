@@ -18,7 +18,7 @@
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
    + [Structural Biology](#structural-biology)
-+ [ETC.](#etc)
++ [Resources-Teaching](#resources-teaching)
 
 ----
 
@@ -281,12 +281,25 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 
 ----
 
-# ETC.
+# Resources-Teaching
+__NotaBene__:: Some resources and teaching aids listed here are not Python language specific but you may be able to find something common and useful that can be reused and shared with attribution if it is released under a CC-license.
+
++ A google document listing [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) by Lenny Teytelman (@lteytelman on twitter). 
++ [Train online](https://www.ebi.ac.uk/training/online/) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes.
++ [TrainingPhyloIntro](https://github.com/aidanbudd/trainingPhyloIntro) :: Practical exercises and slides for teaching computational molecular evolution.
++ [capetown2014](https://github.com/aidanbudd/capetown2014) :: Teaching material for EMBO Practical Course on Computational analysis of protein-protein interactions - From sequences to networks run in Cape Town 2014.
++ [course_EMBO_at_TGAC_PPI_Sep2015](https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015) :: Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015.
++ Ian Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio](http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions).
+
+## Other Resources
 + [NIH project reporter](http://projectreporter.nih.gov/reporter.cfm)
 + [ExPASy](http://expasy.org/) :: The SIB Bioinformatics Resource Portal which provides access to scientific databases and software tools (i.e., resources) in different areas of life sciences including proteomics, genomics, phylogeny, systems biology, population genetics, transcriptomics etc.
 + [MSDS](http://www.msdsonline.com/msds-search/)
 + [Open WetWare](http://openwetware.org/wiki/Main_Page) :: A wiki for molecular biology protocols.
 + [MolBio Tools](http://molbiol-tools.ca) :: Tools for molecular biology.
 + [Protocol-online](http://www.protocol-online.org) :: A Q&A portal for molecular biology protocols.
+
+----
+
 
 
