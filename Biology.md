@@ -200,6 +200,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
 + [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 + [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
++ [fmri-analysis-vm](https://github.com/poldrack/fmri-analysis-vm) :: A VM setup for use in fMRI analysis and education.
 + [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
 + [MNE](http://martinos.org/mne/) :: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
    + [Basic introduction to MNE Python processing](https://github.com/mne-tools/mne-python-intro).
