@@ -11,6 +11,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 # Computer Performance
 + [Boxfish](https://github.com/scalability-llnl/boxfish) :: A platform for visualizing performance data across the domains the data was collected, (e.g. communication groups) to another (e.g. hardware processes).    
++ [PeachPy](https://github.com/Maratyszcza/PeachPy) :: A Python framework for writing high-performance assembly kernels - an efficient Assembly Code-generator in Higher-level Python.
 
 ----
 
@@ -23,11 +24,11 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 
 ## AWS
-- [AmazonEC2scripts](https://github.com/swederik/AmazonEC2scripts) :: Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
-- [Anaconda-ec2](https://github.com/ContinuumIO/anaconda-ec2) :: Anaconda plugin for StarCluster.
-- [Cloudman](https://bitbucket.org/chapmanb/cloudman) :: Easily create a compute cluster on top of a cloud computing infrastructure.
-- [kappa](https://github.com/garnaat/kappa) :: Kappa is a command line tool that makes it easier to deploy, update, and test functions for AWS Lambda.
-- [StarCluster](http://star.mit.edu/cluster) is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2). [Source code on Github](https://github.com/jtriley/StarCluster)
++ [AmazonEC2scripts](https://github.com/swederik/AmazonEC2scripts) :: Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
++ [Anaconda-ec2](https://github.com/ContinuumIO/anaconda-ec2) :: Anaconda plugin for StarCluster.
++ [Cloudman](https://bitbucket.org/chapmanb/cloudman) :: Easily create a compute cluster on top of a cloud computing infrastructure.
++ [kappa](https://github.com/garnaat/kappa) :: Kappa is a command line tool that makes it easier to deploy, update, and test functions for AWS Lambda.
++ [StarCluster](http://star.mit.edu/cluster) is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2). [Source code on Github](https://github.com/jtriley/StarCluster)
 
 
 ## APACHE 
