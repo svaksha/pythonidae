@@ -83,6 +83,7 @@
 + [Machine Learning cheatsheet](http://eferm.com/machine-learning-cheat-sheet/).
 + [Big Data Machine Learning Patterns for Predictive Analytics](http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho.
 + A HN site for [ML](http://news.startup.ml/).
++ [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
 
 ## Classification Algorithms
