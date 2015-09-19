@@ -5,6 +5,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [FRONT-END](#front-end)
 + [JAVASCRIPT](#javascript)
 + [NETWORKING](#networking)
+   + [Security](#security)
 + [SERVER TOOLS](#server-tools)
 
 ----
@@ -40,6 +41,9 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # NETWORKING
 + [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
+
+## Security
++ [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
 
 ----
 
