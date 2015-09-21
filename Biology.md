@@ -194,6 +194,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 # NEUROSCIENCE
 + [BrainImagingPipelines](https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging.
 + [brainx](https://github.com/nipy/brainx) :: Tools for analysis of brain imaging-derived networks, based on NetworkX.
++ [CodeNeuro](http://codeneuro.org/) :: Bringing neuroscience and data science together.
 + [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
 + [CPAC](https://github.com/FCP-INDI/C-PAC) :: A configurable pipeline for rsfMRI/connectome analyses.
 + [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
