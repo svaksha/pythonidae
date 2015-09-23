@@ -1,14 +1,15 @@
 + [PACKAGES](#packages)
-* [Crystallography](#crystallography)
++ [AstroPhysics](#astropysics)
++ [Crystallography](#crystallography)
 + [Genome](#genome)
 + [General Datasets](#general-datasets)
-* [Genetics-Medicine](#genetics-medicine)
++ [Genetics-Medicine](#genetics-medicine)
 + [Machine Learning](#machine-learning)
 + [Molecular Biology](#molecular-biology)
 + [Neuroscience](#neuroscience)
 + [Pharma](#Pharma)
 + [Research Data](#research-data)
-* [Scientific Databases](#scientific-databases)
++ [Scientific Databases](#scientific-databases)
 
 ----
 
@@ -16,6 +17,11 @@
 + [eggo](https://github.com/bigdatagenomics/eggo) :: Ready-to-go Parquet-formatted public Genomics datasets.
 + [scrapi](https://github.com/fabianvf/scrapi) :: A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams.
 + [aristotle-metadata-registry](https://github.com/aristotle-mdr/aristotle-metadata-registry) ::  Aristotle-MDR is an open-source metadata registry as laid out by the requirements of the ISO/IEC 11179 specification.
+
+----
+
+# AstroPhysics
++ [sndatasets](https://github.com/kbarbary/sndatasets) :: Download and normalize published supernova photometric data.
 
 ----
 
@@ -55,8 +61,8 @@
 ----
 
 # Genetics-Medicine
-* [Resources for Genetics and Medicine](https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/]
-* [HIV-1, Human Protein Interaction Database](http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/) :: A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data.
++ [Resources for Genetics and Medicine](https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/]
++ [HIV-1, Human Protein Interaction Database](http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/) :: A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data.
 
 ----
 
@@ -78,23 +84,23 @@
 
 # Neuroscience
 + [Debian Packages for Neuroscience Datasets](http://neuro.debian.net/pkglists/toc_pkgs_for_field_datasets.html#toc-pkgs-for-field-datasets)
-* [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
-* [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
-* [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
++ [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
++ [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
++ [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
 
 ----
 
 # Pharma
-* [OSDD - open source drug discovery](http://www.osdd.org/).
++ [OSDD - open source drug discovery](http://www.osdd.org/).
 
 ----
 
 # Research Data
-* [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
++ [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
 
 ----
 
 # Scientific Databases
-* [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
-* [Chemical DB](http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP.
++ [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
++ [Chemical DB](http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP.
 
