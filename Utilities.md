@@ -5,6 +5,7 @@
 + [HARDWARE](#hardware)
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
+   + [Backups](#backups)
    + [Desktop Document Processing](#desktop-document-processing)
    + [File Compression](#file-compression)
    + [Utils](#utils)
@@ -83,9 +84,14 @@ __Python 2&3 tools__
 ----
 
 # UTILS
-General tools & useful utilities 
+General tools & useful utilities. 
 
 + [pandocfilters](https://github.com/jgm/pandocfilters) :: A python module for writing pandoc filters, with a collection of examples. 
+
+## Backups
++ [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
++ [rotate-backups](https://github.com/xolox/python-rotate-backups) :: Simple command line interface for backup rotation, also available via [PyPI](https://pypi.python.org/pypi/rotate-backups).
+
 
 ## Desktop Document processing 
 + [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
