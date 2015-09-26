@@ -224,6 +224,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
 + [PYEZMINC](https://github.com/BIC-MNI/pyezminc) :: is a python module to read and write MINC files.
 + [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
++ [pyneurovault](https://github.com/NeuroVault/pyneurovault) :: A python wrapper for the NeuroVault API (in dev) with [documentation](http://www.neurovault.org/api-docs)
 + [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 
