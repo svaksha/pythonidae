@@ -1,6 +1,7 @@
 + [AERONAUTICS]#aeronautics)
 + [ASTRONOMY](#astronomy)
 + [GIS](#gis)
+   + [Geolocation](#geolocation)
 
 ----
 
@@ -41,19 +42,24 @@
 + [Cartopy](http://scitools.org.uk/cartopy/) :: A cartographic python library with matplotlib support. [Source code](https://github.com/SciTools/cartopy) on github.
 + [Cora](https://github.com/radiocosmology/cora) :: Code for simulating skies for 21cm Intensity Mapping, including galactic and extragalactic foregrounds.
 + [Driftscan](https://github.com/radiocosmology/driftscan) :: A Python project for simulating and analysing the transit radio interferometers telescopes, with a particular focus on 21cm Cosmology.
-+ [geopandas](https://github.com/geopandas/geopandas) :: Python tools for geographic data.
-+ [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) :: A toolbox for visualizing geographical data.
-+ [Geopy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
-+ [geo-tools](https://github.com/jesolem/geo-tools) :: Collection of Python modules for working with geo data.
 + [Iris](http://scitools.org.uk/iris/) :: A Python library for Meteorology and Climatology. The Iris library implements a data model to create a data abstraction layer which isolates analysis and visualisation code from data format specifics. 
 + [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 + [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
 + [MetPy](https://github.com/metpy/MetPy) :: A Python Package for Meteorological Data.
-+ [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
 + [PyLith](https://github.com/geodynamics/pylith) :: is a finite element code for the solution of dynamic and quasi-static tectonic deformation problems.
 + [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
-+ [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) :: A fast, offline reverse geocoder in Python. 
 + [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
+
+## Geolocation
+__Libraries for geolocation.__
++ [geoip-api-python](https://github.com/maxmind/geoip-api-python) :: A Python API for MaxMind GeoIP Legacy Database.
++ [geopandas](https://github.com/geopandas/geopandas) :: Python tools for geographic data.
++ [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) :: A toolbox for visualizing geographical data.
++ [GeoPy](https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services.
++ [geo-tools](https://github.com/jesolem/geo-tools) :: Collection of Python modules for working with geo data.
++ [pygeoip](https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases.
++ [python-geojson](https://github.com/frewsxcv/python-geojson) :: Python bindings and utilities for GeoJSON. On [PyPI](https://pypi.python.org/pypi/geojson/).
++ [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) :: A fast, offline reverse geocoder in Python. 
 
 ###### Resources
 + [SciPy-Tutorial-2015](https://kjordahl.github.io/SciPy-Tutorial-2015/) :: TUTORIAL on Geospatial Data with Open Source Tools in Python.
