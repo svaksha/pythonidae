@@ -1,3 +1,6 @@
++ [Ask for Help](#ask-for-help)
+   + [Free](#free)
+   + [Non-Free](#non-free)
 + [Books](#books)
    + [Free](#free)
    + [Non-Free](#non-free)
@@ -8,8 +11,22 @@
 + [Lists](#lists)
 + [Organisations](#organisations)
 + [Tools](#tools)
++ [Teaching](#teaching)
 + [Videos](#Videos)
 + [Workshop Tutorials](#workshop-tutorials)
+
+----
+
+# Ask for Help
+_Spaces where can ask for help with python and get responses from other programmers._
+
+### Free
++ The [Tutor](https://mail.python.org/mailman/listinfo/tutor) list.
+
+### Non-Free
++ [Treehouse](http://teamtreehouse.com) :: Kenneth Love teaches Python, where plans start around $25/month with access to their entire library.
++ [Real Python](https://realpython.com/) :: Michael Herman, Fletcher Heisler, and Jeremy Johnson teach Python courses with a project driven learning approach.
+
 
 ----
 
@@ -21,6 +38,7 @@
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
++ [A Byte of Python](http://www.swaroopch.com/notes/python/) :: A free book on programming using the Python language, with the [source](https://github.com/swaroopch/byte_of_python) on github.
 
 ### Non-Free
 + [Python for Kids](https://www.amazon.com/dp/1593274076/ref=cm_sw_r_awd_e5ybwb2BHG9JN) :: A Playful Introduction to Programming.
