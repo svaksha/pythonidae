@@ -79,6 +79,7 @@
 # RESOURCES
 + [Teaching numerical methods with IPython notebooks](https://github.com/ketch/teaching-numerics-with-notebooks) :: a tutorial prepared for Scipy 2014.
 + IPython Notebooks training material for [ML, Numpy, Pandas and IPython](https://github.com/addfor/tutorials) distributed by Addfor s.r.l.
++ [PyData Seattle 2015](https://github.com/wrobstory/pydataseattle2015) :: Python Data Bikeshed.
 
 ### Coursera.org   
 + [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
