@@ -1,4 +1,6 @@
 + [Books](#books)
+   + [Free](#free)
+   + [Non-Free](#non-free)
 + [Bootstrapping](#bootstrapping)
 + [Blogs](#blogs)
 + [Cheatsheets](#cheatsheets)
@@ -12,13 +14,16 @@
 ----
 
 # Books
+### Free
 + [Intermediate Python](http://book.pythontips.com) :: The [source](https://github.com/yasoob/intermediatePython) on github.
 + [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) :: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. 
 + [Python 3 Tutorial](http://www.python-course.eu) by Bernd Klein.
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
-https://github.com/dejacode/about-code-tool ::  AboutCode provides a simple way to document the provenance (origin and license) and other important or interesting information about third-party software components that you use in your project.http://aboutcode.org/
+
+### Non-Free
++ [Python for Kids](https://www.amazon.com/dp/1593274076/ref=cm_sw_r_awd_e5ybwb2BHG9JN) :: A Playful Introduction to Programming.
 
 ----
 
@@ -32,6 +37,8 @@ __Resources and guides for Scientists new to Python.__
 + [python-guide](https://github.com/kennethreitz/python-guide) :: Python best practices guidebook, written for Humans. [Documentation](http://docs.python-guide.org)
 + [python-intro](http://bennuttall.github.io/python-intro/) :: A set of Python exercises led by hints in comments - suitable for beginner / intermediate level.
 + [Python Koans](https://github.com/gregmalcolm/python_koans) :: Learn Python through TDD.
++ [Code Academy](http://www.codecademy.com/en/tracks/python) :: A beginner course.
++ [Google’s Python Class](https://developers.google.com/edu/python/)
 
 ### Begin-Git
 + [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
