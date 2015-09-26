@@ -21,7 +21,7 @@
 ----
 
 # Ask for Help
-_Spaces where can ask for help with python and get responses from other programmers._
+_Spaces where one can ask python-related questions and get help from other programmers._
 
 ### Free
 + The [Tutor](https://mail.python.org/mailman/listinfo/tutor) list.
