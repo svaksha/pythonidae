@@ -20,6 +20,8 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 ----
 
 # FRAMEWORKS
++ The [Django](https://djangoproject.com)-project.
+   + [django-adminplus](https://github.com/jsocol/django-adminplus) :: Easily add custom views to the Django admin. 
 + [Falcon](http://falconframework.org) :: A high-performance Python framework for building cloud APIs and web app backends.
 + [palladium](https://github.com/ottogroup/palladium) :: A pluggable framework for easily setting up predictive analytics services as web services and developing real-world machine learning solutions.
 + [Spyre](https://github.com/adamhajari/spyre) : A Web Application Framework for providing a simple user interface for Python data projects and data visualization, so you'll also need pandas and matplotlib in addition to cherrypy, with jinja2 templating. 
