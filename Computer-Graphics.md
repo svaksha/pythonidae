@@ -21,6 +21,9 @@
 ### Games
 + [PySoy](http://www.pysoy.org/) is a 3D cloud game engine for Python. [Source code](http://hg.pysoy.org/pysoy)
 
+###### Resources
++ [Bokeh Snake](https://github.com/akloster/bokeh-snake) :: This is an example on how to use Jupyter widgets and the Bokeh plotting library to implement a simple Snake Game.
+
 ----
 
 # INFOGRAPHICS
