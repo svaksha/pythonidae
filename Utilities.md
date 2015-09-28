@@ -15,7 +15,7 @@
 # 2to3
 __Python 2&3 tools__
 + [python-future](http://python-future.org) :: Easy, clean, reliable Python 2/3 compatibility. [Source code](https://github.com/PythonCharmers/python-future) and a [cheat sheet for writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html). 
-* [Six](https://pypi.python.org/pypi/six) :: A Python 2-3 porting utility.
++ [Six](https://pypi.python.org/pypi/six) :: A Python 2-3 porting utility.
 
 ----
 
@@ -88,6 +88,7 @@ __Python 2&3 tools__
 General tools & useful utilities. 
 
 + [pandocfilters](https://github.com/jgm/pandocfilters) :: A python module for writing pandoc filters, with a collection of examples. 
++ [podoc](https://github.com/podoc/podoc) :: A minimalistic pure Python pandoc clone, i.e. a markup document conversion library. Currently, it supports Markdown, Jupyter notebook, OpenDocument, O'Reilly Atlas, Python + comments. Support for ReST, LaTeX, HTML, AsciiDoc is planned.
 
 ## Backups
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
