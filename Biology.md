@@ -230,6 +230,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 
 ### Neural Networks
 + [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition) :: A recurrent neural network designed to generate classical music. 
++ [blocks](https://github.com/mila-udem/blocks) :: A Theano framework for building and training neural networks.
 + [cnn-vis](https://github.com/jcjohnson/cnn-vis) :: Use CNNs to generate images.
 https://github.com/hexahedria/biaxial-rnn-music-composition :: A recurrent neural network designed to generate classical music. 
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
