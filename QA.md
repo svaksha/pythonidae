@@ -6,6 +6,10 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 
 ----
 
+# LOGGING
+
+----
+
 # UNITTEST
 + [Hypothesis](https://github.com/DRMacIver/hypothesis) :: An advanced Quickcheck style testing library for Python.
 + [nupic.regression](https://github.com/numenta/nupic.regression) :: Regression test suite for NuPIC.

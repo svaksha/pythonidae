@@ -19,7 +19,6 @@
 
 # Computational Physics
 + [NUFFT](https://github.com/jakevdp/nufft) :: A pure-python implementation of the [NUFFT](http://www.cims.nyu.edu/cmcl/nufft/nufft.html) (Non-Uniform Fast Fourier Transform) and related algorithms.
-+ [pyneqsys](https://github.com/bjodah/pyneqsys) :: Solving of symbolic systems of non-linear equations numerically.
 
 ----
 
