@@ -235,6 +235,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 https://github.com/hexahedria/biaxial-rnn-music-composition :: A recurrent neural network designed to generate classical music. 
 + [Kayak](https://github.com/HIPS/Kayak) :: a library for automatic differentiation with applications to deep neural networks. 
 + [nupic](https://github.com/numenta/nupic) :: a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/).
++ [nupic.studio](https://github.com/nupic-community/nupic.studio) :: NuPIC Studio is a powerful all­-in-­one tool that allows users create a HTM neural network from scratch, train it, collect statistics, and share it among the members of the community.
 + [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
 + [optofit](https://github.com/HIPS/optofit) :: A python framework for fitting biophysical models to optically recorded neural signals. 
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
