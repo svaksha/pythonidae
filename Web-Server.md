@@ -46,6 +46,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ## Security
 + [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
++ [PBP](https://github.com/stef/pbp) :: A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP. 
 
 ----
 
