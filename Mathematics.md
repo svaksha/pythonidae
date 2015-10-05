@@ -3,7 +3,8 @@
    + [Algebra](#algebra)
    + [Calculus](#calculus)
    + [Geometry](#geometry)
-   + [Numerical Analysis](#numerical-analysis)
++ [Numerical Analysis](#numerical-analysis)
+   + [Numerical Linear Algebra](#numerical-linear-algebra)
 + [RESOURCES](#resources)
 
 ----
@@ -48,9 +49,10 @@
 * [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
 * [Shapely](https://github.com/Toblerity/Shapely) :: Python package for manipulation and analysis of geometric objects in the Cartesian plane. [Documentation](http://toblerity.github.com/shapely/)
 
+----
 
-### Numerical Analysis
-+ https://en.wikipedia.org/wiki/Category:Numerical_analysis
+# [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+
 + [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
    + [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
    **Resources**
@@ -76,6 +78,9 @@
    + [Official Documentation](http://www.scipy.org/docs.html)
    + [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
 + [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class. 
+
+### Numerical Linear Algebra (NLA)
++ [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems. [Elemental](http://libelemental.org) is a distributed-memory dense and sparse-direct linear algebra and optimization library with third-party Python interfaces. [Source code](https://github.com/elemental/Elemental).
 
 ----
 
