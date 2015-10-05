@@ -86,7 +86,7 @@ __Python 2&3 tools__
 
 # UTILS
 General tools & useful utilities. 
-
++ [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
 + [pandocfilters](https://github.com/jgm/pandocfilters) :: A python module for writing pandoc filters, with a collection of examples. 
 + [podoc](https://github.com/podoc/podoc) :: A minimalistic pure Python pandoc clone, i.e. a markup document conversion library. Currently, it supports Markdown, Jupyter notebook, OpenDocument, O'Reilly Atlas, Python + comments. Support for ReST, LaTeX, HTML, AsciiDoc is planned.
 
