@@ -3,10 +3,13 @@
 + [BUILD AUTOMATION](#build-automation)
 + [CONTINUOUS INTEGRATION](#continuous-integration)
 + [Operating System Technology](#operating-system-technology)
+   + [Binaries](#binaries)
+   + [Containers-Virtualization](#containers-virtualization)
+   + [DistrOS](#distros)
    + [Packaging](#packaging)
    + [Sandboxes](#sandboxes)
-   + [Virtualization](#virtualization)
 + [NEWS](#news)
+
 
 ----
 
@@ -49,6 +52,11 @@
 
 + [klusta_process_manager](https://github.com/tymoreau/klusta_process_manager) :: A process manager.
 
+## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
++ [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
++ [Pythonista](https://github.com/ikalnitsky/pythonista) :: A Docker image for Python developers to use and test their applications.
+
+
 ## Packaging
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
@@ -81,8 +89,6 @@
 + [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3
 
 
-## Virtualization
-+ [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
 
 ----
 
