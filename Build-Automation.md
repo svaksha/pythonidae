@@ -65,6 +65,7 @@
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
 + [pynsist](https://pypi.python.org/pypi/pynsist) :: Build Windows installers for Python apps.
++ [pythonize](https://github.com/princebot/pythonize) :: Download, install, and configure Python in one line.
 
 ###### Resources
 + AOSA book [Python Packaging](http://www.aosabook.org/en/packaging.html) by Tarek Ziadé.
