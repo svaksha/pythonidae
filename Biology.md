@@ -14,6 +14,7 @@
 + [NEUROSCIENCE](#neuroscience)
    + [Neural-Networks](#neural-networks)
    + [Neuropsychology](#neuropsychology)
+   + [Org-kwikteam](#kwikteam)
 + [SYSTEOMICS](#systeomics)
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
@@ -263,6 +264,11 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [python-pyepl](http://neuro.debian.net/pkgs/python-pyepl.html) :: A module for coding psychology experiments in Python.
 + [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg).
 
+### Org-[kwikteam](https://github.com/kwikteam)
+__Large-scale electrophysiological data analysis framework in Python.__
++ [phy](https://github.com/kwikteam/phy) :: Interactive electrophysiological data analysis package.
+
+ 
 ----
 
 # [SYSTEOMICS](http://en.wikipedia.org/wiki/Systems_biology)
