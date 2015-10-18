@@ -61,7 +61,6 @@
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
 + [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries.
-+ [dotfiler](https://github.com/svetlyak40wt/dotfiler) :: Shell agnostic git based dotfiles package manager, written in Python. 
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation.
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
