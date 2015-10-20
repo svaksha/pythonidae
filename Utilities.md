@@ -1,7 +1,8 @@
 + [2to3](#2to3)
 + [DOCUMENTATION](#documentation)
 + [ENVIRONMENTS](#environments)
-   + [Org-Jupyter](#org-jupyter)
+   + [IDE](#ide)
+   + [Jupyter](#jupyter)
 + [HARDWARE](#hardware)
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
@@ -29,9 +30,11 @@ __Python 2&3 tools__
 # ENVIRONMENTS
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
+## IDE
 + [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. http://jedi.jedidjah.ch/
++ [MagicPython](https://github.com/MagicStack/MagicPython) :: Syntax highlighter for cutting edge Python for Sublime Text and Atom. 
 
-## Org-[Jupyter](https://github.com/jupyter)
+## [Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/) provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits. The Project Jupyter has a [governance process and model](https://github.com/jupyter/governance) for their organization.
 + [bookmarkd](https://github.com/ryansb/bookmarkd) :: Markdown -> IPython conversion tool. 
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
