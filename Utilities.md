@@ -98,6 +98,8 @@ General tools & useful utilities.
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
 + [rotate-backups](https://github.com/xolox/python-rotate-backups) :: Simple command line interface for backup rotation, also available via [PyPI](https://pypi.python.org/pypi/rotate-backups).
 
+## Communication
++ [whatsapp-bot-seed](https://github.com/joaoricardo000/whatsapp-bot-seed) :: A small python framework to create a whatsapp bot, with regex-callback message routing. 
 
 ## Desktop Document processing 
 + [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
