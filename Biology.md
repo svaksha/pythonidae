@@ -198,8 +198,8 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [CodeNeuro](http://codeneuro.org/) :: Bringing neuroscience and data science together.
 + [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
 + [CPAC](https://github.com/FCP-INDI/C-PAC) :: A configurable pipeline for rsfMRI/connectome analyses.
++ [DCMPy](https://github.com/armaneshaghi/DCMPy) :: A Python module for longitudinal surface-based DCM of fMRI data.
 + [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
-+ [DCMPy](https://github.com/armaneshaghi/DCMPy) :: is a Python module for longitudinal surface-based DCM of fMRI data.
 + [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 + [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
 + [fmri-analysis-vm](https://github.com/poldrack/fmri-analysis-vm) :: A VM setup for use in fMRI analysis and education.
@@ -219,10 +219,11 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [pipelines](https://github.com/NeuroanatomyAndConnectivity/pipelines) :: Neuroimgaing data processing pipelines used in the lab.
 + [PredPy](https://github.com/armaneshaghi/PredPy) :: is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
 + [PyBrain](http://pybrain.org) and its [installation](https://github.com/pybrain/pybrain/wiki/installation)
-+ [pydcemri](https://github.com/welcheb/pydcemri) :: Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp.
 + [PyCogMo](https://github.com/agravier/pycogmo) :: is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions.
 + [pycone](https://github.com/bgalbraith/pycone) :: Python in Computational Neuroscience
-+ Pycortex :: [is a python-based toolkit for surface visualization in fMRI data](http://pycortex.org). [Source Code](https://github.com/gallantlab/pycortex) on Github.
++ [pydcemri](https://github.com/welcheb/pydcemri) :: Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp.
++ [Pycortex](http://pycortex.org) :: A python-based toolkit for surface visualization in fMRI data. [Source Code](https://github.com/gallantlab/pycortex) on Github.
++ [pydicom](https://github.com/darcymason/pydicom) :: Read, modify and write DICOM files with python code.
 + [PYEZMINC](https://github.com/BIC-MNI/pyezminc) :: is a python module to read and write MINC files.
 + [PyMVPA](http://www.pymvpa.org) → MultiVariate Pattern Analysis in Python. [Source code](https://github.com/PyMVPA/PyMVPA)
 + [pyneurovault](https://github.com/NeuroVault/pyneurovault) :: A python wrapper for the NeuroVault API (in dev) with [documentation](http://www.neurovault.org/api-docs)
