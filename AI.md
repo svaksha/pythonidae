@@ -50,6 +50,7 @@
 + [MLTRP](https://github.com/thejat/mltrp) :: Machine Learning and the Traveling Repairman Problem.
 + [Morris_counter](https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte).
 + [MLTP](https://github.com/stefanv/MLTP) :: ML Timeseries Platform. 
++ [ProFET](https://github.com/ddofer/ProFET) :: [Protein Feature Engineering Toolkit](http://www.protonet.cs.huji.ac.il) for Machine Learning.
 + [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
 + [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
 + [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.

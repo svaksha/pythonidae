@@ -230,6 +230,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [PySurfer](https://github.com/nipy/PySurfer) :: Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
 + [PyView](https://github.com/lrajmohan/PyView) :: A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
 
+
 ### Neural Networks
 + [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition) :: A recurrent neural network designed to generate classical music. 
 + [blocks](https://github.com/mila-udem/blocks) :: A Theano framework for building and training neural networks.
