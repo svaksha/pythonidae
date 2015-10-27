@@ -105,6 +105,7 @@
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 
 ###### Resources
++ [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
 + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
    + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
