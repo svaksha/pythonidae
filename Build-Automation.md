@@ -85,6 +85,7 @@
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
    + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
++ [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
 + [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
 
 ###### Resources
