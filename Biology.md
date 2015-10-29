@@ -83,6 +83,7 @@
 # GENOMICS
 + [allbiotc2](https://github.com/ALLBio/allbiotc2) :: Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start).
 + [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
++ [ASAP](https://github.com/ddofer/asap) :: Amino-Acid Sequence Annotation Predictor. 
 + [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
 + [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
 + [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
