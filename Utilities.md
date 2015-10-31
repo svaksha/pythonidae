@@ -1,8 +1,8 @@
 + [2to3](#2to3)
 + [DOCUMENTATION](#documentation)
 + [ENVIRONMENTS](#environments)
-   + [GUI](#gui)
    + [IDE](#ide)
+        + [Zoof](#zoof) 
    + [Jupyter](#jupyter)
 + [HARDWARE](#hardware)
 + [TERMINAL](#terminal)
@@ -32,14 +32,15 @@ __Python 2&3 tools__
 # ENVIRONMENTS
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
-## GUI
-+ [flexx](https://github.com/zoofIO/flexx) :: A Python UI tookit based on web technology. [Documentation](http://flexx.readthedocs.org).
-   + [flexx-notebooks](https://github.com/zoofIO/flexx-notebooks) :: Jupyter notebooks with Flexx examples. 
-
 ## IDE
 + [Bugjar](https://github.com/pybee/bugjar) :: A interactive graphical debugger for Python code. 
 + [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. http://jedi.jedidjah.ch/
 + [MagicPython](https://github.com/MagicStack/MagicPython) :: Syntax highlighter for cutting edge Python for Sublime Text and Atom. 
+
+### Zoof
++ [Zoof](http://zoof.io) :: The Official repository - The IDE for dynamic coding. [Source code](https://github.com/zoofIO/zoof).
++ [flexx](https://github.com/zoofIO/flexx) :: A Python UI tookit based on web technology. [Documentation](http://flexx.readthedocs.org).
+   + [flexx-notebooks](https://github.com/zoofIO/flexx-notebooks) :: Jupyter notebooks with Flexx examples. 
 
 ## [Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/) provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits. The Project Jupyter has a [governance process and model](https://github.com/jupyter/governance) for their organization.
