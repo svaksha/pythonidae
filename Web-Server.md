@@ -33,6 +33,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 # WEB FRAMEWORKS
 + [Falcon](http://falconframework.org) :: A high-performance Python framework for building cloud APIs and web app backends.
 + [palladium](https://github.com/ottogroup/palladium) :: A pluggable framework for easily setting up predictive analytics services as web services and developing real-world machine learning solutions.
++ [redactvideo](https://github.com/seattle-police/redactvideo) :: A Web application for redacting and publishing police body worn video as efficiently as possible.
 + [Spyre](https://github.com/adamhajari/spyre) : A Web Application Framework for providing a simple user interface for Python data projects and data visualization, so you'll also need pandas and matplotlib in addition to cherrypy, with jinja2 templating. 
 + [Tornado](http://www.tornadoweb.org/) :: A Python web framework and asynchronous networking library, originally developed at FriendFeed. [Source code](https://github.com/tornadoweb/tornado).
 
