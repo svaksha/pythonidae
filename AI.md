@@ -126,6 +126,7 @@
 + [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
 + [PLY](https://github.com/dabeaz/ply) :: Python Lex-Yacc. http://www.dabeaz.com/ply/index.html
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
++ [TextGridTools](https://github.com/hbuschme/TextGridTools) :: Read, write, and manipulate Praat TextGrid files with Python.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 
 ### Speech Recognition
