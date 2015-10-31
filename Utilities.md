@@ -1,6 +1,7 @@
 + [2to3](#2to3)
 + [DOCUMENTATION](#documentation)
 + [ENVIRONMENTS](#environments)
+   + [GUI](#gui)
    + [IDE](#ide)
    + [Jupyter](#jupyter)
 + [HARDWARE](#hardware)
@@ -30,6 +31,10 @@ __Python 2&3 tools__
 
 # ENVIRONMENTS
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
+
+## GUI
++ [flexx](https://github.com/zoofIO/flexx) :: A Python UI tookit based on web technology. [Documentation](http://flexx.readthedocs.org).
+   + [flexx-notebooks](https://github.com/zoofIO/flexx-notebooks) :: Jupyter notebooks with Flexx examples. 
 
 ## IDE
 + [Bugjar](https://github.com/pybee/bugjar) :: A interactive graphical debugger for Python code. 
