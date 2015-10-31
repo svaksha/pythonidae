@@ -15,6 +15,7 @@
 
 # 2to3
 __Python 2&3 tools__
++ [py3readiness](http://py3readiness.org) ::  Python 3 support graph for most popular packages. [Source code](https://github.com/chhantyal/py3readiness).
 + [python-future](http://python-future.org) :: Easy, clean, reliable Python 2/3 compatibility. [Source code](https://github.com/PythonCharmers/python-future) and a [cheat sheet for writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html). 
 + [Six](https://pypi.python.org/pypi/six) :: A Python 2-3 porting utility.
 
