@@ -101,6 +101,7 @@
 
 ## Bayesian
 + [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
++ [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
 + [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 
