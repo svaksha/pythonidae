@@ -131,6 +131,7 @@
 ### Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
++ [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing. 
 
 ### Screen Reading
 + [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on. 
