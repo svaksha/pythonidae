@@ -43,6 +43,7 @@ __Visualization software__
    __DOCS__
    + [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
 + [Orange](http://orange.biolab.si) :: An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.
++ [object_detection_trainer](https://github.com/seattle-police/object_detection_trainer) :: A web interface for creating histogram-of-oriented-gradient (HOG) based object detectors. 
 + [Pygal](http://pygal.org) :: PYthon SVG GrAph plotting Library. [Source code](https://github.com/Kozea/pygal).
 + [Pylab](http://wiki.scipy.org/PyLab) :: is Matplotlib's pylab interface for interactive mode.
 + [Plotly](https://plot.ly/python) :: is an API and webhost for all your Python web plotting needs.
