@@ -22,6 +22,7 @@
    + [ScriptingOSX-recipes](https://github.com/autopkg/scriptingosx-recipes).
    + [Thenikola-recipes](https://github.com/autopkg/thenikola-recipes).
    + [Timsutton-recipes](https://github.com/autopkg/timsutton-recipes).
++ [BuildBot](https://en.wikipedia.org/wiki/Buildbot) :: Runs atop the Twisted libraries.
 + [nupic-darwin64](https://github.com/numenta/nupic-darwin64) :: Python distribution for NuPIC on OSX.
 + [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 + [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
@@ -41,6 +42,8 @@
 ----
 
 # CONTINUOUS INTEGRATION
+
++ [Homu](http://homu.io/) :: A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
 
 ##### Resources
 * Blog post series on Continuous integration in Python by @jni:
