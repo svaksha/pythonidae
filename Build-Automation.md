@@ -32,6 +32,12 @@
 + [Pinball](https://github.com/pinterest/pinball) :: A scalable workflow manager.
 + [SCons](http://scons.org/) :: A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
 
+### DevOps tools
++ [Fabric](http://www.fabfile.org) :: A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks. [Source code and bug tracker](https://github.com/fabric/fabric/).
++ [patchwork](https://github.com/fabric/patchwork) :: Common deployment/sysadmin operations, built on Fabric. 
++ [Plumbum](https://pypi.python.org/pypi/plumbum) :: Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
++ [pyinvoke](http://pyinvoke.org) :: Simple Python task execution. [Source code](https://github.com/pyinvoke/invoke).
+
 ----
 
 # CONTINUOUS INTEGRATION

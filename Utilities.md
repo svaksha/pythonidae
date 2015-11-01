@@ -85,8 +85,6 @@ __Python 2&3 tools__
 
 # TERMINAL
 + [dotfiler](https://github.com/svetlyak40wt/dotfiler) :: Shell agnostic git-based dotfiles package manager, written in Python. 
-+ [Fabric](http://www.fabfile.org) :: A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks. [Source code and bug tracker](https://github.com/fabric/fabric/).
-+ [Plumbum](https://pypi.python.org/pypi/plumbum) :: Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) :: Library for building powerful interactive command lines in Python.
 + [pythonpy](https://github.com/Russell91/pythonpy) :: command line kung-fu with python.
 + [Xonsh_Kernel](https://github.com/Calysto/xonsh_kernel) :: Jupyter Kernel for Xonsh.
