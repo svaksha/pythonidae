@@ -75,6 +75,7 @@
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
 + [pynsist](https://pypi.python.org/pypi/pynsist) :: Build Windows installers for Python apps.
 + [pythonize](https://github.com/princebot/pythonize) :: Download, install, and configure Python in one line.
++ [twine](https://github.com/pypa/twine) :: Utilities for interacting with PyPI. 
 
 ###### Resources
 + AOSA book [Python Packaging](http://www.aosabook.org/en/packaging.html) by Tarek Ziadé.
