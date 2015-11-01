@@ -4,7 +4,6 @@
    + [IDE](#ide)
         + [Zoof](#zoof) 
    + [Jupyter](#jupyter)
-+ [HARDWARE](#hardware)
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
    + [Backups](#backups)
@@ -81,16 +80,13 @@ __Python 2&3 tools__
 + [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
 + Kirill Pomogajko blogs on [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/).
 
-----
-
-# HARDWARE
-+ [aravisGigE](https://github.com/areaDetector/aravisGigE) :: An EPICS area Detector driver using the glib aravis library for video acquisition with Genicam cameras. Python is used to create databases and edm screens from the XML file.
-+ [Migen](https://github.com/m-labs/migen) :: A Python toolbox for building complex digital hardware by [M-Labs](http://m-labs.hk).
 
 ----
 
 # TERMINAL
-+ [dotfiler](https://github.com/svetlyak40wt/dotfiler) :: Shell agnostic git based dotfiles package manager, written in Python. 
++ [dotfiler](https://github.com/svetlyak40wt/dotfiler) :: Shell agnostic git-based dotfiles package manager, written in Python. 
++ [Fabric](http://www.fabfile.org) :: A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks. [Source code and bug tracker](https://github.com/fabric/fabric/).
++ [Plumbum](https://pypi.python.org/pypi/plumbum) :: Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) :: Library for building powerful interactive command lines in Python.
 + [pythonpy](https://github.com/Russell91/pythonpy) :: command line kung-fu with python.
 + [Xonsh_Kernel](https://github.com/Calysto/xonsh_kernel) :: Jupyter Kernel for Xonsh.
