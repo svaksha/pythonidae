@@ -44,6 +44,7 @@ __Python 2&3 tools__
 ## [Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org), 'nee [IPython](http://ipython.org/) provides a rich architecture for interactive computing with interactive shells (terminal and Qt-based) and browser-based notebook support for code, text, mathematical expressions, inline plots and support for interactive data visualization and use of GUI toolkits. The Project Jupyter has a [governance process and model](https://github.com/jupyter/governance) for their organization.
 + [bookmarkd](https://github.com/ryansb/bookmarkd) :: Markdown -> IPython conversion tool. 
++ [callipy](https://github.com/damiendr/callipy) :: Call IPython notebooks with arguments.
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
@@ -61,7 +62,6 @@ __Python 2&3 tools__
    + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
 + [sudospawner](https://github.com/jupyter/sudospawner) :: Spawn JupyterHub single-user servers with sudo.
 + [vIPer](https://github.com/damianavila/vIPer) :: A new tool for IPython notebooks. 
-
 
 ###### Resources
 + [Jupyter notebook beginner guide](https://github.com/tritemio/jupyter_notebook_beginner_guide) :: A brief guide to install and run Jupyter/IPython notebooks.
