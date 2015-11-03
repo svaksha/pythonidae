@@ -106,6 +106,7 @@
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 
 ###### Resources
++ [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
 + [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
 + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
