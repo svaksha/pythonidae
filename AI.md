@@ -90,6 +90,8 @@
 
 
 ## Classification Algorithms
++ [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm. 
+
 ###### Resources
 **Naive Bayes**
 + Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
@@ -98,7 +100,6 @@
 ## Graph Theory
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
-
 
 ###### Resources
 + [Amazon Machine Learning: use cases and a real example in Python](http://cloudacademy.com/blog/aws-machine-learning/).
