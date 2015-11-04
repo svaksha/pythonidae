@@ -14,8 +14,8 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae), c
 + [Build-Automation.md](https://github.com/svaksha/pythonidae/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
 + [Chemistry.md](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry, etc...
 + [Computer-Graphics.md](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
-+ [Database.md](https://github.com/svaksha/pythonidae/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
-+ [data-sets.md](https://github.com/svaksha/pythonidae/blob/master/data-sets.md) :: Data Sets.
++ [Data-Base.md](https://github.com/svaksha/pythonidae/blob/master/Data-Base.md) :: NoSQL, RDBMS and Middleware API's.
++ [Data-Sets.md](https://github.com/svaksha/pythonidae/blob/master/Data-Sets.md) :: Free Data-Sets.
 + [Earth-Science.md](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
 + [Hardware.md](https://github.com/svaksha/pythonidae/blob/master/Hardware.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
@@ -39,7 +39,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae), c
 ## Mirrors 
 + [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
 + [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
-+ [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/pythonidae) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/pythonidae.git
++ [NotABug](https://notabug.org/svaksha/pythonidae) :: git clone git@notabug.org:svaksha/pythonidae.git
 
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
