@@ -15,7 +15,7 @@ Scientific programming with [pythonidae](http://svaksha.github.io/pythonidae), c
 + [Chemistry.md](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry, etc...
 + [Computer-Graphics.md](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [Data-Base.md](https://github.com/svaksha/pythonidae/blob/master/Data-Base.md) :: NoSQL, RDBMS and Middleware API's.
-+ [Data-Sets.md](https://github.com/svaksha/pythonidae/blob/master/Data-Sets.md) :: Free Data-Sets.
++ [Open-Data.md](https://github.com/svaksha/pythonidae/blob/master/Open-Data.md) :: OpenData, Free Data-Sets.
 + [Earth-Science.md](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
 + [Hardware.md](https://github.com/svaksha/pythonidae/blob/master/Hardware.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
