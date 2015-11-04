@@ -20,8 +20,9 @@
    + Notebook showing the [Benchmark for querying the MovieLens dataset using pandas and bcolz](http://nbviewer.ipython.org/github/Blosc/movielens-bench/blob/master/querying-ep14.ipynb)
 + [beta_ntf](https://github.com/nils-werner/beta_ntf) :: Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
 + [bquery](https://github.com/visualfabriq/bquery) :: A query and aggregation framework for Bcolz.
-+ [complex-numbers](https://github.com/j2kun/complex-numbers) → The code respository for the post "Learning to Love Complex Numbers".
- [impyla](https://github.com/cloudera/impyla) → is a Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
++ [complex-numbers](https://github.com/j2kun/complex-numbers) :: The code respository for the post "Learning to Love Complex Numbers".
++ [impyla](https://github.com/cloudera/impyla) :: A Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
++ [pyeq2](https://github.com/zunzun/pyeq2) :: A large collection of Python equations that can fit themselves to 2D and 3D data sets, output source code in several computing languages, and run a genetic algorithm for initial parameter estimation. Comes with cluster, parallel processing, GUI, NodeJS, and web-based graphical examples. Includes orthogonal distance and relative error regressions. 
 + [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
 + [symengine.py](https://github.com/symengine/symengine.py) :: Python wrappers for SymEngine.
 + [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
