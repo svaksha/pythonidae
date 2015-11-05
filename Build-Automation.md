@@ -38,6 +38,7 @@
 + [patchwork](https://github.com/fabric/patchwork) :: Common deployment/sysadmin operations, built on Fabric. 
 + [Plumbum](https://pypi.python.org/pypi/plumbum) :: Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
 + [pyinvoke](http://pyinvoke.org) :: Simple Python task execution. [Source code](https://github.com/pyinvoke/invoke).
++ [Watcher](https://github.com/splitbrain/Watcher) :: A daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read ini file instead of a plain text file. Unlike incron it can also recursively monitor directories. It's also written in Python, making it easier to hack.
 
 ----
 
