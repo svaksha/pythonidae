@@ -21,6 +21,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [clusterlib](https://github.com/clusterlib/clusterlib) :: Tools to manage jobs on supercomputer. [Documentation](http://clusterlib.readthedocs.org/)
 + [Pathos](https://github.com/uqfoundation/pathos) :: A framework for parallel graph management and execution in heterogeneous computing. It primarily provides the communication mechanisms for configuring and launching parallel computations across heterogenous resources. Pathos provides configurable launchers for parallel and distributed computing, where each launcher contains the syntactic logic to configure and launch jobs in an execution environment.
 + [Pyina](https://github.com/uqfoundation/pyina) :: a MPI-based parallel mapper and launcher.
++ [Ufora](https://github.com/ufora/ufora) :: A compiled, automatically parallel subset of python for data science and numerical computing.
 
 ## AWS
 + [AmazonEC2scripts](https://github.com/swederik/AmazonEC2scripts) :: Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
