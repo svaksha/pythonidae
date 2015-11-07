@@ -78,6 +78,7 @@
 + [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
 + [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
 + [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) :: A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/).
++ [singlecell](https://github.com/roryk/singlecell) :: single-cell data analysis incubator. 
 
 ----
 
