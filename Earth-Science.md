@@ -46,6 +46,7 @@
 + [Karta](https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation.
 + [MASSACR](https://github.com/navahnavahnavah/massacr) :: Modeling Altered Seafloor: Simulation and Climatic Response.
 + [MetPy](https://github.com/metpy/MetPy) :: A Python Package for Meteorological Data.
++ [PitchWeather](https://github.com/roryk/PitchWeather) :: Links Weather Underground weather data to a PitchFx database.
 + [PyLith](https://github.com/geodynamics/pylith) :: is a finite element code for the solution of dynamic and quasi-static tectonic deformation problems.
 + [Pyshp](https://github.com/GeospatialPython/pyshp) :: library to read and write ESRI Shapefiles in pure Python.
 + [ulmo](https://github.com/ulmo-dev/ulmo) :: clean, simple and fast access to public hydrology and climatology data.
