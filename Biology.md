@@ -33,10 +33,11 @@
 # BIOTOOLS
 + [annotations](https://github.com/tyarkoni/annotations) :: Multimodal stimulus annotation in Python.
 + [bionetwork](https://github.com/machbio/bionetwork) :: Graph Database, a network of everything bio.
-+ [biostar-central](https://github.com/ialbert/biostar-central) → The software that runs the Biostars Bioinformatics Q&A at: http://www.biostars.org
-+ [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) is the standalone version of the Entrez and Medline BioPython modules.
++ [biostar-central](https://github.com/ialbert/biostar-central) :: The software that runs the [Biostars Bioinformatics Q&A](http://www.biostars.org).
++ [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) :: The standalone version of the Entrez and Medline BioPython modules.
 + [bipy](https://github.com/roryk/bipy) :: Lightweight bioinformatics pipeline tools using iPython. 
 + [CloudBioLinux](http://cloudbiolinux.org) : configure virtual (or real) machines with tools for biological analyses. [Source Code](https://github.com/chapmanb/cloudbiolinux)
++ [chowda](https://github.com/chrismamil/chowda) :: Python module for analysis of CLAMS (comprehensive lab animal monitoring system) data.
 + [Cosmos](https://cosmos.hms.harvard.edu) :: A Python library for Workflow Management System that tracks massively parallel computing clusters as well as cloud-based services. Download it [here](https://cosmos.hms.harvard.edu/download.html).
 + [CTDopts](https://github.com/genericworkflownodes/CTDopts) :: CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities.
 + [Encode-dataframe](https://github.com/daler/encode-dataframe) :: Convert UCSC's ENCODE metadata into pandas DataFrames.
