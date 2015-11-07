@@ -94,6 +94,7 @@
 + [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
    + [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
    + [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
+   + [bcbio.coverage](https://github.com/lpantano/bcbio.coverage) :: utils functions for exome coverage plots as quality controls.
 + [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 + [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
 + [Chanjo](http://www.chanjo.co/) :: This package provides a better way to analyze coverage data in clinical sequencing. [Source Code](https://github.com/robinandeer/chanjo). 
