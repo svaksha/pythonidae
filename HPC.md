@@ -41,6 +41,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ## HPC
 + [Dask](http://dask.pydata.org) :: Task scheduling and blocked algorithms for parallel processing. [Source code](https://github.com/ContinuumIO/dask) and [Documentation](https://dask.pydata.org/en/latest/).
++ [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 + [Pyston](https://github.com/dropbox/pyston) : An open-source Python implementation using JIT techniques, built using LLVM for performance speed. Their blog [introducing Pyston](https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/)
 + [PySGE](https://github.com/jiahao/PySGE) : Low-level Python interface to Sun Grid Engine. 
 + [Pythran](https://pypi.python.org/pypi/pythran) : A Static Compilation of Parallel Scientific Kernels a.k.a. Python/Numpy compiler for the mass. [Source Code](https://github.com/serge-sans-paille/pythran) on Github.
