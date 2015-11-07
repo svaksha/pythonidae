@@ -47,6 +47,7 @@
    + [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
 + [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 + [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
++ [tiny-test-data](https://github.com/roryk/tiny-test-data) :: Super small biological datasets for unit testing. 
 
 ----
   
