@@ -138,8 +138,10 @@
 + [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
 + [flotilla](https://github.com/YeoLab/flotilla) :: A Python package for visualizing transcriptome (RNA expression) data from hundreds of samples - Reproducible machine learning analysis of gene expression and alternative splicing data. [Documentation](http://yeolab.github.io/flotilla/docs).
 + [gimme](https://github.com/likit/gimme) :: A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
++ [RNASeqReadSimulator](http://www.cs.ucr.edu/~liw/rnaseqreadsimulator.html) :: A simple tool to generate simulated single-end or paired-end RNA-Seq reads. [Source Code](https://github.com/davidliwei/RNASeqReadSimulator).
 + [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
+
 
 ###### Research Publications
 + Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
