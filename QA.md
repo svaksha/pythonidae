@@ -7,6 +7,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 ----
 
 # LOGGING
++ [logbook](http://logbook.pocoo.org/) :: A cool logging replacement for Python. [Source code](https://github.com/getlogbook/logbook).
 
 ----
 
