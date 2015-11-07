@@ -77,7 +77,7 @@
    + [Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing](http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above.
 + [parallyze](https://github.com/rohanmaddamsetti/parallyze) :: Software to analyze parallel genome evolution.
 + [phylowgs](https://github.com/morrislab/phylowgs) :: Application for inferring subclonal composition and evolution from whole-genome sequencing data. 
-+ [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) → A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/).
++ [screed](https://github.com/ged-lab/screed) (GED@MSU.EDU) :: A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/).
 
 ----
 
@@ -93,6 +93,7 @@
    + [bcbio-conda](https://conda.binstar.org/bcbio) ::  conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
 + [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 + [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
++ [Chanjo](http://www.chanjo.co/) :: This package provides a better way to analyze coverage data in clinical sequencing. [Source Code](https://github.com/robinandeer/chanjo). 
 + [CompleteGenomicsTools](https://github.com/seandavi/CompleteGenomicsTools) →  Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing. Software for manipulating and visualizing Complete Genomics data, with a [focus on cancer](http://watson.nci.nih.gov/~sdavis/software/cgent/)
 + [CaPSID](https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification) :: A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/).
 + [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
