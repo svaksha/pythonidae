@@ -5,7 +5,6 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
    + [AWS](#aws)
    + [APACHE](#apache)
    + [HPC](#hpc)
-+ [Virtualization](#virtualization)
 
 ----
 
@@ -50,8 +49,4 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ###### Resources
 + PyData Paris [talk slides](https://serge-sans-paille.github.io/talks/pydata-2015-04-03.html#/0/1).
    
-----
-
-# [Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
-+ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 

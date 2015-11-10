@@ -62,9 +62,11 @@
 + [klusta_process_manager](https://github.com/tymoreau/klusta_process_manager) :: A process manager.
 
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
+__Docker, etc..__
++ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
++ [docker-notebook](https://github.com/ipython/docker-notebook) :: Docker containers for the Jupyter IPython notebook (+SciPy Stack). https://registry.hub.docker.com/u/ipython/
 + [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
 + [Pythonista](https://github.com/ikalnitsky/pythonista) :: A Docker image for Python developers to use and test their applications.
-
 
 ## Packaging
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
