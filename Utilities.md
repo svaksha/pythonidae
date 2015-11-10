@@ -7,9 +7,11 @@
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
    + [Backups](#backups)
+   + [Communication](#communication)
    + [Desktop Document Processing](#desktop-document-processing)
    + [File Compression](#file-compression)
-   + [Utils](#utils)
+   + [MTA](#mta)
+   + [Open-Research-Tools](#open-research-tools)
 
 ----
 
@@ -46,13 +48,13 @@ __Python 2&3 tools__
 + [bookmarkd](https://github.com/ryansb/bookmarkd) :: Markdown -> IPython conversion tool. 
 + [callipy](https://github.com/damiendr/callipy) :: Call IPython notebooks with arguments.
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
-+ [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)
++ [cookbook](http://ipython-books.github.io/cookbook/) :: Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code).
 + [ipydb](https://github.com/jaysw/ipydb) ::  Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
 + [ipymd](https://github.com/rossant/ipymd) : Use the IPython notebook as an interactive Markdown editor.
 + [ipyparallel](https://github.com/ipython/ipyparallel) :: Interactive Parallel Computing in Python. [Documentation](http://ipyparallel.readthedocs.org/).
-+ [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) tool reports memory usage deltas for every command you type
-+ [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks)
-+ [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a %sql (or %%sql) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
++ [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) :: This tool reports memory usage deltas for every command you type.
++ [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks) on GH.
++ [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a `%sql` (or `%%sql`) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
 + [jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) :: A tool for testing Jupyter kernels. 
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
@@ -92,11 +94,10 @@ __Python 2&3 tools__
 ----
 
 # UTILS
-General tools & useful utilities. 
-+ [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
+__General tools & useful utilities.__ 
++ [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
 + [pandocfilters](https://github.com/jgm/pandocfilters) :: A python module for writing pandoc filters, with a collection of examples. 
 + [podoc](https://github.com/podoc/podoc) :: A minimalistic pure Python pandoc clone, i.e. a markup document conversion library. Currently, it supports Markdown, Jupyter notebook, OpenDocument, O'Reilly Atlas, Python + comments. Support for ReST, LaTeX, HTML, AsciiDoc is planned.
-+ [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
 ## Backups
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
@@ -107,18 +108,18 @@ General tools & useful utilities.
 + [whatsapp-bot-seed](https://github.com/joaoricardo000/whatsapp-bot-seed) :: A small python framework to create a whatsapp bot, with regex-callback message routing. 
 + [whatsappcli](https://github.com/KarimJedda/whatsappcli) :: Control your server from Whatsapp. 
 
-
 ## Desktop Document processing 
 + [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
 
 ## File Compression
 + [bitshuffle]((https://github.com/kiyo-masui/bitshuffle) :: Filter for improving compression of typed binary data. 
 
-## Tools
-+ [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
-+ [free-labour](https://github.com/brettcannon/free-labour) :: Calculate your open source contributions.
-
 ## MTA
 + [python-slimta](http://slimta.org/) :: Lightweight, asynchronous SMTP libraries. [Source code](https://github.com/slimta/python-slimta).
 
+## Open-Research-Tools
++ [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
++ [depsy](http://depsy.org) :: Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
++ [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
++ [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
