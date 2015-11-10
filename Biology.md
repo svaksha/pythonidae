@@ -90,6 +90,7 @@
 + [anhima](https://github.com/alimanfoo/anhima) :: Analyse genetic variation
 + [ASAP](https://github.com/ddofer/asap) :: Amino-Acid Sequence Annotation Predictor. 
 + [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
++ [Bamsurgeon](https://github.com/adamewing/bamsurgeon) :: Tools for adding mutations to existing .bam files, used for testing mutation callers.
 + [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
 + [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
 + [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)

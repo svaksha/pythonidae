@@ -120,6 +120,7 @@ __General tools & useful utilities.__
 ## Open-Research-Tools
 + [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
 + [depsy](http://depsy.org) :: Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
+   + [depsy-research](https://github.com/Impactstory/depsy-research) :: Documentation and research output for Depsy.
 + [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
 + [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
