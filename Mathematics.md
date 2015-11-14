@@ -42,7 +42,7 @@
 + [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
 
-### Calculus 
+### Calculus
 + [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 + [HyperPython](https://github.com/ketch/HyperPython) :: A brief and practical introduction to the solution of [hyperbolic conservation laws](http://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
 
@@ -61,25 +61,26 @@
    + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
    + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
 + [Boost.NumPy](https://github.com/ndarray/Boost.NumPy) :: The Boost.Python interface for NumPy; in preparation for eventual proposal to Boost (manual mirror of Boost Sandbox SVN).
++ [ignition](https://github.com/IgnitionProject/ignition) :: A python automation project producing low-level optimized scientific code from high level language descriptions. A [numerical code generator](http://ignitionproject.github.io/ignition/).
 + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
 + [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
 + [La](http://pypi.python.org/pypi/la) :: Larry, the labeled numpy array. The main class of the la package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension). [Source Code](https://github.com/kwgoodman/la).
 + [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 + [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
-+ [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. 
++ [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays.
    + __Blogs, Books, Cookbooks, IPYNB's, Slides, Talks, Tutorials, Videos__
    + [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/python-numpy-tutorial/)
    + [100 Numpy tricks](http://www.loria.fr/~rougier/teaching/numpy.100/index.html)
    + A quick reference guide to the commonly used [NumPy functions](http://people.duke.edu/~ccc14/pcfb/numpympl/NumpyBasics.html).
 + [Proteus](http://proteus.usace.army.mil) :: A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
    + [IPython notebooks involving proteus](https://github.com/erdc-cm/proteus-notebooks).
-+ [pyeq2](https://github.com/zunzun/pyeq2) :: A large collection of Python equations that can fit themselves to 2D and 3D data sets, output source code in several computing languages, and run a genetic algorithm for initial parameter estimation. Comes with cluster, parallel processing, GUI, NodeJS, and web-based graphical examples. Includes orthogonal distance and relative error regressions. 
++ [pyeq2](https://github.com/zunzun/pyeq2) :: A large collection of Python equations that can fit themselves to 2D and 3D data sets, output source code in several computing languages, and run a genetic algorithm for initial parameter estimation. Comes with cluster, parallel processing, GUI, NodeJS, and web-based graphical examples. Includes orthogonal distance and relative error regressions.
 + [python-flint/](http://fredrik-johansson.github.com/python-flint/) :: Python bindings for FLINT (Fast Library for Number Theory).
 + [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 + [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
    + [Official Documentation](http://www.scipy.org/docs.html)
    + [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
-+ [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class. 
++ [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class.
 
 ### Numerical Linear Algebra (NLA)
 + [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems. [Elemental](http://libelemental.org) is a distributed-memory dense and sparse-direct linear algebra and optimization library with third-party Python interfaces. [Source code](https://github.com/elemental/Elemental).
@@ -91,6 +92,6 @@
 + IPython Notebooks training material for [ML, Numpy, Pandas and IPython](https://github.com/addfor/tutorials) distributed by Addfor s.r.l.
 + [PyData Seattle 2015](https://github.com/wrobstory/pydataseattle2015) :: Python Data Bikeshed.
 
-### Coursera.org   
+### Coursera.org
 + [High Performance Scientific Computing](https://www.coursera.org/course/scicomp)
 
