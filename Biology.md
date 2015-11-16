@@ -220,6 +220,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 + [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
 + [fmri-analysis-vm](https://github.com/poldrack/fmri-analysis-vm) :: A VM setup for use in fMRI analysis and education.
++ [ICA-AROMA](https://github.com/rhr-pruim/ICA-AROMA) :: Software package of ICA-AROMA; a data-driven method to identify and remove motion-related independent components from functional MRI data.
 + [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
 + [MNE](http://martinos.org/mne/) :: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
    + [Basic introduction to MNE Python processing](https://github.com/mne-tools/mne-python-intro).
@@ -229,7 +230,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [nibabel](http://nipy.org/nibabel/) :: Python package to access a cacophony of neuro-imaging file formats. [Source code](https://github.com/nipy/nibabel).
 + [NIDM](https://github.com/incf-nidash/nidm) ::  Neuroimaging Data Model (NIDM) describing neuroimaging data and provenance. http://nidm.nidash.org
    + [nidm-training](https://github.com/incf-nidash/nidm-training) :: Training materials for learning NIDM.
-+ [nipype](https://github.com/nipy/nipype) :: Workflows and interfaces for neuroimaging packages. [The Nightly build](http://www.mit.edu/~satra/nipype-nightly/).
++ [nipype](https://github.com/nipy/nipype) :: Workflows and interfaces for neuroimaging packages with a [nightly builds](http://www.mit.edu/~satra/nipype-nightly/).
 + [nilearn](http://nilearn.github.io) is a machine learning tool for NeuroImaging in Python. [Source code](https://github.com/nilearn/nilearn)
    + [NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) :: Functional connectivity with NiLearn.
 + [Nitime](http://nipy.org/nitime) :: Timeseries analysis for neuroscience data.
