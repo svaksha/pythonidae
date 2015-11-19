@@ -58,6 +58,7 @@
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
+   + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
    + [scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) :: Scikit-Learn tutorial material for Scipy 2015.
    + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
    + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
