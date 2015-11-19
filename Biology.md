@@ -49,6 +49,10 @@
 + [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 + [tiny-test-data](https://github.com/roryk/tiny-test-data) :: Super small biological datasets for unit testing. 
 
+## Docker
++ [biopython_docker](https://github.com/biopython/biopython_docker) :: Dockerfiles to build Biopython instances.
+
+
 ----
   
 # EMR
