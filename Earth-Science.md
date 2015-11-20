@@ -8,6 +8,9 @@
 # AERONAUTICS
 + [av3-fc](https://github.com/psas/av3-fc) :: PSAS Flight Computer's avionics version 3 flight computer.
 
+###### Resources
++ [AeroPython](https://github.com/barbagroup/AeroPython) :: Classical Aerodynamics of potential flow using Python, for [Prof. Barba](http://lorenabarba.com/)'s course at GW (1st version:Spring 2014, 2nd run:2015).
+
 ----
 
 # ASTRONOMY
