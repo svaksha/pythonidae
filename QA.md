@@ -20,4 +20,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 + [testkraut](https://github.com/neurodebian/testkraut) :: a framework for software testing, that minimizes the overlap with the scopes of unit testing, regression testing, and continuous integration testing.
 
 
+----
 
+# Resources
++ [python-testing](https://github.com/swcarpentry/python-testing) :: An introduction to testing based on Scopatz and Huff's "Effective Computation in Physics".
