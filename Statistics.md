@@ -27,6 +27,7 @@
 + [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
 + [i3](https://github.com/stuhlmueller/i3) :: Learning stochastic inverses for amortized inference in Bayesian networks. 
 + [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
++ [NYUecondata](https://github.com/NYUEcon/NYUecondata) :: This is a repository for handling certain datasets and doing simple plots. Supervised by Dave Backus.
 + [Pyfin](https://github.com/opendoor-labs/pyfin) :: Basic options pricing in Python with basic Greeks calculation across valuation models, discrete dividends support in the lattice (binomial tree) and Monte Carlo simulation models.
 + [pyfolio](https://github.com/quantopian/pyfolio) :: Portfolio and risk analytics in Python.
 + [PyMC](https://github.com/pymc-devs/pymc) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
