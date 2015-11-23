@@ -2,6 +2,7 @@
 
 + [COOKBOOKS](#cookbooks)
 + [ACTUARIAL SCIENCE](#actuarial-science)
+   + [Econometrics](#econometrics)
    + [Financial Accounting](#financial-accounting)
 + [DATA SCIENCE](#data-science)
 + [OPERATIONS RESEARCH](#operations-research)
@@ -21,13 +22,21 @@
 ----
 
 # ACTUARIAL SCIENCE 
+
+## Econometrics
++ [NYUecondata](https://github.com/NYUEcon/NYUecondata) :: This is a repository for handling certain datasets and doing simple plots. Supervised by Dave Backus.
++ [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
+   + [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
+
+###### Resources
++ [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
+
 ## Financial Accounting
 + [autograd](https://github.com/HIPS/autograd) :: Computes derivatives of complicated numpy code. 
 + [DX](https://github.com/yhilpisch/dx) :: DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
 + [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
 + [i3](https://github.com/stuhlmueller/i3) :: Learning stochastic inverses for amortized inference in Bayesian networks. 
 + [kcbo](https://github.com/HHammond/kcbo) :: A Bayesian testing framework written in Python. 
-+ [NYUecondata](https://github.com/NYUEcon/NYUecondata) :: This is a repository for handling certain datasets and doing simple plots. Supervised by Dave Backus.
 + [Pyfin](https://github.com/opendoor-labs/pyfin) :: Basic options pricing in Python with basic Greeks calculation across valuation models, discrete dividends support in the lattice (binomial tree) and Monte Carlo simulation models.
 + [pyfolio](https://github.com/quantopian/pyfolio) :: Portfolio and risk analytics in Python.
 + [PyMC](https://github.com/pymc-devs/pymc) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
@@ -35,12 +44,9 @@
    + [Bayesian pymc3 europy 2014 slides](http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/)
 + [PyMC3](https://github.com/pymc-devs/pymc3) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms.
 + [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
-+ [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
-   + [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
 + [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
 
 ###### Resources
-+ [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
 + [ISLR chapters from R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python)
 + [538model](https://github.com/jseabold/538model) - 538 Election Forecasting Model  :: Python scripts that replicates some features of Nate Silver's 538 Election Forecasting Model.
     

@@ -56,4 +56,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # SERVER TOOLS
 + [python-webpack](https://github.com/markfinger/python-webpack) :: Python bindings to webpack. 
-+ [thriftpy](https://github.com/eleme/thriftpy) :: Pure python implementation of Apache Thrift. [Documentation](https://thriftpy.readthedocs.org/)
++ [thriftpy](https://github.com/eleme/thriftpy) :: Pure python implementation of Apache Thrift. [Documentation](https://thriftpy.readthedocs.org/).
++ [werkzeug](http://werkzeug.pocoo.org/) :: A flexible WSGI implementation and toolkit. [Source code](https://github.com/mitsuhiko/werkzeug).
+
+
