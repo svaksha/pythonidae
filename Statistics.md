@@ -33,6 +33,7 @@
 
 ## Financial Accounting
 + [autograd](https://github.com/HIPS/autograd) :: Computes derivatives of complicated numpy code. 
++ [blpapi-py](https://github.com/filmackay/blpapi-py) :: Bloomberg Python API. 
 + [DX](https://github.com/yhilpisch/dx) :: DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
 + [Graphical-Lasso-in-Finance](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance) :: Implementations of the graphical lasso method to estimation of covariance matrices in finance.
 + [i3](https://github.com/stuhlmueller/i3) :: Learning stochastic inverses for amortized inference in Bayesian networks. 
