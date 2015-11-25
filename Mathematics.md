@@ -1,8 +1,8 @@
 + [CRYPTOGRAPHY](#cryptography)
 + [MATH](#math)
-   + [Algebra](#algebra)
-   + [Calculus](#calculus)
-   + [Geometry](#geometry)
++ [Algebra](#algebra)
++ [Calculus & Applied Math](#calculus-&-applied-math)
++ [Geometry](#geometry)
 + [Numerical Analysis](#numerical-analysis)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
 + [RESOURCES](#resources)
@@ -26,8 +26,12 @@
 + [symengine.py](https://github.com/symengine/symengine.py) :: Python wrappers for SymEngine.
 + [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
 
+###### Resources
++ [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
 
-### Algebra
+----
+
+# Algebra
 + [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
 + [pykrylov](http://dpo.github.com/pykrylov) ::  A library of Krylov methods in pure Python.
 + [Sympy](http://sympy.org/) :: A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
@@ -37,20 +41,23 @@
 + [pyneqsys](https://github.com/bjodah/pyneqsys) :: Solving of symbolic systems of non-linear equations numerically.
 
 ###### Resources
++ [adeles](https://github.com/williamstein/adeles) :: Ideles adeles algebraic number theory.
 + Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
 + Dr. Juan H Klopper has created an IPython notebook for each MIT-OCW lecture on [Linear Algebra (18.06)](http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/) by [Prof. Gilbert Strang](http://www-math.mit.edu/~gs/).
 + [Coding_the_matrix](https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials.
 
+----
 
-### Calculus
+# Calculus & Applied Math
 + [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 + [HyperPython](https://github.com/ketch/HyperPython) :: A brief and practical introduction to the solution of [hyperbolic conservation laws](http://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
 
 ###### Resources
 + [Riemann Hypothesis book](http://wstein.org/rh/) with the [source code on github](https://github.com/williamstein/rh).
 
+----
 
-### Geometry
+# Geometry
 * [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
 * [Shapely](https://github.com/Toblerity/Shapely) :: Python package for manipulation and analysis of geometric objects in the Cartesian plane. [Documentation](http://toblerity.github.com/shapely/)
 
