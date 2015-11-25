@@ -126,6 +126,7 @@
 + [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
 + [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
 + [NLTK](http://www.nltk.org/) :: Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk)
++ [numparser](https://pypi.python.org/pypi/numparser) :: Python library for parsing numbers from strings. [Source Code](https://github.com/sadovnychyi/numparser).
 + [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 + [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
 + [PLY](https://github.com/dabeaz/ply) :: Python Lex-Yacc. http://www.dabeaz.com/ply/index.html
