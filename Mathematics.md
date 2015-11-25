@@ -46,9 +46,14 @@
 + [finitediff](https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings.
 + [HyperPython](https://github.com/ketch/HyperPython) :: A brief and practical introduction to the solution of [hyperbolic conservation laws](http://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
 
+###### Resources
++ [Riemann Hypothesis book](http://wstein.org/rh/) with the [source code on github](https://github.com/williamstein/rh).
+
+
 ### Geometry
 * [functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) :: Sussman and Wisdom's Functional Differential Geometry in Python.
 * [Shapely](https://github.com/Toblerity/Shapely) :: Python package for manipulation and analysis of geometric objects in the Cartesian plane. [Documentation](http://toblerity.github.com/shapely/)
+
 
 ----
 
