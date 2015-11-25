@@ -34,8 +34,10 @@ __Python 2&3 tools__
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
 ## IDE
++ [anaconda-mode](https://github.com/proofit404/anaconda-mode) :: Code navigation, documentation lookup and completion for Python. 
++ [autocomplete-python](https://github.com/sadovnychyi/autocomplete-python) :: [Jedi](http://jedi.jedidjah.ch/) based Python autocomplete for [Atom](https://atom.io/packages/autocomplete-python).
 + [Bugjar](https://github.com/pybee/bugjar) :: A interactive graphical debugger for Python code. 
-+ [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. http://jedi.jedidjah.ch/
++ [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. 
 + [MagicPython](https://github.com/MagicStack/MagicPython) :: Syntax highlighter for cutting edge Python for Sublime Text and Atom. 
 
 ### Zoof

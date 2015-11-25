@@ -93,7 +93,6 @@ __Docker, etc..__
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
    + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
-+ [anaconda-mode](https://github.com/proofit404/anaconda-mode) :: Code navigation, documentation lookup and completion for Python. 
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
