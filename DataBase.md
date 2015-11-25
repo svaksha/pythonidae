@@ -4,6 +4,7 @@
    * [SciDB](#scidb)
 + [RDBMS](#rdbms)
    + [PostgreSQL](#postgresql)
++ [ORM](#orm)
 + [RESOURCES](#resources)
 
 ----
@@ -44,6 +45,11 @@
 ## PostgreSQL
 + [governor](https://github.com/compose/governor) :: Runners to orchestrate a high-availability PostgreSQL. 
 + [postgresql-metrics](https://github.com/spotify/postgresql-metrics) :: Tool that extracts and provides metrics on your PostgreSQL database.
+
+----
+
+# ORM
++ [peewee](https://github.com/coleifer/peewee) :: A small, expressive ORM that supports Postgresql, Mysql and Sqlite. [Documentation](http://docs.peewee-orm.com/).
 
 ----
 
