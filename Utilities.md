@@ -84,7 +84,6 @@ __Python 2&3 tools__
 + [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
 + Kirill Pomogajko blogs on [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/).
 
-
 ----
 
 # TERMINAL
@@ -125,5 +124,6 @@ __General tools & useful utilities.__
 + [depsy](http://depsy.org) :: Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
    + [depsy-research](https://github.com/Impactstory/depsy-research) :: Documentation and research output for Depsy.
 + [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
++ [habanero](https://github.com/sckott/habanero) :: crossref search low level client.
 + [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
