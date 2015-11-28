@@ -133,6 +133,7 @@
 + [peddy](https://github.com/brentp/peddy) :: An API for dealing with pedigree files.
 + [piper](https://github.com/NationalGenomicsInfrastructure/piper) :: A genomics pipeline build on top of the GATK Queue framework. 
 + [Platypus](https://github.com/andyrimmer/Platypus) :: The Platypus variant caller.
++ [poretools](https://github.com/arq5x/poretools) :: A toolkit for working with Oxford nanopore data. 
 + [PyBEDtools](https://github.com/daler/pybedtools) is a Python wrapper for Aaron Quinlan's [BEDtools programs](https://github.com/arq5x/bedtools), which are widely used for genomic interval manipulation or "genome algebra". Pybedtools extends BEDTools by offering feature-level manipulations from with Python. See the [online documentation, including installation instructions](http://pythonhosted.org/pybedtools/).
 + [pygenetorrent](https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent.
 + [rbac-23andme-oauth2](https://github.com/offapi/rbac-23andme-oauth2) :: Genetic Access Control using the 23andME API.
