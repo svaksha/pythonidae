@@ -267,6 +267,7 @@ https://github.com/hexahedria/biaxial-rnn-music-composition :: A recurrent neura
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
++ [Practical-neuroimaging](http://practical-neuroimaging.github.io) :: Exercises for 2015 Berkeley practical neuroimaging class. [Source code](https://github.com/practical-neuroimaging/pna2015).
 + [deepdream](https://github.com/google/deepdream) :: This repository contains IPython Notebook with sample code, complementing Google Research blog post about Neural Network art.
 + [CodeNeuro-notebooks](https://github.com/CodeNeuro/notebooks) :: Interactive notebooks for trying analyses and exploring datasets. [Website](http://notebooks.codeneuro.org).
 __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, hackathon codebases, etc..__
