@@ -40,6 +40,7 @@
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models.
 + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
++ [Foxhound](https://github.com/IndicoDataSolutions/Foxhound) :: Scikit-learn inspired library for gpu-accelerated machine learning.
 + [fuel](https://github.com/mila-udem/fuel) :: A data pipeline framework for machine learning.
 + [hips-lib](https://github.com/HIPS/hips-lib) :: Library of common tools for machine learning research.
 + [MachineLearning](https://github.com/LocalGroupAstrostatistics2015/MachineLearning) :: Materials for the Wednesday Afternoon Machine Learning workshop.
