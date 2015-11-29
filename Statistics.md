@@ -8,8 +8,9 @@
 + [OPERATIONS RESEARCH](#operations-research)
    + [Optimization](#optimization)
 + [STATISTICS](#statistics)
-        + [Pandas](#pandas)
    + [Bayesian](#bayesian)
+   + [TimeSeries Analysis](#timeseries-analysis)
+        + [Pandas](#pandas)
 + [RESOURCES](#resources)
 
 ----
@@ -82,8 +83,29 @@
 + [pystatsd](https://github.com/jsocol/pystatsd) :: A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
 + [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
 
-#### Pandas
-+ [Pandas](http://pandas.pydata.org/) :: is flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. 
+## Bayesian
++ [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
++ [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
++ [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
++ [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
+
+###### Resources
++ [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
++ [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
++ [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
++ _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
+   + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
++ [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
++ [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
++ [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp.
++ [Doing bayesian data analysis](https://github.com/aloctavodia/Doing_bayesian_data_analysis) :: This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke, A.K.A, the puppy book. 
+
+
+## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
++ [Time-series-classification-and-clustering](https://github.com/alexminnaar/time-series-classification-and-clustering) :: Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside.
+
+### Pandas
++ [Pandas](http://pandas.pydata.org/) :: A flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. 
    + [Pandashells](https://github.com/robdmc/pandashells) :: An attempt to marry the expressive, concise workflow of the shell pipeline with the statistical and visualization tools of the python data-stack.
    + [pandasql](https://github.com/yhat/pandasql) :: Query pandas DataFrames using SQL syntax with SQLite.
    + [sandals](https://github.com/jbochi/sandals) :: Query pandas dataframes and objects using SQL.
@@ -107,23 +129,6 @@
    + [Apache log analysis with Pandas](http://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb)   
    + Common Excel Tasks Demonstrated in Pandas :: [Part-ONE](http://pbpython.com/excel-pandas-comp.html) and [Part-TWO](http://pbpython.com/excel-pandas-comp-2.html)
 
-## Bayesian
-+ [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
-+ [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
-+ [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
-+ [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
-
-###### Resources
-+ [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
-+ [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
-+ [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
-+ _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
-   + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
-+ [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
-+ [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
-+ [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp.
-+ [Doing bayesian data analysis](https://github.com/aloctavodia/Doing_bayesian_data_analysis) :: This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke, A.K.A, the puppy book. 
-
 ----
 
 # RESOURCES
@@ -146,4 +151,5 @@
 + [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
 
 ----
+
 
