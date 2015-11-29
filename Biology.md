@@ -104,6 +104,7 @@
 + [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
 + [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
 + [Chanjo](http://www.chanjo.co/) :: This package provides a better way to analyze coverage data in clinical sequencing. [Source Code](https://github.com/robinandeer/chanjo). 
++ [codachrom](https://github.com/arq5x/codachrom) :: Chromosomal copy number tools.
 + [CompleteGenomicsTools](https://github.com/seandavi/CompleteGenomicsTools) →  Complete Genomics provides whole-genome sequencing using DNA nanoball arrayed sequencing. Software for manipulating and visualizing Complete Genomics data, with a [focus on cancer](http://watson.nci.nih.gov/~sdavis/software/cgent/)
 + [CaPSID](https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification) :: A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/).
 + [cyvcf](https://github.com/arq5x/cyvcf) :: A fast Python library for VCF files leveraging Cython for speed. 
