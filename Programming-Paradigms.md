@@ -25,6 +25,7 @@
 # Programming Paradigms
 + [Boltons](https://github.com/mahmoud/boltons) :: A set of over 100 BSD-licensed, pure-Python utilities in the same spirit as the standard library.
 + [me-al](https://github.com/dabeaz/me-al) :: Meẗal - The Decorator.
++ [metamodule](https://github.com/njsmith/metamodule) :: Experiment with Python "metamodules". 
 + [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
