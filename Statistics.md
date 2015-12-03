@@ -86,6 +86,7 @@
 ## Bayesian
 + [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
 + [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
++ [Pomegranate](https://github.com/jmschrei/pomegranate) :: A package for graphical models and Bayesian statistics for Python, implemented in cython.
 + [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 
