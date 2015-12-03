@@ -46,8 +46,9 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
 ## Security
-+ [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
 + [PBP](https://github.com/stef/pbp) :: A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP. 
++ [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
++ [SQLMap](http://sqlmap.org) :: Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
 
 ###### Resources
 + [Hello Web App](http://hellowebapp.com) :: An Introduction to web app development using Python and Django with notes on how to package and install necessary files for [deployment on Heroku](https://github.com/hellowebapp/hellowebapp-deploy) and the [code repository](https://github.com/hellowebapp/hellowebapp-code) for Hello Web App.
