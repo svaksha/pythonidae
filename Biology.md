@@ -32,6 +32,7 @@
    
 # BIOTOOLS
 + [annotations](https://github.com/tyarkoni/annotations) :: Multimodal stimulus annotation in Python.
++ [antz](https://github.com/jmschrei/antz) :: Bioinformatic tools for biologists, made pythonic!
 + [bionetwork](https://github.com/machbio/bionetwork) :: Graph Database, a network of everything bio.
 + [biostar-central](https://github.com/ialbert/biostar-central) :: The software that runs the [Biostars Bioinformatics Q&A](http://www.biostars.org).
 + [Bio_Eutils](https://github.com/jmaupetit/Bio_Eutils) :: The standalone version of the Entrez and Medline BioPython modules.

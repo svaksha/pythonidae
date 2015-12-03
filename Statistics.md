@@ -89,6 +89,7 @@
 + [Pomegranate](https://github.com/jmschrei/pomegranate) :: A package for graphical models and Bayesian statistics for Python, implemented in cython.
 + [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
++ [YABN](https://github.com/jmschrei/yabn) :: Yet Another Bayesian Network. 
 
 ###### Resources
 + [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
