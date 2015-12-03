@@ -39,8 +39,8 @@
 ----
 
 # RDBMS
-
 + [DBNormalizer](https://github.com/humbertog/DBNormalizer) :: DB normalizer project DMKM. 
++ [Tangerine](https://github.com/jmschrei/tangerine) :: A lightweight embedded Python RDBMS. 
 
 ## PostgreSQL
 + [governor](https://github.com/compose/governor) :: Runners to orchestrate a high-availability PostgreSQL. 
