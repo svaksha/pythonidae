@@ -152,6 +152,7 @@
 
 ### DNA
 + [dna-traits](https://github.com/cslarsen/dna-traits) :: A fast 23andMe genome text file parser.
++ [PyPore](https://github.com/jmschrei/PyPore) :: This package is based off of a few core data analysis packages in order to provide a consistent and easy framework for handling nanopore data in the UCSC nanopore lab.
 
 ### RNA
 + [findorf](https://github.com/vsbuffalo/findorf) :: ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
