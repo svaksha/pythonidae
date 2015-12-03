@@ -1,6 +1,7 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
 + [DATA STRUCTURES](#data-structures)
++ [HMM](#hmm)
 + [MACHINE LEARNING](#machine-learning])
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
@@ -36,6 +37,11 @@
 
 ----
 
+# [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
++ [YAHMM](https://github.com/jmschrei/yahmm) :: Yet Another Hidden Markov Model repository. 
+
+----
+
 # MACHINE LEARNING
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models.
@@ -57,6 +63,7 @@
 + [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
 + [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance.
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
++ [Rambutan](https://github.com/jmschrei/rambutan) :: A python wrapper for caffe which aims at providing a simple, pythonic, interface for users so that users can define, train, and evaluate deep models in only a few lines of code. It requires that caffe and pycaffe are both built properly.   
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
    + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
