@@ -33,6 +33,7 @@
 
 # Algebra
 + [boolprob](https://github.com/cvxgrp/boolprob) :: A Python tool to analyze joint distributions of boolean random variables.
++ [galgebra](https://github.com/brombo/galgebra) :: Geometric algebra/calculus modules for sympy.
 + [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
 + [pykrylov](http://dpo.github.com/pykrylov) ::  A library of Krylov methods in pure Python.
 + [Sympy](http://sympy.org/) :: A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
