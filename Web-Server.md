@@ -13,6 +13,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # CRAWLERS
 + [scrapy](http://scrapy.org/) :: A fast high-level web crawling and screen scraping framework for Python. [Source code](https://github.com/scrapy/scrapy).
+   + [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) :: This Scrapy project uses Redis and Kafka to create a distributed on demand scraping cluster. [Documentation](http://scrapy-cluster.readthedocs.org/).
 + [Soupy](https://github.com/ChrisBeaumont/soupy) :: A wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
 
 ###### Resources
