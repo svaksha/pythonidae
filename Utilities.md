@@ -111,6 +111,10 @@ __General tools & useful utilities.__
 + [whatsapp-bot-seed](https://github.com/joaoricardo000/whatsapp-bot-seed) :: A small python framework to create a whatsapp bot, with regex-callback message routing. 
 + [whatsappcli](https://github.com/KarimJedda/whatsappcli) :: Control your server from Whatsapp. 
 
+#### Twitter
++ [followtrack](https://github.com/grote/followtrack) :: Keeps track of your Twitter followers and lets you know who unfollowed you. 
++ [twitter-unfav](https://github.com/grote/twitter-unfav) :: A script to remove favorited tweets from Twitter for privacy reasons. 
+
 ## Desktop Document processing 
 + [Pweave](https://github.com/mpastell/Pweave) :: A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it.
 

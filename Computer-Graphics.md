@@ -2,6 +2,7 @@
 
 + [GRAPHICS](#graphics) 
    + [Games](#games)
+   + [Video](#video)
 + [INFOGRAPHICS](#infographics)
 
 ----
@@ -20,6 +21,9 @@
 
 ### Games
 + [PySoy](http://www.pysoy.org/) is a 3D cloud game engine for Python. [Source code](http://hg.pysoy.org/pysoy)
+
+### Video
++ [submerger](https://github.com/grote/submerger) ::  Merges subtitle files into one unified video file.
 
 ###### Resources
 + [Bokeh Snake](https://github.com/akloster/bokeh-snake) :: This is an example on how to use Jupyter widgets and the Bokeh plotting library to implement a simple Snake Game.
