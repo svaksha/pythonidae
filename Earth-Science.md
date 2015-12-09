@@ -66,5 +66,6 @@ __Libraries for geolocation.__
 + [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) :: A fast, offline reverse geocoder in Python. 
 
 ###### Resources
++ [UW_Python_for_Geosciences](https://github.com/jhamman/UW_Python_for_Geosciences) :: Talks from the UW Python for Geosciences Seminar.
 + [SciPy-Tutorial-2015](https://kjordahl.github.io/SciPy-Tutorial-2015/) :: TUTORIAL on Geospatial Data with Open Source Tools in Python.
 
