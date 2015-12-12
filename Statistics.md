@@ -111,6 +111,7 @@
    + [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/) 
    + [How to contribute to Pandas](http://pandas.pydata.org/pandas-docs/stable/contributing.html)
    + [Source code](https://github.com/pydata/pandas) and [Source tarballs, windows binaries are available on PyPI](https://pypi.python.org/pypi/pandas).
++ [pandas-finance](https://github.com/davidastephens/pandas-finance) :: High level API for access to and analysis of financial data. 
 + [Pandashells](https://github.com/robdmc/pandashells) :: An attempt to marry the expressive, concise workflow of the shell pipeline with the statistical and visualization tools of the python data-stack.
 + [pandasql](https://github.com/yhat/pandasql) :: Query pandas DataFrames using SQL syntax with SQLite.
 + [pandas_talib](https://github.com/femtotrader/pandas_talib) :: A Python Pandas implementation of technical analysis indicators.
