@@ -22,6 +22,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 ----
 
 # FRONT-END
++ [Air](https://github.com/audreyr/air) :: An ultra-lightweight static site generator. 
 + [pyotherside](http://thp.io/2011/pyotherside/) :: Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
 
 ----

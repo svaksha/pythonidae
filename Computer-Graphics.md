@@ -63,8 +63,8 @@ __Visualization software__
 ----
 
 # Org-Enthought
++ [Enstaller](https://github.com/enthought/enstaller) :: A package management and installation tool for egg-based Python distributions.
 + [MayaVi2](http://github.com/enthought/mayavi) :: 3D visualization of scientific data in Python.
-+ [Pyface](https://github.com/enthought/pyface) :: traits-capable windowing framework.
-
-
-
++ [Okonomiyaki](https://github.com/enthought/okonomiyaki) :: An experimental library aimed at consolidating a lot of our low-level code used for Enthought's eggs.
++ [Pyface](https://github.com/enthought/pyface) :: Traits-capable windowing framework.
++ [SciMath](https://github.com/enthought/scimath) :: This project includes packages to support scientific and mathematical calculations, beyond the capabilities offered by SciPy.
