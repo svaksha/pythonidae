@@ -4,6 +4,7 @@
    + [Games](#games)
    + [Video](#video)
 + [INFOGRAPHICS](#infographics)
++ [Org-Enthought](#org-enthought)
 
 ----
 
@@ -58,5 +59,12 @@ __Visualization software__
 
 #### Non-Python tools
 + [36 Excellent Data Visualization Tools](http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript.
+
+----
+
+# Org-Enthought
++ [MayaVi2](http://github.com/enthought/mayavi) :: 3D visualization of scientific data in Python.
++ [Pyface](https://github.com/enthought/pyface) :: traits-capable windowing framework.
+
 
 
