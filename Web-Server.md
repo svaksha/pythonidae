@@ -1,13 +1,14 @@
 Frameworks and other Web-related software used in scientific computing, cloud computing and high-performance computing.
 
 + [CRAWLERS](#crawlers)
-+ [FRONT-END](#front-end)
++ [FRONTEND](#frontend)
 + [JAVASCRIPT](#javascript)
++ [TEMPLATES](#templates)
 + [WEB-FRAMEWORKS](#frameworks)
    + [Django](#django)
    + [Networking](#networking)
++ [WEBSERVER](#webserver)
    + [Security](#security)
-+ [SERVER TOOLS](#server-tools)
 
 ----
 
@@ -21,7 +22,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ----
 
-# FRONT-END
+# FRONTEND
 + [Air](https://github.com/audreyr/air) :: An ultra-lightweight static site generator. 
 + [pyotherside](http://thp.io/2011/pyotherside/) :: Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
 
@@ -29,6 +30,11 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # JAVASCRIPT
 + [jiphy](https://github.com/timothycrosley/jiphy) :: Your client side done in a jiphy. Python to JavaScript 2-way converter. 
+
+----
+
+# TEMPLATES
++ [cookiecutter-tapioca](https://github.com/vintasoftware/cookiecutter-tapioca) :: A cookiecutter template for new tapioca wrappers.
 
 ----
 
@@ -47,19 +53,19 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 ## Networking
 + [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
-## Security
-+ [PBP](https://github.com/stef/pbp) :: A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP. 
-+ [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
-+ [SQLMap](http://sqlmap.org) :: Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
-
 ###### Resources
 + [Hello Web App](http://hellowebapp.com) :: An Introduction to web app development using Python and Django with notes on how to package and install necessary files for [deployment on Heroku](https://github.com/hellowebapp/hellowebapp-deploy) and the [code repository](https://github.com/hellowebapp/hellowebapp-code) for Hello Web App.
 
 ----
 
-# SERVER TOOLS
+# WEBSERVER 
 + [python-webpack](https://github.com/markfinger/python-webpack) :: Python bindings to webpack. 
 + [thriftpy](https://github.com/eleme/thriftpy) :: Pure python implementation of Apache Thrift. [Documentation](https://thriftpy.readthedocs.org/).
 + [werkzeug](http://werkzeug.pocoo.org/) :: A flexible WSGI implementation and toolkit. [Source code](https://github.com/mitsuhiko/werkzeug).
+
+## Security
++ [PBP](https://github.com/stef/pbp) :: A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP. 
++ [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
++ [SQLMap](http://sqlmap.org) :: Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
 
 
