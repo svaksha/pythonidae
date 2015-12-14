@@ -19,7 +19,7 @@
 
 # PACKAGES
 + [aristotle-metadata-registry](https://github.com/aristotle-mdr/aristotle-metadata-registry) ::  Aristotle-MDR is an open-source metadata registry as laid out by the requirements of the ISO/IEC 11179 specification.
-+ [camlipy](https://github.com/tsileo/camlipy) :: The unofficial Python client for Camlistore. [Documentation](http://camlipy.readthedocs.org).
++ [camlipy](https://github.com/tsileo/camlipy) :: The unofficial Python client for [Camlistore](http://camlistore.org/). [Documentation](http://camlipy.readthedocs.org).
 + [eggo](https://github.com/bigdatagenomics/eggo) :: Ready-to-go Parquet-formatted public Genomics datasets.
 + [scrapi](https://github.com/fabianvf/scrapi) :: A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams.
 
