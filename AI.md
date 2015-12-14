@@ -1,5 +1,8 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
++ [COMPUTATIONAL PROBLEMS](#computational-problems)
+   + [NP-complete](#np-complete)
+      + [SAT](#sat)
 + [DATA STRUCTURES](#data-structures)
 + [HMM](#hmm)
 + [MACHINE LEARNING](#machine-learning])
@@ -7,6 +10,13 @@
    + [Graph Theory](#graph-theory)
 + [NLP](#nlp)
 + [RESOURCES](#resources)
+
+====
+
+# [COMPUTATIONAL PROBLEMS](https://en.wikipedia.org/wiki/Category:Computational_problems)
+## [NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
+### [SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
++ [sat-solver](https://github.com/enthought/sat-solver) :: SAT solver for use in Enstaller, based on the MiniSat implementation.
 
 ----
 
