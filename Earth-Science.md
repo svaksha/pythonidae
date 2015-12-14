@@ -36,6 +36,9 @@
 + [SunPy](http://sunpy.org/) is a free and open-source software library for solar physics based on Python. [Source code](https://github.com/sunpy/sunpy)
 + [utsc-ptcs](https://github.com/hannorein/utsc-ptcs) :: University of Toronto Scarborough - Python Telescope Control System.
 
+###### Resources
++ [AAS227Workshop](https://github.com/jakevdp/AAS227Workshop) :: Materials for the Bayesian Methods in Astronomy workshop at AAS227.
+
 ----
 
 # GIS 
