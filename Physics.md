@@ -33,6 +33,9 @@
 + [Sandbox](https://github.com/ergs/sandbox) :: for [ERGS]( http://www.ergs.sc.edu) (Energy Research Group: Scopatz) projects.
 + [xsgen](https://github.com/bright-dev/xsgen) :: Cross section generation.
 
+###### Resources
++ [2015-12-15-msu](https://github.com/katyhuff/2015-12-15-msu) :: Modeling and Simulation Approaches to Challenges in Nuclear Engineering.
+
 ----
 
 # Plasma Physics
@@ -45,8 +48,8 @@
 
 ----
 
-# Resources-Physics
-* [Physics.codes](http://physics.codes) website with [Examples of exercises that accompany Effective Computation in Physics](https://github.com/physics-codes/examples)
+# Resources
++ [Physics.codes](http://physics.codes) website with [Examples of exercises that accompany Effective Computation in Physics](https://github.com/physics-codes/examples)
 
 
 
