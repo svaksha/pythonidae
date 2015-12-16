@@ -63,7 +63,8 @@
 __Docker, etc..__
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 + [bootstrap-vz](https://github.com/andsens/bootstrap-vz) :: Bootstrap Debian images for virtualized environments. [Documentation](http://bootstrap-vz.readthedocs.org/).
-+ [docker-notebook](https://github.com/ipython/docker-notebook) :: Docker containers for the Jupyter IPython notebook (+SciPy Stack). https://registry.hub.docker.com/u/ipython/
++ [docker-notebook](https://github.com/ipython/docker-notebook) :: Docker containers for the [Jupyter IPython](https://registry.hub.docker.com/u/ipython/) notebook (+SciPy Stack). 
++ [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 + [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
 + [Pythonista](https://github.com/ikalnitsky/pythonista) :: A Docker image for Python developers to use and test their applications.
 
