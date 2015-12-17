@@ -297,7 +297,8 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 
 ### Neuropsychology
 + [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
-+ [PsychoPy](http://www.psychopy.org) :: is an open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
++ [posner](https://github.com/psychopy/posner) :: The Posner task as a demo for workshop.
++ [PsychoPy](http://www.psychopy.org) :: An open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
 + [python-pyepl](http://neuro.debian.net/pkgs/python-pyepl.html) :: A module for coding psychology experiments in Python.
 + [VisionEgg](http://www.visionegg.org) :: is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg).
 
