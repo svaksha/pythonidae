@@ -101,6 +101,7 @@ __General tools & useful utilities.__
 + [pandocfilters](https://github.com/jgm/pandocfilters) :: A python module for writing pandoc filters, with a collection of examples. 
 + [podoc](https://github.com/podoc/podoc) :: A minimalistic pure Python pandoc clone, i.e. a markup document conversion library. Currently, it supports Markdown, Jupyter notebook, OpenDocument, O'Reilly Atlas, Python + comments. Support for ReST, LaTeX, HTML, AsciiDoc is planned.
 + [python-progressbar](https://github.com/niltonvolpato/python-progressbar) :: Text progress bar library for Python.
++ [Slides](https://github.com/mrocklin/slides) :: A template for slides using markdown. 
 
 ## Backups
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
