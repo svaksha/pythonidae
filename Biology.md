@@ -113,6 +113,7 @@
 + [cyvcf](https://github.com/arq5x/cyvcf) :: A fast Python library for VCF files leveraging Cython for speed. 
 + [ETE - Environment for Tree Exploration](http://etetoolkit.org/treeview/) :: A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github. 
 + [figmop](https://github.com/dave-the-scientist/figmop) :: Finding Genes using Motif Patterns. 
++ [fusenet](https://github.com/marinkaz/fusenet) :: Gene network inference by fusing data from diverse distributions. [Paper](http://bioinformatics.oxfordjournals.org/content/31/12/i230).
 + [Gemini](https://github.com/arq5x/gemini) :: A lightweight db framework for disease and population genetics.
 + [genomeEdit](https://github.com/khaikhai/genomeEdit) :: Python script to count SMRT sequenced reads of amplicons generated from genome editing using CRISPR or TALEN methods. 
 + [gffutils](https://github.com/daler/gffutils) is a Python package for working with and manipulating the GFF and GTF format files typically used for genomic annotations. [Documentation](http://pythonhosted.org/gffutils/).
