@@ -232,6 +232,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [CogSlots](https://github.com/cbattista/CogSlots) :: Simulated Slot Machine for the behavioral sciences.
 + [CPAC](https://github.com/FCP-INDI/C-PAC) :: A configurable pipeline for rsfMRI/connectome analyses.
 + [DCMPy](https://github.com/armaneshaghi/DCMPy) :: A Python module for longitudinal surface-based DCM of fMRI data.
++ [dicomsort](https://github.com/pieper/dicomsort) :: A project to provide custom sorting and renaming of dicom files.
 + [dipy](http://dipy.org) → Diffusion MR Imaging in Python. [Source code](https://github.com/nipy/dipy)
 + [ERPy](https://github.com/nejstastnejsistene/ERPy) :: An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
 + [fit_neuron](https://github.com/nicodjimenez/fit_neuron) :: A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics.
