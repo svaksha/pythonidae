@@ -22,6 +22,7 @@
 + [bquery](https://github.com/visualfabriq/bquery) :: A query and aggregation framework for Bcolz.
 + [complex-numbers](https://github.com/j2kun/complex-numbers) :: The code respository for the post "Learning to Love Complex Numbers".
 + [impyla](https://github.com/cloudera/impyla) :: A Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy.
++ [nimfa](https://github.com/marinkaz/nimfa) :: A Python Library for Nonnegative Matrix Factorization. http://nimfa.biolab.si
 + [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
 + [symengine.py](https://github.com/symengine/symengine.py) :: Python wrappers for SymEngine.
 + [zero-modform](https://github.com/haochenuw/zero-modform) :: Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
