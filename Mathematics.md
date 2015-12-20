@@ -5,6 +5,7 @@
 + [Geometry](#geometry)
 + [Numerical Analysis](#numerical-analysis)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
+   + [Org-ContinuumIO](#org-continuumio)
 + [RESOURCES](#resources)
 
 ----
@@ -68,14 +69,6 @@
 ----
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
-
-+ [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
-   + [castra](https://github.com/blaze/castra) :: A partitioned storage system based on blosc.
-   + [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
-   **Resources**
-   + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
-   + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
-   + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
 + [Boost.NumPy](https://github.com/ndarray/Boost.NumPy) :: The Boost.Python interface for NumPy; in preparation for eventual proposal to Boost (manual mirror of Boost Sandbox SVN).
 + [ignition](https://github.com/IgnitionProject/ignition) :: A python automation project producing low-level optimized scientific code from high level language descriptions. A [numerical code generator](http://ignitionproject.github.io/ignition/).
 + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
@@ -100,6 +93,17 @@
 
 ### Numerical Linear Algebra (NLA)
 + [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems. [Elemental](http://libelemental.org) is a distributed-memory dense and sparse-direct linear algebra and optimization library with third-party Python interfaces. [Source code](https://github.com/elemental/Elemental).
+
+### Org-[ContinuumIO](https://github.com/ContinuumIO/)
++ [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
++ [castra](https://github.com/blaze/castra) :: A partitioned storage system based on blosc.
++ [distributed](https://github.com/blaze/distributed) :: A library for distributed computation.
++ [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
+
+###### Resources-ContinuumIO
+   + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
+   + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
+   + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
 
 ----
 
