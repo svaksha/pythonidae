@@ -9,6 +9,7 @@
 + [GENOMICS](#genomics)
    + [DNA](#dna)
    + [RNA](#rna)
++ [MED-Orthodontics](#med-orthodontics)
 + [MICROBIOLOGY](#microbiology)
    + [Org-biocore](#org-biocore)
 + [MOLECULAR BIOLOGY](#molecular-biology)
@@ -182,6 +183,12 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [2013-davis-assembly](https://github.com/ngs-docs/2013-davis-assembly)
 + [2015-khmer-wok4-multimap](https://github.com/ctb/2015-khmer-wok4-multimap).
 + [2015-python-intro](https://github.com/ngs-docs/2015-python-intro) :: An Introduction to Python.
+
+----
+
+# MED-[Orthodontics](https://en.wikipedia.org/wiki/Orthodontics)
++ [Q3DCExtension](https://github.com/DCBIA-OrthoLab/Q3DCExtension) :: Compute 2D angles using placed fiducials.
+
 ----
 
 # MICROBIOLOGY
