@@ -1,10 +1,17 @@
 **Graphics and other Visualization libraries and packages. Also includes relevant documentation/tutorials and blog links narrating user experiences and howto's.**
 
++ [ARTS & CRAFTS](#arts-&-crafts)
 + [GRAPHICS](#graphics) 
    + [Games](#games)
    + [Video](#video)
 + [INFOGRAPHICS](#infographics)
 + [Org-Enthought](#org-enthought)
+
+====
+
+# ARTS & CRAFTS
+## Sewing 
++ [Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) :: A free machine embroidery software program supporting a variety of formats.
 
 ----
 
