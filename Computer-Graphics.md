@@ -20,6 +20,9 @@
 ## Sewing 
 + [Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) :: A free machine embroidery software program supporting a variety of formats.
 
+###### Resources-Sewing
++ Information on [computerized embroidery](http://edutechwiki.unige.ch/en/Computerized_embroidery).
+
 ----
 
 # GRAPHICS 
