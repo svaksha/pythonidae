@@ -10,6 +10,9 @@
 ====
 
 # ARTS & CRAFTS
+## Crochet
++ [img2pattern](https://github.com/g19fanatic/img2pattern) :: Takes an image and helps break it down so that it can be crocheted in a "paint by numbers" fashion 
+
 ## Knitting 
 + [patternknitt](https://github.com/Timian/patternknitt) :: Pattern making to knitting purposes.
 
