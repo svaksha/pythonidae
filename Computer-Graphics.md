@@ -22,6 +22,8 @@
 
 ###### Resources-Sewing
 + Information on [computerized embroidery](http://edutechwiki.unige.ch/en/Computerized_embroidery).
++ An old blog post on machine [embroidery designs with Linux](http://libregraphicsworld.org/blog/entry/embroidery-design-on-linux-now-possible-with-thred).
++ [Comparison of embroidery software](https://en.wikipedia.org/wiki/Comparison_of_embroidery_software).
 
 ----
 
