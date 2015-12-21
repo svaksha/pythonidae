@@ -11,6 +11,7 @@
 
 # ARTS & CRAFTS
 ## Crochet
++ [Crystallocrafty](https://github.com/PerlJam/Crystallocrafty) :: Crochet patterns generated from protein structural data.
 + [img2pattern](https://github.com/g19fanatic/img2pattern) :: Takes an image and helps break it down so that it can be crocheted in a "paint by numbers" fashion 
 
 ## Knitting 
