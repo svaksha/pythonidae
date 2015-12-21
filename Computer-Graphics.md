@@ -10,6 +10,9 @@
 ====
 
 # ARTS & CRAFTS
+## Knitting 
++ [patternknitt](https://github.com/Timian/patternknitt) :: Pattern making to knitting purposes.
+
 ## Sewing 
 + [Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) :: A free machine embroidery software program supporting a variety of formats.
 
