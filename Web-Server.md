@@ -24,6 +24,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 # FRONTEND
 + [Air](https://github.com/audreyr/air) :: An ultra-lightweight static site generator. 
++ [Ghost.py](https://github.com/jeanphix/Ghost.py) :: Webkit based scriptable web browser for python. Read the [Documentation](http://ghost-py.readthedocs.org/en/latest/).
 + [pyotherside](http://thp.io/2011/pyotherside/) :: Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
 
 ----
@@ -58,7 +59,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ----
 
-# WEBSERVER 
+# WEBSERVER
 + [Just-Metadata](https://github.com/ChrisTruncer/Just-Metadata) :: A tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset. https://www.christophertruncer.com/just-metadata-intel-gathering-and-analysis-of-ip-metadata/ 
 + [python-webpack](https://github.com/markfinger/python-webpack) :: Python bindings to webpack. 
 + [thriftpy](https://github.com/eleme/thriftpy) :: Pure python implementation of Apache Thrift. [Documentation](https://thriftpy.readthedocs.org/).
@@ -72,4 +73,5 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ## Utils
 + [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) :: This utility is designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible.
+
 
