@@ -65,6 +65,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [werkzeug](http://werkzeug.pocoo.org/) :: A flexible WSGI implementation and toolkit. [Source code](https://github.com/mitsuhiko/werkzeug).
 
 ## Security
++ [PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts) :: Scripts that are useful for pen tests.
 + [PBP](https://github.com/stef/pbp) :: A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP. 
 + [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
 + [SQLMap](http://sqlmap.org) :: Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
