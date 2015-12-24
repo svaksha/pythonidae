@@ -69,4 +69,6 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [Simple-RBAC](https://github.com/tonyseek/simple-rbac) :: A simple role based access control utility for Python. 
 + [SQLMap](http://sqlmap.org) :: Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
 
+## Utils
++ [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) :: This utility is designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible.
 
