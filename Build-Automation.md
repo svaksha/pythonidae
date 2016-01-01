@@ -102,7 +102,8 @@ __Docker, etc..__
 
 ###### Resources
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
-+ [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3
++ [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3)
++ [Conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 
 ----
 
