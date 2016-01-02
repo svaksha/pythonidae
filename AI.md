@@ -96,7 +96,7 @@
 + [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
    + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
 + [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
-
+   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
 
 ###### Resources
 + [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
