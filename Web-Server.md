@@ -26,6 +26,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [Air](https://github.com/audreyr/air) :: An ultra-lightweight static site generator. 
 + [Ghost.py](https://github.com/jeanphix/Ghost.py) :: Webkit based scriptable web browser for python. Read the [Documentation](http://ghost-py.readthedocs.org/en/latest/).
 + [pyotherside](http://thp.io/2011/pyotherside/) :: Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
++ [Python-Progressbar](https://github.com/WoLpH/python-progressbar) :: A text progress bar library for Python. [Documentation](http://progressbar-2.readthedocs.org/en/latest/).
 
 ----
 
