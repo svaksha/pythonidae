@@ -120,6 +120,7 @@ __Resources and guides for Scientists new to Python.__
 + [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
 + [The Open-Source Data Science Masters](http://datasciencemasters.org)
 + [LectureNotes](https://github.com/UWSEDS/LectureNotes) :: Lecture content for UW Software Engineering for Data Scientists.
++ [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style).
 
 ----
 
