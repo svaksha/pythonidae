@@ -8,7 +8,7 @@
 + [Blogs](#blogs)
 + [Cheatsheets](#cheatsheets)
 + [CONFERENCES](#conferences)
-+ [Lists](#lists)
++ [GENERAL RESOURCES](#general-resources)
 + [NEWS](#news)
    + [Blogs](#blogs)
    + [Media](#media)
@@ -112,11 +112,13 @@ __Resources and guides for Scientists new to Python.__
 
 ----
 
-# Lists
+# GENERAL RESOURCES
++ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 + [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
 + [The definitive list of (awesome) lists curated on GitHub](https://github.com/jnv/lists#technical)
 + [A curated list of awesome awesomeness - scroll down to the Python section](https://github.com/bayandin/awesome-awesomeness)
 + [The Open-Source Data Science Masters](http://datasciencemasters.org)
++ [LectureNotes](https://github.com/UWSEDS/LectureNotes) :: Lecture content for UW Software Engineering for Data Scientists.
 
 ----
 
