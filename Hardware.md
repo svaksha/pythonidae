@@ -35,6 +35,8 @@
 
 # Robots
 + [baldr](https://github.com/motet/baldr) :: A flight simulator for quadrotor drones written entirely in Python. 
++ [dronekit-python](https://github.com/dronekit/dronekit-python) :: 
+DroneKit-Python library for communicating with Drones via MAVLink.
 
 ----
 
