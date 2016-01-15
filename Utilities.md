@@ -110,8 +110,11 @@ __General tools & useful utilities.__
 
 ## Communication
 #### WhatsApp
-+ [whatsapp-bot-seed](https://github.com/joaoricardo000/whatsapp-bot-seed) :: A small python framework to create a whatsapp bot, with regex-callback message routing. 
++ [whatsapp-bot-seed](https://github.com/joaoricardo000/whatsapp-bot-seed) :: A 
+small python framework to create a whatsapp bot, with regex-callback message 
+routing. 
 + [whatsappcli](https://github.com/KarimJedda/whatsappcli) :: Control your server from Whatsapp. 
++ [yowsup](https://github.com/tgalal/yowsup) :: The python WhatsApp library.
 
 #### Twitter
 + [followtrack](https://github.com/grote/followtrack) :: Keeps track of your Twitter followers and lets you know who unfollowed you. 
