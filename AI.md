@@ -74,7 +74,10 @@
 + [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance.
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [Rambutan](https://github.com/jmschrei/rambutan) :: A python wrapper for caffe which aims at providing a simple, pythonic, interface for users so that users can define, train, and evaluate deep models in only a few lines of code. It requires that caffe and pycaffe are both built properly.   
-+ [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap) :: Bootstrap Scikit for bootstrap confidence interval estimation. 
++ [python-recsys](https://github.com/ocelma/python-recsys) :: A python library 
+for implementing a recommender system. 
++ [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap) :: 
+Bootstrap Scikit for bootstrap confidence interval estimation. 
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
    + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
