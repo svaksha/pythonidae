@@ -101,11 +101,12 @@ __Resources and guides for Scientists new to Python.__
 ### OpenVisConf
 
 ### [PyData](http://pydata.org/)
-* 2014/February/21-23 [London-2014](http://pydata.org/ldn2014)
-* 2013/November/08-10 [NewYork-2013](http://pydata.org/nyc2013)
-* 2013/July/27-28 [Boston-2013](http://pydata.org/bos2013)
-* 2013/March/18-20 [Silicon-Valley-2013](http://pydata.org/sv2013)
-* 2013/October/26-27 [NewYork-2012](http://pydata.org/nyc2012)
++ [Determining Skill Levels](https://github.com/khwilson/pydata2014) talk at PyData2NYC 2014.
++ 2014/February/21-23 [London-2014](http://pydata.org/ldn2014)
++ 2013/November/08-10 [NewYork-2013](http://pydata.org/nyc2013)
++ 2013/July/27-28 [Boston-2013](http://pydata.org/bos2013)
++ 2013/March/18-20 [Silicon-Valley-2013](http://pydata.org/sv2013)
++ 2013/October/26-27 [NewYork-2012](http://pydata.org/nyc2012)
 
 ### [SciPy](https://conference.scipy.org/)
 
