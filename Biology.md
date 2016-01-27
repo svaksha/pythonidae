@@ -166,7 +166,7 @@
 + [RNASeqReadSimulator](http://www.cs.ucr.edu/~liw/rnaseqreadsimulator.html) :: A simple tool to generate simulated single-end or paired-end RNA-Seq reads. [Source Code](https://github.com/davidliwei/RNASeqReadSimulator).
 + [tcgaparse](https://github.com/machbio/tcgaparse) :: Python Scripts to Parse TCGA data.
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use.
-
++ [YAP](https://github.com/Novartis/yap) :: An extensible parallel framework, written in python using openmpi libraries that allows researchers to quickly build high throughput big data pipelines without extensive knowledge of parallel programming.
 
 ###### Research Publications
 + Pieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN2014
