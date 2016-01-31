@@ -305,6 +305,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [Simple neural net setup practice](https://github.com/nyghtowl/Neural_Net_Practice)
 + [Python in NeuroImaging trifold](http://www.onerussian.com/tmp/nipy-handout.pdf)
 + [Python in Electrophysiology trifold](http://www.onerussian.com/tmp/eppy-handout.pdf)
++ [python-for-neuroscience](https://github.com/kylerbrown/python-for-neuroscience) :: A workshop for teaching python to neuroscientists with some previous programming experience.
 
 ### Neuropsychology
 + [OpenPsyc](https://github.com/cbattista/OpenPsyc) :: Open source Python scripts for Psychology and the Neurosciences.
