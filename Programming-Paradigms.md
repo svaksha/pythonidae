@@ -30,6 +30,7 @@
 
 ### Functional Programming 
 + [fn.py](https://github.com/kachayev/fn.py) :: Implementation of missing features to enjoy Functional programming in Python.
++ [Pixie](https://github.com/pixie-lang/pixie) :: A small, fast, native lisp with "magical" powers.
 
 ### RE
 + [refo](https://github.com/machinalis/refo) :: Regular expressions for objects. 
