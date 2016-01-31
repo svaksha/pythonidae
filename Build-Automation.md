@@ -74,7 +74,7 @@ __Docker, etc..__
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
 + [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries.
-+ [Flonda](https://github.com/takluyver/flonda) :: A Python package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
++ [Flit](https://github.com/takluyver/flit) :: Simplified packaging of Python modules. [Documentation](http://flit.readthedocs.org/).
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation.
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
@@ -100,6 +100,7 @@ __Docker, etc..__
    + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
++ [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
 + [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
 
