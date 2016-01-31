@@ -74,6 +74,7 @@ __Docker, etc..__
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
 + [Changes](https://github.com/michaeljoseph/changes) :: Automates python library release tasks.
 + [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) :: Enhanced cookiecutter template for Python libraries.
++ [Flonda](https://github.com/takluyver/flonda) :: A Python package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation.
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
