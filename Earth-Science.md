@@ -23,8 +23,9 @@
 + [EchelleTools](https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format.
 + [Enrico](https://github.com/gammapy/enrico) helps you with your Fermi data analysis. [Documentation](http://enrico.readthedocs.org/)
 + [Gammapy](https://github.com/gammapy/gammapy) :: A Python package for gamma-ray astronomy. [Documentation](https://gammapy.readthedocs.org/)
-+ [Gamma-speed](https://github.com/gammapy/gamma-speed) :: Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/)
++ [Gamma-speed](https://github.com/gammapy/gamma-speed) :: Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/).
 + [gatspy](https://github.com/jakevdp/gatspy) :: General tools for Astronomical Time Series in Python. 
++ [klima](https://github.com/wuan/klima) :: Python modules for building a climate data logger.
 + [LRG_redshifts](https://github.com/jakevdp/LRG_redshifts) ::  Finding double redshifts in SDSS LRGs.
 + [oec_outreach](https://github.com/hannorein/oec_outreach) :: A variant of the Open Exoplanet Catalogue (a database of all discovered extra-solar planets) with additional data and images mainly useful for outreach projects. 
 + [periodogram](https://github.com/astroML/periodogram) :: Unified implementation for period-finding in astronomical time series.
