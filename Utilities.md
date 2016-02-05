@@ -40,6 +40,7 @@ __Python 2&3 tools__
 + [Bugjar](https://github.com/pybee/bugjar) :: A interactive graphical debugger for Python code. 
 + [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. 
 + [MagicPython](https://github.com/MagicStack/MagicPython) :: Syntax highlighter for cutting edge Python for Sublime Text and Atom. 
++ [pyzo](https://github.com/almarklein/pyzo) :: The Interactive editor for Python.
 
 ### Zoof
 + [Zoof](http://zoof.io) :: The Official repository - The IDE for dynamic coding. [Source code](https://github.com/zoofIO/zoof).
