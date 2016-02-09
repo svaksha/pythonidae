@@ -17,6 +17,7 @@
    + [Neural-Networks](#neural-networks)
    + [Neuropsychology](#neuropsychology)
    + [Org-kwikteam](#kwikteam)
++ [Pharma](#pharma)
 + [SYSTEOMICS](#systeomics)
    + [OpenWorm](#openworm)
    + [Synthetic Biology](#synthetic-biology)
@@ -30,7 +31,7 @@
 + [population_pyramid](https://github.com/jimrybarski/population_pyramid) :: Uses matplotlib to create a population pyramid graph.
 
 ----
-   
+
 # BIOTOOLS
 + [annotations](https://github.com/tyarkoni/annotations) :: Multimodal stimulus annotation in Python.
 + [antz](https://github.com/jmschrei/antz) :: Bioinformatic tools for biologists, made pythonic!
@@ -318,6 +319,10 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 __Large-scale electrophysiological data analysis framework in Python.__
 + [phy](https://github.com/kwikteam/phy) :: Interactive electrophysiological data analysis package.
 
+----
+
+# Pharma
++ [ops-search](https://github.com/openphacts/ops-search) :: Open PHACTS search service. 
  
 ----
 
@@ -365,6 +370,3 @@ __NotaBene__:: Some resources and teaching aids listed here are not Python langu
 + [Protocol-online](http://www.protocol-online.org) :: A Q&A portal for molecular biology protocols.
 
 ----
-
-
-

@@ -71,6 +71,7 @@
 + [OpenfMRI.org](https://openfmri.org) :: A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 
 ## Pharma
++ [Open PHACTS](http://www.openphacts.org) search service.
 + [OSDD - open source drug discovery](http://www.osdd.net/).
 
 ----
