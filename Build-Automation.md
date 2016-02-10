@@ -98,6 +98,7 @@ __Docker, etc..__
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
    + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
++ [CommandCI_conda](https://github.com/CommandCI/CommandCI_conda) :: Command CI services to build conda packages.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
 + [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
