@@ -65,6 +65,7 @@ library used to interact with Git repositories. http://gitpython.readthedocs.org
 __Docker, etc..__
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 + [bootstrap-vz](https://github.com/andsens/bootstrap-vz) :: Bootstrap Debian images for virtualized environments. [Documentation](http://bootstrap-vz.readthedocs.org/).
++ [docker-volume-backup](https://github.com/paimpozhil/docker-volume-backup) :: a python script to backup/restore the docker data containers / volumes.
 + [docker-notebook](https://github.com/ipython/docker-notebook) :: Docker containers for the [Jupyter IPython](https://registry.hub.docker.com/u/ipython/) notebook (+SciPy Stack). 
 + [docker-AMI](https://github.com/johncosta/docker-AMI) :: Scripts used to create docker-AMI images.
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
