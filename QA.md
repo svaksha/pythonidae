@@ -19,6 +19,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 
 # UNITTEST
 + [assertpy](https://github.com/ActivisionGameScience/assertpy) :: Dead simple assertions framework for unit testing in Python with a nice fluent API. Supports both Python 2 and 3.
++ [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
 + [Hypothesis](https://github.com/DRMacIver/hypothesis) :: An advanced Quickcheck style testing library for Python.
 + [nupic.regression](https://github.com/numenta/nupic.regression) :: Regression test suite for NuPIC.
 + [Prospector](https://github.com/landscapeio/prospector) :: A tool to inspect and analyse Python source code files and provide output information about errors, potential problems, convention violations, complexity, information about type and location of classes, methods etc..
