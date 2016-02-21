@@ -5,6 +5,7 @@
 + [Operating System Technology](#operating-system-technology)
    + [Binaries](#binaries)
    + [Containers-Virtualization](#containers-virtualization)
+	  + [Docker](#docker)
    + [DistrOS](#distros)
    + [Packaging](#packaging)
    + [Sandboxes](#sandboxes)
@@ -62,16 +63,19 @@ library used to interact with Git repositories. http://gitpython.readthedocs.org
 + [klusta_process_manager](https://github.com/tymoreau/klusta_process_manager) :: A process manager.
 
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
-__Docker, etc..__
-+ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 + [bootstrap-vz](https://github.com/andsens/bootstrap-vz) :: Bootstrap Debian images for virtualized environments. [Documentation](http://bootstrap-vz.readthedocs.org/).
+
+### Docker
++ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/).
 + [docker-volume-backup](https://github.com/paimpozhil/docker-volume-backup) :: a python script to backup/restore the docker data containers / volumes.
 + [docker-mysql-scripts](https://github.com/luiselizondo/docker-mysql-scripts) ::  A series of useful commands written in python to interact with a MySQL Server running on Docker.
 + [docker-notebook](https://github.com/ipython/docker-notebook) :: Docker containers for the [Jupyter IPython](https://registry.hub.docker.com/u/ipython/) notebook (+SciPy Stack). 
++ [docker-scripts](https://github.com/goldmann/docker-scripts) :: A swiss-knife tool that could be useful for people working with Docker :: A swiss-knife tool that could be useful for people working with Docker.
 + [docker-AMI](https://github.com/johncosta/docker-AMI) :: Scripts used to create docker-AMI images.
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
-+ [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Dockerfile to erect 10GB beast containing HCP500 full pipelines.
++ [hcp-neurodebian](https://github.com/yarikoptic/hcp-neurodebian) :: Scripts to create HCP environment containing basic Docker file to erect 10GB beast containing HCP500 full pipelines.
 + [Pythonista](https://github.com/ikalnitsky/pythonista) :: A Docker image for Python developers to use and test their applications.
+
 
 ## Packaging
 + [antipackage](https://github.com/ellisonbg/antipackage) :: Automagically import single file Python modules from GitHub.
