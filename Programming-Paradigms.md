@@ -14,6 +14,7 @@
 + [PyCifRW](https://pypi.python.org/pypi/PyCifRW/3.6.2) :: Library support for reading and writing CIF (Crystallographic Information Format) files using Python. [Source code on Bitucket](https://bitbucket.org/jamesrhester/pycifrw/).
 + [PyCIF](https://github.com/quantumjockey/pycif) :: A python module for reading from, writing to, and manipulating International Union of Crystallography (IUCr) CIF-formatted data files.
 + [pymarkdown](https://github.com/mrocklin/pymarkdown) :: Evaluate code in markdown.
++ [RDFLib](https://github.com/RDFLib/rdflib/) :: A Python library for working with RDF, a simple yet powerful language for representing information. [Documentation](https://rdflib.readthedocs.org/).
 + [sam](https://github.com/smdabdoub/sam) :: Simple parsing tools in python for SAM-format files.
 + [stapler](https://github.com/hellerbarde/stapler) :: A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk. 
 + [snakebite](https://github.com/spotify/snakebite) :: A pure python HDFS client.
