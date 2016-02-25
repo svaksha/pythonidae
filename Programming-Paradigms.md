@@ -1,4 +1,5 @@
 + [Data Formats](#data-formats)
++ [Data Models](#data-models)
 + [Programming Paradigms](#programming-paradigms)
    + [Functional Programming](#functional-programming)
    + [RE](#re)
@@ -20,6 +21,11 @@
 + [snakebite](https://github.com/spotify/snakebite) :: A pure python HDFS client.
 + [xlrd3](https://github.com/joidegn/xlrd3) :: Port of xlrd for reading excel files to python-3. 
 + [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
+
+----
+
+# Data Models
++ [pySesame](http://pysesame.projects.semwebcentral.org) :: a Python wrapper for Sesame.
 
 ----
 
