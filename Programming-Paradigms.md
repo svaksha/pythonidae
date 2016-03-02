@@ -25,6 +25,7 @@
 ----
 
 # Data Models
++ Documentation for [working with RDFLib and RDFExtras](http://rdfextras.readthedocs.org/en/latest/working_with.html).
 + [pySesame](http://pysesame.projects.semwebcentral.org) :: a Python wrapper for Sesame.
 
 ----
