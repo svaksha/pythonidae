@@ -8,10 +8,11 @@
 + [MACHINE LEARNING](#machine-learning])
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
++ [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
 + [RESOURCES](#resources)
 
-====
+----
 
 # [COMPUTATIONAL PROBLEMS](https://en.wikipedia.org/wiki/Category:Computational_problems)
 ## [NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
@@ -37,9 +38,9 @@
 + [sparray](https://github.com/jesolem/sparray) :: Sparse n-dimensional arrays in Python.
 + [Theano](http://deeplearning.net/software/theano/) :: A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently.
    __Resources__
-   - [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
-   - [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
-   - [A brief IPython notebook-based tutorial on basic Theano concepts](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb), including a toy multi-layer perceptron example.
+   * [Official Documentation](http://deeplearning.net/software/theano/tutorial/).
+   * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
+   * [A brief IPython notebook-based tutorial on basic Theano concepts](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb), including a toy multi-layer perceptron example.
 + [Xray](https://github.com/xray/xray) :: Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
 
 ###### Resources
@@ -142,6 +143,11 @@ Bootstrap Scikit for bootstrap confidence interval estimation.
 
 ----
 
+# NEURAL NETWORKS 
++ [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
+
+----
+
 # NLP
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [commonast](https://github.com/almarklein/commonast) :: A common AST description for Python.
@@ -177,3 +183,5 @@ Bootstrap Scikit for bootstrap confidence interval estimation.
 # RESOURCES
 + [bci-challenge-ner-2015](https://github.com/alexandrebarachant/bci-challenge-ner-2015) :: Code and documentation for the winning solution at the BCI Challenge @ NER 2015 : https://www.kaggle.com/c/inria-bci-challenge
 + [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice)
+
+
