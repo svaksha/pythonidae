@@ -48,6 +48,7 @@
    + [bioblend](https://github.com/afgane/bioblend) :: A python library for interacting with CloudMan and Galaxy API.
    + [galaxy_blast](https://github.com/peterjc/galaxy_blast) :: Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
    + [GalaxyConfigGenerator](https://github.com/genericworkflownodes/GalaxyConfigGenerator) :: Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper.
+   + [galaxy-lib](https://github.com/galaxyproject/galaxy-lib) :: Subset of Galaxy (http://galaxyproject.org/) core code designed to be used as a library.
 + [rabix](https://github.com/rabix/rabix) :: Reproducible Analyses for Bioinformatics.
 + [samtools-trio-nexus](https://github.com/bpow/samtools-trio-nexus) :: An applet for running samtools on trios (child and both parents) on DNAnexus.
 + [tiny-test-data](https://github.com/roryk/tiny-test-data) :: Super small biological datasets for unit testing. 
