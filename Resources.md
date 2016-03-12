@@ -89,6 +89,7 @@ __Resources and guides for Scientists new to Python.__
 
 # Cheatsheets
 + [Python Basic Operators](http://www.tutorialspoint.com/python/python_basic_operators.htm)
++ The python [decorator cheatsheet](http://www.pydanny.com/python-decorator-cheatsheet.html) by @PyDanny.
 
 ----
 
