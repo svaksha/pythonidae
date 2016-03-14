@@ -106,6 +106,7 @@ library used to interact with Git repositories. http://gitpython.readthedocs.org
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
    + [python-appveyor-conda-example](https://github.com/rmcgibbo/python-appveyor-conda-example) :: Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
 + [CommandCI_conda](https://github.com/CommandCI/CommandCI_conda) :: Command CI services to build conda packages.
++ [conda build-all](https://github.com/SciTools/conda-build-all) :: A conda subcommand which allows multiple distributions to be built (and uploaded) in a single command. It makes use of the underlying machinery developed for conda build.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
 + [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
