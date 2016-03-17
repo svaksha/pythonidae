@@ -69,6 +69,9 @@ __Python 2&3 tools__
 + [sudospawner](https://github.com/jupyter/sudospawner) :: Spawn JupyterHub single-user servers with sudo.
 + [vIPer](https://github.com/damianavila/vIPer) :: A new tool for IPython notebooks. 
 
+### Jupyter Themes
++ [jupyter-themer](https://github.com/transcranial/jupyter-themer) :: Apply custom CSS styling to your jupyter notebooks.
+
 ###### Resources
 + [Jupyter notebook beginner guide](https://github.com/tritemio/jupyter_notebook_beginner_guide) :: A brief guide to install and run Jupyter/IPython notebooks.
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
