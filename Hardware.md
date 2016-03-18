@@ -4,6 +4,7 @@
 + [Control System](#control-system)
 + [Embedded Systems](#embedded-systems)
    + [Microcontrollers](#microcontrollers)
++ [GUI](#gui)
 + [Robots](#robots)
 + [Tools](#tools)
 
@@ -27,9 +28,14 @@
 ----
 
 # [Embedded Systems](https://en.wikipedia.org/wiki/Category:Embedded_systems)
-## [Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers)
 
+## [Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers)
 + [Raspberry_Pi](https://github.com/nineties/py-videocore) :: Python library for GPGPU on [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
+
+----
+
+# GUI
++ [PyGMI](https://github.com/Argonne-National-Laboratory/PyGMI) :: Open source graphical interface for taking generic measurements over GPIB, USB, ethernet, serial ports.
 
 ----
 
