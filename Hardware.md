@@ -41,12 +41,10 @@
 
 # Robots
 + [baldr](https://github.com/motet/baldr) :: A flight simulator for quadrotor drones written entirely in Python. 
-+ [dronekit-python](https://github.com/dronekit/dronekit-python) :: 
-DroneKit-Python library for communicating with Drones via MAVLink.
++ [DroneKit-Python](https://github.com/dronekit/dronekit-python) :: A library for communicating with Drones via MAVLink.
 
 ----
 
 # Tools
 + [xlang](https://github.com/darpa-xdata/xlang) :: Tools for Cross-language data interoperability.
 
-https://github.com/nineties/py-videocore ::  Python library for GPGPU on Raspberry Pi 

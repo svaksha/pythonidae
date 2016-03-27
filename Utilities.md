@@ -137,6 +137,7 @@ routing.
 + [python-slimta](http://slimta.org/) :: Lightweight, asynchronous SMTP libraries. [Source code](https://github.com/slimta/python-slimta).
 
 ## Open-Research-Tools
++ [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) :: Web interface for browsing, search and filtering recent arxiv submissions. [Website](http://www.arxiv-sanity.com/). 
 + [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
 + [depsy](http://depsy.org) :: Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
    + [depsy-research](https://github.com/Impactstory/depsy-research) :: Documentation and research output for Depsy.
