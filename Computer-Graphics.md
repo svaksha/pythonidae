@@ -7,7 +7,7 @@
 + [INFOGRAPHICS](#infographics)
 + [Org-Enthought](#org-enthought)
 
-====
+----
 
 # ARTS & CRAFTS
 ## Crochet
