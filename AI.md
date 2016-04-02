@@ -1,5 +1,6 @@
 **ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...**
 
++ [AI](#ai)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
    + [NP-complete](#np-complete)
       + [SAT](#sat)
@@ -11,6 +12,11 @@
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
 + [RESOURCES](#resources)
+
+----
+
+# AI
++ [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
 
 ----
 
