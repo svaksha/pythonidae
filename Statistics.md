@@ -85,11 +85,19 @@
 + [Statsmodels](http://statsmodels.sourceforge.net) is a Python library package for econometrics, plotting functions, statistical modeling and tests, that provides a complement to SciPy for statistical computations including descriptive statistics, and estimation and inference for statistical models. [Source Code](https://github.com/statsmodels/statsmodels).
 
 ## Bayesian
-+ [bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks) :: Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions.
-+ [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
-+ [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
-+ [Pomegranate](https://github.com/jmschrei/pomegranate) :: A package for graphical models and Bayesian statistics for Python, implemented in cython.
-+ [SAMCNet](https://github.com/binarybana/samcnet) is a toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
++ [bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks) 
+:: Pythonic Bayesian Belief Network Package, supporting creation of and exact 
+inference on Bayesian Belief Networks specified as pure python functions.
++ [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and 
+Bayesian uncertainty modeling for inverse problems.
++ [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a 
+Bayesian Network in Python. 
++ [Pomegranate](https://github.com/jmschrei/pomegranate) :: A package for 
+graphical models and Bayesian statistics for Python, implemented in cython. 
+[Documentation](http://pomegranate.readthedocs.org/en/latest/).
++ [SAMCNet](https://github.com/binarybana/samcnet) :: A toolkit and 
+demonstration for Bayesian model averaging over objective functions defined over 
+model classes of interest using advanced MCMC techniques.
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 + [YABN](https://github.com/jmschrei/yabn) :: Yet Another Bayesian Network. 
 
