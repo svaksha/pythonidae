@@ -43,9 +43,6 @@
 ----
 
 # CONTINUOUS INTEGRATION
-+ [GitPython](https://github.com/gitpython-developers/GitPython) :: A python 
-library used to interact with Git repositories. http://gitpython.readthedocs.org
-+ [Homu](http://homu.io/) :: A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
 
 ##### Resources
 * Blog post series on Continuous integration in Python by @jni:

@@ -1,11 +1,21 @@
-+ [C-CPP](#ccpp)
-+ [FORTRAN](#fortran)
-+ [PYTHON](#python)
-+ [SCALA](#scala)
++ [API](#api)
+   + [GIT API](#git-api)
++ [LANGUAGES](#languages)
++ [LANGUAGES](#languages)
+   + [C-CXX](#cxx)
+   + [FORTRAN](#fortran)
+   + [PYTHON](#python)
+   + [SCALA](#scala)
 
 ----
 
-# C-CPP 
+# API
+### Git API
++ [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpython.readthedocs.org
++ [Homu](http://homu.io/) :: A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
++ [python-gitlab](https://github.com/gpocentek/python-gitlab) :: Python wrapper for the GitLab API.
+
+# C-CXX 
 **wrappers for C and C++.**
 + [XDress](https://github.com/xdress/xdress) :: is a Cython-based, NumPy-aware automatic wrapper generator for C/C++ written in pure Python. Currently, [xdress](http://xdress.org/) may generate Python bindings (via Cython) for C++ classes & functions and in-memory wrappers for C++ standard library containers (sets, vectors, maps).
 
