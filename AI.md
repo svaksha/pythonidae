@@ -84,29 +84,7 @@
 + [RAMP](https://github.com/kvh/ramp) :: Rapid Machine Learning Prototyping in Python.
 + [python-recsys](https://github.com/ocelma/python-recsys) :: A python library 
 for implementing a recommender system. 
-+ [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap) :: 
-Bootstrap Scikit for bootstrap confidence interval estimation. 
-+ [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
-   __Resources__
-   + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
-   + [scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) :: Scikit-Learn tutorial material for Scipy 2015.
-   + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
-   + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
-   + [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
-   + [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) :: Materials for @jakevdp's Pycon 2015 scikit-learn tutorial.
-+ [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
-   __Resources__
-   - [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
-   - PyData-2014 Talk → [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
-   - [K-means Clustering with Scikit-Learn](https://github.com/sarguido/k-means-clustering)
-   - @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-   - [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
-   - [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
-   - [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
-+ [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
-+ [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
-   + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
 + [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
    + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
 
@@ -125,6 +103,28 @@ Bootstrap Scikit for bootstrap confidence interval estimation.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
+### scikit
++ [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap) :: Bootstrap Scikit for bootstrap confidence interval estimation. 
++ [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
+   __Resources__
+   + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
+   + [scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) :: Scikit-Learn tutorial material for Scipy 2015.
+   + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
+   + [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
+   + [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) :: Tutorial on parallel Machine Learning with scikit-learn and IPython.
+   + [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) :: Materials for @jakevdp's Pycon 2015 scikit-learn tutorial.
++ [scikits-sparse](https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses.
+   __Resources__
+   - [Gradient Boosted Regression Trees in scikit-learn](https://github.com/davidwhogg/DataAnalysisRecipes)
+   - PyData-2014 Talk → [Know Thy Neighbor: Scikit-Learn and kNN Algorithm Tutorial and PyCon 2014 Talk](https://github.com/pkafei/Know_Thy_Neighbor)
+   - [K-means Clustering with Scikit-Learn](https://github.com/sarguido/k-means-clustering)
+   - @ageitgey gives an introduction to the basics of [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+   - [The Computational Complexity of Machine Learning](https://www.cs.utexas.edu/~klivans/395t.html)
+   - [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
+   - [A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks](https://github.com/rasbt/pattern_classification)
++ [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) :: This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
++ [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) :: Scikit-learn compatible tools using Theano.
+   + Paper: [Fast Bird Part Localization for Fine-Grained Categorization](http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology.
 
 ## Classification Algorithms
 + [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm.
