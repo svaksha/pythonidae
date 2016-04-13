@@ -105,13 +105,15 @@
 + [CommandCI_conda](https://github.com/CommandCI/CommandCI_conda) :: Command CI services to build conda packages.
 + [conda build-all](https://github.com/SciTools/conda-build-all) :: A conda subcommand which allows multiple distributions to be built (and uploaded) in a single command. It makes use of the underlying machinery developed for conda build.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
-+ [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
 + [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
 + [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
-+ [pyopengl-feedstock](https://github.com/conda-forge/pyopengl-feedstock) :: A conda-smithy repository for pyopengl.
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
 + [sparkonda](https://github.com/moutai/sparkonda) :: Minimalistic utility library to manage conda environments for pyspark jobs on yarn clusters.
 + [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
+
+#### [Conda-Forge](https://github.com/conda-forge)
++ [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
++ [pyopengl-feedstock](https://github.com/conda-forge/pyopengl-feedstock) :: A conda-smithy repository for pyopengl.
 
 ###### Resources
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
