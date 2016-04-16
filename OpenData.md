@@ -1,7 +1,10 @@
 __Open Datasets are listed below the `software` section.__
 
 + [SOFTWARE](#software)
-+ [Astronomy](#astronomy)
++ [ACTUARIAL SCIENCE](#actuarial-science)
+   + [Econometrics](#econometrics)
+   + [Finance](#finance)
++ [ASTRONOMY](#astronomy)
 + [BIOLOGY](#biology)
    + [Genome](#genome)
    + [Genetics-Medicine](#genetics-medicine)
@@ -14,8 +17,9 @@ __Open Datasets are listed below the `software` section.__
    + [DATA-General](#data-general)
    + [DATA-Research](#data-scientific)
    + [DATA-Scientific](#data-scientific)
-+ [Machine Learning](#machine-learning)
-+ [Math](#math)
++ [MACHINE LEARNING](#machine-learning)
++ [MATH](#math)
++ [PHYSICS](#physics)
 + [Video](#video)
 
 ----
@@ -30,7 +34,18 @@ __Open Datasets are listed below the `software` section.__
 
 ----
 
-# [Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
+# ACTUARIAL SCIENCE
+
+## Econometrics
++ The [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) economic [time series data](https://research.stlouisfed.org/fred2/).
+
+## Finance
++ [NASDAQ](https://data.nasdaq.com/) data.
++ [OANDA](http://www.oanda.com/) data.
+
+----
+
+# [ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy)
 + [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa).
 
 ## AstroPhysics
@@ -86,6 +101,7 @@ __Open Datasets are listed below the `software` section.__
 
 ## Crystallography
 + [Crystallographic databases](http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP.
++ [Crystallography](http://www.crystallography.net/) Open Database.
 + [Protein Data Bank](http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP.
 + [Inorganic Crystal Structure Database](http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database) 
 
@@ -110,15 +126,20 @@ __Open Datasets are listed below the `software` section.__
 
 ----
 
-# Machine Learning
+# MACHINE LEARNING
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 ----
 
-# Math
+# MATH
 + [Juliaset.jl](https://github.com/tanmaykm/Juliaset.jl) :: Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
 
 ----
 
-# Video
+# PHYSICS
++ [CERN OpenData](http://opendata.cern.ch/) Portal.
+
+----
+
+# VIDEO
 + [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org).

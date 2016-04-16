@@ -74,6 +74,7 @@
 + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
 + [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
 + [La](http://pypi.python.org/pypi/la) :: Larry, the labeled numpy array. The main class of the la package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension). [Source Code](https://github.com/kwgoodman/la).
++ [minpy](https://github.com/dmlc/minpy) :: Pure numpy practice with third party operator Integration.
 + [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 + [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
 + [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays.
