@@ -142,3 +142,5 @@ routing.
 + [habanero](https://github.com/sckott/habanero) :: crossref search low level client.
 + [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
+## TimeTracker
++ [Watson/](http://tailordev.github.io/Watson/) :: A wonderful CLI to track your time! [Source code](https://github.com/TailorDev/Watson). 
