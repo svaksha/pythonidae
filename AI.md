@@ -70,6 +70,7 @@ for implementing a recommender system.
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
+
 ###### Resources
 + [Amazon Machine Learning: use cases and a real example in Python](http://cloudacademy.com/blog/aws-machine-learning/).
 + Some [machine learning libraries](http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/)
@@ -83,6 +84,7 @@ for implementing a recommender system.
 ----
 
 # NEURAL NETWORKS 
++ [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
 + [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
 
 ----
