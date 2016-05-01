@@ -106,12 +106,15 @@ model classes of interest using advanced MCMC techniques.
 + [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
 + [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
-+ _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
-   + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
 + [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) :: Bayesian Methods for Hackers using Python and PyMC.
 + [Frequentism and Bayesianism: What's the Big Deal?](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014.
 + [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp.
 + [Doing bayesian data analysis](https://github.com/aloctavodia/Doing_bayesian_data_analysis) :: This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke, A.K.A, the puppy book. 
++ [ThinkX](https://github.com/AllenDowney/ThinkX) :: This package contains support code for books by Allen B. Downey.
+   + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
+   + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
+   + [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) :: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. 
+
 
 
 ## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
