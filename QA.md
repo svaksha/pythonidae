@@ -9,6 +9,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 ----
 
 # FUNCTIONAL
++ [Boom!](https://github.com/tarekziade/boom) :: A simple command line tool to send some load to a web app.
 + [FunkLoad](https://github.com/nuxeo/FunkLoad) :: Functional and load testing framework for web applications, written in Python http://funkload.nuxeo.org/
 
 ----
