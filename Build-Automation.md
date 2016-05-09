@@ -9,6 +9,7 @@
    + [DistrOS](#distros)
    + [Packaging](#packaging)
    + [Sandboxes](#sandboxes)
+       + [Anaconda](#anaconda)
 + [NEWS](#news)
 
 ----
@@ -38,7 +39,7 @@
 + [patchwork](https://github.com/fabric/patchwork) :: Common deployment/sysadmin operations, built on Fabric. 
 + [Plumbum](https://pypi.python.org/pypi/plumbum) :: Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
 + [pyinvoke](http://pyinvoke.org) :: Simple Python task execution. [Source code](https://github.com/pyinvoke/invoke).
-+ [Watcher](https://github.com/splitbrain/Watcher) :: A daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read ini file instead of a plain text file. Unlike incron it can also recursively monitor directories. It's also written in Python, making it easier to hack.
++ [Watcher](https://github.com/splitbrain/Watcher) :: A daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read `ini` file instead of a plain text file. Unlike incron it can also recursively monitor directories. It's also written in Python, making it easier to hack.
 
 ----
 
@@ -107,9 +108,12 @@
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
 + [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
 + [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
-+ [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
 + [sparkonda](https://github.com/moutai/sparkonda) :: Minimalistic utility library to manage conda environments for pyspark jobs on yarn clusters.
 + [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
+
+#### Conda Recipes
++ [conda-recipes](https://github.com/omnia-md/conda-recipes) :: conda build recipes for the [Omnia](http://omnia.md) project.
++ [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
 
 #### [Conda-Forge](https://github.com/conda-forge)
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
