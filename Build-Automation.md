@@ -116,9 +116,9 @@
 + [conda-recipes](https://github.com/omnia-md/conda-recipes) :: conda build recipes for the [Omnia](http://omnia.md) project.
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
 
-
 #### [Conda-Forge](https://github.com/conda-forge)
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
++ [libffi-feedstock](https://github.com/conda-forge/libffi-feedstock) :: A conda-smithy repository for libffi.
 + [pyopengl-feedstock](https://github.com/conda-forge/pyopengl-feedstock) :: A conda-smithy repository for pyopengl.
 
 ###### Resources
