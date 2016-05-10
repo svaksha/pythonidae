@@ -112,8 +112,10 @@
 + [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
 
 #### Conda Recipes
++ [conda-dev-recipes](https://github.com/omnia-md/conda-dev-recipes) :: Conda development recipes (*-dev packages), built [nightly](https://nightli.es/).
 + [conda-recipes](https://github.com/omnia-md/conda-recipes) :: conda build recipes for the [Omnia](http://omnia.md) project.
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
+
 
 #### [Conda-Forge](https://github.com/conda-forge)
 + [conda-smithy](https://github.com/conda-forge/conda-smithy) :: The tool for managing conda-forge feedstocks. 
