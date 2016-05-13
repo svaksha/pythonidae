@@ -18,6 +18,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 **Libraries for Cloud/Cluster Computing**
 + [arrayfire-python](https://github.com/arrayfire/arrayfire-python) :: A high performance library for parallel computing with an easy-to-use API.
 + [clusterlib](https://github.com/clusterlib/clusterlib) :: Tools to manage jobs on supercomputer. [Documentation](http://clusterlib.readthedocs.org/)
++ [Curio](https://github.com/dabeaz/curio) :: The coroutine concurrency library.
 + [Pathos](https://github.com/uqfoundation/pathos) :: A framework for parallel graph management and execution in heterogeneous computing. It primarily provides the communication mechanisms for configuring and launching parallel computations across heterogenous resources. Pathos provides configurable launchers for parallel and distributed computing, where each launcher contains the syntactic logic to configure and launch jobs in an execution environment.
 + [Pyina](https://github.com/uqfoundation/pyina) :: a MPI-based parallel mapper and launcher.
 + [Ufora](https://github.com/ufora/ufora) :: A compiled, automatically parallel subset of python for data science and numerical computing.
