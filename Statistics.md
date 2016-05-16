@@ -48,6 +48,7 @@
 + [PyMC3](https://github.com/pymc-devs/pymc3) :: A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms.
 + [pysdmx](https://github.com/widukind/pysdmx) :: Python interface to SDMX endpoint provided by Eurostat.
 + [Zipline](https://github.com/quantopian/zipline) :: A Pythonic Algorithmic Trading Library.
++ [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard) :: TensorBoard as a Zipline [dashboard](http://jimgoo.com/tensorboard-and-zipline/).
 
 ###### Resources
 + [ISLR chapters from R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python)
