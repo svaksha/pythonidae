@@ -27,6 +27,7 @@ __Open Datasets are listed below the `software` section.__
 # SOFTWARE
 + [aristotle-metadata-registry](https://github.com/aristotle-mdr/aristotle-metadata-registry) ::  Aristotle-MDR is an open-source metadata registry as laid out by the requirements of the ISO/IEC 11179 specification.
 + [camlipy](https://github.com/tsileo/camlipy) :: The unofficial Python client for [Camlistore](http://camlistore.org/). [Documentation](http://camlipy.readthedocs.org).
++ [caffe-oxford102](https://github.com/jimgoo/caffe-oxford102) :: Caffe CNNs for the [Oxford 102 flower dataset](http://jimgoo.com/flower-power/).
 + [eggo](https://github.com/bigdatagenomics/eggo) :: Ready-to-go Parquet-formatted public Genomics datasets.
 + [data-projects](https://github.com/voxmedia/data-projects) :: Scripts and data for various Vox Media stories and news projects.
 + [scrapi](https://github.com/fabianvf/scrapi) :: A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams.
