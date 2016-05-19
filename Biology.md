@@ -253,6 +253,7 @@ __Jupyter notebooks/Cookbooks, tutorials and learning materials from Workshops, 
 + [MIEN](http://mien.msu.montana.edu/) :: Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
 + [MNE](http://martinos.org/mne/) :: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
    + [Basic introduction to MNE Python processing](https://github.com/mne-tools/mne-python-intro).
++ [nengo](https://github.com/nengo/nengo) :: A Python library for creating and simulating large-scale brain mode.
 + [NeuroDebian](http://neuro.debian.net). [Source code](https://github.com/neurodebian)
 + [Neurosciences](https://github.com/rougier/Neurosciences) :: Computational Neurosciences repository.
 + [NIPY](https://github.com/nipy) developers group on GH.
