@@ -288,6 +288,7 @@ https://github.com/hexahedria/biaxial-rnn-music-composition :: A recurrent neura
 + [nupic.studio](https://github.com/nupic-community/nupic.studio) :: NuPIC Studio is a powerful all­-in-­one tool that allows users create a HTM neural network from scratch, train it, collect statistics, and share it among the members of the community.
 + [neurobank](https://github.com/melizalab/neurobank) :: A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments.
 + [optofit](https://github.com/HIPS/optofit) :: A python framework for fitting biophysical models to optically recorded neural signals. 
++ [remote_associates_test](https://github.com/ikajic/remote_associates_test) :: Neural network simulation of the Remote Associates Test.
 + [thunder](http://thunder-project.org/thunder/docs/) :: neural data analysis in spark.
 
 ###### Resources
