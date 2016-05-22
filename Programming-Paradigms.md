@@ -22,7 +22,9 @@
 + [line_profiler](https://github.com/rkern/line_profiler) :: Line-by-line profiling for Python. 
 + [memory_profiler](https://pypi.python.org/pypi/memory_profiler) :: A module for monitoring memory usage of a python program.
 + [plop](https://github.com/bdarnell/plop) :: Python Low-Overhead Profiler for stack sampling. 
++ [vprof](https://github.com/nvdv/vprof) :: Visual Python profiler.
 + [yappi](https://code.google.com/p/yappi/) :: Yet Another Python Profiler, but this time support Multithread/CPU time profiling.
+
 
 ###### Resources for Software Optimization
 + [Plop: Low-overhead profiling for Python](https://blogs.dropbox.com/tech/2012/07/plop-low-overhead-profiling-for-python/)
