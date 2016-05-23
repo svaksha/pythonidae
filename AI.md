@@ -2,6 +2,9 @@
 
 + [AI](#ai)
 + [MACHINE LEARNING](#machine-learning])
+   + [Artificial Neural Network](#artificial-neural-network)
+		+ [Deep Learning](#deep-learning)
+
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
 + [NEURAL NETWORKS](#neural-networks)
@@ -32,7 +35,6 @@
 + [ProFET](https://github.com/ddofer/ProFET) :: [Protein Feature Engineering Toolkit](http://www.protonet.cs.huji.ac.il) for Machine Learning.
 + [pyHANSO](https://github.com/dohmatob/pyHANSO) :: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
 + [pyklsh](https://github.com/jakevdp/pyklsh) :: Python implementation of Kernelized Locality Sensitive Hashing
-+ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
 + [PyML](http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance.
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [Rambutan](https://github.com/jmschrei/rambutan) :: A python wrapper for caffe which aims at providing a simple, pythonic, interface for users so that users can define, train, and evaluate deep models in only a few lines of code. It requires that caffe and pycaffe are both built properly.   
@@ -40,8 +42,7 @@
 + [python-recsys](https://github.com/ocelma/python-recsys) :: A python library 
 for implementing a recommender system. 
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
-+ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
-   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
+
 
 ###### Resources
 + [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) :: common data analysis and machine learning tasks using python.
@@ -58,6 +59,18 @@ for implementing a recommender system.
 + [Big Data Machine Learning Patterns for Predictive Analytics](http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
+
+## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
++ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
++ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
+   + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
+   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
++ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
+
+### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
++ https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
+
+
 
 ## Classification Algorithms
 + [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm.
@@ -107,7 +120,6 @@ for implementing a recommender system.
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [Suggester](https://github.com/valyala/suggester) :: The heart for full-text auto-complete web services.
 + [TextGridTools](https://github.com/hbuschme/TextGridTools) :: Read, write, and manipulate Praat TextGrid files with Python.
-+ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
 
 ### Speech Recognition
