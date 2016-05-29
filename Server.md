@@ -3,13 +3,14 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [CRAWLERS](#crawlers)
 + [BROWSER](#browser)
 + [JAVASCRIPT](#javascript)
++ [Network](#network)
+    + [FTP](#ftp)
 + [TEMPLATES](#templates)
-+ [WEB-FRAMEWORKS](#frameworks)
-   + [Django](#django)
-   + [Networking](#networking)
-+ [WEBSERVER](#webserver)
-   + [Security](#security)
-   + [Utilities](#utilities)
++ [WEB-FRAMEWORKS](#web-frameworks)
+    + [Django](#django)
++ [WEB-SERVER](#web-server)
+    + [Security](#security)
+    + [Utilities](#utilities)
 
 ----
 
@@ -37,6 +38,15 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ----
 
+# [Network](https://en.wikipedia.org/wiki/Category:Network_protocols)
++ [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
+
+# [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
++ [pyftpdlib](https://github.com/giampaolo/pyftpdlib) :: Extremely fast and scalable Python FTP server library.
+ 
+
+----
+
 # TEMPLATES
 + [cookiecutter-tapioca](https://github.com/vintasoftware/cookiecutter-tapioca) :: A cookiecutter template for new tapioca wrappers.
 
@@ -54,16 +64,12 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 + [django-adminplus](https://github.com/jsocol/django-adminplus) :: Easily add custom views to the Django admin. 
 + [django-mailgun](https://github.com/BradWhittington/django-mailgun) :: A Django email backend for Mailgun.
 
-## Networking
-+ [RxPY](https://github.com/ReactiveX/RxPY) :: A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
-
 ###### Resources
 + [Hello Web App](http://hellowebapp.com) :: An Introduction to web app development using Python and Django with notes on how to package and install necessary files for [deployment on Heroku](https://github.com/hellowebapp/hellowebapp-deploy) and the [code repository](https://github.com/hellowebapp/hellowebapp-code) for Hello Web App.
 
 ----
 
-# WEBSERVER
-+ [pyftpdlib](https://github.com/giampaolo/pyftpdlib) :: Extremely fast and scalable Python FTP server library.
+# WEB-SERVER
 + [Just-Metadata](https://github.com/ChrisTruncer/Just-Metadata) :: A tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset. https://www.christophertruncer.com/just-metadata-intel-gathering-and-analysis-of-ip-metadata/ 
 + [python-webpack](https://github.com/markfinger/python-webpack) :: Python bindings to webpack. 
 + [restcommander](https://github.com/eBay/restcommander) :: Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers.

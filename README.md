@@ -29,9 +29,9 @@
 + [Publications.md](https://github.com/svaksha/pythonidae/blob/master/Publications.md) :: Research papers, etc...
 + [QA.md](https://github.com/svaksha/pythonidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
 + [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IPython NoteBooks, and other non-standard resources.
++ [Server.md](https://github.com/svaksha/pythonidae/blob/master/Server.md) :: HTTP/Web Frameworks, Networking, and other server-side utils...
 + [Statistics.md](https://github.com/svaksha/pythonidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
 + [Utilities.md](https://github.com/svaksha/pythonidae/blob/master/Utilities.md) :: Handy toolkits, User Interface software in Python and other general utilities for your Desktop.
-+ [Web-Server.md](https://github.com/svaksha/pythonidae/blob/master/Web-Server.md) :: Web-related Frameworks and software used in scientific/Cloud/high-performance computing.
 
 ----
 
