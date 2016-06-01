@@ -100,6 +100,9 @@ __Resources and guides for Scientists new to Python.__
 
 ### OpenVisConf
 
+### PyCon
++ [Xonsh Talk for PyCon 2016](https://github.com/xonsh/pycon2016).
+
 ### [PyData](http://pydata.org/)
 + [Determining Skill Levels](https://github.com/khwilson/pydata2014) talk at PyData2NYC 2014.
 + 2014/February/21-23 [London-2014](http://pydata.org/ldn2014)
