@@ -20,6 +20,7 @@ __Open Datasets are listed below the `software` section.__
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
++ [Reproducibility](#reproducibility)
 + [Video](#video)
 
 ----
@@ -139,6 +140,11 @@ __Open Datasets are listed below the `software` section.__
 
 # PHYSICS
 + [CERN OpenData](http://opendata.cern.ch/) Portal.
+
+----
+
+# Reproducibility
++ [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
 
 ----
 
