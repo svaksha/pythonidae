@@ -96,8 +96,8 @@
 + [Spearmint](https://github.com/HIPS/Spearmint) :: Bayesian optimization codebase.
 + [YABN](https://github.com/jmschrei/yabn) :: Yet Another Bayesian Network. 
 
-
 ###### Resources
++ [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) :: Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 + [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) :: A python tutorial on bayesian modeling techniques (PYMC3). 
 + [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [stats_in_python_tutorial](http://gaelvaroquaux.github.io/stats_in_python_tutorial) :: Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
@@ -109,8 +109,6 @@
    + _Book_ "thinkbayes" :: [Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) by Allen B.Downey.
    + [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) :: Text and supporting code for Think Stats, 2nd Edition. 
    + [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) :: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. 
-
-
 
 ## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
 + [Time-series-classification-and-clustering](https://github.com/alexminnaar/time-series-classification-and-clustering) :: Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside.
@@ -165,5 +163,3 @@
 + [Statistics: Making Sense of Data](https://www.coursera.org/course/introstats)
 
 ----
-
-
