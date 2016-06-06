@@ -13,6 +13,7 @@
 ### Git API
 + [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
 + [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpython.readthedocs.org
++ [git-fat](https://github.com/jedbrown/git-fat) :: Simple way to handle fat files without committing them to git, supports synchronization using rsync.
 + [gitsome](https://github.com/donnemartin/gitsome) :: A supercharged Git/shell autocompleter with GitHub integration.
 + [Homu](http://homu.io/) :: A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
 + [python-gitlab](https://github.com/gpocentek/python-gitlab) :: Python wrapper for the GitLab API.
