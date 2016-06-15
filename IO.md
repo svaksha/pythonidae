@@ -1,4 +1,5 @@
 + [Data Formats](#data-formats)
+    + [ELAN-EAF](#elan-eaf)
 + [Data Models](#data-models)
 + [Parser](#parser)
     + [Markdown](#markdown)
@@ -20,6 +21,10 @@
 + [snakebite](https://github.com/spotify/snakebite) :: A pure python HDFS client.
 + [xlrd3](https://github.com/joidegn/xlrd3) :: Port of xlrd for reading excel files to python-3. 
 + [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
+
+## ELAN-EAF
++ [pyelan](https://github.com/jonkeane/pyelan) :: A python module that makes interacting with ELAN files easier.
++ 
 
 ----
 
