@@ -83,6 +83,7 @@
 + [picnic.py](https://github.com/Zulko/picnic.py) :: Easy Python packages creation.
 + [pip2pi](https://github.com/wolever/pip2pi) :: Builds a PyPI-compatible package repository from pip requirements.
 + [pip-tools](https://github.com/nvie/pip-tools) :: A set of tools to keep your pinned Python dependencies fresh.
++ [Punch](https://github.com/lgiordani/punch) :: A configurable version updater, that you can use to automate the management of your project's version number.
 + [pynsist](https://pypi.python.org/pypi/pynsist) :: Build Windows installers for Python apps.
 + [pythonize](https://github.com/princebot/pythonize) :: Download, install, and configure Python in one line.
 + [twine](https://github.com/pypa/twine) :: Utilities for interacting with PyPI. 
