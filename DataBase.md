@@ -4,14 +4,14 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
    + [SciDB](#scidb)
 + [HDF](#hdf)
 + [NoSQL](#nosql)
-   * [Neo4J](#neo4j)
-   * [SciDB](#scidb)
+   + [ArangoDB](#arangodb)
+   + [Neo4J](#neo4j)
 + [RDBMS](#rdbms)
    + [PostgreSQL](#postgresql)
 + [ORM](#orm)
 + [RESOURCES](#resources)
 
-====
+----
 
 # [Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores) Storage
 
@@ -40,6 +40,10 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ----
 
 # NoSQL
+
+## ArangoDB
++ [pyArango](https://github.com/tariqdaouda/pyArango) :: Python Object Wrapper for ArangoDB with built-in validation. http://pyArango.tariqdaouda.com
+
 ## Neo4J 
 + [Neomodel](https://github.com/robinedwards/neomodel) :: An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
 

@@ -23,7 +23,7 @@
 + [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
 
 ## ELAN-EAF
-+ [eaf_tools](https://github.com/LongSeanSilvr/eaf_tools) :: Collection of scripts to help in reviewing and preparing ELAN `.eaf` files for FAVE alignment
++ [eaf_tools](https://github.com/LongSeanSilvr/eaf_tools) :: Collection of scripts to help in reviewing and preparing ELAN .eaf` files for FAVE alignment
 + [pyelan](https://github.com/jonkeane/pyelan) :: A python module that makes interacting with ELAN files easier.
 
 ----
