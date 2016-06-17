@@ -44,6 +44,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ## [ArangoDB](http://www.arangodb.org/)
 + [pyArango](https://github.com/tariqdaouda/pyArango) :: Python Object Wrapper for ArangoDB with built-in validation. http://pyArango.tariqdaouda.com
 + [python-arango](https://github.com/linkux-it/python-arango) :: Driver for ArangoDB.
++ [python-arangodb](https://github.com/diefans/python-arangodb) :: One of many arangodb rest adaptors for python.
 
 ## Neo4J 
 + [Neomodel](https://github.com/robinedwards/neomodel) :: An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
