@@ -42,6 +42,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 # NoSQL
 
 ## [ArangoDB](http://www.arangodb.org/)
++ [ArangoPy](https://github.com/saeschdivara/ArangoPy) :: Python driver Framework to access https://github.com/triAGENS/ArangoDB
 + [pyArango](https://github.com/tariqdaouda/pyArango) :: Python Object Wrapper for ArangoDB with built-in validation. http://pyArango.tariqdaouda.com
 + [python-arango](https://github.com/linkux-it/python-arango) :: Driver for ArangoDB.
 + [python-arangodb](https://github.com/diefans/python-arangodb) :: One of many arangodb rest adaptors for python.
