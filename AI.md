@@ -100,6 +100,7 @@ for implementing a recommender system.
 # NEURAL NETWORKS 
 + [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
 + [BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) :: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
++ [NAMAS](https://github.com/facebook/NAMAS) :: Neural Attention Model for Abstractive Summarization.
 + [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
 
 ----
