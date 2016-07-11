@@ -1,15 +1,16 @@
 For downloading various data sets, visit the [OpenData.md](https://github.com/svaksha/pythonidae/blob/master/OpenData.md) page.
 
 + [Distributed Storage](#distributed-storage)
-   + [SciDB](#scidb)
+    + [SciDB](#scidb)
 + [HDF](#hdf)
 + [NoSQL](#nosql)
-   + [ArangoDB](#arangodb)
-   + [Neo4J](#neo4j)
+    + [ArangoDB](#arangodb)
+    + [Neo4J](#neo4j)
 + [RDBMS](#rdbms)
-   + [PostgreSQL](#postgresql)
+    + [PostgreSQL](#postgresql)
 + [ORM](#orm)
 + [TSDB](#tsdb)
+    + [InfluxDB](#influxdb)
 + [RESOURCES](#resources)
 
 ----
