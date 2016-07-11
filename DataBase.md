@@ -9,6 +9,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [RDBMS](#rdbms)
    + [PostgreSQL](#postgresql)
 + [ORM](#orm)
++ [TSDB](#tsdb)
 + [RESOURCES](#resources)
 
 ----
@@ -65,6 +66,13 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 # ORM
 + [peewee](https://github.com/coleifer/peewee) :: A small, expressive ORM that supports Postgresql, Mysql and Sqlite. [Documentation](http://docs.peewee-orm.com/).
+
+----
+
+# [TSDB](https://en.wikipedia.org/wiki/Time_series_database)
+
+## InfluxDB
++ [influxdb-python](https://github.com/influxdata/influxdb-python) :: Python client for InfluxDB.
 
 ----
 
