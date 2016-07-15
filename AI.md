@@ -2,13 +2,14 @@
 
 + [AI](#ai)
 + [MACHINE LEARNING](#machine-learning])
-   + [Artificial Neural Network](#artificial-neural-network)
-		+ [Deep Learning](#deep-learning)
-
+   + [Deep Learning](#deep-learning)
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
 + [NEURAL NETWORKS](#neural-networks)
+   + [Artificial Neural Network](#artificial-neural-network)
 + [NLP](#nlp)
+    + [Screen Reading](#screen-reading)
+    + [Speech Recognition](#speech-recognition)
 
 ----
 
@@ -60,16 +61,8 @@ for implementing a recommender system.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
-## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-+ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
-+ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
-   + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
-   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
-+ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
-
 ### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
-
 
 
 ## Classification Algorithms
@@ -103,6 +96,13 @@ for implementing a recommender system.
 + [NAMAS](https://github.com/facebook/NAMAS) :: Neural Attention Model for Abstractive Summarization.
 + [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
 
+## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
++ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
++ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
+   + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
+   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
++ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
+
 ----
 
 # NLP
@@ -123,13 +123,14 @@ for implementing a recommender system.
 + [TextGridTools](https://github.com/hbuschme/TextGridTools) :: Read, write, and manipulate Praat TextGrid files with Python.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
 
+
+### Screen Reading
++ [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on.
++ __Resources__
+   + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) ::  Single Speaker Speech Recognition with Hidden Markov Models.
+
 ### Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 + [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing.
-
-### Screen Reading
-+ [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on.
-   __Resources__
-   + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) ::  Single Speaker Speech Recognition with Hidden Markov Models.
 

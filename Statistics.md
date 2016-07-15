@@ -89,6 +89,7 @@
 ## Bayesian
 + [bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks) :: Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions.
 + [Bumps](https://github.com/bumps/bumps) :: It provides data fitting and Bayesian uncertainty modeling for inverse problems.
++ [DBDA-python](https://github.com/JWarmenhoven/DBDA-python) :: Python code for the book `Doing Bayesian Data Analysis`, 2nd Edition (Kruschke, 2015). 
 + [dora](https://github.com/NICTA/dora) :: A library for Bayesian active sampling with non-parametric models.
 + [PRIMO](https://github.com/mbaumBielefeld/PRIMO) :: An implementation of a Bayesian Network in Python. 
 + [Pomegranate](https://github.com/jmschrei/pomegranate) :: A package for graphical models and Bayesian statistics for Python, implemented in cython. [Documentation](http://pomegranate.readthedocs.org/en/latest/).
