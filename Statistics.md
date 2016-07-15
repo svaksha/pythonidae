@@ -51,6 +51,7 @@
 + [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard) :: TensorBoard as a Zipline [dashboard](http://jimgoo.com/tensorboard-and-zipline/).
 
 ###### Resources
++ [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) :: Python code for "An Introduction to Statistical Learning", by James, Witten, Hastie, Tibshirani, 2013.
 + [ISLR chapters from R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python)
 + [538model](https://github.com/jseabold/538model) - 538 Election Forecasting Model  :: Python scripts that replicates some features of Nate Silver's 538 Election Forecasting Model.
     
