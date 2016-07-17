@@ -11,6 +11,7 @@ __Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driv
 
 # [Documentation Driven Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
 + [nbsphinx](https://github.com/spatialaudio/nbsphinx) :: Sphinx source parser for `*.ipynb` files. [Documentation](http://nbsphinx.rtfd.io/)
++ [travis_docs_builder](https://github.com/gforsyth/travis_docs_builder) :: A tool for automatically building Sphinx docs on Travis CI, and deploying them to GitHub pages.
 
 ----
 

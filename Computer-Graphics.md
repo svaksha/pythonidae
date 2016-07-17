@@ -56,7 +56,7 @@
 __Visualization software__
 + [abstract_rendering](https://github.com/ContinuumIO/abstract_rendering) :: Bin based rendering for the win (in python)! 
 + [Arfview](https://github.com/kylerbrown/arfview) :: A data visualization program for use with data in the arf format.
-+ [Biggles](https://github.com/nolta/biggles) : Scientific Plotting with/in/for Python.
++ [Biggles](https://github.com/nolta/biggles) : Scientific (simple, elegant) plotting in Python.
 + [Bokeh](http://bokeh.pydata.org) :: is a Python library for visualizing large and realtime datasets on the web. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity to thin clients. Bokeh includes its own Javascript library (BokehJS) that implements a reactive scenegraph representation of the plot, and renders efficiently to HTML5 Canvas. Bokeh works well with IPython Notebook, but can generate standalone graphics that embed into regular HTML. If you are a Matplotlib user, you can just use %bokeh magic to start interacting with your plots in the notebook immediately!
    + [Bokeh-notebooks](https://github.com/ContinuumIO/bokeh-notebooks) - Interactive web plotting samples with Bokeh in IPython notebook.
 + [brewer2mpl](https://github.com/jiffyclub/brewer2mpl) :: Connect colorbrewer2.org color maps to Python and matplotlib. [Wiki](https://github.com/jiffyclub/brewer2mpl/wiki)
