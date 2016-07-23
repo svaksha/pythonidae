@@ -137,6 +137,7 @@ routing.
 ## Open-Research-Tools
 + [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) :: Web interface for browsing, search and filtering recent arxiv submissions. [Website](http://www.arxiv-sanity.com/). 
 + [autograde](https://github.com/asutton/autograde) :: A set of tools that help automate the more mechanical aspects of grading.
++ [Citer](https://github.com/mangecoeur/Citer) :: Citations from bibtex for Sublime Text 3. 
 + [depsy](http://depsy.org) :: Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
    + [depsy-research](https://github.com/Impactstory/depsy-research) :: Documentation and research output for Depsy.
 + [duecredit](https://github.com/yarikoptic/duecredit) :: Automated collection and reporting of citations for used software/methods. 
