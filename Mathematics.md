@@ -39,6 +39,7 @@
 + [Mathics](https://github.com/mathics/Mathics) :: A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica.
 + [pykrylov](http://dpo.github.com/pykrylov) ::  A library of Krylov methods in pure Python.
 + [Sympy](http://sympy.org/) :: A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
+    + [sympy-notebooks](https://github.com/sympy/sympy-notebooks) :: Some Jupyter notebook examples for SymPy.
 + [Thea](https://github.com/SciTools/thea):: Python GUI to visualise a cube.
 
 #### Non-Linear Equations
