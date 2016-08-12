@@ -101,12 +101,13 @@ g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engine
 + [bamslider](https://github.com/vsbuffalo/bamslider) :: Sliding windows in BAM/SAM files with Python's deques.
 + [Bamsurgeon](https://github.com/adamewing/bamsurgeon) :: Tools for adding mutations to existing .bam files, used for testing mutation callers.
 + [batch_clustalo](https://github.com/koshlan/batch_clustalo) :: Multiple Sequences Alignments in Batch.
-+ [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
 + [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) is validated, scalable, community developed variant calling and RNA-seq analysis. [Documentation](https://bcbio-nextgen.readthedocs.org)
    + [bcbio-test-data](https://github.com/roryk/bcbio-test-data) :: test data for bcbio-nextgen.
    + [bcbio-conda](https://conda.binstar.org/bcbio) :: Conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
    + [bcbio.coverage](https://github.com/lpantano/bcbio.coverage) :: utils functions for exome coverage plots as quality controls.
++ [biomartpy](https://github.com/daler/biomartpy) :: Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
 + [BioSeq](https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing.
++ [brat](https://github.com/nlplab/brat) :: Brat rapid annotation tool - for all your textual annotation needs http://brat.nlplab.org
 + [BreakSeq2](https://github.com/bioinform/breakseq2) :: Ultrafast and accurate nucleotide-resolution analysis of structural variants.
 + [Chanjo](http://www.chanjo.co/) :: This package provides a better way to analyze coverage data in clinical sequencing. [Source Code](https://github.com/robinandeer/chanjo). 
 + [chrom_sweep](https://github.com/arq5x/chrom_sweep) :: Sweep-line algorithm for genomic features. Detect overlaps on large files w/ minimal memory.
