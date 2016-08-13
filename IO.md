@@ -1,6 +1,7 @@
 + [Data Formats](#data-formats)
     + [ELAN-EAF](#elan-eaf)
 + [Data Models](#data-models)
++ [Data Type](#data-type)
 + [Parser](#parser)
     + [Markdown](#markdown)
 
@@ -31,6 +32,11 @@
 # Data Models
 + Documentation for [working with RDFLib and RDFExtras](http://rdfextras.readthedocs.org/en/latest/working_with.html).
 + [pySesame](http://pysesame.projects.semwebcentral.org) :: a Python wrapper for Sesame.
+
+----
+
+# [Data Type](http://en.wikipedia.org/wiki/Data_type)
++ [typeshed](https://github.com/python/typeshed) :: Collection of library stubs for Python, with static types.
 
 ----
 
