@@ -34,6 +34,7 @@ _Spaces where one can ask python-related questions and get help from other progr
 
 # Books
 ### Free
++ [Think Python](http://greenteapress.com/wp/think-python-2e/) : [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) by Allen Downey, 2nd Edition, Version 2.2.18. Example programs and solutions to some exercises are in this [GitHub repository](https://github.com/AllenDowney/ThinkPython2/tree/master/code).
 + [Intermediate Python](http://book.pythontips.com) :: The [source](https://github.com/yasoob/intermediatePython) on github.
 + [Python 3 Tutorial](http://www.python-course.eu) by Bernd Klein.
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
