@@ -1,9 +1,9 @@
 + [2to3](#2to3)
 + [DOCUMENTATION](#documentation)
 + [ENVIRONMENTS](#environments)
-   + [IDE](#ide)
+    + [IDE](#ide)
         + [Zoof](#zoof) 
-   + [Jupyter](#jupyter)
+    + [Jupyter](#jupyter)
 + [TERMINAL](#terminal)
 + [UTILS](#utils)
    + [Backups](#backups)
@@ -97,6 +97,7 @@ __Python 2&3 tools__
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) :: Library for building powerful interactive command lines in Python.
 + [pythonpy](https://github.com/Russell91/pythonpy) :: command line kung-fu with python.
 + [Xonsh_Kernel](https://github.com/Calysto/xonsh_kernel) :: Jupyter Kernel for Xonsh.
+    + [xonda](https://github.com/gforsyth/xonda) :: This is a thin wrapper around conda for use with xonsh.
 + [xontrib-prompt-ret-code](https://github.com/Siecje/xontrib-prompt-ret-code) :: Adds return code info to xonsh prompt. 
 
 ----
