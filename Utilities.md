@@ -87,6 +87,7 @@ __Python 2&3 tools__
 + The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
 + [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
 + [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.
++ [Running Jupyter with multiple Python and iPython paths](http://stackoverflow.com/questions/39007571/running-jupyter-with-multiple-python-and-ipython-paths/).
 + Kirill Pomogajko blogs on [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/).
 
 ----
