@@ -1,27 +1,31 @@
-__Open Datasets are listed below the `software` section.__
+__NB :: Open Datasets are listed below the `software` section. Not all the DB's are freely available.__
 
 + [SOFTWARE](#software)
+    + [Data Science](#data-science)
 + [ACTUARIAL SCIENCE](#actuarial-science)
-   + [Econometrics](#econometrics)
-   + [Finance](#finance)
+    + [Econometrics](#econometrics)
+    + [Finance](#finance)
 + [ASTRONOMY](#astronomy)
 + [BIOLOGY](#biology)
-   + [Genome](#genome)
-   + [Genetics-Medicine](#genetics-medicine)
-   + [Molecular Biology](#molecular-biology)
-   + [Neuroscience](#neuroscience)
-   + [Pharma](#pharma)
+    + [Genome](#genome)
+    + [Genetics-Medicine](#genetics-medicine)
+    + [Molecular Biology](#molecular-biology)
+    + [Neuroscience](#neuroscience)
+    + [Pharma](#pharma)
 + [CHEMISTRY](#chemistry)
-   + [Crystallography](#crystallography)
+    + [Crystallography](#crystallography)
 + [DATA](#data)
-   + [DATA-General](#data-general)
-   + [DATA-Research](#data-scientific)
-   + [DATA-Scientific](#data-scientific)
+    + [DATA-DataScience](#data-datascience)
+    + [DATA-General](#data-general)
+    + [DATA-Research](#data-scientific)
+    + [DATA-Scientific](#data-scientific)
++ [Earth Science](#earth-science)
++ [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
 + [Reproducibility](#reproducibility)
-+ [Video](#video)
++ [VIDEO](#video)
 
 ----
 
@@ -125,6 +129,16 @@ __Open Datasets are listed below the `software` section.__
 
 ## DATA-Scientific
 + [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
+
+----
+
+# [Earth Science](https://en.wikipedia.org/wiki/Outline_of_Earth_sciences)
++ [British Geological Survey dataset](http://www.bgs.ac.uk/) and a [blog post](http://britgeopeople.blogspot.de/2016/08/our-new-data-search-applicationby-lorna.html) linking 900 Gb of digital and electronic data deposited with the British Geological Survey since July 2014.
+
+----
+
+# Gender Violence
++ https://weaponizedsocial.aspirationtech.org/Data_Analysis
 
 ----
 
