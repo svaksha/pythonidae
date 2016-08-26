@@ -124,6 +124,7 @@
 
 ###### Resources
 + [Continuum Analytics: Documentation](http://docs.continuum.io)
++ @jakevdp blogs about [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/).
 + [python-3 in anaconda](http://continuum.io/blog/anaconda-python-3)
 + [Conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 
