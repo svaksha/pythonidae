@@ -8,8 +8,9 @@
 	  + [Docker](#docker)
    + [DistrOS](#distros)
    + [Packaging](#packaging)
-   + [Sandboxes](#sandboxes)
+   + [Sandbox](#sandbox)
        + [Anaconda](#anaconda)
+       + [C9nda](#conda)
 + [NEWS](#news)
 
 ----
@@ -96,10 +97,17 @@
 + How to [Port Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html) and write a proper [trove classifier](https://pypi.python.org/pypi?%3Aaction=list_classifiers) specifying what versions of Python are supported in your `setup.py` file. Here is the idioms [cheat-sheet](http://python-future.org/compatible_idioms.html)
 
 
-## Sandboxes
+## Sandbox
 + [autoenv](https://github.com/kennethreitz/autoenv) :: Directory-based environments. 
 
 ### Anaconda
++ [anaconda-recipes](https://github.com/ContinuumIO/anaconda-recipes) :: Continuum managed recipes for free anaconda packages.
++ [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
++ [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
++ [sparkonda](https://github.com/moutai/sparkonda) :: Minimalistic utility library to manage conda environments for pyspark jobs on yarn clusters.
++ [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
+
+### Conda 
 + [Conda](https://github.com/conda/conda) :: is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org)
    + [Conda package for Python-3.2 for 64-bit Linux](https://binstar.org/cpcloud/python)
    + [ctox](https://github.com/hayd/ctox) :: Tox with conda.
@@ -107,12 +115,6 @@
 + [CommandCI_conda](https://github.com/CommandCI/CommandCI_conda) :: Command CI services to build conda packages.
 + [conda build-all](https://github.com/SciTools/conda-build-all) :: A conda subcommand which allows multiple distributions to be built (and uploaded) in a single command. It makes use of the underlying machinery developed for conda build.
 + [conda-execute](https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment.
-+ [dummypkg](https://github.com/bjodah/dummypkg) :: Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
-+ [Flonda](https://github.com/takluyver/flonda) :: An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms.
-+ [sparkonda](https://github.com/moutai/sparkonda) :: Minimalistic utility library to manage conda environments for pyspark jobs on yarn clusters.
-+ [xz-feedstock](https://github.com/scopatz/xz-feedstock) :: The conda recipe (raw material).
-
-#### Conda Recipes
 + [conda-dev-recipes](https://github.com/omnia-md/conda-dev-recipes) :: Conda development recipes (*-dev packages), built [nightly](https://nightli.es/).
 + [conda-recipes](https://github.com/omnia-md/conda-recipes) :: conda build recipes for the [Omnia](http://omnia.md) project.
 + [recipes](https://github.com/bioconda/recipes) :: The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
