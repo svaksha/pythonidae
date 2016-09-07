@@ -59,7 +59,6 @@ __Python 2&3 tools__
 + [Ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) :: This tool reports memory usage deltas for every command you type.
 + [IPythonblocks](http://ipythonblocks.org) :: Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks) on GH.
 + [ipython-sql](https://github.com/catherinedevlin/ipython-sql) :: Introduces a `%sql` (or `%%sql`) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook.
-+ [JupyterLab](https://github.com/jupyter/jupyterlab) :: The computational environment. 
 + [jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) :: A tool for testing Jupyter kernels. 
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
@@ -69,6 +68,11 @@ __Python 2&3 tools__
    + [Introducing Rodeo](http://blog.yhathq.com/posts/introducing-rodeo.html).
 + [sudospawner](https://github.com/jupyter/sudospawner) :: Spawn JupyterHub single-user servers with sudo.
 + [vIPer](https://github.com/damianavila/vIPer) :: A new tool for IPython notebooks. 
+
+### JupyterLab
++ [JupyterLab](https://github.com/jupyter/jupyterlab) :: The computational environment. 
++ A blog post [Walkthrough of Jupyter Lab Alpha](https://veekaybee.github.io/jupyter-lab/)
+
 
 ### Jupyter Themes
 + [jupyter-themer](https://github.com/transcranial/jupyter-themer) :: Apply custom CSS styling to your jupyter notebooks.
