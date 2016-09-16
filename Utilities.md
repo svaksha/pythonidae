@@ -153,4 +153,5 @@ routing.
 + [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
 
 ## TimeTracker
-+ [Watson/](http://tailordev.github.io/Watson/) :: A wonderful CLI to track your time! [Source code](https://github.com/TailorDev/Watson). 
++ [Meistercharts](https://github.com/mribeirodantas/meistercharts) :: Command line tool to generate charts out of CSV files exported from MeisterTask.
++ [Watson](http://tailordev.github.io/Watson/) :: A wonderful CLI to track your time! [Source code](https://github.com/TailorDev/Watson). 
