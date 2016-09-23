@@ -30,8 +30,10 @@
    + [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.
 
 ###### Resources
-+ [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications) :: A repository that houses example code, applications and teaching material related to QuantEcon.
++ [QuantEcon applications](https://github.com/QuantEcon/QuantEcon.applications) :: A repository that houses example code, applications and teaching material related to QuantEcon.
 + [Greene Econometrics](https://github.com/TomAugspurger/Greene_Econometrics) :: Working through the examples in the wonderful Econometric Analysis by William Greene.
++ [An Introduction to Stock Market Data Analysis with Python (Part 1)](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/) 
+
 
 ## Financial Accounting
 + [autograd](https://github.com/HIPS/autograd) :: Computes derivatives of complicated numpy code. 
@@ -54,7 +56,7 @@
 + [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) :: Python code for "An Introduction to Statistical Learning", by James, Witten, Hastie, Tibshirani, 2013.
 + [ISLR chapters from R implemented in numpy](https://github.com/TomAugspurger/StatLearning/tree/master/python)
 + [538model](https://github.com/jseabold/538model) - 538 Election Forecasting Model  :: Python scripts that replicates some features of Nate Silver's 538 Election Forecasting Model.
-    
+
 ----
 
 # DATA SCIENCE
