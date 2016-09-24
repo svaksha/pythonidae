@@ -90,16 +90,11 @@ __Resources and guides for Scientists new to Python.__
 # Cheatsheets
 + [Python Basic Operators](http://www.tutorialspoint.com/python/python_basic_operators.htm)
 + The python [decorator cheatsheet](http://www.pydanny.com/python-decorator-cheatsheet.html) by @PyDanny.
++ [30 Essential Python Tips and Tricks for Programmers](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 
 ----
 
 # CONFERENCES
-
-### EuroScipy
-
-### EuroPython
-
-### OpenVisConf
 
 ### PyCon
 + [Xonsh Talk for PyCon 2016](https://github.com/xonsh/pycon2016).
