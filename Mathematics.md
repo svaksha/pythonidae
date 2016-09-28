@@ -88,9 +88,6 @@
 + [pyeq2](https://github.com/zunzun/pyeq2) :: A large collection of Python equations that can fit themselves to 2D and 3D data sets, output source code in several computing languages, and run a genetic algorithm for initial parameter estimation. Comes with cluster, parallel processing, GUI, NodeJS, and web-based graphical examples. Includes orthogonal distance and relative error regressions.
 + [python-flint/](http://fredrik-johansson.github.com/python-flint/) :: Python bindings for FLINT (Fast Library for Number Theory).
 + [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
-+ [SciPy](http://www.scipy.org) is a signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
-   + [Official Documentation](http://www.scipy.org/docs.html)
-   + [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
 + [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class.
 
 ### Numerical Linear Algebra (NLA)
@@ -106,6 +103,13 @@
    + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
    + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
    + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
+
+   
+### [SciPy](http://www.scipy.org) 
+A signal and image processing library that contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
++ [Official Documentation](http://www.scipy.org/docs.html)
++ [scipy-lectures](http://scipy-lectures.github.io) :: Tutorial material on the scientific Python ecosystem.
++ Download the [Python Scientific lecture notes](http://www.scipy-lectures.org/_downloads/PythonScientific.pdf), Release 2013.2 beta (euroscipy 2013.
 
 ----
 
