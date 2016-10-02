@@ -10,6 +10,8 @@
 ----
 
 # API
++ [flow-python](https://github.com/SpiderOak/flow-python) :: Python API to the [Semaphor client backend](https://spideroak.com/solutions/semaphor)
+
 ### Git API
 + [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
 + [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpython.readthedocs.org
