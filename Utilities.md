@@ -12,6 +12,9 @@
    + [File Compression](#file-compression)
    + [MTA](#mta)
    + [Open-Research-Tools](#open-research-tools)
+   + [Scientific Workflow](#scientific-workflow)
+   + [TimeTracker](#timetracker)
+
 
 ----
 
@@ -151,6 +154,10 @@ routing.
 + [gradebook](https://github.com/jarrodmillman/gradebook) :: Tools for grading.
 + [habanero](https://github.com/sckott/habanero) :: crossref search low level client.
 + [sempervirens](https://github.com/njsmith/sempervirens) :: An experimental prototype for gathering anonymous, opt-in usage data for open scientific software. 
+
+## [Scientific Workflow](https://en.wikipedia.org/wiki/Scientific_workflow_system)
++ [incubator-airflow](https://github.com/apache/incubator-airflow) :: Airflow is a platform to programmatically author, schedule and monitor workflows.
+
 
 ## TimeTracker
 + [Meistercharts](https://github.com/mribeirodantas/meistercharts) :: Command line tool to generate charts out of CSV files exported from MeisterTask.
