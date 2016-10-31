@@ -42,6 +42,7 @@
 + [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap) :: Bootstrap Scikit for bootstrap confidence interval estimation. 
 + [scikit-learn](http://scikit-learn.org/stable/) :: Machine Learning in Python.
    __Resources__
+   + [Riding on Large Data with Scikit-learn](https://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/).
    + [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) :: Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015. 
    + [scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) :: Scikit-Learn tutorial material for Scipy 2015.
    + [Scikit-learn Tutorial at EuroPython 2014](https://github.com/GaelVaroquaux/sklearn_europython_2014)
