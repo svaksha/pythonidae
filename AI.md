@@ -1,6 +1,7 @@
 **AI :: Artificial Intelligence, Cognitive Science, Machine Learning, Neural, NLP...**
 
 + [AI](#ai)
++ [DATA SCIENCE](#data-science)
 + [MACHINE LEARNING](#machine-learning])
    + [Deep Learning](#deep-learning)
    + [Classification Algorithms](#classification-algorithms)
@@ -15,6 +16,11 @@
 
 # AI
 + [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
+
+----
+
+# DATA SCIENCE
++ [python-seminar](https://github.com/profjsb/python-seminar) :: Python Computing for Data Science.
 
 ----
 
