@@ -1,10 +1,15 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, etc..__
 
 + [Computer Performance](#computer-performance)
-+ [DISTRIBUTED-PARALLEL](#distributed-parallel) 
-   + [AWS](#aws)
-   + [APACHE](#apache)
++ [CONCURRENCY](#concurrency)
+   + [Cloud-Cluster](#cloud-cluster)
+       + [AWS](#aws)
+       + [APACHE](#apache)
+   + [Distributed Computing](#distributed-computing)
+   + [Grid Computing](#grid-computing)
    + [HPC](#hpc)
+   + [Job Scheduler](#job-scheduler)
+   + [Parallel Computing](#parallel-computing)
 
 ----
 
@@ -14,16 +19,18 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ----
 
-# DISTRIBUTED-PARALLEL
-**Libraries for Cloud/Cluster Computing**
+# CONCURRENCY
+
+## Cloud-Cluster
 + [arrayfire-python](https://github.com/arrayfire/arrayfire-python) :: A high performance library for parallel computing with an easy-to-use API.
 + [clusterlib](https://github.com/clusterlib/clusterlib) :: Tools to manage jobs on supercomputer. [Documentation](http://clusterlib.readthedocs.org/)
 + [Curio](https://github.com/dabeaz/curio) :: The coroutine concurrency library.
++ [lustre_kvm_quickstart](https://github.com/suykerbuyk/lustre_kvm_quickstart) :: Support scripts for the Lustre KVM. Quick Start Guide at :  http://wiki.lustre.org/KVM_Quick_Start_Guide
 + [Pathos](https://github.com/uqfoundation/pathos) :: A framework for parallel graph management and execution in heterogeneous computing. It primarily provides the communication mechanisms for configuring and launching parallel computations across heterogenous resources. Pathos provides configurable launchers for parallel and distributed computing, where each launcher contains the syntactic logic to configure and launch jobs in an execution environment.
 + [Pyina](https://github.com/uqfoundation/pyina) :: a MPI-based parallel mapper and launcher.
 + [Ufora](https://github.com/ufora/ufora) :: A compiled, automatically parallel subset of python for data science and numerical computing.
 
-## AWS
+### AWS
 + [AmazonEC2scripts](https://github.com/swederik/AmazonEC2scripts) :: Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
 + [Anaconda-ec2](https://github.com/ContinuumIO/anaconda-ec2) :: Anaconda plugin for StarCluster.
 + [Boto](https://pypi.python.org/pypi/boto) :: A Python package that provides interfaces to Amazon Web Services. The [source code](https://github.com/boto/boto/) on github.
@@ -31,7 +38,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [kappa](https://github.com/garnaat/kappa) :: Kappa is a command line tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 + [StarCluster](http://star.mit.edu/cluster) is an open source cluster-computing toolkit for Amazon's Elastic Compute Cloud (EC2). [Source code on Github](https://github.com/jtriley/StarCluster)
 
-## APACHE 
+### APACHE 
 + [SparklingPandas](https://github.com/holdenk/sparklingpandas) :: Make it easy to use the distributed computing power of [PySpark](http://spark.apache.org/) to scale your data anlysis with Pandas.
 + [Kazoo](https://github.com/python-zk/kazoo) :: A high-level Python library that makes it easier to use Apache Zookeeper. [Documentation](https://kazoo.readthedocs.org).
 
