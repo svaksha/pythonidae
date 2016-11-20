@@ -38,7 +38,9 @@
    + [Data Animations With Python and MoviePy](https://zulko.github.io/blog/2014/11/29/data-animations-with-python-and-moviepy/)
 + [PCV](https://github.com/jesolem/PCV) :: An open source pure Python library for computer vision based on the book "Programming Computer Vision with Python" by Jan Erik Solem. 
 + [PIL](http://www.pythonware.com/products/pil/) :: Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3.
++ [pydeface](https://github.com/poldracklab/pydeface) :: A defacing utility for MRI images.
 + [python-colormath](https://github.com/gtaylor/python-colormath) :: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org).
+
 
 ### Games
 + [Panda3D](https://www.panda3d.org/) :: The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
