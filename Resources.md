@@ -60,6 +60,7 @@ __Resources and guides for Scientists new to Python.__
 + [Code Academy](http://www.codecademy.com/en/tracks/python) :: A beginner course.
 + [Google’s Python Class](https://developers.google.com/edu/python/)
 + [PythonCompilerWorkbench](https://github.com/pgbovine/PythonCompilerWorkbench) :: Live coding environment to develop intuition about how Python source code compiles to ASTs and bytecodes.
++ [Snakify](https://snakify.org/) :: An introductory tutorial with 100+ exercises and a step-by-step debugger.
 
 ### Begin-Git
 + [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
