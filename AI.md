@@ -82,6 +82,7 @@ for implementing a recommender system.
 
 
 ## Graph Theory
++ + [fluffy-graph](https://github.com/vpavlenko/fluffy-graph) :: NP-hard game where you find isomorphic graphs.
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
