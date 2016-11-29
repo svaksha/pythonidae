@@ -69,6 +69,7 @@ for implementing a recommender system.
 
 ### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
++ [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) :: Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info,
 
 ###### Resources
 + Deep Learning Part 1: [Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
