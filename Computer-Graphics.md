@@ -70,8 +70,9 @@ __Visualization software__
 + [Healpy](https://github.com/healpy/healpy) :: A python package to manipulate healpix maps, based on the standard numeric and visualisation tools for Python, Numpy and matplotlib.
 + [HoloViews](http://ioam.github.io/holoviews) :: A Python package for scientific and engineering data visualization that provides composable, sliceable, declarative data structures for building complex visualizations easily.
 + [Matplotlib](http://matplotlib.org/) :: is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code.
-   __DOCS__
+   __RESOURCES__
    + [mplot3d tutorial](http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html)
+   + [Inset plots in Matplotlib](http://scipython.com/blog/inset-plots-in-matplotlib/).
 + [Orange](http://orange.biolab.si) :: An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.
 + [object_detection_trainer](https://github.com/seattle-police/object_detection_trainer) :: A web interface for creating histogram-of-oriented-gradient (HOG) based object detectors. 
 + [Pygal](http://pygal.org) :: PYthon SVG GrAph plotting Library. [Source code](https://github.com/Kozea/pygal).
