@@ -25,6 +25,7 @@
    + [Thenikola-recipes](https://github.com/autopkg/thenikola-recipes).
    + [Timsutton-recipes](https://github.com/autopkg/timsutton-recipes).
 + [BuildBot](https://en.wikipedia.org/wiki/Buildbot) :: Runs atop the Twisted libraries.
++ [gitian-builder](https://github.com/devrandom/gitian-builder) :: Build packages in a secure deterministic fashion inside a VM. https://gitian.org/
 + [nupic-darwin64](https://github.com/numenta/nupic-darwin64) :: Python distribution for NuPIC on OSX.
 + [nupic-linux64](https://github.com/numenta/nupic-linux64) :: Python distribution for NuPIC on 64-bit linux.
 + [Pybuilder](http://pybuilder.github.io) :: Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
