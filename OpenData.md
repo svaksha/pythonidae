@@ -53,6 +53,7 @@ __NB :: Open Datasets are listed below the `software` section. Not all the DB's 
 
 # [ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy)
 + [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa).
++ [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue)
 
 ## AstroPhysics
 + [sndatasets](https://github.com/kbarbary/sndatasets) :: Download and normalize published supernova photometric data.
