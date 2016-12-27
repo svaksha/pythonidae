@@ -144,3 +144,5 @@ for implementing a recommender system.
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 + [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing.
 
+###### Resources
++ [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
