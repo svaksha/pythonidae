@@ -113,6 +113,9 @@ for implementing a recommender system.
    + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 
+###### Resources
++ An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
+
 ----
 
 # NLP
