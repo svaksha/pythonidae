@@ -122,6 +122,7 @@ __Resources and guides for Scientists new to Python.__
 + [The Open-Source Data Science Masters](http://datasciencemasters.org)
 + [LectureNotes](https://github.com/UWSEDS/LectureNotes) :: Lecture content for UW Software Engineering for Data Scientists.
 + [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style).
++ [Python Quick Reference](https://github.com/justmarkham/python-reference)
 
 ----
 

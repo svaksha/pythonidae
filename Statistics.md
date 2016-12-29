@@ -60,9 +60,12 @@
 ----
 
 # DATA SCIENCE
++ [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
+
+###### Resources
++ General Assembly's Data Science course in Washington-DC: Jupyter notebooks for [DAT4](https://github.com/justmarkham/DAT4) and [DAT8](https://github.com/justmarkham/DAT8)
 + Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
 + [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
-+ [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
 
 ----
 
