@@ -21,6 +21,7 @@ Frameworks and other Web-related software used in scientific computing, cloud co
 
 ###### Resources
 + [image_project](https://github.com/IEPUG/image_project) :: A group learning project to scrape flickr, extract some GPS EXIF info from the images, save the images to local storage, and insert some meta data into an sqlite database using SQLAlchemy.
++ [Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/).
 
 ----
 
