@@ -46,6 +46,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [Hue](https://github.com/cloudera/hue) :: A Web application for interacting with Apache Hadoop that supports a file and job browser, Hive, Pig, Impala, Spark, Oozie, HBase, Solr, Sqoop2, ZooKeeper and more.
 
 ###### Resources
++ [Native Hadoop file system (HDFS) connectivity in Python](http//wesmckinney.com/blog/python-hdfs-interfaces/) .
 + Blog post on [Querying 1.7 Billion Reddit Comments with Anaconda Platform Tools on Hadoop](https://www.continuum.io/blog/developer-blog/querying-17-billion-reddit-comments-anaconda-platform).
 
 ## HPC

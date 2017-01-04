@@ -25,7 +25,7 @@
 + [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
 
 ## CSV
- 
++ [tabulator-py](https://github.com/frictionlessdata/tabulator-py) :: Consistent interface for stream reading and writing tabular data (csv/xls/json/etc). 
 
 ## ELAN-EAF
 + [eaf_tools](https://github.com/LongSeanSilvr/eaf_tools) :: Collection of scripts to help in reviewing and preparing ELAN .eaf` files for FAVE alignment

@@ -143,6 +143,7 @@ __Resources and guides for Scientists new to Python.__
 # Organisations
 + [Myria](http://myria.cs.washington.edu) :: is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science.
 + [OSF.io](https://github.com/CenterForOpenScience/osf.io) :: The Open Science Framework (OSF) supports the entire research lifecycle: planning, execution, reporting, archiving, and discovery.
++ A list of [UK-based professional/ scientific organisations](https://docs.google.com/spreadsheets/d/1haSsyhY6bqjXJHIiCNaOCIqgCqmQqUVQEv55vewu93I/edit#gid=0)
 
 ----
 
