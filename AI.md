@@ -52,6 +52,7 @@ for implementing a recommender system.
 
 
 ###### Resources
++ [What I Learned Implementing a Classifier from Scratch](http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html) in Python.
 + [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) :: common data analysis and machine learning tasks using python.
 + [Examples from "Thoughtful Machine Learning"](https://github.com/thoughtfulml/examples-in-python).
 + [CIML](https://github.com/hal3/ciml) :: A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
