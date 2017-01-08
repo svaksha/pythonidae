@@ -65,6 +65,7 @@ __Python 2&3 tools__
 + [jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) :: A tool for testing Jupyter kernels. 
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBDiff](http://nbdiff.org) :: A diffing and merging tool for the IPython Notebook.
++ [nbdime](https://github.com/jupyter/nbdime) :: Tools for diffing and merging of Jupyter notebooks. [Documentation](http://nbdime.readthedocs.io)
 + [qtconsole](https://github.com/jupyter/qtconsole) ::  Jupyter Qt Console - [stable release](http://jupyter.org/qtconsole/stable/).
 + [RunIPy](https://github.com/paulgb/runipy) :: Run IPython notebooks as command-line scripts, generate HTML reports.
 + [Rodeo](https://github.com/yhat/rodeo/) :: A data science IDE for Python - an alternative UI to the notebook for the IPython Kernel, heavily inspired by great projects like Sublime Text and Eclipse.
