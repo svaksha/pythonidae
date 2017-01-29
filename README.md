@@ -26,6 +26,7 @@
 + [OpenData.md](https://github.com/svaksha/pythonidae/blob/master/OpenData.md) :: OpenData, Free Data Sets.
 + [Physics.md](https://github.com/svaksha/pythonidae/blob/master/Physics.md) :: software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/pythonidae/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
++ [Psychology.md](https://github.com/svaksha/pythonidae/blob/master/Psychology.md) :: software related to the explanation and prediction of behavior, thinking, emotions, motivations, relationships, potentials and pathologies.
 + [Publications.md](https://github.com/svaksha/pythonidae/blob/master/Publications.md) :: Research papers, etc...
 + [QA.md](https://github.com/svaksha/pythonidae/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/Regression/Unit testing, and other Quality-related tools.
 + [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IPython NoteBooks, and other non-standard resources.
