@@ -148,6 +148,7 @@
     + https://www.wakari.io/sharing/bundle/hayd/pandorable  
 + [Apache log analysis with Pandas](http://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb)   
 + Common Excel Tasks Demonstrated in Pandas :: [Part-ONE](http://pbpython.com/excel-pandas-comp.html) and [Part-TWO](http://pbpython.com/excel-pandas-comp-2.html)
++ Data Science in Python: [Pandas Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-in-python-pandas-cheat-sheet)
 
 ----
 
