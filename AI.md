@@ -85,7 +85,7 @@ for implementing a recommender system.
 
 
 ## Graph Theory
-+ + [fluffy-graph](https://github.com/vpavlenko/fluffy-graph) :: NP-hard game where you find isomorphic graphs.
++ [fluffy-graph](https://github.com/vpavlenko/fluffy-graph) :: NP-hard game where you find isomorphic graphs.
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
@@ -113,6 +113,7 @@ for implementing a recommender system.
 + [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
    + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
    + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
++ [tensor2tensor](https://github.com/tensorflow/tensor2tensor) :: Tensor2Tensor (T2T) Transformers is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 
 ###### Resources
@@ -147,7 +148,9 @@ for implementing a recommender system.
 ### Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
++ [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets. http://parl.ai
 + [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing.
+
 
 ###### Resources
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
