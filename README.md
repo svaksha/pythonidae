@@ -43,8 +43,7 @@
 
 ## Mirrors 
 + [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
-+ [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git 
-+ [NotABug](https://notabug.org/svaksha/pythonidae) :: git clone git@notabug.org:svaksha/pythonidae.git
++ [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git
 
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
