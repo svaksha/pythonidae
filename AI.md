@@ -49,6 +49,7 @@
 + [python-recsys](https://github.com/ocelma/python-recsys) :: A python library 
 for implementing a recommender system. 
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
++ [TPOT](https://github.com/EpistasisLab/tpot) :: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. A blog post explaining the same: http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
 
 
 ###### Resources

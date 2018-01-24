@@ -25,6 +25,8 @@ _Spaces where one can ask python-related questions and get help from other progr
 
 ### Free
 + The [Tutor](https://mail.python.org/mailman/listinfo/tutor) list.
++ [Cracking Codes with Python](http://inventwithpython.com/cracking/) :: teaches complete beginners how to program in the Python programming language and features the source code to several ciphers and hacking programs for these ciphers. The programs include the Caesar cipher, transposition cipher, simple substitution cipher, multiplicative & affine ciphers, Vigenere cipher, and hacking programs for each of these ciphers. The final chapters cover the modern RSA cipher and public key cryptography. Cracking Codes with Python is the 2nd edition of the previously-titled book, `Hacking Secret Ciphers with Python`.
+
 
 ### Non-Free
 + [Treehouse](http://teamtreehouse.com) :: Kenneth Love teaches Python, where plans start around $25/month with access to their entire library.
