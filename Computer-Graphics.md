@@ -52,7 +52,7 @@
 ###### Resources
 + [Bokeh Snake](https://github.com/akloster/bokeh-snake) :: This is an example on how to use Jupyter widgets and the Bokeh plotting library to implement a simple Snake Game.
 + [OpenCV panorama stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/) :: Image stitching and panorama construction using Python and OpenCV. 
-
++ 5 Python Libraries for Creating [Interactive Plots](https://blog.modeanalytics.com/python-interactive-plot-libraries/).
 
 ----
 
