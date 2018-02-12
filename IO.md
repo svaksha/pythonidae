@@ -25,6 +25,7 @@
 + [x_x](https://github.com/krockode/x_x) :: A command line reader that displays either Excel files or CSVs in your terminal.
 
 ## CSV
++ [pyexcel](https://github.com/pyexcel/pyexcel) :: Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files. Documentation:  http://pyexcel.readthedocs.io
 + [tabulator-py](https://github.com/frictionlessdata/tabulator-py) :: Consistent interface for stream reading and writing tabular data (csv/xls/json/etc). 
 
 ## ELAN-EAF
