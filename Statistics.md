@@ -25,6 +25,7 @@
 # ACTUARIAL SCIENCE 
 
 ## Econometrics
++ [HARK](https://github.com/econ-ark/HARK) :: Heterogenous Agents Resources & toolKit. 
 + [NYUecondata](https://github.com/NYUEcon/NYUecondata) :: This is a repository for handling certain datasets and doing simple plots. Supervised by Dave Backus.
 + [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) :: A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)
    + [Quantitative economic modelling](http://quant-econ.net/py/index.html) lecture series in Python language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) file too.

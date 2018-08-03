@@ -38,7 +38,7 @@ __Python 2&3 tools__
 
 ## IDE
 + [anaconda-mode](https://github.com/proofit404/anaconda-mode) :: Code navigation, documentation lookup and completion for Python. 
-+ [autocomplete-python](https://github.com/sadovnychyi/autocomplete-python) :: [Jedi](http://jedi.jedidjah.ch/) based Python autocomplete for [Atom](https://atom.io/packages/autocomplete-python).
++ [autocomplete-python](https://github.com/sadovnychyi/autocomplete-python) :: Jedi-based Python autocomplete for [Atom](https://atom.io/packages/autocomplete-python).
 + [Bugjar](https://github.com/pybee/bugjar) :: A interactive graphical debugger for Python code. 
 + [jedi](https://github.com/davidhalter/jedi) :: Awesome autocompletion and static analysis library for python. 
 + [MagicPython](https://github.com/MagicStack/MagicPython) :: Syntax highlighter for cutting edge Python for Sublime Text and Atom. 
@@ -92,7 +92,6 @@ __Python 2&3 tools__
 + [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/cookbook/) and the [recipes used in the IPython Cookbook](https://github.com/ipython-books/cookbook-code) :: Your definitive guide to high-performance scientific computing and data science in Python.
 + [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 + [7 favorite IPython Notebooks](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
-+ The [Wakari IPython Notebook gallery](https://www.wakari.io/gallery) on learning Python.
 + The EuroPython 2014 training session "[Topic Modeling for Fun and Profit](https://github.com/piskvorky/topic_modeling_tutorial)".
 + [Networks meet Finance in Python - July 27 2014](https://github.com/mvaz/PyData2014-Berlin) 
 + [OsloWorkshop2014](https://github.com/jakevdp/OsloWorkshop2014) :: Material for @jakevdp 's lectures at the University of Oslo, Dec 2014.

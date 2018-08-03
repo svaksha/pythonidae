@@ -1,6 +1,7 @@
-__NB :: OpenData sets are listed below the `software` section. Not all the DB's are freely available.__
+__NB :: OpenScience listings are in the `software` section. Not all the DB's are freely available.__
 
-+ [SOFTWARE - Data Science](#software-data-science)
++ [SOFTWARE - Open Science](#software-open-science)
+    + [OpenScience - OpenResearch](#openscience-openresearch)
 + [ACTUARIAL SCIENCE](#actuarial-science)
     + [Econometrics](#econometrics)
     + [Finance](#finance)
@@ -23,12 +24,11 @@ __NB :: OpenData sets are listed below the `software` section. Not all the DB's 
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
-+ [Reproducibility](#reproducibility)
 + [VIDEO](#video)
 
 ----
 
-# SOFTWARE - Data Science
+# SOFTWARE - Open Science
 + [aristotle-metadata-registry](https://github.com/aristotle-mdr/aristotle-metadata-registry) ::  Aristotle-MDR is an open-source metadata registry as laid out by the requirements of the ISO/IEC 11179 specification.
 + [camlipy](https://github.com/tsileo/camlipy) :: The unofficial Python client for [Camlistore](http://camlistore.org/). [Documentation](http://camlipy.readthedocs.org).
 + [caffe-oxford102](https://github.com/jimgoo/caffe-oxford102) :: Caffe CNNs for the [Oxford 102 flower dataset](http://jimgoo.com/flower-power/).
@@ -37,6 +37,10 @@ __NB :: OpenData sets are listed below the `software` section. Not all the DB's 
 + [data-projects](https://github.com/voxmedia/data-projects) :: Scripts and data for various Vox Media stories and news projects.
 + [scrapi](https://github.com/fabianvf/scrapi) :: A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams.
 + [simmetrica](https://github.com/o/simmetrica) :: Lightweight framework for collecting and aggregating event metrics as timeseries data.
+
+## OpenScience - OpenResearch
++ [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
++ [Sumatra](https://github.com/open-research/sumatra) :: is a tool for managing and tracking projects based on numerical simulation and/or analysis, with the aim of supporting reproducible research. It can be thought of as an automated electronic lab notebook for computational projects.
 
 ----
 
@@ -66,14 +70,12 @@ __NB :: OpenData sets are listed below the `software` section. Not all the DB's 
 
 ## Genome
 + [ChromosomeMappings](https://github.com/dpryan79/ChromosomeMappings) :: This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes. 
-+ A database of OA/free [RNA-seq and genomic](http://jtleek.com/data/) data-sets used in research projects at JHU.
-+ Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
-+ [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
-+ [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
-+ [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
-+ The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
-+ NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
 + [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
++ Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
++ [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
++ The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
++ NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
++ [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
 
 ### Worms, Virus, Nematodes
 + The central [MANUELA database](http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale.
@@ -156,11 +158,6 @@ __NB :: OpenData sets are listed below the `software` section. Not all the DB's 
 
 # PHYSICS
 + [CERN OpenData](http://opendata.cern.ch/) Portal.
-
-----
-
-# Reproducibility
-+ [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
 
 ----
 

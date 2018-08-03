@@ -34,7 +34,8 @@
 + [EigenFace](https://github.com/bugra/EigenFace) :: EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
 + [Gizeh](https://github.com/Zulko/gizeh) :: Simple Vector Graphics for Python. 
    + [Vector Animations With Python](https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/) using Gizeh.
-+ [ImageAI](https://github.com/OlafenwaMoses/ImageAI) :: A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities. https://commons.specpal.science
++ [ImageAI](https://github.com/OlafenwaMoses/ImageAI) :: A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities. https://commons.specpal.science 
+    + The blog post [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606).
 + [MoviePy](http://zulko.github.io/moviepy/) :: Video editing with Python.
    + [Data Animations With Python and MoviePy](https://zulko.github.io/blog/2014/11/29/data-animations-with-python-and-moviepy/)
 + [PCV](https://github.com/jesolem/PCV) :: An open source pure Python library for computer vision based on the book "Programming Computer Vision with Python" by Jan Erik Solem. 
