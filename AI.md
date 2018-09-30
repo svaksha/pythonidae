@@ -50,6 +50,7 @@
 for implementing a recommender system. 
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 + [TPOT](https://github.com/EpistasisLab/tpot) :: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. A blog post explaining the same: http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
++ [PyCM](https://github.com/sepandhaghighi/pycm) :: PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters.	PyCM is the swiss-army knife of confusion matrices, targeted mainly at data scientists that need a broad array of metrics for predictive models and an accurate evaluation of large variety of classifiers.
 
 
 ###### Resources
