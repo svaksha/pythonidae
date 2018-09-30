@@ -83,6 +83,7 @@ __Visualization software__
 + [SnakeViz](https://github.com/jiffyclub/snakeviz) :: A viewer for Python profiling data that runs as a web application in your browser. 
 + [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) :: Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
 + [Toyplot](https://github.com/sandialabs/toyplot) ::  Interactive plotting for Python. [Documentation](http://toyplot.readthedocs.org)
++ [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) :: A suite of custom matplotlib visualizers for scikit-learn estimators to support visual feature analysis, model selection, evaluation, and diagnostics. [Documentation](http://www.scikit-yb.org/en/latest/)
 + [YT](http://yt-project.org/):: A python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community.
 
 #### Non-Python tools
