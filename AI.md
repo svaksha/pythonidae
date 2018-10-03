@@ -126,6 +126,7 @@ for implementing a recommender system.
 # NLP
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [commonast](https://github.com/almarklein/commonast) :: A common AST description for Python.
++ [Fairseq](https://github.com/pytorch/fairseq) :: A sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
 + [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
 + [Geiger](https://github.com/ftzeng/geiger) :: An automated system for grouping similar comments and then identifying the best representative from each group.
 + [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
