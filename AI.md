@@ -120,6 +120,7 @@ for implementing a recommender system.
 
 ###### Resources
 + An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
++ [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) :: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
 
 ----
 
