@@ -22,6 +22,7 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 + [Earth Science](#earth-science)
 + [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
+    + [Learning Resources](#learning-resources)
 + [MATH](#math)
 + [PHYSICS](#physics)
 + [VIDEO](#video)
@@ -151,6 +152,9 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 
 # MACHINE LEARNING
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+
+## Learning Resources
+* [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard.
 
 ----
 
