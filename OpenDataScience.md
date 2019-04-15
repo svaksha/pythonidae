@@ -119,6 +119,9 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 
 # DATA
 
+## DATA-DataScience
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by @jakevdp.
+
 ## DATA-General
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) :: Repository for CWL Specfications.
