@@ -1,6 +1,7 @@
 **Analytical chemistry, cheminformatics, computational chemistry, crystallography, nanochemistry, nuclear chemistry ...**
 
 + [Computational Chemistry](#computational-chemistry)
+   + [Combustion](#combustion)
    + [Org-Chemreac](#org-chemreac)
 + [Molecular Chemistry](#molecular-chemistry)
 + [Physical Chemistry](#physical-chemistry)
@@ -19,6 +20,7 @@
 ----
 
 # Computational Chemistry
++ [Cantera](https://github.com/Cantera/cantera) : An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
 + [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
 + [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
 
