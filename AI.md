@@ -69,7 +69,7 @@ for implementing a recommender system.
 + [Big Data Machine Learning Patterns for Predictive Analytics](http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
-+ Scikit-Learn CheatSheet: [Python Machine Learning](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.HtHkSQc).
+
 
 ### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
