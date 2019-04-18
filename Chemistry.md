@@ -20,6 +20,7 @@
 ----
 
 # Computational Chemistry
+* [BioStructMap](https://github.com/andrewguy/biostructmap) :: a Python package for integration of protein structure and sequence-based features. Publications: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223362/
 + [Cantera](https://github.com/Cantera/cantera) : An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
 + [MDTraj](https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories.
 + [PDBFixer](https://github.com/pandegroup/pdbfixer) :: An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
