@@ -41,6 +41,7 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 
 ## OpenScience - OpenResearch
 + [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
++ [pytextbooks](https://github.com/xSetrox/pytextbooks) :: Python 3.7 program to search Library Genesis via ISBN and fetch direct download links.
 + [Sumatra](https://github.com/open-research/sumatra) :: is a tool for managing and tracking projects based on numerical simulation and/or analysis, with the aim of supporting reproducible research. It can be thought of as an automated electronic lab notebook for computational projects.
 
 ----

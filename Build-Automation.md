@@ -5,12 +5,12 @@
 + [Operating System Technology](#operating-system-technology)
    + [Binaries](#binaries)
    + [Containers-Virtualization](#containers-virtualization)
-	  + [Docker](#docker)
+	   + [Docker](#docker)
    + [DistrOS](#distros)
    + [Packaging](#packaging)
    + [Sandbox](#sandbox)
        + [Anaconda](#anaconda)
-       + [C9nda](#conda)
+       + [Conda](#conda)
 + [NEWS](#news)
 
 ----
@@ -36,6 +36,7 @@
 + [SCons](http://scons.org/) :: A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
 
 ### DevOps tools
++ [bake](https://github.com/kennethreitz/bake) :: a s☿rangely familiar workflow utlity - bash bake(make)file for shell-scripting. 
 + [cloudpickle](https://github.com/cloudpipe/cloudpickle) :: Extended pickling support for Python objects. 
 + [Fabric](http://www.fabfile.org) :: A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks. [Source code and bug tracker](https://github.com/fabric/fabric/).
 + [patchwork](https://github.com/fabric/patchwork) :: Common deployment/sysadmin operations, built on Fabric. 
