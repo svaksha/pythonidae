@@ -14,6 +14,7 @@
 + [Feather](https://github.com/wesm/feather) :: A fast, interoperable binary columnar serialization data frame storage for Python, R, and more powered by Apache Arrow.
 + [hdfs](https://github.com/mtth/hdfs) :: API and command line interface for HDFS. [Documentation](http://hdfscli.readthedocs.org)
 + [lbl](https://github.com/kylerbrown/lbl) :: A python library for reading/writing and manipulating lbl files, represented within python as a numpy record array with fields 'name', 'start', and 'stop'. This format is useful for writing data to the arf file format.
++ [loompy](https://github.com/linnarsson-lab/loompy) ::  Python implementation of the `Loom` file format - http://loompy.org
 + [PyCifRW](https://pypi.python.org/pypi/PyCifRW/3.6.2) :: Library support for reading and writing CIF (Crystallographic Information Format) files using Python. [Source code on Bitucket](https://bitbucket.org/jamesrhester/pycifrw/).
 + [PyCIF](https://github.com/quantumjockey/pycif) :: A python module for reading from, writing to, and manipulating International Union of Crystallography (IUCr) CIF-formatted data files.
 + [pymarkdown](https://github.com/mrocklin/pymarkdown) :: Evaluate code in markdown.
