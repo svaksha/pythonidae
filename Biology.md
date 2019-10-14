@@ -1,4 +1,4 @@
-g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
+**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOGERONTOLOGY](#biogerontology)
 + [BIOTOOLS](#biotools)
@@ -36,6 +36,7 @@ g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engine
 
 + [annotations](https://github.com/tyarkoni/annotations) :: Multimodal stimulus annotation in Python.
 + [antz](https://github.com/jmschrei/antz) :: Bioinformatic tools for biologists, made pythonic!
++ [BioBERT](https://github.com/dmis-lab/biobert) :: a pre-trained biomedical language representation model. https://doi.org/10.1093/bioinformatics/btz682.
 + [bionetwork](https://github.com/machbio/bionetwork) :: Graph Database, a network of everything bio.
 + [Bionitio](https://github.com/bionitio-team/bionitio) :: provides a template for command line bioinformatics tools in various programming languages.
 + [biostar-central](https://github.com/ialbert/biostar-central) :: The software that runs the [Biostars Bioinformatics Q&A](http://www.biostars.org).

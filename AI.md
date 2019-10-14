@@ -6,6 +6,7 @@
    + [Deep Learning](#deep-learning)
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
+   + [Reinforcement Learning](#reinforcement-learning)
 + [NEURAL NETWORKS](#neural-networks)
    + [Artificial Neural Network](#artificial-neural-network)
 + [NLP](#nlp)
@@ -20,7 +21,15 @@
 ----
 
 # DATA SCIENCE
++ [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
++ [gqn-datasets](https://github.com/deepmind/gqn-datasets) :: Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. 
 + [python-seminar](https://github.com/profjsb/python-seminar) :: Python Computing for Data Science.
+
+##### Resources
++ General Assembly's Data Science course in Washington-DC: Jupyter notebooks for [DAT4](https://github.com/justmarkham/DAT4) and [DAT8](https://github.com/justmarkham/DAT8)
++ Public repository for course materials for the [Spring 2013 session of Introduction to Data Science](https://github.com/uwescience/datasci_course_materials), an online coursera course.
++ [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
++ [LearnDataScience](https://github.com/nborwankar/LearnDataScience) :: A collection of Data Science Learning materials in the form of IPython Notebooks with associated data sets.
 
 ----
 
@@ -71,9 +80,10 @@ for implementing a recommender system.
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
 
-### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+## [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
-+ [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) :: Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info,
++ [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) :: Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info.
+
 
 ###### Resources
 + Deep Learning Part 1: [Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
@@ -101,6 +111,11 @@ for implementing a recommender system.
 + [Using Machine Learning To Pick Your Lottery Numbers](http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb)
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
+
+
+## [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
++ https://github.com/deepmind/bsuite ::  bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent 
+
 
 ----
 
