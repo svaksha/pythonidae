@@ -1,5 +1,6 @@
 + [API](#api)
-   + [GIT API](#git-api)
+   + [Git](#git)
+   + [Telegram](#telegram)
 + [LANGUAGES](#languages)
    + [C-CXX](#cxx)
    + [FORTRAN](#fortran)
@@ -11,7 +12,7 @@
 # API
 + [flow-python](https://github.com/SpiderOak/flow-python) :: Python API to the [Semaphor client backend](https://spideroak.com/solutions/semaphor)
 
-### Git API
+## Git 
 + [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
 + [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpython.readthedocs.org
 + [git-fat](https://github.com/jedbrown/git-fat) :: Simple way to handle fat files without committing them to git, supports synchronization using rsync.
@@ -19,6 +20,9 @@
 + [Homu](http://homu.io/) :: A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
 + [python-gitlab](https://github.com/gpocentek/python-gitlab) :: Python wrapper for the GitLab API.
 
+## Telegram
++ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) :: a pure Python interface for the Telegram Bot API, compatible with Python versions 2.7, 3.3+ and PyPy.
++ [munich-scripts](https://github.com/okainov/munich-scripts) :: Some useful scripts simplifying bureaucracy, especially when living in Munich, Germany.
 
 ----
 

@@ -7,6 +7,7 @@
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
    + [Reinforcement Learning](#reinforcement-learning)
+   + [Unsupervised Learning](#unsupervised-learning)
 + [NEURAL NETWORKS](#neural-networks)
    + [Artificial Neural Network](#artificial-neural-network)
 + [NLP](#nlp)
@@ -86,7 +87,7 @@ for implementing a recommender system.
 
 
 ###### Resources
-+ Deep Learning Part 1: [Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
++ Deep Learning [Part 1: Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
 
 ## Classification Algorithms
 + [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm.
@@ -116,6 +117,10 @@ for implementing a recommender system.
 ## [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 + https://github.com/deepmind/bsuite ::  bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent 
 
+
+## [Unsupervised Learning](https://en.wikipedia.org/wiki/Category:Unsupervised_learning)
+### [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+* [Jokerise](https://github.com/junkwhinger/jokerise) :: Jokeriser with CycleGAN.
 
 ----
 
