@@ -152,8 +152,9 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 ----
 
 # MACHINE LEARNING
++ [Celeb-DF](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) :: A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos. 
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
-
+ 
 ## Learning Resources
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard.
 
