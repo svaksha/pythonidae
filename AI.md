@@ -17,7 +17,10 @@
 ----
 
 # AI
+
 + [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
++ [TRAINS](https://github.com/allegroai/trains) :: Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance.
+
 
 ----
 
