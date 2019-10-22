@@ -115,7 +115,7 @@ for implementing a recommender system.
 
 
 ## [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-+ https://github.com/deepmind/bsuite ::  bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent 
++ [bsuite](https://github.com/deepmind/bsuite) ::  A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent. 
 
 
 ## [Unsupervised Learning](https://en.wikipedia.org/wiki/Category:Unsupervised_learning)
@@ -137,6 +137,10 @@ for implementing a recommender system.
    + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
 + [tensor2tensor](https://github.com/tensorflow/tensor2tensor) :: Tensor2Tensor (T2T) Transformers is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
+
+
+### Pre-Trained Models
++ [Spiral](https://github.com/deepmind/spiral) :: A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
 
 ###### Resources
 + An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
