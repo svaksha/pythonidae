@@ -19,10 +19,9 @@
 + [Computer-Graphics.md](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [DataBase.md](https://github.com/svaksha/pythonidae/blob/master/DataBase.md) :: NoSQL, RDBMS and Middleware API's.
 + [Earth-Science.md](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
-+ [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
-+ [Hardware.md](https://github.com/svaksha/pythonidae/blob/master/Hardware.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
-+ [Super-Computing.md](https://github.com/svaksha/pythonidae/blob/master/Super-Computing.md) :: Software for HPC, Distributed and parallel Computing, Cloud computing/ infrastructure, Cluster computing, Grid computing, ...
 + [IO.md](https://github.com/svaksha/pythonidae/blob/master/IO.md) :: Input/Output functionality and support for file formats.
++ [Machines.md](https://github.com/svaksha/pythonidae/blob/master/Machines.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries for all kinds of Machine related software.
++ [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
 + [OpenDataScience.md](https://github.com/svaksha/Julia.jl/blob/master/OpenDataScience.md) :: OpenData + OpenScience + OpenResearch, Reproducible research, Free Data Sets, et al.
 + [Physics.md](https://github.com/svaksha/pythonidae/blob/master/Physics.md) :: software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/pythonidae/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
@@ -32,6 +31,7 @@
 + [Resources.md](https://github.com/svaksha/pythonidae/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IPython NoteBooks, and other non-standard resources.
 + [Server.md](https://github.com/svaksha/pythonidae/blob/master/Server.md) :: HTTP/Web Frameworks, Networking, and other server-side utils...
 + [Statistics.md](https://github.com/svaksha/pythonidae/blob/master/Statistics.md) :: Statistical software, MOOC, tutorials, ...
++ [Super-Computing.md](https://github.com/svaksha/pythonidae/blob/master/Super-Computing.md) :: Software for HPC, Distributed and parallel Computing, Cloud computing/ infrastructure, Cluster computing, Grid computing, ...
 + [Utilities.md](https://github.com/svaksha/pythonidae/blob/master/Utilities.md) :: Handy toolkits, User Interface software in Python and other general utilities for your Desktop.
 
 ----

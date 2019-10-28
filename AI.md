@@ -1,4 +1,4 @@
-**AI :: Artificial Intelligence, Cognitive Science, Machine Learning, Neural, NLP...**
+**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural, NLP...**
 
 + [AI](#ai)
 + [DATA SCIENCE](#data-science)
@@ -6,20 +6,20 @@
    + [Deep Learning](#deep-learning)
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
-   + [Reinforcement Learning](#reinforcement-learning)
-   + [Unsupervised Learning](#unsupervised-learning)
-+ [NEURAL NETWORKS](#neural-networks)
-   + [Artificial Neural Network](#artificial-neural-network)
 + [NLP](#nlp)
-    + [Screen Reading](#screen-reading)
-    + [Speech Recognition](#speech-recognition)
+   + [Screen Reading](#screen-reading)
+   + [Speech Recognition](#speech-recognition)
++ [REINFORCEMENT LEARNING](#reinforcement-learning)
++ [SUPERVISED LEARNING](#supervised-learning)
++ [UNSUPERVISED LEARNING](#unsupervised-learning)
+   + [Neural Networks](#neural-networks)
+        + [Artificial Neural Network](#artificial-neural-network)
 
 ----
 
 # AI
 
 + [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
-+ [TRAINS](https://github.com/allegroai/trains) :: Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance.
 
 
 ----
@@ -38,7 +38,9 @@
 ----
 
 # MACHINE LEARNING
-+ [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
+
++ [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. 
+   * Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
 + [Faceless](https://github.com/faithlessfriend/faceless) :: A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models.
 + [featureforge](https://github.com/machinalis/featureforge) :: A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 + [Foxhound](https://github.com/IndicoDataSolutions/Foxhound) :: Scikit-learn inspired library for gpu-accelerated machine learning.
@@ -74,7 +76,6 @@ for implementing a recommender system.
 + [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
 + A [Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
 + [study](https://github.com/codematician/study) :: A study of interesting algorithms.
-+ [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
 + [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
 + [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) :: Classical equations and diagrams in machine learning by @soulmachine.
 + Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
@@ -86,10 +87,11 @@ for implementing a recommender system.
 
 ## [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
++ [TRAINS](https://github.com/allegroai/trains) :: Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance.
+
+
+##### Resources
 + [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) :: Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info.
-
-
-###### Resources
 + Deep Learning [Part 1: Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
 
 ## Classification Algorithms
@@ -106,7 +108,7 @@ for implementing a recommender system.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
 
-###### Resources
+##### Resources
 + [Amazon Machine Learning: use cases and a real example in Python](http://cloudacademy.com/blog/aws-machine-learning/).
 + Some [machine learning libraries](http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/)
 + [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
@@ -117,41 +119,12 @@ for implementing a recommender system.
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
 
 
-## [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-+ [bsuite](https://github.com/deepmind/bsuite) ::  A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent. 
-
-
-## [Unsupervised Learning](https://en.wikipedia.org/wiki/Category:Unsupervised_learning)
-### [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-* [Jokerise](https://github.com/junkwhinger/jokerise) :: Jokeriser with CycleGAN.
 
 ----
 
-# NEURAL NETWORKS 
-+ [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
-+ [BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) :: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
-+ [NAMAS](https://github.com/facebook/NAMAS) :: Neural Attention Model for Abstractive Summarization.
-+ [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
-
-## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-+ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
-+ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
-   + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
-   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
-+ [tensor2tensor](https://github.com/tensorflow/tensor2tensor) :: Tensor2Tensor (T2T) Transformers is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
-+ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
-
-
-### Pre-Trained Models
-+ [Spiral](https://github.com/deepmind/spiral) :: A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
-
-###### Resources
-+ An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
-+ [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) :: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
-
-----
 
 # NLP
+
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [commonast](https://github.com/almarklein/commonast) :: A common AST description for Python.
 + [Fairseq](https://github.com/pytorch/fairseq) :: A sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
@@ -183,5 +156,59 @@ for implementing a recommender system.
 + [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing.
 
 
-###### Resources
+##### Resources
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
+
+
+----
+
+
+# [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
++ [bsuite](https://github.com/deepmind/bsuite) ::  A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent. 
++ [Tensortrade](https://github.com/notadamking/tensortrade) :: An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+
+
+----
+
+# [SUPERVISED LEARNING](https://en.wikipedia.org/wiki/Supervised_learning)
++ [tensor2tensor](https://github.com/tensorflow/tensor2tensor) :: Tensor2Tensor (T2T) Transformers is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
+
+
+##### Resources
++ [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
+
+
+
+----
+
+
+
+# [UNSUPERVISED LEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning)
+
+## [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+* [Jokerise](https://github.com/junkwhinger/jokerise) :: Jokeriser with CycleGAN.
+
+## Neural Networks
++ [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
++ [BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) :: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
++ [NAMAS](https://github.com/facebook/NAMAS) :: Neural Attention Model for Abstractive Summarization.
++ [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
+
+### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
++ [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
++ [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
+   + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
+   + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
++ [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
+
+
+#### Pre-Trained Models
++ [Spiral](https://github.com/deepmind/spiral) :: A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
+
+
+###### Resources
++ An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
++ [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) :: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
+
+
+
