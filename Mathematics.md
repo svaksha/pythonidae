@@ -5,7 +5,7 @@
 + [Geometry](#geometry)
 + [Numerical Analysis](#numerical-analysis)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
-   + [Org-ContinuumIO](#org-continuumio)
+   + [Scipy](#scipy)
 + [RESOURCES](#resources)
 
 ----
@@ -70,12 +70,18 @@
 ----
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+
++ [awkward-array](https://github.com/scikit-hep/awkward-array) ::  Manipulate arrays of complex data structures as easily as Numpy. 
++ [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
 + [Boost.NumPy](https://github.com/ndarray/Boost.NumPy) :: The Boost.Python interface for NumPy; in preparation for eventual proposal to Boost (manual mirror of Boost Sandbox SVN).
++ [castra](https://github.com/blaze/castra) :: A partitioned storage system based on blosc.
++ [distributed](https://github.com/blaze/distributed) :: A library for distributed computation.
 + [ignition](https://github.com/IgnitionProject/ignition) :: A python automation project producing low-level optimized scientific code from high level language descriptions. A [numerical code generator](http://ignitionproject.github.io/ignition/).
 + [irlbpy](https://github.com/bwlewis/irlbpy) :: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
 + [LASS](https://github.com/cvxgrp/lass) :: Linear Algebra for Structured Sparse Matrices.
 + [La](http://pypi.python.org/pypi/la) :: Larry, the labeled numpy array. The main class of the la package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension). [Source Code](https://github.com/kwgoodman/la).
 + [minpy](https://github.com/dmlc/minpy) :: Pure numpy practice with third party operator Integration.
++ [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
 + [Numba](http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy.
 + [numexpr](https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ.
 + [NumPy](http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays.
@@ -90,19 +96,16 @@
 + [SAGE](http://www.sagemath.org) → System for Algebra and Geometry Experimentation, is a mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [Source code on github](https://github.com/sagemath/sage)
 + [Tinynumpy](https://github.com/wadetb/tinynumpy) :: A lightweight, pure Python, numpy compliant ndarray class.
 
+
+###### Resources
++ [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
++ Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
++ [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
+
+
 ### Numerical Linear Algebra (NLA)
 + [cvxpy](https://github.com/cvxgrp/cvxpy) :: A Python-embedded modeling language for convex optimization problems. [Elemental](http://libelemental.org) is a distributed-memory dense and sparse-direct linear algebra and optimization library with third-party Python interfaces. [Source code](https://github.com/elemental/Elemental).
 
-### Org-[ContinuumIO](https://github.com/ContinuumIO/)
-+ [Blaze](http://blaze.pydata.org) :: The next-generation of NumPy and Pandas for BigData.
-+ [castra](https://github.com/blaze/castra) :: A partitioned storage system based on blosc.
-+ [distributed](https://github.com/blaze/distributed) :: A library for distributed computation.
-+ [Multiuserblazeserver](https://github.com/ContinuumIO/multiuserblazeserver)
-
-###### Resources-ContinuumIO
-   + [Benchmarking HDF5 and BLZ for genotype data storage and access](http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb)
-   + Matthew Rocklin's blog post on the [`into` function](http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network.
-   + [scipy2015-blaze-bokeh](https://github.com/chdoig/scipy2015-blaze-bokeh) :: Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015.
 
    
 ### [SciPy](http://www.scipy.org) 
