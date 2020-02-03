@@ -65,6 +65,7 @@ __Resources and guides for Scientists new to Python.__
 + [Google’s Python Class](https://developers.google.com/edu/python/)
 + [PythonCompilerWorkbench](https://github.com/pgbovine/PythonCompilerWorkbench) :: Live coding environment to develop intuition about how Python source code compiles to ASTs and bytecodes.
 + [Snakify](https://snakify.org/) :: An introductory tutorial with 100+ exercises and a step-by-step debugger.
++ [Tiny Python Projects](https://github.com/kyclark/tiny_python_projects) :: Bite-sized Python challenges that use test-driven development to teach beginning Python skills, based on the book https://www.manning.com/books/tiny-python-projects.
 
 ### Begin-Git
 + [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
