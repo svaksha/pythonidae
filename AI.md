@@ -141,6 +141,7 @@ for implementing a recommender system.
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [Suggester](https://github.com/valyala/suggester) :: The heart for full-text auto-complete web services.
 + [TextGridTools](https://github.com/hbuschme/TextGridTools) :: Read, write, and manipulate Praat TextGrid files with Python.
++ [txtai](https://github.com/neuml/txtai):: builds an AI-powered index over sections of text & supports building text indices to perform similarity searches and create extractive question-answering based systems.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
 
 

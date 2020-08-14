@@ -143,7 +143,7 @@ __NB :: OpenScience listings are in the `software` section. Not all the DB's are
 
 # [Earth Science](https://en.wikipedia.org/wiki/Outline_of_Earth_sciences)
 + [British Geological Survey dataset](http://www.bgs.ac.uk/) and a [blog post](http://britgeopeople.blogspot.de/2016/08/our-new-data-search-applicationby-lorna.html) linking 900 Gb of digital and electronic data deposited with the British Geological Survey since July 2014.
-
+O
 ----
 
 # Gender Violence
