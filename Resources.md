@@ -49,6 +49,7 @@ _Spaces where one can ask python-related questions and get help from other progr
 + [Python for Kids](https://www.amazon.com/dp/1593274076/ref=cm_sw_r_awd_e5ybwb2BHG9JN) :: A Playful Introduction to Programming.
 + [The Quick Python Book 3rd Edition](https://www.manning.com/books/the-quick-python-book-third-edition) :: A clear, crisp updated introduction.
 + [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
++ [Python Workout](https://www.manning.com/books/python-workout)
 
 ----
 
