@@ -92,7 +92,7 @@
 + [twine](https://github.com/pypa/twine) :: Utilities for interacting with PyPI. 
 
 ###### Resources
-+ AOSA book [Python Packaging](http://www.aosabook.org/en/packaging.html) by Tarek Ziadé.
++ AOSA book [Python Packaging](http://www.aosabook.org/en/packaging.html) by Tarek Ziade.
 + [Python Packaging User Guide](https://packaging.python.org/en/latest/index.html) and the github [source code](https://github.com/pypa/python-packaging-user-guide).
 + [python-cffi-example](https://github.com/wolever/python-cffi-example) :: An example project showing how to use Python's CFFI.
 + Another post explaining Python [Modules, Packages, and all that](https://python4astronomers.github.io/installation/packages.html).

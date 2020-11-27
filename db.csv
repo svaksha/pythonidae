@@ -1,0 +1,1101 @@
+AI,AI,simpleai,https://github.com/simpleai-team/simpleai,Simple artificial intelligence utilities.
+AI,DATASCIENCE,engarde,https://github.com/TomAugspurger/engarde,A library for defensive data analysis.
+AI,DATASCIENCE,gqn-datasets,https://github.com/deepmind/gqn-datasets,Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
+AI,DATASCIENCE,python-seminar,https://github.com/profjsb/python-seminar,Python Computing for Data Science.
+AI,Resources,ublic repository for course materials for the [Spring 2013 session of Introduction to Data Science,"https://github.com/uwescience/datasci_course_materials), an online coursera course",
+AI,Resources,LearnDataScience,https://github.com/nborwankar/LearnDataScience,A collection of Data Science Learning materials in the form of IPython Notebooks with associated data sets.
+AI,MACHINELEARNING,ConfidenceWeighted,https://github.com/echizentm/ConfidenceWeighted,Confidence weighted classifier.
+AI,MACHINELEARNING,Faceless,https://github.com/faithlessfriend/faceless,A port of ICAAM library by Luca Vezzaro to Python for Face Tracking based on Active Appearance Models.
+AI,MACHINELEARNING,featureforge,https://github.com/machinalis/featureforge,"A set of tools for creating and testing machine learning features, with a scikit-learn compatible API."
+AI,MACHINELEARNING,Foxhound,https://github.com/IndicoDataSolutions/Foxhound,Scikit-learn inspired library for gpu-accelerated machine learning.
+AI,MACHINELEARNING,fuel,https://github.com/mila-udem/fuel,A data pipeline framework for machine learning.
+AI,MACHINELEARNING,hips-lib,https://github.com/HIPS/hips-lib,Library of common tools for machine learning research.
+AI,MACHINELEARNING,MachineLearning,https://github.com/LocalGroupAstrostatistics2015/MachineLearning,Materials for the Wednesday Afternoon Machine Learning workshop.
+AI,MACHINELEARNING,Machine Learning Video Library,http://work.caltech.edu/library/),
+AI,MACHINELEARNING,Masque,https://github.com/faithlessfriend/masque,Experiments on Deep Learning and Emotion Classification.
+AI,MACHINELEARNING,MILK,http://www.luispedro.org/software/milk,Machine Learning Toolkit.
+AI,MACHINELEARNING,MLOSS.org,http://mloss.org/software/,
+AI,MACHINELEARNING,MLTRP,https://github.com/thejat/mltrp,Machine Learning and the Traveling Repairman Problem.
+AI,MACHINELEARNING,Morris_counter,https://github.com/ianozsvald/morris_counter) is a Probabilistic Morris Counter (counts 2^n using e.g. just a byte),
+AI,MACHINELEARNING,MLTP,https://github.com/stefanv/MLTP,ML Timeseries Platform.
+AI,MACHINELEARNING,ProFET,https://github.com/ddofer/ProFET,[Protein Feature Engineering Toolkit](http://www.protonet.cs.huji.ac.il) for Machine Learning.
+AI,MACHINELEARNING,pyHANSO,https://github.com/dohmatob/pyHANSO,Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization).
+AI,MACHINELEARNING,pyklsh,https://github.com/jakevdp/pyklsh,Python implementation of Kernelized Locality Sensitive Hashing
+AI,MACHINELEARNING,PyML,"http://sourceforge.net/projects/pyml/) is an interactive object oriented framework for machine learning written in Python, with support for classification and regression, including Support Vector Machines (SVM), feature selection, model selection, syntax for combining classifiers and methods for assessing classifier performance",
+AI,MACHINELEARNING,PyML Tutorial,http://pyml.sourceforge.net/tutorial.html,
+AI,MACHINELEARNING,Rambutan,https://github.com/jmschrei/rambutan,"A python wrapper for caffe which aims at providing a simple, pythonic, interface for users so that users can define, train, and evaluate deep models in only a few lines of code. It requires that caffe and pycaffe are both built properly."
+AI,MACHINELEARNING,RAMP,https://github.com/kvh/ramp,Rapid Machine Learning Prototyping in Python.
+AI,MACHINELEARNING,python-recsys,https://github.com/ocelma/python-recsys,A python library
+AI,MACHINELEARNING,Sixpack,http://sixpack.seatgeek.com,a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
+AI,MACHINELEARNING,TPOT,https://github.com/EpistasisLab/tpot,A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. A blog post explaining the same: http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
+AI,MACHINELEARNING,PyCM,https://github.com/sepandhaghighi/pycm,"PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters.	PyCM is the swiss-army knife of confusion matrices, targeted mainly at data scientists that need a broad array of metrics for predictive models and an accurate evaluation of large variety of classifiers."
+AI,Resources,What I Learned Implementing a Classifier from Scratch,http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html) in Python,
+AI,Resources,DataSciencePython,https://github.com/ujjwalkarn/DataSciencePython,common data analysis and machine learning tasks using python.
+AI,Resources,"Examples from ""Thoughtful Machine Learning""",https://github.com/thoughtfulml/examples-in-python),
+AI,Resources,CIML,https://github.com/hal3/ciml,"A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.)."
+AI,Resources,deepframeworks,https://github.com/zer0n/deepframeworks,An evaluation of Deep Learning Frameworks.
+AI,Resources, [Machine Learning,http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube,
+AI,Resources,study,https://github.com/codematician/study,A study of interesting algorithms.
+AI,Resources,Machine Learning Algorithm Cheat Sheet,http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton,
+AI,Resources,machine-learning-cheat-sheet,https://github.com/soulmachine/machine-learning-cheat-sheet,Classical equations and diagrams in machine learning by @soulmachine.
+AI,Resources,heatsheet for [choosing the right estimator,http://scikit-learn.org/stable/tutorial/machine_learning_map/),
+AI,Resources,Machine Learning cheatsheet,http://eferm.com/machine-learning-cheat-sheet/),
+AI,Resources,Big Data Machine Learning Patterns for Predictive Analytics,http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho,
+AI,Resources, HN site for [ML,http://news.startup.ml/),
+AI,[DeepLearning](https://en.wikipedia.org/wiki/Deep_learning),TRAINS,https://github.com/allegroai/trains,"Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance."
+AI,Resources,DeepLearningTutorials,https://github.com/lisa-lab/DeepLearningTutorials,Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info.
+AI,Resources,eep Learning [Part 1: Comparison of Symbolic Deep Learning Frameworks,https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/),
+AI,ClassificationAlgorithms,K-Nearest-Neighbors-with-Dynamic-Time-Warping,https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping,Python implementation of KNN and DTW classification algorithm.
+AI,Resources,log on [How To Implement Naive Bayes From Scratch in Python,http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/,
+AI,GraphTheory,fluffy-graph,https://github.com/vpavlenko/fluffy-graph,NP-hard game where you find isomorphic graphs.
+AI,GraphTheory,PyMarkovChain,https://github.com/TehMillhouse/PyMarkovChain, Simple markov chain implementation in python.
+AI,GraphTheory,python-igraph,http://igraph.org/python/,Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
+AI,Resources,Amazon Machine Learning: use cases and a real example in Python,http://cloudacademy.com/blog/aws-machine-learning/),
+AI,Resources,ome [machine learning libraries,http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/,
+AI,Resources,Visualizing Algorithms,http://bost.ocks.org/mike/algorithms/,
+AI,Resources,Machine Learning HowTo,https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/preview?sle=true) from HN,
+AI,Resources,Alternating Least Squares Method for Collaborative Filtering,http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/,
+AI,Resources,Using Machine Learning To Pick Your Lottery Numbers,http://nbviewer.ipython.org/url/www.onewinner.me/en/devoxxML.ipynb,
+AI,Resources,How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem,http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/,
+AI,Resources,MST,http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees,
+AI,NLP,Broca,https://github.com/ftzeng/broca,Various useful NLP algos and utilities for rapid NLP prototyping.
+AI,NLP,commonast,https://github.com/almarklein/commonast,A common AST description for Python.
+AI,NLP,Fairseq,https://github.com/pytorch/fairseq,"A sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks."
+AI,NLP,Geiger,https://github.com/ftzeng/geiger,An automated system for grouping similar comments and then identifying the best representative from each group.
+AI,NLP,Glove-python,https://github.com/maciejkula/glove-python,Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
+AI,NLP,IEPY,https://github.com/machinalis/iepy,An open source tool for Information Extraction focused on Relation Extraction.
+AI,NLP,JPKyteaTokenizer,https://github.com/chezou/JPKyteaTokenizer,A Japanese tokenizer with KyTea for nltk.
+AI,NLP,Mykytea-python,https://github.com/chezou/Mykytea-python,Python wrapper for [KyTea](http://wp.me/pvR30-i1).
+AI,NLP,NLTK,http://www.nltk.org/,Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk)
+AI,NLP,nupic.fluent,https://github.com/numenta/nupic.fluent,A platform for building language / NLP-based applications using NuPIC and CEPT.
+AI,NLP,Quepy,https://github.com/machinalis/quepy,A python framework to transform natural language questions to queries in a database query language.
+AI,NLP,PLY,https://github.com/dabeaz/ply,Python Lex-Yacc. http://www.dabeaz.com/ply/index.html
+AI,NLP,SAMR,https://github.com/rafacarrascosa/samr,An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
+AI,NLP,Suggester,https://github.com/valyala/suggester,The heart for full-text auto-complete web services.
+AI,NLP,TextGridTools,https://github.com/hbuschme/TextGridTools,"Read, write, and manipulate Praat TextGrid files with Python."
+AI,NLP,txtai,https://github.com/neuml/txtai):: builds an AI-powered index over sections of text & supports building text indices to perform similarity searches and create extractive question-answering based systems,
+AI,NLP,word_cloud,https://github.com/amueller/word_cloud,A little word cloud generator in Python.
+AI,ScreenReading,wordgraph,https://github.com/tleeuwenburg/wordgraph,"This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on."
+AI,ScreenReading,STT with HMM,https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/, Single Speaker Speech Recognition with Hidden Markov Models.
+AI,SpeechRecognition,Speech recognition software for Linux,http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux,
+AI,SpeechRecognition,Dragonfly,https://code.google.com/p/dragonfly/," Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/)."
+AI,SpeechRecognition,ParlAI,https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets. http://parl.a,
+AI,SpeechRecognition,speech-processing,https://github.com/hbuschme/speech-processing,A Python framework for speech processing.
+AI,Resources,An Introduction to Natural Language Processing,"https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis",
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),bsuite,https://github.com/deepmind/bsuite, A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),Tensortrade,https://github.com/notadamking/tensortrade,"An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+AI,[SUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Supervised_learning),tensor2tensor,https://github.com/tensorflow/tensor2tensor,Tensor2Tensor (T2T) Transformers is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
+AI,Resources,ml_cheat_sheet,https://github.com/rcompton/ml_cheat_sheet,Supervised learning superstitions cheat sheet.
+AI,NeuralNetworks,BinaryConnect,https://github.com/MatthieuCourbariaux/BinaryConnect,Training Deep Neural Networks with binary weights during propagations.
+AI,NeuralNetworks,BinaryNet,https://github.com/MatthieuCourbariaux/BinaryNet,Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
+AI,NeuralNetworks,NAMAS,https://github.com/facebook/NAMAS,Neural Attention Model for Abstractive Summarization.
+AI,NeuralNetworks,SparkNet,https://github.com/amplab/SparkNet,Distributed Neural Networks for Spark.
+AI,[ArtificialNeuralNetwork](https://en.wikipedia.org/wiki/Artificial_neural_network),pylearn2,https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano,
+AI,[ArtificialNeuralNetwork](https://en.wikipedia.org/wiki/Artificial_neural_network),Tensorflow,http://tensorflow.org, Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
+AI,[ArtificialNeuralNetwork](https://en.wikipedia.org/wiki/Artificial_neural_network),models,https://github.com/tensorflow/models,Models built with TensorFlow.
+AI,[ArtificialNeuralNetwork](https://en.wikipedia.org/wiki/Artificial_neural_network),esources: [TensorFlow-Tutorials,https://github.com/nlintz/TensorFlow-Tutorials,Simple tutorials using Google's TensorFlow Framework.
+AI,[ArtificialNeuralNetwork](https://en.wikipedia.org/wiki/Artificial_neural_network),theano-nlp,https://github.com/fchollet/theano-nlp,Tools and datasets for NLP in Theano.
+AI,Pre-TrainedModels,Spiral,https://github.com/deepmind/spiral,A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
+AI,Resources,n introduction to [Recurrent Neural Networks,https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/),
+AI,Resources,TensorFlow-Book,https://github.com/BinRoot/TensorFlow-Book,Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
+API,API,flow-python,https://github.com/SpiderOak/flow-python,Python API to the [Semaphor client backend](https://spideroak.com/solutions/semaphor)
+API,Git,Dulwich,https://www.dulwich.io/,Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
+API,Git,GitPython,https://github.com/gitpython-developers/GitPython,A python library used to interact with Git repositories. http://gitpython.readthedocs.org
+API,Git,git-fat,https://github.com/jedbrown/git-fat,"Simple way to handle fat files without committing them to git, supports synchronization using rsync."
+API,Git,gitsome,https://github.com/donnemartin/gitsome,A supercharged Git/shell autocompleter with GitHub integration.
+API,Git,Homu,http://homu.io/,A bot that integrates with GitHub and your favorite continuous integration service. [Source Code](https://github.com/barosl/homu).
+API,Git,python-gitlab,https://github.com/gpocentek/python-gitlab,Python wrapper for the GitLab API.
+API,Telegram,python-telegram-bot,https://github.com/python-telegram-bot/python-telegram-bot,"a pure Python interface for the Telegram Bot API, compatible with Python versions 2.7, 3.3+ and PyPy."
+API,Telegram,munich-scripts,https://github.com/okainov/munich-scripts,"Some useful scripts simplifying bureaucracy, especially when living in Munich, Germany."
+API,C-CXX,XDress,https://github.com/xdress/xdress,"is a Cython-based, NumPy-aware automatic wrapper generator for C/C++ written in pure Python. Currently, [xdress](http://xdress.org/) may generate Python bindings (via Cython) for C++ classes & functions and in-memory wrappers for C++ standard library containers (sets, vectors, maps)."
+API,FORTRAN,f90wrap,https://github.com/jameskermode/f90wrap,Fortran to Python interface generator with derived type support.
+API,Resources,"otes on [Calling Fortran from Python, Julia and Matlab",http://maurow.bitbucket.org/notes/calling_fortran_from_misc.html),
+API,PYTHON,ParsePy,https://github.com/dgrtwo/ParsePy,A Python wrapper for the Parse.com API.
+API,PYTHON,github3.py,https://github.com/sigmavirus24/github3.py,Python library for interfacing with the GitHub APIv3. [Documentation](http://github3py.readthedocs.org/)
+API,PYTHON,vkAPI,https://github.com/ISosnovik/vkAPI,A Python wrapper for the [vk.com](https://vk.com/dev/) API.
+API,SCALA,knit,https://github.com/dask/knit,Python interface to Scala for interacting with YARN. [Documentation](http://knit.readthedocs.org/en/latest/).
+Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),sat-solver,https://github.com/enthought/sat-solver,"SAT solver for use in Enstaller, based on the MiniSat implementation."
+Algorithms,DATASTRUCTURES,CGT,https://github.com/joschu/cgt,Computation Graph Toolkit (CGT) is a library for evaluation and differentiation of functions of multidimensional arrays. The author's [announcement](https://joschu.github.io/index.html#Announcing%20CGT) on his blog.
+Algorithms,DATASTRUCTURES,Datarray,https://github.com/fperez/datarray,Prototyping numpy arrays with named axes for data management. Docs are available at: http://fperez.github.com/datarray-doc
+Algorithms,DATASTRUCTURES,distarray,https://github.com/enthought/distarray,DistArray provides general multidimensional NumPy-like distributed arrays to Python and intends to bring the strengths of NumPy to data-parallel high-performance computing. DistArray has a similar API to NumPy. [Documentation](http://distarray.readthedocs.org).
+Algorithms,DATASTRUCTURES,keras,https://github.com/fchollet/keras,Theano-based Deep Learning library.
+Algorithms,DATASTRUCTURES,LA,https://pypi.python.org/pypi/la,"Label the rows, columns, any dimension, of your NumPy arrays. The main class of the `la` package is a labeled array, larry. A larry consists of data and labels and data is stored as a NumPy array with labels as a list of lists (one list per dimension)."
+Algorithms,DATASTRUCTURES,Lasagne,https://github.com/Lasagne/Lasagne,A Lightweight library to build and train neural networks in Theano. [Documentation](http://lasagne.readthedocs.org/).
+Algorithms,DATASTRUCTURES,netcdf4-python,https://github.com/Unidata/netcdf4-python,A python/numpy interface to the netCDF C library. http://unidata.github.io/netcdf4-python
+Algorithms,DATASTRUCTURES,propagator.py,https://github.com/lucastx/propagator.py,"A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator."
+Algorithms,DATASTRUCTURES,PyGraphistry,https://github.com/graphistry/pygraphistry,"A library to extract, transform, and visually explore big graphs."
+Algorithms,DATASTRUCTURES,pymf,https://github.com/nils-werner/pymf,Python Matrix Factorization Module. [Source on Google](https://code.google.com/p/pymf/)
+Algorithms,DATASTRUCTURES,PyTables,http://pytables.github.io/) is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data,
+Algorithms,DATASTRUCTURES,python-graph,https://github.com/pmatiello/python-graph,A library for working with graphs in Python.
+Algorithms,DATASTRUCTURES,sparray,https://github.com/jesolem/sparray,Sparse n-dimensional arrays in Python.
+Algorithms,DATASTRUCTURES,Theano,http://deeplearning.net/software/theano/,A Python library for working with mathematical expressions involving multi-dimensional arrays efficiently.
+Algorithms,DATASTRUCTURES,Xray,https://github.com/xray/xray,Extended arrays for working with scientific datasets in Python. [Documentation](http://xray.readthedocs.org)
+Algorithms,scikit,scikits-bootstrap,https://github.com/cgevans/scikits-bootstrap,Bootstrap Scikit for bootstrap confidence interval estimation.
+Algorithms,scikit,scikit-learn,http://scikit-learn.org/stable/,Machine Learning in Python.
+Algorithms,scikit,Riding on Large Data with Scikit-learn,https://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/),
+Algorithms,scikit,odscon-sf-2015,https://github.com/amueller/odscon-sf-2015,Slides and Notebooks for Open Data Science Conference - ODSCON San Francisco 2015.
+Algorithms,scikit,scipy_2015_sklearn_tutorial,https://github.com/amueller/scipy_2015_sklearn_tutorial,Scikit-Learn tutorial material for Scipy 2015.
+Algorithms,scikit,Scikit-learn Tutorial at EuroPython 2014,https://github.com/GaelVaroquaux/sklearn_europython_2014,
+Algorithms,scikit,Using scikit-learn Pipelines and FeatureUnions,http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html,
+Algorithms,scikit,parallel_ml_tutorial,https://github.com/ogrisel/parallel_ml_tutorial,Tutorial on parallel Machine Learning with scikit-learn and IPython.
+Algorithms,scikit,postlearn,https://github.com/TomAugspurger/postlearn,Common post-estimation tasks for scikit-learn.
+Algorithms,scikit,sklearn_pycon2015,https://github.com/jakevdp/sklearn_pycon2015,Materials for @jakevdp's Pycon 2015 scikit-learn tutorial.
+Algorithms,scikit,scikits-sparse,"https://github.com/njsmith/scikits-sparse) → Sparse matrix tools extending scipy.sparse, but with incompatible licenses",
+Algorithms,scikit,sklearn-pandas,https://github.com/paulgb/sklearn-pandas,This module provides a bridge between Scikit-Learn's machine learning methods and pandas-style Data Frames.
+Algorithms,scikit,sklearn-theano,https://github.com/sklearn-theano/sklearn-theano,Scikit-learn compatible tools using Theano.
+Algorithms,scikit,aper: [Fast Bird Part Localization for Fine-Grained Categorization,"http://yassersouri.github.io/papers/fgvc-2015-fast-bird-part.pdf), Yaser Souri, Shohreh Kasaei, Sharif University of Technology",
+Algorithms,Resources,Problem Solving with Algorithms and Data Structures,"http://interactivepython.org/courselib/static/pythonds/index.html) by Brad Miller and David Ranum, Luther College",
+Algorithms,[HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model),YAHMM,https://github.com/jmschrei/yahmm,Yet Another Hidden Markov Model repository.
+Algorithms,RESOURCES,bci-challenge-ner-2015,https://github.com/alexandrebarachant/bci-challenge-ner-2015,Code and documentation for the winning solution at the BCI Challenge @ NER 2015 : https://www.kaggle.com/c/inria-bci-challenge
+Algorithms,RESOURCES,GraphLab_Practice,https://github.com/nyghtowl/GraphLab_Practice,
+Biology,[BIOGERONTOLOGY](https://en.wikipedia.org/wiki/Gerontology#Biogerontology),longevity,https://github.com/jimrybarski/longevity,A tool to model global population under various life extension scenarios.
+Biology,[BIOGERONTOLOGY](https://en.wikipedia.org/wiki/Gerontology#Biogerontology),population_pyramid,https://github.com/jimrybarski/population_pyramid,Uses matplotlib to create a population pyramid graph.
+Biology,BIOTOOLS,annotations,https://github.com/tyarkoni/annotations,Multimodal stimulus annotation in Python.
+Biology,BIOTOOLS,antz,https://github.com/jmschrei/antz,"Bioinformatic tools for biologists, made pythonic!"
+Biology,BIOTOOLS,BioBERT,https://github.com/dmis-lab/biobert,a pre-trained biomedical language representation model. https://doi.org/10.1093/bioinformatics/btz682.
+Biology,BIOTOOLS,bionetwork,https://github.com/machbio/bionetwork,"Graph Database, a network of everything bio."
+Biology,BIOTOOLS,Bionitio,https://github.com/bionitio-team/bionitio,provides a template for command line bioinformatics tools in various programming languages.
+Biology,BIOTOOLS,biostar-central,https://github.com/ialbert/biostar-central,The software that runs the [Biostars Bioinformatics Q&A](http://www.biostars.org).
+Biology,BIOTOOLS,Bio_Eutils,https://github.com/jmaupetit/Bio_Eutils,The standalone version of the Entrez and Medline BioPython modules.
+Biology,BIOTOOLS,bipy,https://github.com/roryk/bipy,Lightweight bioinformatics pipeline tools using iPython.
+Biology,BIOTOOLS,chowda,https://github.com/chrismamil/chowda,Python module for analysis of CLAMS (comprehensive lab animal monitoring system) data.
+Biology,BIOTOOLS,Cosmos,https://cosmos.hms.harvard.edu,A Python library for Workflow Management System that tracks massively parallel computing clusters as well as cloud-based services. Download it [here](https://cosmos.hms.harvard.edu/download.html).
+Biology,BIOTOOLS,CTDopts,https://github.com/genericworkflownodes/CTDopts,"CTDopts is a module for enabling tools with CTD reading/writing, argument parsing, validating and manipulating capabilities."
+Biology,BIOTOOLS,Encode-dataframe,https://github.com/daler/encode-dataframe,Convert UCSC's ENCODE metadata into pandas DataFrames.
+Biology,BIOTOOLS,bioblend,https://github.com/afgane/bioblend,A python library for interacting with CloudMan and Galaxy API.
+Biology,BIOTOOLS,galaxy_blast,https://github.com/peterjc/galaxy_blast,Galaxy wrappers for NCBI BLAST+ and related BLAST tools.
+Biology,BIOTOOLS,GalaxyConfigGenerator,https://github.com/genericworkflownodes/GalaxyConfigGenerator,"Given a CTD file, GalaxyConfigGenerator generates a Galaxy wrapper."
+Biology,BIOTOOLS,galaxy-lib,https://github.com/galaxyproject/galaxy-lib,Subset of Galaxy (http://galaxyproject.org/) core code designed to be used as a library.
+Biology,BIOTOOLS,rabix,https://github.com/rabix/rabix,Reproducible Analyses for Bioinformatics.
+Biology,BIOTOOLS,samtools-trio-nexus,https://github.com/bpow/samtools-trio-nexus,An applet for running samtools on trios (child and both parents) on DNAnexus.
+Biology,BIOTOOLS,tiny-test-data,https://github.com/roryk/tiny-test-data,Super small biological datasets for unit testing.
+Biology,Docker,biopython_docker,https://github.com/biopython/biopython_docker,Dockerfiles to build Biopython instances.
+Biology,EMR,AuShadha,https://github.com/dreaswar/AuShadha,AuShadha (औषध) means medicine in Sanskrit. This is a Electronic Medical Records (EMR) and Public Health Management for small clinics written in Django and Dojo.
+Biology,ECOLOGY,Macroeco,http://macroeco.org,Ecological pattern analysis in Python. Get the [Source code](https://github.com/jkitzes/macroeco) and [Documentation](http://macroeco.org/en/latest/).
+Biology,ECOLOGY,Bird-colony,https://github.com/melizalab/django-bird-colony,A Django application used to manage bird colonies (including breeding colonies).
+Biology,ECOLOGY,Python-ecology,http://datacarpentry.github.io/python-ecology,Data Carpentry Python lessons on ecology. Source [code](https://github.com/datacarpentry/python-ecology) on github.
+Biology,Bioacoustics,Chirp,http://melizalab.github.io/chirp/,A set of related tools for pitch-based analysis and comparison of bioacoustic signals. [Source code](https://github.com/melizalab/chirp)
+Biology,EPIDEMIOLOGY,Epibayes,https://github.com/jzelner/epibayes,(Rudimentary) tools for epidemiological modeling w/Bayesian statistics.
+Biology,EPIDEMIOLOGY,Epipy,https://github.com/cmrivers/epipy,Epipy is a Python package for epidemiology.
+Biology,EPIDEMIOLOGY,episounds,https://github.com/cmrivers/episounds,A sonification of human to human transmission of Middle East Respiratory Syndrome Coronavirus.
+Biology,EPIDEMIOLOGY,Epitopes,"https://github.com/hammerlab/epitopes) → Python interface to immunology and bioinformatics datasets (i.e. IEDB, cancer antigens, TCGA mutant peptides)",
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),DEAP,https://github.com/DEAP/deap,Distributed Evolutionary Algorithms in Python. [Documentation](http://deap.readthedocs.org/)
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),Notebooks,https://github.com/DEAP/notebooks) on how to use Distributed Evolutionary Algorithm in Python (DEAP),
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),Pierre Lindenbaum's implementation of the Genetic Algorithm described by Roger Alsing,http://plindenbaum.blogspot.in/2008/12/random-notes-2008-12.html) above,
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),parallyze,https://github.com/rohanmaddamsetti/parallyze,Software to analyze parallel genome evolution.
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),phylowgs,https://github.com/morrislab/phylowgs,Application for inferring subclonal composition and evolution from whole-genome sequencing data.
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),screed,https://github.com/ged-lab/screed) (GED@MSU.EDU,"A simple read-only sequence database, designed for short reads from the Genomics, Evolution, and Development Lab. [Documentation](http://readthedocs.org/docs/screed/en/latest/)."
+Biology,[EVOLUTIONARYBIOLOGY](https://en.wikipedia.org/wiki/Category:Evolutionary_biology),singlecell,https://github.com/roryk/singlecell,single-cell data analysis incubator.
+Biology,GENOMICS,allbiotc2,https://github.com/ALLBio/allbiotc2,"Benchmark pipeline for Structural Variation analyses, funded by the [ALLBio](http://www.allbioinformatics.eu/doku.php?id=start)."
+Biology,GENOMICS,anhima,https://github.com/alimanfoo/anhima,Analyse genetic variation
+Biology,GENOMICS,ASAP,https://github.com/ddofer/asap,Amino-Acid Sequence Annotation Predictor.
+Biology,GENOMICS,bamslider,https://github.com/vsbuffalo/bamslider,Sliding windows in BAM/SAM files with Python's deques.
+Biology,GENOMICS,Bamsurgeon,https://github.com/adamewing/bamsurgeon,"Tools for adding mutations to existing .bam files, used for testing mutation callers."
+Biology,GENOMICS,batch_clustalo,https://github.com/koshlan/batch_clustalo,Multiple Sequences Alignments in Batch.
+Biology,GENOMICS,bcbio-test-data,https://github.com/roryk/bcbio-test-data,test data for bcbio-nextgen.
+Biology,GENOMICS,bcbio-conda,https://conda.binstar.org/bcbio,Conda recipes for bcbio python code and dependencies. [Source Code](https://github.com/chapmanb/bcbio-conda)
+Biology,GENOMICS,bcbio.coverage,https://github.com/lpantano/bcbio.coverage,utils functions for exome coverage plots as quality controls.
+Biology,GENOMICS,biomartpy,https://github.com/daler/biomartpy,Simple interface to BioMart (Python -> rpy2 -> R/BioConductor's biomaRt).
+Biology,GENOMICS,BioSeq,"https://github.com/MeHelmy/BioSeq) is a python lib for Sequence Alignment Map (SAM), a standard data storage format for DNA sequencing",
+Biology,GENOMICS,brat,https://github.com/nlplab/brat,Brat rapid annotation tool - for all your textual annotation needs http://brat.nlplab.org
+Biology,GENOMICS,BreakSeq2,https://github.com/bioinform/breakseq2,Ultrafast and accurate nucleotide-resolution analysis of structural variants.
+Biology,GENOMICS,Chanjo,http://www.chanjo.co/,This package provides a better way to analyze coverage data in clinical sequencing. [Source Code](https://github.com/robinandeer/chanjo).
+Biology,GENOMICS,chrom_sweep,https://github.com/arq5x/chrom_sweep,Sweep-line algorithm for genomic features. Detect overlaps on large files w/ minimal memory.
+Biology,GENOMICS,codachrom,https://github.com/arq5x/codachrom,Chromosomal copy number tools.
+Biology,GENOMICS,CaPSID,https://pypi.python.org/pypi/capsid/1.4.3) (Computational Pathogen Sequence IDentification,"A comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results. [Source code](https://github.com/capsid/capsid) and the [Documentation Wiki](https://github.com/capsid/capsid/wiki/)."
+Biology,GENOMICS,cyvcf,https://github.com/arq5x/cyvcf,A fast Python library for VCF files leveraging Cython for speed.
+Biology,GENOMICS,collage-dicty,https://github.com/marinkaz/collage-dicty,Gene prioritization by compressive data fusion and chaining. [Paper](http://dx.doi.org/10.1371/journal.pcbi.1004552).
+Biology,GENOMICS,ETE - Environment for Tree Exploration,http://etetoolkit.org/treeview/,"A python programming toolkit that assists in the automated manipulation, analysis and visualization of any type of hierarchical trees. This includes phylogenetic trees, clustering results and profile-based trees. It supports node annotation, programatic tree drawing, circular visualization, SVG, PNG and PDF image rendering, and more! View the [source code](https://github.com/jhcepas/ete) on github."
+Biology,GENOMICS,figmop,https://github.com/dave-the-scientist/figmop,Finding Genes using Motif Patterns.
+Biology,GENOMICS,fusenet,https://github.com/marinkaz/fusenet,Gene network inference by fusing data from diverse distributions. [Paper](http://bioinformatics.oxfordjournals.org/content/31/12/i230).
+Biology,GENOMICS,Gemini,https://github.com/arq5x/gemini,A lightweight db framework for disease and population genetics.
+Biology,GENOMICS,genomeEdit,https://github.com/khaikhai/genomeEdit,Python script to count SMRT sequenced reads of amplicons generated from genome editing using CRISPR or TALEN methods.
+Biology,GENOMICS,gtf-parse-off,https://github.com/dcjones/gtf-parse-off,Experiments with parsing gene transfer format (GTF).
+Biology,GENOMICS,gvl_flavor,https://github.com/afgane/gvl_flavor,Genomics Virtual Lab (GVL) flavor for CloudBioLinux.
+Biology,GENOMICS,g-quad,https://github.com/roryk/g-quad,Calculates the G-quadraplex score for a FASTA file of sequences.
+Biology,GENOMICS,Harvest,"https://github.com/marbl/harvest) is a suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial genomes. It includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees",
+Biology,GENOMICS,HasBin,https://github.com/bpow/HasBin,A project for keeping track of genes/diagnoses and custom annotations.
+Biology,GENOMICS,hapmuc,https://github.com/usuyama/hapmuc," A somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations."
+Biology,GENOMICS,hts-python,https://github.com/brentp/hts-python,pythonic wrapper for libhts.
+Biology,GENOMICS,HTSeq,https://pypi.python.org/pypi/HTSeq,A framework to process and analyze data from high-throughput sequencing (HTS) assays. [Documentation](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html).
+Biology,GENOMICS,khmer,https://github.com/ged-lab/khmer,"In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more. [Documentation](http://khmer.readthedocs.org)"
+Biology,GENOMICS,KGML,https://github.com/widdowquinn/KGML,"Parse, manipulate, download, and visualise KGML (KEGG markup language) biological pathway data."
+Biology,GENOMICS,KneadData,https://bitbucket.org/biobakery/kneaddata,"A tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments."
+Biology,GENOMICS,MAF,https://github.com/vsbuffalo/maf,a light framework to pipeline short read mapper/aligner testing.
+Biology,GENOMICS,metaseq,https://github.com/daler/metaseq,A Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data. [Documentation](http://packages.python.org/metaseq/).
+Biology,GENOMICS,methtools,https://github.com/bgruening/methtools,Tools for the processing of genome-wide bisulfite sequencing data.
+Biology,GENOMICS,MetaSVMerge,https://github.com/bioinform/metasv,An accurate method-aware merging algorithm for structural variations.
+Biology,GENOMICS,mmgenome,http://madsalbertsen.github.io/mmgenome/,Tools for extracting individual genomes from metagneomes.
+Biology,GENOMICS,MixClone,https://github.com/uci-cbcl/MixClone,A mixture model for inferring tumor subclonal populations.
+Biology,GENOMICS,nanopore-scripts,https://github.com/arq5x/nanopore-scripts,Various scripts and recipes for working with nanopore data.
+Biology,GENOMICS,nexus-fusetester,https://github.com/bpow/nexus-fusetester):: A simple applet to test use of python-llfuse to access files within a DNAnexus node,
+Biology,GENOMICS,Oncotator,https://github.com/ankurdave/oncotator,"A web application for annotating human genomic point mutations and indels with data relevant to cancer researchers. See, http://www.broadinstitute.org/oncotator"
+Biology,GENOMICS,PAAP,https://github.com/RILAB/paap,Preprocessing and Alignment Pipeline (PAAP) using Slurm array jobs.
+Biology,GENOMICS,peddy,https://github.com/brentp/peddy,An API for dealing with pedigree files.
+Biology,GENOMICS,piper,https://github.com/NationalGenomicsInfrastructure/piper,A genomics pipeline build on top of the GATK Queue framework.
+Biology,GENOMICS,Platypus,https://github.com/andyrimmer/Platypus,The Platypus variant caller.
+Biology,GENOMICS,poretools,https://github.com/arq5x/poretools,A toolkit for working with Oxford nanopore data.
+Biology,GENOMICS,PyVCF,https://github.com/jamescasbon/PyVCF,A Variant Call Format reader for Python. [Documentation](http://pyvcf.readthedocs.org/en/latest/index.html).
+Biology,GENOMICS,pygenetorrent,https://github.com/hammer/pygenetorrent) → A Python client for GeneTorrent,
+Biology,GENOMICS,rbac-23andme-oauth2,https://github.com/offapi/rbac-23andme-oauth2,Genetic Access Control using the 23andME API.
+Biology,GENOMICS,rubra,https://github.com/bjpop/rubra,Infrastructure code to support DNA pipeline.
+Biology,GENOMICS,scurgen,https://github.com/arq5x/scurgen,A tool for detecting patterns in genomic data with space filling curves.
+Biology,GENOMICS,seq2seq-attn,https://github.com/harvardnlp/seq2seq-attn,Sequence-to-sequence model with LSTM encoder/decoders and attention. http://nlp.seas.harvard.edu/code
+Biology,GENOMICS,seqscripts,https://github.com/roryk/seqscripts,Scripts for parsing the output from the Tophat/Cufflinks/Cuffcompare pipeline into other formats and analyzing and editing GTF files.
+Biology,GENOMICS,singlecell,https://github.com/roryk/singlecell) data analysis incubator for analysing single-cell data generated by the method outlined here: http://biorxiv.org/content/early/2014/03/05/00323,
+Biology,GENOMICS,Smash,https://github.com/amplab/smash,A benchmarking toolkit for variant calling.
+Biology,GENOMICS,theprimerdirective,https://github.com/jimrybarski/theprimerdirective,A Python interface to Primer3.
+Biology,DNA,dna-traits,https://github.com/cslarsen/dna-traits,A fast 23andMe genome text file parser.
+Biology,DNA,PyPore,https://github.com/jmschrei/PyPore,This package is based off of a few core data analysis packages in order to provide a consistent and easy framework for handling nanopore data in the UCSC nanopore lab.
+Biology,DNA,Railroadtracks,https://github.com/Novartis/railroadtracks,A Python package to handle connected computation steps for DNA and RNA Seq.
+Biology,RNA,findorf,https://github.com/vsbuffalo/findorf,ORF prediction of de novo transcriptome assemblies and contig annotation tool designed to be non-model organism-friendly.
+Biology,RNA,flotilla,https://github.com/YeoLab/flotilla,A Python package for visualizing transcriptome (RNA expression) data from hundreds of samples - Reproducible machine learning analysis of gene expression and alternative splicing data. [Documentation](http://yeolab.github.io/flotilla/docs).
+Biology,RNA,gimme,https://github.com/likit/gimme,A lightweight reference-guided Alignment-based assembler for transcriptome analysis.
+Biology,RNA,RNASeqReadSimulator,http://www.cs.ucr.edu/~liw/rnaseqreadsimulator.html,A simple tool to generate simulated single-end or paired-end RNA-Seq reads. [Source Code](https://github.com/davidliwei/RNASeqReadSimulator).
+Biology,RNA,tcgaparse,https://github.com/machbio/tcgaparse,Python Scripts to Parse TCGA data.
+Biology,RNA,ikipedia's [list of RNA-Seq bioinformatics tools,"http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not all of which are in Python, but they may have an API one can use",
+Biology,RNA,YAP,https://github.com/Novartis/yap,"An extensible parallel framework, written in python using openmpi libraries that allows researchers to quickly build high throughput big data pipelines without extensive knowledge of parallel programming."
+Biology,ResearchPublications,"ieter Kelchtermans, Wout Bittremieux, Kurt De Grave, Sven Degroeve1, Jan Ramon, Kris Laukens, Dirk Valkenborg, Harald Barsnes, Lennart Martens; [Machine learning applications in proteomics research: How the past can boost the future",http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300289/full);21JAN201,
+Biology,ResearchPublications,"enneth Verheggen, Harald Barsnes, Lennart Martens, [Distributed computing and data storage in proteomics: Many hands make light work, and a stronger memory","http://onlinelibrary.wiley.com/doi/10.1002/pmic.201300288/full), 27NOV2013",
+Biology,ResearchPublications,"lien Vandermarliere, Lennart Martens; [Protein structure as a means to triage proposed PTM sites",http://onlinelibrary.wiley.com/doi/10.1002/pmic.201200232/full); 04FEB2013,
+Biology,ResearchPublications,"arc Vaudel, Albert Sickmann and Lennart Martens; [Current methods for global proteome identification",http://informahealthcare.com/doi/abs/10.1586/epr.12.51); OCT2012,
+Biology,Resources,otes: [An introductory approach (with an application to the Prisoner's Dilemma) to Genetic Algorithms,http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm,
+Biology,Resources,Benchmarking HDF5 and BLZ for genotype data storage and access,http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb,
+Biology,Resources,2013-norwich-bioinfo,https://github.com/ngs-docs/2013-norwich-bioinfo,2013 advanced bioinformatics workshop at Norwich.
+Biology,Resources,2013-norwich-biology,https://github.com/ngs-docs/2013-norwich-biology,Advanced biology workshop at Norwich.
+Biology,Resources,2013-davis-assembly,https://github.com/ngs-docs/2013-davis-assembly,
+Biology,Resources,2015-khmer-wok4-multimap,https://github.com/ctb/2015-khmer-wok4-multimap),
+Biology,Resources,2015-python-intro,https://github.com/ngs-docs/2015-python-intro,An Introduction to Python.
+Biology,MED-[Orthodontics](https://en.wikipedia.org/wiki/Orthodontics),Q3DCExtension,https://github.com/DCBIA-OrthoLab/Q3DCExtension,Compute 2D angles using placed fiducials.
+Biology,MICROBIOLOGY,Ebola,https://github.com/cmrivers/ebola,Data for the 2014 Global Ebola outbeak.
+Biology,MICROBIOLOGY,fylm,https://github.com/jimrybarski/fylm,Extracts data from Fission Yeast Lifespan Microdissector images.
+Biology,MICROBIOLOGY,molecbio,https://github.com/dave-the-scientist/molecbio,Molecular biology informatics functions.
+Biology,MICROBIOLOGY,patternHmm,https://github.com/dave-the-scientist/patternHmm,Matching patterns of symbols using a profile Hidden Markov Model.
+Biology,MICROBIOLOGY,phageParser,https://github.com/BillMills/phageParser,A parser to extract the relevant data from the [PhagesDB](http://phagesdb.org/) Mycobacteriophage database.
+Biology,MICROBIOLOGY,ProkaryMetrics,https://github.com/smdabdoub/ProkaryMetrics,Visualize and analyze 3D biofilm data from fluorescent micrographs. http://justicelab.org/pkm
+Biology,Org-[biocore](https://github.com/biocore),burrito,https://github.com/biocore/burrito,Python framework for controlling command-line applications.
+Biology,Org-[biocore](https://github.com/biocore),burrito-fillings,https://github.com/biocore/burrito-fillings,Application controllers for command line bioinformatics applications
+Biology,Org-[biocore](https://github.com/biocore),emperor,https://github.com/biocore/emperor,Emperor a tool for the analysis and visualization of large microbial ecology datasets. http://emperor.colorado.edu
+Biology,Org-[biocore](https://github.com/biocore),glowing-dangerzone,https://github.com/biocore/glowing-dangerzone,Easy SQL connection handlers.
+Biology,Org-[biocore](https://github.com/biocore),QIIME,http://www.qiime.org,Quantitative Insights Into Microbial Ecology. [Official repository](https://github.com/biocore/qiime) for software and unit tests.
+Biology,Org-[biocore](https://github.com/biocore),phylotoast,https://github.com/smdabdoub/phylotoast,"Ahttp://qiime-tools.readthedocs.orgdhttp://qiime-tools.readthedocs.orgdhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orghhttp://qiime-tools.readthedocs.orgehttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgQhttp://qiime-tools.readthedocs.orgIhttp://qiime-tools.readthedocs.orgIhttp://qiime-tools.readthedocs.orgMhttp://qiime-tools.readthedocs.orgEhttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.org(http://qiime-tools.readthedocs.orgQhttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgvhttp://qiime-tools.readthedocs.orgehttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgIhttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgghttp://qiime-tools.readthedocs.orghhttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgIhttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgMhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orgrhttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgbhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgEhttp://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgghttp://qiime-tools.readthedocs.orgyhttp://qiime-tools.readthedocs.org)http://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgphttp://qiime-tools.readthedocs.orgrhttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgjhttp://qiime-tools.readthedocs.orgehttp://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgdhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgghttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgdhttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.orgyhttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.org,http://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgvhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgzhttp://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.org,http://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgahttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgdhttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orglhttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgehttp://qiime-tools.readthedocs.orgrhttp://qiime-tools.readthedocs.org-http://qiime-tools.readthedocs.orgchttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgmhttp://qiime-tools.readthedocs.orgphttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.orgihttp://qiime-tools.readthedocs.orgnhttp://qiime-tools.readthedocs.orgghttp://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgshttp://qiime-tools.readthedocs.orguhttp://qiime-tools.readthedocs.orgphttp://qiime-tools.readthedocs.orgphttp://qiime-tools.readthedocs.orgohttp://qiime-tools.readthedocs.orgrhttp://qiime-tools.readthedocs.orgthttp://qiime-tools.readthedocs.org.http://qiime-tools.readthedocs.org http://qiime-tools.readthedocs.orgDhttp://qiime-tools.readthedocs.orgOhttp://qiime-tools.readthedocs.orgChttp://qiime-tools.readthedocs.orgS"
+Biology,Org-[biocore](https://github.com/biocore),mustached-octo-ironman,https://github.com/biocore/mustached-octo-ironman,Easy dispatched compute via in a Tornado environment.
+Biology,Org-[biocore](https://github.com/biocore),my-microbes,https://github.com/biocore/my-microbes,A set of tools for delivering personal microbiome results to individuals participating in microbiome sequencing studies.
+Biology,Org-[biocore](https://github.com/biocore),PyNAST,http://biocore.github.io/pynast/,Python Nearest Alignment Space Termination tool - Official repository for software and unit tests.
+Biology,Org-[biocore](https://github.com/biocore),qiita,https://github.com/biocore/qiita,A QIIME databasing effort.
+Biology,Org-[biocore](https://github.com/biocore),Platypus Conquistador,https://github.com/biocore/Platypus-Conquistador,A bioinformatic command line tool for the confirmation of the presence/absence of a specific taxon (or set of taxa) in environmental shotgun sequence reads.
+Biology,Org-[biocore](https://github.com/biocore),pyqi,https://github.com/biocore/pyqi,Tools for developing and testing command line interfaces in Python.
+Biology,Org-[biocore](https://github.com/biocore),scikit-bio,http://scikit-bio.org,"Core objects, functions and statistics for working with biological data in Python. [Source code](https://github.com/biocore/scikit-bio)."
+Biology,Org-[biocore](https://github.com/biocore),StrainDB,https://github.com/biocore/StrainDB,A database to store strain genomes.
+Biology,Org-[biocore](https://github.com/biocore),tax2tree,https://github.com/biocore/tax2tree,Automated taxonomy decoration onto a tree.
+Biology,Org-[biocore](https://github.com/biocore),verman,https://github.com/biocore/verman,Python module version information.
+Biology,MOLECULARBIOLOGY,BioPython,http://biopython.org,project is an international association of developers of freely available Python tools for computational molecular biology. [Source code](https://github.com/biopython/biopython)
+Biology,MOLECULARBIOLOGY,bcbb,https://github.com/chapmanb/bcbb,"An incubator (collection) of useful bioinformatics code related to biological analysis, primarily in Python and R. [Blog](http://bcbio.wordpress.com)"
+Biology,MOLECULARBIOLOGY,mdtraj,http://www.mdtraj.org,"A modern, open library for the analysis of molecular dynamics trajectories. [Source code](https://github.com/mdtraj/mdtraj) on GHub."
+Biology,MOLECULARBIOLOGY,MMTK,http://dirac.cnrs-orleans.fr/MMTK/,The Molecular Modelling Toolkit is an Open Source program library for molecular simulation applications.
+Biology,MOLECULARBIOLOGY,MSMBuilder,http://msmbuilder.org/,"An open source software package for automating the construction and analysis of Markov State Models for Biomolecular Conformational Dynamics. MSMs are a powerful means of modeling the structure and dynamics of molecular systems, like proteins. Installation is easy via Anaconda : [read the documentation](http://msmbuilder.org/installation.html), or the [source code](https://github.com/pandegroup/msmbuilder) to report bugs and contribute patches."
+Biology,MOLECULARBIOLOGY,tRNA_evo,https://github.com/vhsvhs/trna_evo,"This project analyzes the evolution of tRNAs, from across the tree of life. How prevalent is anticodon switching?"
+Biology,Resources,GFF Parsing,http://biopython.org/wiki/GFF_Parsing) notes,
+Biology,NEUROSCIENCE,BrainImagingPipelines,https://github.com/INCF/BrainImagingPipelines) → Optimized Nipype pipelines for brain imaging,
+Biology,NEUROSCIENCE,brainx,https://github.com/nipy/brainx,"Tools for analysis of brain imaging-derived networks, based on NetworkX."
+Biology,NEUROSCIENCE,CodeNeuro,http://codeneuro.org/,Bringing neuroscience and data science together.
+Biology,NEUROSCIENCE,CogSlots,https://github.com/cbattista/CogSlots,Simulated Slot Machine for the behavioral sciences.
+Biology,NEUROSCIENCE,CPAC,https://github.com/FCP-INDI/C-PAC,A configurable pipeline for rsfMRI/connectome analyses.
+Biology,NEUROSCIENCE,DCMPy,https://github.com/armaneshaghi/DCMPy,A Python module for longitudinal surface-based DCM of fMRI data.
+Biology,NEUROSCIENCE,dicomsort,https://github.com/pieper/dicomsort,A project to provide custom sorting and renaming of dicom files.
+Biology,NEUROSCIENCE,ERPy,https://github.com/nejstastnejsistene/ERPy,An open-source neuroscience application for visualization and analysis of electroencephalographic data using the Python programming language.
+Biology,NEUROSCIENCE,fit_neuron,https://github.com/nicodjimenez/fit_neuron,"A neuroscience python package for the estimation and evaluation of neural models from patch clamp neural recordings, including a library of spike distance metrics."
+Biology,NEUROSCIENCE,fmri-analysis-vm,https://github.com/poldrack/fmri-analysis-vm,A VM setup for use in fMRI analysis and education.
+Biology,NEUROSCIENCE,ICA-AROMA,https://github.com/rhr-pruim/ICA-AROMA,Software package of ICA-AROMA; a data-driven method to identify and remove motion-related independent components from functional MRI data.
+Biology,NEUROSCIENCE,MIEN,http://mien.msu.montana.edu/,Python tool chain framework and data visualization suite for neuroscience. [Source code](https://github.com/gic888/MIEN)
+Biology,NEUROSCIENCE,MNE,http://martinos.org/mne/,Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python. [Source code](https://github.com/mne-tools/mne-python)
+Biology,NEUROSCIENCE,Basic introduction to MNE Python processing,https://github.com/mne-tools/mne-python-intro),
+Biology,NEUROSCIENCE,nengo,https://github.com/nengo/nengo,A Python library for creating and simulating large-scale brain mode.
+Biology,NEUROSCIENCE,Neurosciences,https://github.com/rougier/Neurosciences,Computational Neurosciences repository.
+Biology,NEUROSCIENCE,NIPY,https://github.com/nipy) developers group on GH,
+Biology,NEUROSCIENCE,nibabel,http://nipy.org/nibabel/,Python package to access a cacophony of neuro-imaging file formats. [Source code](https://github.com/nipy/nibabel).
+Biology,NEUROSCIENCE,NIDM,https://github.com/incf-nidash/nidm, Neuroimaging Data Model (NIDM) describing neuroimaging data and provenance. http://nidm.nidash.org
+Biology,NEUROSCIENCE,nidm-training,https://github.com/incf-nidash/nidm-training,Training materials for learning NIDM.
+Biology,NEUROSCIENCE,nipype,https://github.com/nipy/nipype,Workflows and interfaces for neuroimaging packages with a [nightly builds](http://www.mit.edu/~satra/nipype-nightly/).
+Biology,NEUROSCIENCE,NiLearn course,https://github.com/GaelVaroquaux/nilearn_course,Functional connectivity with NiLearn.
+Biology,NEUROSCIENCE,Nitime,http://nipy.org/nitime,Timeseries analysis for neuroscience data.
+Biology,NEUROSCIENCE,pipelines,https://github.com/NeuroanatomyAndConnectivity/pipelines,Neuroimgaing data processing pipelines used in the lab.
+Biology,NEUROSCIENCE,PredPy,https://github.com/armaneshaghi/PredPy,is a collection of IPython notebooks predicting multiple sclerosis functional composite (MSFC) disability from MRI scans in people with MS.
+Biology,NEUROSCIENCE,PyCogMo,https://github.com/agravier/pycogmo,"is a modular Python framework to develop computational experiments in Cognitive Neuroscience. It makes use of [PyNN](http://neuralensemble.org) and adds task-level scheduling and facilities (learning and testing), and visualisation functions."
+Biology,NEUROSCIENCE,pycone,https://github.com/bgalbraith/pycone,Python in Computational Neuroscience
+Biology,NEUROSCIENCE,pydcemri,https://github.com/welcheb/pydcemri,"Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data. Given a T1-weighted, dynamic, contrast-enhanced data set, a multiflip data set, and either an AIF or blood curves, produce maps of Ktrans, ve, and vp."
+Biology,NEUROSCIENCE,Pycortex,http://pycortex.org,A python-based toolkit for surface visualization in fMRI data. [Source Code](https://github.com/gallantlab/pycortex) on Github.
+Biology,NEUROSCIENCE,pydicom,https://github.com/darcymason/pydicom,"Read, modify and write DICOM files with python code."
+Biology,NEUROSCIENCE,PYEZMINC,https://github.com/BIC-MNI/pyezminc,is a python module to read and write MINC files.
+Biology,NEUROSCIENCE,pyneurovault,https://github.com/NeuroVault/pyneurovault,A python wrapper for the NeuroVault API (in dev) with [documentation](http://www.neurovault.org/api-docs)
+Biology,NEUROSCIENCE,PySurfer,https://github.com/nipy/PySurfer,Cortical neuroimaging visualization in Python. [Online documentation (stable)](http://pysurfer.github.com/) and [Mailing list](http://mail.scipy.org/mailman/listinfo/nipy-devel)
+Biology,NEUROSCIENCE,PyView,https://github.com/lrajmohan/PyView,A project written in Python to perform experiments on learning and decision making used in the department of Neuroscience at Stony Brook University.
+Biology,NeuralNetworks,biaxial-rnn-music-composition,https://github.com/hexahedria/biaxial-rnn-music-composition,A recurrent neural network designed to generate classical music.
+Biology,NeuralNetworks,blocks,https://github.com/mila-udem/blocks,A Theano framework for building and training neural networks.
+Biology,NeuralNetworks,cnn-vis,https://github.com/jcjohnson/cnn-vis,Use CNNs to generate images.
+Biology,NeuralNetworks,Kayak,https://github.com/HIPS/Kayak,a library for automatic differentiation with applications to deep neural networks.
+Biology,NeuralNetworks,nupic,https://github.com/numenta/nupic,"a Platform for Intelligent Computing, brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms by [Numenta](http://numenta.org/)."
+Biology,NeuralNetworks,nupic.studio,https://github.com/nupic-community/nupic.studio,"NuPIC Studio is a powerful all­-in-­one tool that allows users create a HTM neural network from scratch, train it, collect statistics, and share it among the members of the community."
+Biology,NeuralNetworks,neurobank,https://github.com/melizalab/neurobank,"A simple, low-overhead data management system designed for neural and behavioral data, but could be used for other kinds of experiments."
+Biology,NeuralNetworks,optofit,https://github.com/HIPS/optofit,A python framework for fitting biophysical models to optically recorded neural signals.
+Biology,NeuralNetworks,remote_associates_test,https://github.com/ikajic/remote_associates_test,Neural network simulation of the Remote Associates Test.
+Biology,NeuralNetworks,thunder,http://thunder-project.org/thunder/docs/,neural data analysis in spark.
+Biology,Resources,Practical-neuroimaging,http://practical-neuroimaging.github.io,Exercises for 2015 Berkeley practical neuroimaging class. [Source code](https://github.com/practical-neuroimaging/pna2015).
+Biology,Resources,deepdream,https://github.com/google/deepdream,"This repository contains IPython Notebook with sample code, complementing Google Research blog post about Neural Network art."
+Biology,Resources,CodeNeuro-notebooks,https://github.com/CodeNeuro/notebooks,Interactive notebooks for trying analyses and exploring datasets. [Website](http://notebooks.codeneuro.org).
+Biology,Resources,Open book_ on [Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/,
+Biology,Resources,Deep Neural Networks: A Getting Started Tutorial,http://www.visualstudiomagazine.com/articles/2014/06/01/deep-neural-networks.aspx,
+Biology,Resources,Simple neural net setup practice,https://github.com/nyghtowl/Neural_Net_Practice,
+Biology,Resources,Python in NeuroImaging trifold,http://www.onerussian.com/tmp/nipy-handout.pdf,
+Biology,Resources,Python in Electrophysiology trifold,http://www.onerussian.com/tmp/eppy-handout.pdf,
+Biology,Resources,python-for-neuroscience,https://github.com/kylerbrown/python-for-neuroscience,A workshop for teaching python to neuroscientists with some previous programming experience.
+Biology,Neuropsychology,OpenPsyc,https://github.com/cbattista/OpenPsyc,Open source Python scripts for Psychology and the Neurosciences.
+Biology,Neuropsychology,posner,https://github.com/psychopy/posner,The Posner task as a demo for workshop.
+Biology,Neuropsychology,PsychoPy,http://www.psychopy.org,An open-source package for creating psychology stimuli in Python. PsychoPy combines the graphical strengths of OpenGL with the easy Python syntax to give psychophysics a free and simple stimulus presentation and control package. [Source code](https://github.com/psychopy/psychopy)
+Biology,Neuropsychology,python-pyepl,http://neuro.debian.net/pkgs/python-pyepl.html,A module for coding psychology experiments in Python.
+Biology,Neuropsychology,VisionEgg,http://www.visionegg.org,"is another open-source package for creating psychology stimuli in Python, with a specific emphasis on visual stimuli. [Source code](https://github.com/visionegg/visionegg)."
+Biology,Org-[kwikteam](https://github.com/kwikteam),phy,https://github.com/kwikteam/phy,Interactive electrophysiological data analysis package.
+Biology,Pharma,ops-search,https://github.com/openphacts/ops-search,Open PHACTS search service.
+Biology,OpenWorm,PyOpenWorm,https://github.com/openworm/PyOpenWorm,"Unified, simple data access library for data & facts about c. elegans anatomy."
+Biology,OpenWorm,org.geppetto,https://github.com/openworm/org.geppetto,"[Geppetto](http://geppetto.org) is a web-based multi-algorithm, multi-scale Systems Biology simulation platform engineered to support the simulation of complex biological systems and their surrounding environment."
+Biology,SyntheticBiology,SynBio,https://bitbucket.org/chapmanb/synbio/src/,is a Python Synthetic Biology library collection of synthetic biology code.
+Biology,StructuralBiology,CheShift,https://github.com/aloctavodia/cheshift) is a software for prediction of 13Cα and 13Cβ chemical shifts and validation of protein structures,
+Biology,StructuralBiology,Halpain-Lab,http://www.ccb.tu-dortmund.de/groups/CB/bastiaens/dehmelt/NeuriteQuant/,Automated analysis for Fluorescent Microscopy of iPSC and in-vitro cell culture images. [Source Code](https://github.com/GrantRVD/Halpain-Lab).
+Biology,Resources,SBioA,https://github.com/aloctavodia/SBioA,An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL.
+Biology,Resources,PymolWiki,http://www.pymolwiki.org/index.php/Main_Page,Guide for PyMol users.
+Biology,Resources-Teaching,Python for biologists,http://www.pythonforbiologists.com) website,
+Biology,Resources-Teaching,Common Bioinformatics Teaching Resources,http://www.embl.de/~seqanal/courses/commonCourseContent/indexCommonCourseContent.html) by Aidan Budd at EMBL,
+Biology,Resources-Teaching, google document listing [Python for biologists resources,https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) by Lenny Teytelman (@lteytelman on twitter),
+Biology,Resources-Teaching,Software Carpentry,https://software-carpentry.org/lessons.html) teaching material,
+Biology,Resources-Teaching,Train online,"https://www.ebi.ac.uk/training/online/) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes",
+Biology,Resources-Teaching,TrainingPhyloIntro,https://github.com/aidanbudd/trainingPhyloIntro,Practical exercises and slides for teaching computational molecular evolution.
+Biology,Resources-Teaching,capetown2014,https://github.com/aidanbudd/capetown2014,Teaching material for EMBO Practical Course on Computational analysis of protein-protein interactions - From sequences to networks run in Cape Town 2014.
+Biology,Resources-Teaching,course_EMBO_at_TGAC_PPI_Sep2015,https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015,"Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015."
+Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio,http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions),
+Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
+Biology,Resources-Teaching,gradient analysis,https://github.com/NeuroanatomyAndConnectivity/gradient_analysis,Notebooks on Gradient analysis.
+Biology,OtherResources,NIH project reporter,http://projectreporter.nih.gov/reporter.cfm,
+Biology,OtherResources,ExPASy,http://expasy.org/,"The SIB Bioinformatics Resource Portal which provides access to scientific databases and software tools (i.e., resources) in different areas of life sciences including proteomics, genomics, phylogeny, systems biology, population genetics, transcriptomics etc."
+Biology,OtherResources,MSDS,http://www.msdsonline.com/msds-search/,
+Biology,OtherResources,Open WetWare,http://openwetware.org/wiki/Main_Page,A wiki for molecular biology protocols.
+Biology,OtherResources,MolBio Tools,http://molbiol-tools.ca,Tools for molecular biology.
+Biology,OtherResources,Protocol-online,http://www.protocol-online.org,A Q&A portal for molecular biology protocols.
+Build-Automation,BUILDAUTOMATION,Autopkg,https://github.com/autopkg) has more automation recipes,
+Build-Automation,BUILDAUTOMATION,48kRAM-recipes,https://github.com/autopkg/48kRAM-recipes),
+Build-Automation,BUILDAUTOMATION,Hansen-m-recipes,https://github.com/autopkg/hansen-m-recipes,More recipes for Autopkg.
+Build-Automation,BUILDAUTOMATION,Jaharmi-recipes,https://github.com/autopkg/jaharmi-recipes,Recipes for the Mac OS X system administration tool.
+Build-Automation,BUILDAUTOMATION,Jleggat-recipes,https://github.com/autopkg/jleggat-recipes,Recipes for [autopkg](http://autopkg.github.io/autopkg/).
+Build-Automation,BUILDAUTOMATION,ScriptingOSX-recipes,https://github.com/autopkg/scriptingosx-recipes),
+Build-Automation,BUILDAUTOMATION,Thenikola-recipes,https://github.com/autopkg/thenikola-recipes),
+Build-Automation,BUILDAUTOMATION,Timsutton-recipes,https://github.com/autopkg/timsutton-recipes),
+Build-Automation,BUILDAUTOMATION,BuildBot,https://en.wikipedia.org/wiki/Buildbot,Runs atop the Twisted libraries.
+Build-Automation,BUILDAUTOMATION,gitian-builder,https://github.com/devrandom/gitian-builder,Build packages in a secure deterministic fashion inside a VM. https://gitian.org/
+Build-Automation,BUILDAUTOMATION,nupic-darwin64,https://github.com/numenta/nupic-darwin64,Python distribution for NuPIC on OSX.
+Build-Automation,BUILDAUTOMATION,nupic-linux64,https://github.com/numenta/nupic-linux64,Python distribution for NuPIC on 64-bit linux.
+Build-Automation,BUILDAUTOMATION,Pybuilder,http://pybuilder.github.io,Continuous build tool for Python. [Source code](https://github.com/pybuilder/pybuilder).
+Build-Automation,BUILDAUTOMATION,Chef cookbook for Python,https://github.com/poise/python,Chef cookbook to install Python and related tools. http://community.opscode.com/cookbooks/python
+Build-Automation,BUILDAUTOMATION,Diamond,https://github.com/python-diamond/Diamond,"A python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source."
+Build-Automation,BUILDAUTOMATION,GRR,https://github.com/google/grr) Rapid Respons,remote live forensics for incident response.
+Build-Automation,BUILDAUTOMATION,Pinball,https://github.com/pinterest/pinball,A scalable workflow manager.
+Build-Automation,BUILDAUTOMATION,SCons,http://scons.org/,A build automation tool that automatically analyzes source code file dependencies and operating system adaptation requirements from a software project description and generates final binary executables for installation on the target operating system platform. [Wikipedia page](https://en.wikipedia.org/wiki/SCons).
+Build-Automation,DevOpstools,bake,https://github.com/kennethreitz/bake,a s☿rangely familiar workflow utlity - bash bake(make)file for shell-scripting.
+Build-Automation,DevOpstools,cloudpickle,https://github.com/cloudpipe/cloudpickle,Extended pickling support for Python objects.
+Build-Automation,DevOpstools,Fabric,http://www.fabfile.org,A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks. [Source code and bug tracker](https://github.com/fabric/fabric/).
+Build-Automation,DevOpstools,patchwork,https://github.com/fabric/patchwork,"Common deployment/sysadmin operations, built on Fabric."
+Build-Automation,DevOpstools,Plumbum,https://pypi.python.org/pypi/plumbum,Shell combinators library written in Python. Read the [documentation](https://plumbum.readthedocs.org/en/latest/) and [source code](https://github.com/tomerfiliba/plumbum).
+Build-Automation,DevOpstools,pyinvoke,http://pyinvoke.org,Simple Python task execution. [Source code](https://github.com/pyinvoke/invoke).
+Build-Automation,DevOpstools,Watcher,https://github.com/splitbrain/Watcher,"A daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read `ini` file instead of a plain text file. Unlike incron it can also recursively monitor directories. It's also written in Python, making it easier to hack."
+Build-Automation,[OperatingSystemTechnology](http://en.wikipedia.org/wiki/Category:Operating_system_technology),klusta_process_manager,https://github.com/tymoreau/klusta_process_manager,A process manager.
+Build-Automation,Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software),bootstrap-vz,https://github.com/andsens/bootstrap-vz,Bootstrap Debian images for virtualized environments. [Documentation](http://bootstrap-vz.readthedocs.org/).
+Build-Automation,Docker,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/),
+Build-Automation,Docker,docker-volume-backup,https://github.com/paimpozhil/docker-volume-backup,a python script to backup/restore the docker data containers / volumes.
+Build-Automation,Docker,docker-mysql-scripts,https://github.com/luiselizondo/docker-mysql-scripts, A series of useful commands written in python to interact with a MySQL Server running on Docker.
+Build-Automation,Docker,docker-notebook,https://github.com/ipython/docker-notebook,Docker containers for the [Jupyter IPython](https://registry.hub.docker.com/u/ipython/) notebook (+SciPy Stack).
+Build-Automation,Docker,docker-scripts,https://github.com/goldmann/docker-scripts,AA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.sA swiss-knife tool that could be useful for people working with Docker.wA swiss-knife tool that could be useful for people working with Docker.iA swiss-knife tool that could be useful for people working with Docker.sA swiss-knife tool that could be useful for people working with Docker.sA swiss-knife tool that could be useful for people working with Docker.-A swiss-knife tool that could be useful for people working with Docker.kA swiss-knife tool that could be useful for people working with Docker.nA swiss-knife tool that could be useful for people working with Docker.iA swiss-knife tool that could be useful for people working with Docker.fA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.tA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.lA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.tA swiss-knife tool that could be useful for people working with Docker.hA swiss-knife tool that could be useful for people working with Docker.aA swiss-knife tool that could be useful for people working with Docker.tA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.cA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.uA swiss-knife tool that could be useful for people working with Docker.lA swiss-knife tool that could be useful for people working with Docker.dA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.bA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.uA swiss-knife tool that could be useful for people working with Docker.sA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker.fA swiss-knife tool that could be useful for people working with Docker.uA swiss-knife tool that could be useful for people working with Docker.lA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.fA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.rA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.pA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.pA swiss-knife tool that could be useful for people working with Docker.lA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.wA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.rA swiss-knife tool that could be useful for people working with Docker.kA swiss-knife tool that could be useful for people working with Docker.iA swiss-knife tool that could be useful for people working with Docker.nA swiss-knife tool that could be useful for people working with Docker.gA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.wA swiss-knife tool that could be useful for people working with Docker.iA swiss-knife tool that could be useful for people working with Docker.tA swiss-knife tool that could be useful for people working with Docker.hA swiss-knife tool that could be useful for people working with Docker. A swiss-knife tool that could be useful for people working with Docker.DA swiss-knife tool that could be useful for people working with Docker.oA swiss-knife tool that could be useful for people working with Docker.cA swiss-knife tool that could be useful for people working with Docker.kA swiss-knife tool that could be useful for people working with Docker.eA swiss-knife tool that could be useful for people working with Docker.r
+Build-Automation,Docker,docker-AMI,https://github.com/johncosta/docker-AMI,Scripts used to create docker-AMI images.
+Build-Automation,Docker,dockerspawner,https://github.com/jupyter/dockerspawner,Spawns JupyterHub user servers in Docker containers.
+Build-Automation,Docker,hcp-neurodebian,https://github.com/yarikoptic/hcp-neurodebian,Scripts to create HCP environment containing basic Docker file to erect 10GB beast containing HCP500 full pipelines.
+Build-Automation,Docker,Pythonista,https://github.com/ikalnitsky/pythonista,A Docker image for Python developers to use and test their applications.
+Build-Automation,Packaging,antipackage,https://github.com/ellisonbg/antipackage,Automagically import single file Python modules from GitHub.
+Build-Automation,Packaging,Changes,https://github.com/michaeljoseph/changes,Automates python library release tasks.
+Build-Automation,Packaging,cookiecutter-pylibrary,https://github.com/ionelmc/cookiecutter-pylibrary,Enhanced cookiecutter template for Python libraries.
+Build-Automation,Packaging,Flit,https://github.com/takluyver/flit,Simplified packaging of Python modules. [Documentation](http://flit.readthedocs.org/).
+Build-Automation,Packaging,picnic.py,https://github.com/Zulko/picnic.py,Easy Python packages creation.
+Build-Automation,Packaging,pip2pi,https://github.com/wolever/pip2pi,Builds a PyPI-compatible package repository from pip requirements.
+Build-Automation,Packaging,pip-tools,https://github.com/nvie/pip-tools,A set of tools to keep your pinned Python dependencies fresh.
+Build-Automation,Packaging,Punch,https://github.com/lgiordani/punch,"A configurable version updater, that you can use to automate the management of your project's version number."
+Build-Automation,Packaging,pynsist,https://pypi.python.org/pypi/pynsist,Build Windows installers for Python apps.
+Build-Automation,Packaging,pythonize,https://github.com/princebot/pythonize,"Download, install, and configure Python in one line."
+Build-Automation,Packaging,twine,https://github.com/pypa/twine,Utilities for interacting with PyPI.
+Build-Automation,Resources,OSA book [Python Packaging,http://www.aosabook.org/en/packaging.html) by Tarek Ziade,
+Build-Automation,Resources,python-cffi-example,https://github.com/wolever/python-cffi-example,An example project showing how to use Python's CFFI.
+Build-Automation,Resources,"nother post explaining Python [Modules, Packages, and all that",https://python4astronomers.github.io/installation/packages.html),
+Build-Automation,Sandbox,autoenv,https://github.com/kennethreitz/autoenv,Directory-based environments.
+Build-Automation,Anaconda,anaconda-recipes,https://github.com/ContinuumIO/anaconda-recipes,Continuum managed recipes for free anaconda packages.
+Build-Automation,Anaconda,dummypkg,https://github.com/bjodah/dummypkg,Using pytest --pyargs pythonpackagename under a conda environment does not work. This is a minimal example for reproducing this bug.
+Build-Automation,Anaconda,Flonda,https://github.com/takluyver/flonda,"An Anaconda package builder for `linux-64`, `linux-32`, `osx-64`, `win-64` and `win-32` platforms."
+Build-Automation,Anaconda,sparkonda,https://github.com/moutai/sparkonda,Minimalistic utility library to manage conda environments for pyspark jobs on yarn clusters.
+Build-Automation,Anaconda,xz-feedstock,https://github.com/scopatz/xz-feedstock,The conda recipe (raw material).
+Build-Automation,Conda,Conda,https://github.com/conda/conda,"is a cross-platform, Python-agnostic [binary package manager](http://conda.pydata.org)"
+Build-Automation,Conda,Conda package for Python-3.2 for 64-bit Linux,https://binstar.org/cpcloud/python,
+Build-Automation,Conda,ctox,https://github.com/hayd/ctox,Tox with conda.
+Build-Automation,Conda,python-appveyor-conda-example,https://github.com/rmcgibbo/python-appveyor-conda-example,Demo project for building and shipping Python conda packages with Appveyor CI and Travis CI.
+Build-Automation,Conda,CommandCI_conda,https://github.com/CommandCI/CommandCI_conda,Command CI services to build conda packages.
+Build-Automation,Conda,conda build-all,https://github.com/SciTools/conda-build-all,A conda subcommand which allows multiple distributions to be built (and uploaded) in a single command. It makes use of the underlying machinery developed for conda build.
+Build-Automation,Conda,conda-execute,https://github.com/pelson/conda-execute) : Execute scripts in their own temporary environment,
+Build-Automation,Conda,conda-dev-recipes,https://github.com/omnia-md/conda-dev-recipes,"Conda development recipes (*-dev packages), built [nightly](https://nightli.es/)."
+Build-Automation,Conda,conda-recipes,https://github.com/omnia-md/conda-recipes,conda build recipes for the [Omnia](http://omnia.md) project.
+Build-Automation,Conda,recipes,https://github.com/bioconda/recipes,The bioconda channel is a Conda channel providing bioinformatics related packages. This repository hosts the corresponding recipes.
+Build-Automation,[Conda-Forge](https://github.com/conda-forge),conda-smithy,https://github.com/conda-forge/conda-smithy,The tool for managing conda-forge feedstocks.
+Build-Automation,[Conda-Forge](https://github.com/conda-forge),libffi-feedstock,https://github.com/conda-forge/libffi-feedstock,A conda-smithy repository for libffi.
+Build-Automation,[Conda-Forge](https://github.com/conda-forge),pyopengl-feedstock,https://github.com/conda-forge/pyopengl-feedstock,A conda-smithy repository for pyopengl.
+Build-Automation,Resources,Continuum Analytics: Documentation,http://docs.continuum.io,
+Build-Automation,Resources,jakevdp blogs about [Conda: Myths and Misconceptions,https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/),
+Build-Automation,Resources,python-3 in anaconda,http://continuum.io/blog/anaconda-python-3,
+Build-Automation,Resources,Conda cheatsheet,http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf,
+Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/),
+Chemistry,,Chemharp,https://github.com/Luthaf/Chemharp,An efficient IO library for chemistry file formats.
+Chemistry,,ChemSpiPy,https://github.com/mcs07/ChemSpiPy,Python wrapper for the ChemSpider API. [Documentation](http://chemspipy.readthedocs.org)
+Chemistry,,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, rewritten as PyQuante2 to clean up the old package."
+Chemistry,,Pymatgen,http://pymatgen.org/,is the [Python materials analysis library](https://pypi.python.org/pypi/pymatgen/2.4.3) powering the [Materials Project](http://www.materialsproject.org). [Source code](https://github.com/materialsproject/pymatgen).
+Chemistry,,"aper : [Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis",https://www.sciencedirect.com/science/article/pii/S0927025612006295?np=y,
+Chemistry,,Pymol-script-repo,https://github.com/Pymol-Scripts/Pymol-script-repo,Collected scripts for Pymol. [Pymol wiki](http://www.pymolwiki.org/index.php/Git_intro)
+Chemistry,ComputationalChemistry,Cantera,"https://github.com/Cantera/cantera) : An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes",
+Chemistry,ComputationalChemistry,MDTraj,"https://github.com/pandegroup/mdtraj) : A modern, open library for the analysis of molecular dynamics trajectories",
+Chemistry,ComputationalChemistry,PDBFixer,https://github.com/pandegroup/pdbfixer,An easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them.
+Chemistry,Org-[Chemreac](https://github.com/chemreac),chemreac,https://github.com/chemreac/chemreac,Library for chemical kinetics in homogeneous or isotropically symmetric inhomogenous systems.
+Chemistry,Org-[Chemreac](https://github.com/chemreac),chemreac_anaconda,https://github.com/chemreac/chemreac_anaconda,Conda recipes for conda packages published under `conda.anaconda.org/chemreac`.
+Chemistry,Org-[Chemreac](https://github.com/chemreac),chemreac-benchmarks,https://github.com/chemreac/chemreac-benchmarks,benchmarks for chemreac.
+Chemistry,MolecularChemistry,FRETUtils,https://github.com/martinhoefling/fretutils,FRET simulation and distance reconstruction utilities written in Python. [Website](http://www.schwabenlan.de/en/science/distance-measurement-on-the-nanometer-scale-with-fret-and-md).
+Chemistry,MolecularChemistry,MDAnalysis,https://code.google.com/p/mdanalysis/,"An object-oriented python toolkit to analyze molecular dynamics trajectories generated by CHARMM, Gromacs, NAMD, LAMMPS, or Amber."
+Chemistry,MolecularChemistry,TEA,https://github.com/dzesmin/TEA,"Thermochemical Equilibrium Abundances (TEA), a code to calculate gaseous molecular abundances under thermochemical equilibrium conditions."
+Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),GSAS_Bayes,https://github.com/AntonGagin/GSAS_Bayes,Extension to the Rietveld package GSAS-II.
+Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),tomopy,https://github.com/tomopy/tomopy,An open-sourced Python toolbox to perform tomographic data processing and image reconstruction tasks at the Advanced Photon Source. [Documentation](https://tomopy.readthedocs.org/).
+Chemistry,QuantumChemistry,Clusterchem,https://github.com/jiahao/clusterchem,Q-Chem Grid Engine handler.
+Computer-Graphics,Crochet,Crystallocrafty,https://github.com/PerlJam/Crystallocrafty,Crochet patterns generated from protein structural data.
+Computer-Graphics,Crochet,img2pattern,https://github.com/g19fanatic/img2pattern,"Takes an image and helps break it down so that it can be crocheted in a ""paint by numbers"" fashion"
+Computer-Graphics,Knitting,patternknitt,https://github.com/Timian/patternknitt,Pattern making to knitting purposes.
+Computer-Graphics,Sewing,Embroidermodder,https://github.com/Embroidermodder/Embroidermodder,A free machine embroidery software program supporting a variety of formats.
+Computer-Graphics,Resources-Sewing,nformation on [computerized embroidery,http://edutechwiki.unige.ch/en/Computerized_embroidery),
+Computer-Graphics,Resources-Sewing,n old blog post on machine [embroidery designs with Linux,http://libregraphicsworld.org/blog/entry/embroidery-design-on-linux-now-possible-with-thred),
+Computer-Graphics,Resources-Sewing,Comparison of embroidery software,https://en.wikipedia.org/wiki/Comparison_of_embroidery_software),
+Computer-Graphics,GRAPHICS,bitarray,https://github.com/ilanschnell/bitarray,This module provides an object type which efficiently represents an array of booleans.
+Computer-Graphics,GRAPHICS,CoDrawing,https://github.com/charlyoleg/CoDrawing,A workspace attempting to make easier the co-creation of drawings.
+Computer-Graphics,GRAPHICS,colour-analysis,https://github.com/colour-science/colour-analysis,Image analysis tools based on Colour and Vispy.
+Computer-Graphics,GRAPHICS,EigenFace,https://github.com/bugra/EigenFace,EigenFace implementation in Python for Yale FaceDatabase. Eigenvectors are used in the computer vision problem of human face recognition.
+Computer-Graphics,GRAPHICS,Gizeh,https://github.com/Zulko/gizeh,Simple Vector Graphics for Python.
+Computer-Graphics,GRAPHICS,Vector Animations With Python,https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/) using Gizeh,
+Computer-Graphics,GRAPHICS,ImageAI,https://github.com/OlafenwaMoses/ImageAI,A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities. https://commons.specpal.science
+Computer-Graphics,GRAPHICS,he blog post [Object Detection with 10 lines of code,https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606),
+Computer-Graphics,GRAPHICS,MoviePy,http://zulko.github.io/moviepy/,Video editing with Python.
+Computer-Graphics,GRAPHICS,Data Animations With Python and MoviePy,https://zulko.github.io/blog/2014/11/29/data-animations-with-python-and-moviepy/,
+Computer-Graphics,GRAPHICS,PCV,https://github.com/jesolem/PCV,"An open source pure Python library for computer vision based on the book ""Programming Computer Vision with Python"" by Jan Erik Solem."
+Computer-Graphics,GRAPHICS,PIL,http://www.pythonware.com/products/pil/,"Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3."
+Computer-Graphics,GRAPHICS,pydeface,https://github.com/poldracklab/pydeface,A defacing utility for MRI images.
+Computer-Graphics,GRAPHICS,python-colormath,https://github.com/gtaylor/python-colormath,"A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org)."
+Computer-Graphics,Games,Panda3D,https://www.panda3d.org/,The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
+Computer-Graphics,Video,submerger,https://github.com/grote/submerger, Merges subtitle files into one unified video file.
+Computer-Graphics,Resources,Bokeh Snake,https://github.com/akloster/bokeh-snake,This is an example on how to use Jupyter widgets and the Bokeh plotting library to implement a simple Snake Game.
+Computer-Graphics,Resources,OpenCV panorama stitching,http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/,Image stitching and panorama construction using Python and OpenCV.
+Computer-Graphics,Resources, Python Libraries for Creating [Interactive Plots,https://blog.modeanalytics.com/python-interactive-plot-libraries/),
+Computer-Graphics,INFOGRAPHICS,abstract_rendering,https://github.com/ContinuumIO/abstract_rendering,Bin based rendering for the win (in python)!
+Computer-Graphics,INFOGRAPHICS,Arfview,https://github.com/kylerbrown/arfview,A data visualization program for use with data in the arf format.
+Computer-Graphics,INFOGRAPHICS,Biggles,"https://github.com/nolta/biggles) : Scientific (simple, elegant) plotting in Python",
+Computer-Graphics,INFOGRAPHICS,Bokeh,http://bokeh.pydata.org,"is a Python library for visualizing large and realtime datasets on the web. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity to thin clients. Bokeh includes its own Javascript library (BokehJS) that implements a reactive scenegraph representation of the plot, and renders efficiently to HTML5 Canvas. Bokeh works well with IPython Notebook, but can generate standalone graphics that embed into regular HTML. If you are a Matplotlib user, you can just use %bokeh magic to start interacting with your plots in the notebook immediately!"
+Computer-Graphics,INFOGRAPHICS,Bokeh-notebooks,https://github.com/ContinuumIO/bokeh-notebooks) - Interactive web plotting samples with Bokeh in IPython notebook,
+Computer-Graphics,INFOGRAPHICS,brewer2mpl,https://github.com/jiffyclub/brewer2mpl,Connect colorbrewer2.org color maps to Python and matplotlib. [Wiki](https://github.com/jiffyclub/brewer2mpl/wiki)
+Computer-Graphics,INFOGRAPHICS,d3py,https://github.com/mikedewar/d3py,"is a plotting library for Python based on the JavaScript library ""[D3.js](http://d3js.org/)""."
+Computer-Graphics,INFOGRAPHICS,Glue,https://github.com/glue-viz/glue,is a python project to link visualizations of scientific datasets across many files.
+Computer-Graphics,INFOGRAPHICS,GmtPy,http://emolch.github.com/gmtpy,A Python interface to GMT. [Tutorial](http://emolch.github.io/gmtpy/tutorial.html)
+Computer-Graphics,INFOGRAPHICS,Healpy,https://github.com/healpy/healpy,"A python package to manipulate healpix maps, based on the standard numeric and visualisation tools for Python, Numpy and matplotlib."
+Computer-Graphics,INFOGRAPHICS,HoloViews,http://ioam.github.io/holoviews,"A Python package for scientific and engineering data visualization that provides composable, sliceable, declarative data structures for building complex visualizations easily."
+Computer-Graphics,INFOGRAPHICS,Matplotlib,http://matplotlib.org/,"is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code."
+Computer-Graphics,INFOGRAPHICS,mplot3d tutorial,http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html,
+Computer-Graphics,INFOGRAPHICS,Inset plots in Matplotlib,http://scipython.com/blog/inset-plots-in-matplotlib/),
+Computer-Graphics,INFOGRAPHICS,Orange,http://orange.biolab.si,An Open source data visualization and analysis suite for data mining through visual programming or Python scripting.
+Computer-Graphics,INFOGRAPHICS,object_detection_trainer,https://github.com/seattle-police/object_detection_trainer,A web interface for creating histogram-of-oriented-gradient (HOG) based object detectors.
+Computer-Graphics,INFOGRAPHICS,Pygal,http://pygal.org,PYthon SVG GrAph plotting Library. [Source code](https://github.com/Kozea/pygal).
+Computer-Graphics,INFOGRAPHICS,Pylab,http://wiki.scipy.org/PyLab,is Matplotlib's pylab interface for interactive mode.
+Computer-Graphics,INFOGRAPHICS,Plotly,https://plot.ly/python,is an API and webhost for all your Python web plotting needs.
+Computer-Graphics,INFOGRAPHICS,SnakeViz,https://github.com/jiffyclub/snakeviz,A viewer for Python profiling data that runs as a web application in your browser.
+Computer-Graphics,INFOGRAPHICS,Seaborn,http://stanford.edu/~mwaskom/software/seaborn/,Statistical data visualization using matplotlib. [Source code](https://github.com/mwaskom/seaborn)
+Computer-Graphics,INFOGRAPHICS,Toyplot,https://github.com/sandialabs/toyplot, Interactive plotting for Python. [Documentation](http://toyplot.readthedocs.org)
+Computer-Graphics,INFOGRAPHICS,PyWaffle,https://github.com/gyli/PyWaffle,"An open source, MIT-licensed Python package for plotting waffle charts."
+Computer-Graphics,INFOGRAPHICS,Yellowbrick,https://github.com/DistrictDataLabs/yellowbrick,"A suite of custom matplotlib visualizers for scikit-learn estimators to support visual feature analysis, model selection, evaluation, and diagnostics. [Documentation](http://www.scikit-yb.org/en/latest/)"
+Computer-Graphics,INFOGRAPHICS,YT,"http://yt-project.org/):: A python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community",
+Computer-Graphics,Non-Pythontools,36 Excellent Data Visualization Tools,http://www.smashingapps.com/2014/06/30/36-excellent-data-visualization-tools.html) in JavaScript,
+Computer-Graphics,Org-Enthought,Enstaller,https://github.com/enthought/enstaller,A package management and installation tool for egg-based Python distributions.
+Computer-Graphics,Org-Enthought,MayaVi2,http://github.com/enthought/mayavi,3D visualization of scientific data in Python.
+Computer-Graphics,Org-Enthought,Okonomiyaki,https://github.com/enthought/okonomiyaki,An experimental library aimed at consolidating a lot of our low-level code used for Enthought's eggs.
+Computer-Graphics,Org-Enthought,Pyface,https://github.com/enthought/pyface,Traits-capable windowing framework.
+Computer-Graphics,Org-Enthought,SciMath,https://github.com/enthought/scimath,"This project includes packages to support scientific and mathematical calculations, beyond the capabilities offered by SciPy."
+DataBase,SciDB,SciDB-py,https://github.com/Paradigm4/SciDB-py,Python wrapper for [SciDB](http://scidb.org) queries.
+DataBase,SciDB,bio_scidb,https://github.com/ChrisBeaumont/bio_scidb) : ScidDB-Py Biology Demo,
+DataBase,SciDB,Dev tools,https://github.com/Paradigm4/dev_tools,Tools for installing SciDB plugins from GitHub.
+DataBase,SciDB,gdal2scidb,https://github.com/albhasan/gdal2scidb,Python scripts for exporting a raster (supported by GDAL) to SciDB binary format.
+DataBase,SciDB,modis2scidb,https://github.com/albhasan/modis2scidb, Python scripts for uploading MODIS images to SciDB.
+DataBase,SciDB,scidb4py,https://github.com/artyom-smirnov/scidb4py,Pure python SciDB client library. The [@Paradigm4 fork](https://github.com/Paradigm4/scidb4py)
+DataBase,SciDB,scidbbackup,https://github.com/nicksteiner/scidbbackup,Script to backup/manage SciDB arrays during upgrades.
+DataBase,SciDB,scidbload,https://github.com/nicksteiner/scidbload,Load scidb arrays to python.
+DataBase,SciDB,scidbpy-aflgen,https://github.com/ChrisBeaumont/scidbpy-aflgen,SciDB AFL Parser Generate data for SciDBpy AFL bindings.
+DataBase,SciDB,spheredb,https://github.com/jakevdp/spheredb,Python utilities for storage and manipulation of spherical data in SciDB.
+DataBase,SciDB,TAQ,https://github.com/Paradigm4/TAQ,Example SciDB queries for finance trade and quote data.
+DataBase,HDF,h5io,https://github.com/h5io/h5io,Read and write simple Python objects using HDF5.
+DataBase,Resources,hdf5-is-for-lovers,https://github.com/scopatz/hdf5-is-for-lovers,HDF5 Tutorial notebooks.
+DataBase,[ArangoDB](http://www.arangodb.org/),ArangoPy,https://github.com/saeschdivara/ArangoPy,Python driver Framework to access https://github.com/triAGENS/ArangoDB
+DataBase,[ArangoDB](http://www.arangodb.org/),pyArango,https://github.com/tariqdaouda/pyArango,Python Object Wrapper for ArangoDB with built-in validation. http://pyArango.tariqdaouda.com
+DataBase,[ArangoDB](http://www.arangodb.org/),python-arango,https://github.com/joowani/python-arango) by @joowan,Python Driver for ArangoDB REST API.
+DataBase,[ArangoDB](http://www.arangodb.org/),python-arango,https://github.com/linkux-it/python-arango) by @linkux-i,Driver for ArangoDB.
+DataBase,[ArangoDB](http://www.arangodb.org/),python-arangodb,https://github.com/diefans/python-arangodb,One of many arangodb rest adaptors for python.
+DataBase,Neo4J,Neomodel,https://github.com/robinedwards/neomodel,An Object Graph Mapper (OGM) for the neo4j graph database. [Documentation](http://neomodel.rtfd.org)
+DataBase,RDBMS,DBNormalizer,https://github.com/humbertog/DBNormalizer,DB normalizer project DMKM.
+DataBase,RDBMS,Tangerine,https://github.com/jmschrei/tangerine,A lightweight embedded Python RDBMS.
+DataBase,PostgreSQL,governor,https://github.com/compose/governor,Runners to orchestrate a high-availability PostgreSQL.
+DataBase,PostgreSQL,postgresql-metrics,https://github.com/spotify/postgresql-metrics,Tool that extracts and provides metrics on your PostgreSQL database.
+DataBase,ORM,peewee,https://github.com/coleifer/peewee,"A small, expressive ORM that supports Postgresql, Mysql and Sqlite. [Documentation](http://docs.peewee-orm.com/)."
+DataBase,InfluxDB,influxdb-python,https://github.com/influxdata/influxdb-python,Python client for InfluxDB.
+DataBase,RESOURCES,The Lesser Known Normal Forms of Database Design,http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/,
+Earth-Science,AERONAUTICS,av3-fc,https://github.com/psas/av3-fc,PSAS Flight Computer's avionics version 3 flight computer.
+Earth-Science,Resources,AeroPython,https://github.com/barbagroup/AeroPython,"Classical Aerodynamics of potential flow using Python, for [Prof. Barba](http://lorenabarba.com/)'s course at GW (1st version:Spring 2014, 2nd run:2015)."
+Earth-Science,ASTRONOMY,Astropy,https://github.com/astropy) → Astronomy Python Library,
+Earth-Science,ASTRONOMY,astroscrappy,https://github.com/astropy/astroscrappy,Speedy Cosmic Ray Annihilation Package.
+Earth-Science,ASTRONOMY,ASV | Airspeed Velocity,http://spacetelescope.github.io/asv,A simple Python benchmarking tool with web-based reporting.
+Earth-Science,ASTRONOMY,Caput,https://github.com/radiocosmology/caput,Cluster Astronomical Python Utilities.
+Earth-Science,ASTRONOMY,Celestialbody,https://github.com/jsbj/celestialbody) is a library for calculating the climate and weather on existing and hypothetical planets and moons,
+Earth-Science,ASTRONOMY,EchelleTools,"https://github.com/iancze/EchelleTools) are command-line tools to process high resolution echelle spectra from astronomical instruments (TRES, HIRES, Spex, etc...) into a common HDF5 format",
+Earth-Science,ASTRONOMY,Gammapy,https://github.com/gammapy/gammapy,A Python package for gamma-ray astronomy. [Documentation](https://gammapy.readthedocs.org/)
+Earth-Science,ASTRONOMY,Gamma-speed,https://github.com/gammapy/gamma-speed,Measure gamma-ray data analysis speed (focus on multi-core likelihood fitting speed-ups). [Documentation](https://gamma-speed.readthedocs.org/).
+Earth-Science,ASTRONOMY,gatspy,https://github.com/jakevdp/gatspy,General tools for Astronomical Time Series in Python.
+Earth-Science,ASTRONOMY,klima,https://github.com/wuan/klima,Python modules for building a climate data logger.
+Earth-Science,ASTRONOMY,LRG_redshifts,https://github.com/jakevdp/LRG_redshifts, Finding double redshifts in SDSS LRGs.
+Earth-Science,ASTRONOMY,oec_outreach,https://github.com/hannorein/oec_outreach,A variant of the Open Exoplanet Catalogue (a database of all discovered extra-solar planets) with additional data and images mainly useful for outreach projects.
+Earth-Science,ASTRONOMY,periodogram,https://github.com/astroML/periodogram,Unified implementation for period-finding in astronomical time series.
+Earth-Science,ASTRONOMY,PyFITS,https://github.com/spacetelescope/PyFITS,"Git repository for the PyFITS project; PyFITS is still actively maintained in SVN, but this repository exists to ease the migration into AstroPy (see above). http://www.stsci.edu/resources/software_hardware/pyfits"
+Earth-Science,ASTRONOMY,Pylades,https://github.com/helgee/plyades,"Plyades is an astrodynamics library, written in Python and based on Numpy and Scipy. [Documentation for the astrodynamics library](http://plyades.readthedocs.org)"
+Earth-Science,ASTRONOMY,pyMarsTime,https://github.com/ashima/pyMarsTime,Mars Time Calculation in Python.
+Earth-Science,ASTRONOMY,ProbabilisticLensing,https://github.com/jakevdp/ProbabilisticLensing,"A probabilistic formalism of weak lensing, based on Bayes Nets/Probabilistic Graphical Models."
+Earth-Science,ASTRONOMY,ShutterCorrect,https://github.com/iancze/ShutterCorrect) calculates a shutter correction map for digital images. Primarily designed for correcting astronomical images to achieve the desired illumination,
+Earth-Science,ASTRONOMY,utsc-ptcs,https://github.com/hannorein/utsc-ptcs,University of Toronto Scarborough - Python Telescope Control System.
+Earth-Science,Resources,AAS227Workshop,https://github.com/jakevdp/AAS227Workshop,Materials for the Bayesian Methods in Astronomy workshop at AAS227.
+Earth-Science,GIS,Atmosphere,https://github.com/iPlantCollaborativeOpenSource/atmosphere,"An integrative, private, self-service cloud computing platform designed to provide easy access to preconfigured, frequently used analysis routines, relevant algorithms, and data sets in an available-on-demand environment designed to accommodate computationally and data-intensive bioinformatics tasks."
+Earth-Science,GIS,biggus,https://github.com/SciTools/biggus, Virtual large arrays and lazy evaluation. [Documentation](http://biggus.readthedocs.org/)
+Earth-Science,GIS,BurnMan,http://www.burnman.org,is a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments. Get the [source code](https://github.com/geodynamics/burnman) from github.
+Earth-Science,GIS,Cartopy,http://scitools.org.uk/cartopy/,A cartographic python library with matplotlib support. [Source code](https://github.com/SciTools/cartopy) on github.
+Earth-Science,GIS,Cora,https://github.com/radiocosmology/cora,"Code for simulating skies for 21cm Intensity Mapping, including galactic and extragalactic foregrounds."
+Earth-Science,GIS,Driftscan,https://github.com/radiocosmology/driftscan,"A Python project for simulating and analysing the transit radio interferometers telescopes, with a particular focus on 21cm Cosmology."
+Earth-Science,GIS,Iris,http://scitools.org.uk/iris/,A Python library for Meteorology and Climatology. The Iris library implements a data model to create a data abstraction layer which isolates analysis and visualisation code from data format specifics.
+Earth-Science,GIS,Karta,https://github.com/njwilson23/karta) →  A tidy Python package for geospatial computation,
+Earth-Science,GIS,MASSACR,https://github.com/navahnavahnavah/massacr,Modeling Altered Seafloor: Simulation and Climatic Response.
+Earth-Science,GIS,MetPy,https://github.com/metpy/MetPy,A Python Package for Meteorological Data.
+Earth-Science,GIS,PitchWeather,https://github.com/roryk/PitchWeather,Links Weather Underground weather data to a PitchFx database.
+Earth-Science,GIS,PyLith,https://github.com/geodynamics/pylith,is a finite element code for the solution of dynamic and quasi-static tectonic deformation problems.
+Earth-Science,GIS,Pyshp,https://github.com/GeospatialPython/pyshp,library to read and write ESRI Shapefiles in pure Python.
+Earth-Science,GIS,ulmo,https://github.com/ulmo-dev/ulmo,"clean, simple and fast access to public hydrology and climatology data."
+Earth-Science,Geolocation,geoip-api-python,https://github.com/maxmind/geoip-api-python,A Python API for MaxMind GeoIP Legacy Database.
+Earth-Science,Geolocation,geopandas,https://github.com/geopandas/geopandas,Python tools for geographic data.
+Earth-Science,Geolocation,geoplotlib,https://github.com/andrea-cuttone/geoplotlib,A toolbox for visualizing geographical data.
+Earth-Science,Geolocation,GeoPy,https://github.com/geopy/geopy) → is a Geocoding Toolbox for Python 2 and 3 for several popular geocoding web services,
+Earth-Science,Geolocation,geo-tools,https://github.com/jesolem/geo-tools,Collection of Python modules for working with geo data.
+Earth-Science,Geolocation,pygeoip,https://github.com/appliedsec/pygeoip) →  Pure Python API for Maxmind's binary GeoIP databases,
+Earth-Science,Geolocation,python-geojson,https://github.com/frewsxcv/python-geojson,Python bindings and utilities for GeoJSON. On [PyPI](https://pypi.python.org/pypi/geojson/).
+Earth-Science,Geolocation,reverse-geocoder,https://github.com/thampiman/reverse-geocoder,"A fast, offline reverse geocoder in Python."
+Earth-Science,Resources,UW_Python_for_Geosciences,https://github.com/jhamman/UW_Python_for_Geosciences,Talks from the UW Python for Geosciences Seminar.
+Earth-Science,Resources,SciPy-Tutorial-2015,https://kjordahl.github.io/SciPy-Tutorial-2015/,TUTORIAL on Geospatial Data with Open Source Tools in Python.
+IO,DataFormats,Arf,https://github.com/melizalab/arf,Advanced recording format for physiology and behavior.
+IO,DataFormats,Feather,https://github.com/wesm/feather,"A fast, interoperable binary columnar serialization data frame storage for Python, R, and more powered by Apache Arrow."
+IO,DataFormats,hdfs,https://github.com/mtth/hdfs,API and command line interface for HDFS. [Documentation](http://hdfscli.readthedocs.org)
+IO,DataFormats,lbl,https://github.com/kylerbrown/lbl,"A python library for reading/writing and manipulating lbl files, represented within python as a numpy record array with fields 'name', 'start', and 'stop'. This format is useful for writing data to the arf file format."
+IO,DataFormats,loompy,https://github.com/linnarsson-lab/loompy, Python implementation of the `Loom` file format - http://loompy.org
+IO,DataFormats,PyCifRW,https://pypi.python.org/pypi/PyCifRW/3.6.2,Library support for reading and writing CIF (Crystallographic Information Format) files using Python. [Source code on Bitucket](https://bitbucket.org/jamesrhester/pycifrw/).
+IO,DataFormats,PyCIF,https://github.com/quantumjockey/pycif,"A python module for reading from, writing to, and manipulating International Union of Crystallography (IUCr) CIF-formatted data files."
+IO,DataFormats,pymarkdown,https://github.com/mrocklin/pymarkdown,Evaluate code in markdown.
+IO,DataFormats,RDFLib,https://github.com/RDFLib/rdflib/,"A Python library for working with RDF, a simple yet powerful language for representing information. [Documentation](https://rdflib.readthedocs.org/)."
+IO,DataFormats,sam,https://github.com/smdabdoub/sam,Simple parsing tools in python for SAM-format files.
+IO,DataFormats,stapler,https://github.com/hellerbarde/stapler,A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk.
+IO,DataFormats,snakebite,https://github.com/spotify/snakebite,A pure python HDFS client.
+IO,DataFormats,xlrd3,https://github.com/joidegn/xlrd3,Port of xlrd for reading excel files to python-3.
+IO,DataFormats,x_x,https://github.com/krockode/x_x,A command line reader that displays either Excel files or CSVs in your terminal.
+IO,CSV,pyexcel,https://github.com/pyexcel/pyexcel,"Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files. Documentation:  http://pyexcel.readthedocs.io"
+IO,CSV,tabulator-py,https://github.com/frictionlessdata/tabulator-py,Consistent interface for stream reading and writing tabular data (csv/xls/json/etc).
+IO,ELAN-EAF,eaf_tools,https://github.com/LongSeanSilvr/eaf_tools,Collection of scripts to help in reviewing and preparing ELAN .eaf` files for FAVE alignment
+IO,ELAN-EAF,pyelan,https://github.com/jonkeane/pyelan,A python module that makes interacting with ELAN files easier.
+IO,DataModels,ocumentation for [working with RDFLib and RDFExtras,http://rdfextras.readthedocs.org/en/latest/working_with.html),
+IO,DataModels,pySesame,http://pysesame.projects.semwebcentral.org,a Python wrapper for Sesame.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),typeshed,https://github.com/python/typeshed,"Collection of library stubs for Python, with static types."
+IO,Parser,numparser,https://pypi.python.org/pypi/numparser,Python library for parsing numbers from strings. [Source Code](https://github.com/sadovnychyi/numparser).
+IO,Parser,Poyo,https://github.com/hackebrot/poyo,A lightweight YAML Parser for Python.
+IO,Markdown,CommonMark-py,https://github.com/rtfd/CommonMark-py,Python CommonMark parser.
+Machines,,aravisGigE,https://github.com/areaDetector/aravisGigE,An EPICS area Detector driver using the glib aravis library for video acquisition with Genicam cameras. Python is used to create databases and edm screens from the XML file.
+Machines,,Migen,https://github.com/m-labs/migen,A Python toolbox for building complex digital hardware by [M-Labs](http://m-labs.hk).
+Machines,,PeachPy,https://github.com/Maratyszcza/PeachPy,x86-64 assembler embedded in Python. An [online IDE](http://www.peachpy.io) for PeachPy is also available.
+Machines,CAD-CAM,OSCAD,https://github.com/hardythe1/OSCAD,An open source CAD tool for electronics & electrical engineering.
+Machines,ControlSystem,Adskalman,https://github.com/astraw/adskalman,Kalman filtering routine in Python/numpy.
+Machines,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Raspberry_Pi,https://github.com/nineties/py-videocore,Python library for GPGPU on [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
+Machines,GUI,PyGMI,https://github.com/Argonne-National-Laboratory/PyGMI,"Open source graphical interface for taking generic measurements over GPIB, USB, ethernet, serial ports."
+Machines,Robots,baldr,https://github.com/motet/baldr,A flight simulator for quadrotor drones written entirely in Python.
+Machines,Robots,DroneKit-Python,https://github.com/dronekit/dronekit-python,A library for communicating with Drones via MAVLink.
+Machines,Robots,UT : [Study of Exploration Algorithms in developmental robotics with Explauto,http://nbviewer.jupyter.org/github/sebastien-forestier/ExplorationAlgorithms/blob/master/main.ipynb,
+Machines,Tools,xlang,https://github.com/darpa-xdata/xlang,Tools for Cross-language data interoperability.
+Mathematics,CRYPTOGRAPHY,Cryptography,https://cryptography.io/,A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
+Mathematics,CRYPTOGRAPHY,ed25519,https://github.com/pyca/ed25519,Optimized version of the reference implementation of Ed25519.
+Mathematics,MATH,bcolz,https://blosc.org,A columnar data container that can be compressed. [Source code and bug tracker](https://github.com/Blosc/bcolz)
+Mathematics,MATH,otebook showing the [Benchmark for querying the MovieLens dataset using pandas and bcolz,http://nbviewer.ipython.org/github/Blosc/movielens-bench/blob/master/querying-ep14.ipynb,
+Mathematics,MATH,beta_ntf,https://github.com/nils-werner/beta_ntf,Nonnegative Matrix and Tensor Factorization in Python. https://code.google.com/p/beta-ntf/
+Mathematics,MATH,bquery,https://github.com/visualfabriq/bquery,A query and aggregation framework for Bcolz.
+Mathematics,MATH,complex-numbers,https://github.com/j2kun/complex-numbers,"The code respository for the post ""Learning to Love Complex Numbers""."
+Mathematics,MATH,impyla,https://github.com/cloudera/impyla,"A Python client and Numba-based UDFs for Cloudera Impala, which allows you to rapidly analyze large, distributed data sets, but doesn't integrate easily with your ad hoc (Python) analytical tools (pandas, scikit-learn), which impyla aims to remedy."
+Mathematics,MATH,nimfa,https://github.com/marinkaz/nimfa,A Python Library for Nonnegative Matrix Factorization. http://nimfa.biolab.si
+Mathematics,MATH,Smolyak,https://github.com/EconForge/Smolyak,Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
+Mathematics,MATH,symengine.py,https://github.com/symengine/symengine.py,Python wrappers for SymEngine.
+Mathematics,MATH,zero-modform,https://github.com/haochenuw/zero-modform,Polynomials satisfied by j-invariants of zeros of atkin-lehner eigenforms.
+Mathematics,Resources,Elementary Number Theory,https://github.com/williamstein/ent,"Primes, Congruences, and Secrets."
+Mathematics,Algebra,boolprob,https://github.com/cvxgrp/boolprob,A Python tool to analyze joint distributions of boolean random variables.
+Mathematics,Algebra,galgebra,https://github.com/brombo/galgebra,Geometric algebra/calculus modules for sympy.
+Mathematics,Algebra,Mathics,https://github.com/mathics/Mathics,"A general-purpose computer algebra system (CAS). It is meant to be a free, light-weight alternative to Mathematica."
+Mathematics,Algebra,pykrylov,http://dpo.github.com/pykrylov, A library of Krylov methods in pure Python.
+Mathematics,Algebra,Sympy,http://sympy.org/,A computer algebra system for symbolic mathematics written in pure Python. [Source code](https://github.com/sympy/sympy).
+Mathematics,Algebra,sympy-notebooks,https://github.com/sympy/sympy-notebooks,Some Jupyter notebook examples for SymPy.
+Mathematics,Algebra,Thea,https://github.com/SciTools/thea):: Python GUI to visualise a cube,
+Mathematics,Non-LinearEquations,pyneqsys,https://github.com/bjodah/pyneqsys,Solving of symbolic systems of non-linear equations numerically.
+Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
+Mathematics,Resources,Coding_the_matrix,https://github.com/branner-courses/coding_the_matrix) is a self-Study of Linear Algebra Using Philip Klein's Materials,
+Mathematics,Calculus&AppliedMath,finitediff,https://github.com/bjodah/finitediff) → A Fortran-90 version of Begnt Fornberg's formulae for optimized inter-/extrapolation of data series for up to N-th order derivative with C/C++/Python bindings,
+Mathematics,Calculus&AppliedMath,HyperPython,https://github.com/ketch/HyperPython,A brief and practical introduction to the solution of [hyperbolic conservation laws](http://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),awkward-array,https://github.com/scikit-hep/awkward-array, Manipulate arrays of complex data structures as easily as Numpy.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Blaze,http://blaze.pydata.org,The next-generation of NumPy and Pandas for BigData.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Boost.NumPy,https://github.com/ndarray/Boost.NumPy,The Boost.Python interface for NumPy; in preparation for eventual proposal to Boost (manual mirror of Boost Sandbox SVN).
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),castra,https://github.com/blaze/castra,A partitioned storage system based on blosc.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),distributed,https://github.com/blaze/distributed,A library for distributed computation.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),ignition,https://github.com/IgnitionProject/ignition,A python automation project producing low-level optimized scientific code from high level language descriptions. A [numerical code generator](http://ignitionproject.github.io/ignition/).
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),irlbpy,https://github.com/bwlewis/irlbpy,Truncated SVD by implicitly restarted Lanczos bidiagonalization for Python Numpy.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),LASS,https://github.com/cvxgrp/lass,Linear Algebra for Structured Sparse Matrices.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),La,http://pypi.python.org/pypi/la,"Larry, the labeled numpy array. The main class of the la package is a labeled array, larry. A larry consists of data and labels. The data is stored as a NumPy array and the labels as a list of lists (one list per dimension). [Source Code](https://github.com/kwgoodman/la)."
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),minpy,https://github.com/dmlc/minpy,Pure numpy practice with third party operator Integration.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Multiuserblazeserver,https://github.com/ContinuumIO/multiuserblazeserver,
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Numba,http://numba.pydata.org/) → is a pure Python JIT(ted) complier to LLVM to improve and optimize NumPy,
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),numexpr,"https://github.com/pydata/numexpr) is a fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, BLZ",
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),NumPy,"http://www.numpy.org) has support for linear algebra, large multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays",
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),CS231n Convolutional Neural Networks for Visual Recognition,https://cs231n.github.io/python-numpy-tutorial/,
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),100 Numpy tricks,http://www.loria.fr/~rougier/teaching/numpy.100/index.html,
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis), quick reference guide to the commonly used [NumPy functions,http://people.duke.edu/~ccc14/pcfb/numpympl/NumpyBasics.html),
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Proteus,http://proteus.usace.army.mil,A Python package for rapidly developing computer models and numeric simulation methods. Get the [source code](https://github.com/erdc-cm/proteus) from github.
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),IPython notebooks involving proteus,https://github.com/erdc-cm/proteus-notebooks),
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),pyeq2,https://github.com/zunzun/pyeq2,"A large collection of Python equations that can fit themselves to 2D and 3D data sets, output source code in several computing languages, and run a genetic algorithm for initial parameter estimation. Comes with cluster, parallel processing, GUI, NodeJS, and web-based graphical examples. Includes orthogonal distance and relative error regressions."
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),python-flint/,http://fredrik-johansson.github.com/python-flint/,Python bindings for FLINT (Fast Library for Number Theory).
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Tinynumpy,https://github.com/wadetb/tinynumpy,"A lightweight, pure Python, numpy compliant ndarray class."
+Mathematics,Resources,Benchmarking HDF5 and BLZ for genotype data storage and access,http://nbviewer.ipython.org/gist/alimanfoo/67fdcf58e364763fd0b6/benchmark_hdf5_blz.ipynb,
+Mathematics,Resources,atthew Rocklin's blog post on the [`into` function,http://matthewrocklin.com/blog/work/2015/02/03/Into/) being spun off into (pun intended) a separate project that encodes the conversions explicitly as a network,
+Mathematics,Resources,scipy2015-blaze-bokeh,https://github.com/chdoig/scipy2015-blaze-bokeh,"Building Python Data Applications with Blaze and Bokeh Tutorial, SciPy 2015."
+Mathematics,NumericalLinearAlgebra(NLA),cvxpy,https://github.com/cvxgrp/cvxpy,A Python-embedded modeling language for convex optimization problems. [Elemental](http://libelemental.org) is a distributed-memory dense and sparse-direct linear algebra and optimization library with third-party Python interfaces. [Source code](https://github.com/elemental/Elemental).
+Mathematics,[SciPy](http://www.scipy.org),Official Documentation,http://www.scipy.org/docs.html,
+Mathematics,[SciPy](http://www.scipy.org),scipy-lectures,http://scipy-lectures.github.io,Tutorial material on the scientific Python ecosystem.
+Mathematics,[SciPy](http://www.scipy.org),ownload the [Python Scientific lecture notes,"http://www.scipy-lectures.org/_downloads/PythonScientific.pdf), Release 2013.2 beta (euroscipy 2013",
+Mathematics,RESOURCES,Teaching numerical methods with IPython notebooks,https://github.com/ketch/teaching-numerics-with-notebooks,a tutorial prepared for Scipy 2014.
+Mathematics,RESOURCES,"Python Notebooks training material for [ML, Numpy, Pandas and IPython",https://github.com/addfor/tutorials) distributed by Addfor s.r.l,
+Mathematics,RESOURCES,PyData Seattle 2015,https://github.com/wrobstory/pydataseattle2015,Python Data Bikeshed.
+Mathematics,Coursera.org,High Performance Scientific Computing,https://www.coursera.org/course/scicomp,
+OpenDataScience,SOFTWARE-OpenScience,aristotle-metadata-registry,https://github.com/aristotle-mdr/aristotle-metadata-registry, Aristotle-MDR is an open-source metadata registry as laid out by the requirements of the ISO/IEC 11179 specification.
+OpenDataScience,SOFTWARE-OpenScience,camlipy,https://github.com/tsileo/camlipy,The unofficial Python client for [Camlistore](http://camlistore.org/). [Documentation](http://camlipy.readthedocs.org).
+OpenDataScience,SOFTWARE-OpenScience,caffe-oxford102,https://github.com/jimgoo/caffe-oxford102,Caffe CNNs for the [Oxford 102 flower dataset](http://jimgoo.com/flower-power/).
+OpenDataScience,SOFTWARE-OpenScience,datacleaner,https://github.com/rhiever/datacleaner,A Python tool that automatically cleans data sets and readies them for analysis.
+OpenDataScience,SOFTWARE-OpenScience,eggo,https://github.com/bigdatagenomics/eggo,Ready-to-go Parquet-formatted public Genomics datasets.
+OpenDataScience,SOFTWARE-OpenScience,data-projects,https://github.com/voxmedia/data-projects,Scripts and data for various Vox Media stories and news projects.
+OpenDataScience,SOFTWARE-OpenScience,scrapi,https://github.com/fabianvf/scrapi,"A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams."
+OpenDataScience,SOFTWARE-OpenScience,simmetrica,https://github.com/o/simmetrica,Lightweight framework for collecting and aggregating event metrics as timeseries data.
+OpenDataScience,OpenScience-OpenResearch,ActivePapers,https://github.com/activepapers/activepapers-python,"A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare."
+OpenDataScience,OpenScience-OpenResearch,pytextbooks,https://github.com/xSetrox/pytextbooks,Python 3.7 program to search Library Genesis via ISBN and fetch direct download links.
+OpenDataScience,OpenScience-OpenResearch,Sumatra,https://github.com/open-research/sumatra,"is a tool for managing and tracking projects based on numerical simulation and/or analysis, with the aim of supporting reproducible research. It can be thought of as an automated electronic lab notebook for computational projects."
+OpenDataScience,Finance,annie Mae [Single-Family Loan Performance Data,http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html),
+OpenDataScience,Finance,NASDAQ,https://data.nasdaq.com/) data,
+OpenDataScience,Finance,OANDA,http://www.oanda.com/) data,
+OpenDataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
+OpenDataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),Open Exoplanet Catalogue,https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue,
+OpenDataScience,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
+OpenDataScience,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
+OpenDataScience,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
+OpenDataScience,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
+OpenDataScience,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
+OpenDataScience,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
+OpenDataScience,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
+OpenDataScience,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
+OpenDataScience,"Worms,Virus,Nematodes",he central [MANUELA database,"http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale",
+OpenDataScience,"Worms,Virus,Nematodes",Nematodes DB,"http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from ""neglected taxa"" using the PartiGene suite of programmes",
+OpenDataScience,"Worms,Virus,Nematodes",Nematode Transcriptome Analyses,http://www.nematodes.org/nembase4/),
+OpenDataScience,"Worms,Virus,Nematodes",WormBase,http://www.wormbase.org/species/all#0--10,Species genomes with standardized sequence and annotations.
+OpenDataScience,Genetics-Medicine,CBI Resources for [Genetics and Medicine,https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/),
+OpenDataScience,Genetics-Medicine,"HIV-1, Human Protein Interaction Database",http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/,"A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data."
+OpenDataScience,MedicalImaging,Computed Tomography Emphysema Database,http://image.diku.dk/emphysema_database/),
+OpenDataScience,MedicalImaging,ornell's Public [Medical Image Databases,http://www.via.cornell.edu/databases/),
+OpenDataScience,MolecularBiology,SASBDB,http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank,
+OpenDataScience,Neuroscience,Codeneuro-Datasets,https://github.com/codeneuro/datasets,"Shared data sets for collaborating, testing, and benchmarking."
+OpenDataScience,Neuroscience,Neuroscience Databases,http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list,
+OpenDataScience,Neuroscience,NeuroVault,http://neurovault.org/,"A  web database for human brain statistical maps, atlases and parcellation maps that researchers can publicly store and share their unthresholded statistical maps produced by MRI and PET studies. [Source code](https://github.com/NeuroVault/NeuroVault)."
+OpenDataScience,Neuroscience,OpenfMRI.org,https://openfmri.org,"A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data."
+OpenDataScience,Pharma,Open PHACTS,http://www.openphacts.org) search service,
+OpenDataScience,Pharma,OSDD - open source drug discovery,http://www.osdd.net/),
+OpenDataScience,CHEMISTRY,Chemical DB,http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP,
+OpenDataScience,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP,
+OpenDataScience,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
+OpenDataScience,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
+OpenDataScience,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
+OpenDataScience,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
+OpenDataScience,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
+OpenDataScience,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
+OpenDataScience,DATA-General,Freebase,http://www.freebase.com,"A community-curated database of well-known people, places, and things."
+OpenDataScience,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines."
+OpenDataScience,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
+OpenDataScience,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
+OpenDataScience,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
+OpenDataScience,MACHINELEARNING,Machine learning datasets,https://www.datasetlist.com/,A list of the biggest machine learning datasets from across the web.
+OpenDataScience,MACHINELEARNING,Celeb-DF,http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html,"A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos."
+OpenDataScience,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
+OpenDataScience,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
+OpenDataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
+OpenDataScience,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org)."
+Physics,,Python-for-Signal-Processing,https://github.com/unpingco/Python-for-Signal-Processing,"Notebooks for ""Python for Signal Processing"" book."
+Physics,AstroPhysics,Astrophysics,https://github.com/eteq/astropysics,"A python library for astronomy/astrophysics calculations and data analysis, available as a [python package](http://packages.python.org/Astropysics/)."
+Physics,ComputationalPhysics,NUFFT,https://github.com/jakevdp/nufft,A pure-python implementation of the [NUFFT](http://www.cims.nyu.edu/cmcl/nufft/nufft.html) (Non-Uniform Fast Fourier Transform) and related algorithms.
+Physics,ComputationalPhysics,ToPy,https://github.com/williamhunter/topy,High performance topology optimization framework. Based on modified [SIMP](http://www.topopt.dtu.dk/files/matlab.pdf) algorithm.
+Physics,NuclearPhysics,Sandbox,https://github.com/ergs/sandbox,for [ERGS]( http://www.ergs.sc.edu) (Energy Research Group: Scopatz) projects.
+Physics,NuclearPhysics,xsgen,https://github.com/bright-dev/xsgen,Cross section generation.
+Physics,Resources,2015-12-15-msu,https://github.com/katyhuff/2015-12-15-msu,Modeling and Simulation Approaches to Challenges in Nuclear Engineering.
+Physics,PlasmaPhysics,PIConGPU,http://picongpu.hzdr.de,"A fully relativistic, many GPGPU, 3D3V particle-in-cell (PIC) code. [Source code](https://github.com/ComputationalRadiationPhysics/picongpu)"
+Physics,QuantumMechanics,Carlfg,http://pypi.python.org/pypi/carlfg,Python package to calculate Clebsch-Gordan coefficients. Get the [source code](https://github.com/psachin/carlfg).
+Programming-Paradigms,ProgrammingParadigms,Boltons,https://github.com/mahmoud/boltons,"A set of over 100 BSD-licensed, pure-Python utilities in the same spirit as the standard library."
+Programming-Paradigms,ProgrammingParadigms,me-al,https://github.com/dabeaz/me-al,Meẗal - The Decorator.
+Programming-Paradigms,ProgrammingParadigms,metamodule,https://github.com/njsmith/metamodule,"Experiment with Python ""metamodules""."
+Programming-Paradigms,ProgrammingParadigms,Programming Language Theory,"https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers",
+Programming-Paradigms,FunctionalProgramming,fn.py,https://github.com/kachayev/fn.py,Implementation of missing features to enjoy Functional programming in Python.
+Programming-Paradigms,FunctionalProgramming,Pixie,https://github.com/pixie-lang/pixie,"A small, fast, native lisp with ""magical"" powers."
+Programming-Paradigms,RE,refo,https://github.com/machinalis/refo,Regular expressions for objects.
+Programming-Paradigms,[SoftwareOptimization](https://en.wikipedia.org/wiki/Category:Software_optimization),line_profiler,https://github.com/rkern/line_profiler,Line-by-line profiling for Python.
+Programming-Paradigms,[SoftwareOptimization](https://en.wikipedia.org/wiki/Category:Software_optimization),memory_profiler,https://pypi.python.org/pypi/memory_profiler,A module for monitoring memory usage of a python program.
+Programming-Paradigms,[SoftwareOptimization](https://en.wikipedia.org/wiki/Category:Software_optimization),plop,https://github.com/bdarnell/plop,Python Low-Overhead Profiler for stack sampling.
+Programming-Paradigms,[SoftwareOptimization](https://en.wikipedia.org/wiki/Category:Software_optimization),vprof,https://github.com/nvdv/vprof,Visual Python profiler.
+Programming-Paradigms,[SoftwareOptimization](https://en.wikipedia.org/wiki/Category:Software_optimization),yappi,https://code.google.com/p/yappi/,"Yet Another Python Profiler, but this time support Multithread/CPU time profiling."
+Programming-Paradigms,ResourcesforSoftwareOptimization,Plop: Low-overhead profiling for Python,https://blogs.dropbox.com/tech/2012/07/plop-low-overhead-profiling-for-python/,
+Programming-Paradigms,ResourcesforSoftwareOptimization,Python Profilers,http://pansop.com/1003/) with some usecases,
+Psychology,BehavioralNeuroscience‎,OpenEXP,https://github.com/openexp/OpenEXP):: An open-source desktop app for running experiments and collecting behavioral and physiological data,
+Psychology,Resources,ython Programming in Psychology – [From Data Collection to Analysis,http://blog.efpsa.org/2016/07/12/python-programming-in-psychology-from-data-collection-to-analysis/),
+Publications,RESEARCHPAPERS,ABigSurvey,https://github.com/NiuTrans/ABigSurvey,"A Survey of hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML) papers, categorized into popular topics with simple counting for some interesting problems and a list of the papers with urls (441 papers)."
+Publications,RESEARCHPAPERS,MT-paper-lists,https://github.com/NiuTrans/MT-paper-lists,"It contains machine translation papers from recent conferences including ACL, EMNLP, NAACL and COLING and some interesting research works grouped by different areas, such as deep network, neural architecture search, etc.."
+Publications,RESEARCHPAPERS,"How to write, publish, and review scientific papers in the early 21st Century",https://github.com/swcarpentry/modern-scientific-authoring,
+Publications,RESEARCHPAPERS,"ouppe Gilles, 2014, [Understanding Random Forests: From Theory to Practice",http://orbi.ulg.ac.be/handle/2268/170309). Citation: http://hdl.handle.net/2268/17030,
+Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),doctr,https://github.com/gforsyth/doctr,"A tool for automatically building Sphinx docs on Travis CI, and deploying them to GitHub pages."
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),nbsphinx,https://github.com/spatialaudio/nbsphinx,Sphinx source parser for `*.ipynb` files. [Documentation](http://nbsphinx.rtfd.io/)
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),travis_docs_builder,https://github.com/gforsyth/travis_docs_builder,"A tool for automatically building Sphinx docs on Travis CI, and deploying them to GitHub pages."
+QA,FUNCTIONAL,Boom!,https://github.com/tarekziade/boom,A simple command line tool to send some load to a web app.
+QA,FUNCTIONAL,FunkLoad,https://github.com/nuxeo/FunkLoad,"Functional and load testing framework for web applications, written in Python http://funkload.nuxeo.org/"
+QA,LOGGING,logbook,http://logbook.pocoo.org/,A cool logging replacement for Python. [Source code](https://github.com/getlogbook/logbook).
+QA,SANDBOX,pymola,https://github.com/jgoppert/pymola,A python/modelica based simulation environment.
+QA,UNITTEST,assertpy,https://github.com/ActivisionGameScience/assertpy,Dead simple assertions framework for unit testing in Python with a nice fluent API. Supports both Python 2 and 3.
+QA,UNITTEST,Hypothesis,https://github.com/DRMacIver/hypothesis,An advanced Quickcheck style testing library for Python.
+QA,UNITTEST,nupic.regression,https://github.com/numenta/nupic.regression,Regression test suite for NuPIC.
+QA,UNITTEST,Prospector,https://github.com/landscapeio/prospector,"A tool to inspect and analyse Python source code files and provide output information about errors, potential problems, convention violations, complexity, information about type and location of classes, methods etc.."
+QA,UNITTEST,python-anti-patterns,https://github.com/quantifiedcode/python-anti-patterns,"An open collection of Python anti-patterns and ""worst practices"", many of which can be checked automatically on QuantifiedCode http://docs.quantifiedcode.com/python-anti-patterns"
+QA,UNITTEST,Pypete,https://github.com/Artimi/pypete,Write python performance tests with this plugin in the traditional nosetests way.
+QA,UNITTEST,PyTest,http://pytest.org/,"The pytest framework makes it easy to write small tests, yet scales to support complex functional testing. [Source code](https://github.com/pytest-dev/pytest)."
+QA,UNITTEST,PyZen,http://pypi.python.org/pypi/PyZen,A continuous test runner for Python. [Source code](https://github.com/coderanger/pyzen) on github.
+QA,UNITTEST,testkraut,https://github.com/neurodebian/testkraut,"a framework for software testing, that minimizes the overlap with the scopes of unit testing, regression testing, and continuous integration testing."
+QA,Resources,python-testing,https://github.com/swcarpentry/python-testing,"An introduction to testing based on Scopatz and Huff's ""Effective Computation in Physics""."
+Resources,Free,he [Tutor,https://mail.python.org/mailman/listinfo/tutor) list,
+Resources,Free,Cracking Codes with Python,http://inventwithpython.com/cracking/,"teaches complete beginners how to program in the Python programming language and features the source code to several ciphers and hacking programs for these ciphers. The programs include the Caesar cipher, transposition cipher, simple substitution cipher, multiplicative & affine ciphers, Vigenere cipher, and hacking programs for each of these ciphers. The final chapters cover the modern RSA cipher and public key cryptography. Cracking Codes with Python is the 2nd edition of the previously-titled book, `Hacking Secret Ciphers with Python`."
+Resources,Non-Free,Treehouse,http://teamtreehouse.com,"Kenneth Love teaches Python, where plans start around $25/month with access to their entire library."
+Resources,Non-Free,Real Python,https://realpython.com/,"Michael Herman, Fletcher Heisler, and Jeremy Johnson teach Python courses with a project driven learning approach."
+Resources,Free,Intermediate Python,http://book.pythontips.com,The [source](https://github.com/yasoob/intermediatePython) on github.
+Resources,Free,Python 3 Tutorial,http://www.python-course.eu) by Bernd Klein,
+Resources,Free,List of free programming books,https://github.com/vhf/free-programming-books,
+Resources,Free,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
+Resources,Free,A Byte of Python,http://www.swaroopch.com/notes/python/,"A free book on programming using the Python language, with the [source](https://github.com/swaroopch/byte_of_python) on github."
+Resources,Non-Free,Python for Kids,https://www.amazon.com/dp/1593274076/ref=cm_sw_r_awd_e5ybwb2BHG9JN,A Playful Introduction to Programming.
+Resources,Non-Free,The Quick Python Book 3rd Edition,https://www.manning.com/books/the-quick-python-book-third-edition,"A clear, crisp updated introduction."
+Resources,Non-Free,The Well-Grounded Python Developer,https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b,
+Resources,Begin-Python,Learn Python the Hard Way,http://learnpythonthehardway.org/book/),
+Resources,Begin-Python,How to Think Like a Computer Scientist,http://interactivepython.org/runestone/static/thinkcspy/index.html,
+Resources,Begin-Python,python-guide,https://github.com/kennethreitz/python-guide,"Python best practices guidebook, written for Humans. [Documentation](http://docs.python-guide.org)"
+Resources,Begin-Python,python-intro,http://bennuttall.github.io/python-intro/,A set of Python exercises led by hints in comments - suitable for beginner / intermediate level.
+Resources,Begin-Python,Python Koans,https://github.com/gregmalcolm/python_koans,Learn Python through TDD.
+Resources,Begin-Python,Code Academy,http://www.codecademy.com/en/tracks/python,A beginner course.
+Resources,Begin-Python,Google’s Python Class,https://developers.google.com/edu/python/,
+Resources,Begin-Python,PythonCompilerWorkbench,https://github.com/pgbovine/PythonCompilerWorkbench,Live coding environment to develop intuition about how Python source code compiles to ASTs and bytecodes.
+Resources,Begin-Python,Snakify,https://snakify.org/,An introductory tutorial with 100+ exercises and a step-by-step debugger.
+Resources,Begin-Git,Flight rules for git,https://github.com/k88hudson/git-flight-rules,
+Resources,Blogs,"Graphs, Databases and Graphlab",http://bugra.github.io/work/notes/2014-04-06/graphs-databases-and-graphlab/,
+Resources,Blogs,"Neural Networks, Manifolds, and Topology",http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/,
+Resources,Blogs,"Jake Van derPlas explains why Python is difficult to optimize, hence slow",http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/,
+Resources,Blogs,"randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR",http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/,
+Resources,Blogs,Getting started with Python in HPC,http://andy.terrel.us/blog/2012/09/27/starting-with-python/) by Andy R. Terrel,
+Resources,Blogs,ael Varoquaux on [Improving your programming style in Python,http://gael-varoquaux.info/programming/improving-your-programming-style-in-python.html),
+Resources,Blogs,"bugra muses ""[I wish I knew these things when I learned Python","https://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)""",
+Resources,CSEducation,Software Carpentry bootcamps,https://github.com/swcarpentry/bc) for scientists,
+Resources,CSEducation,List of free online programming and CS courses,https://github.com/fffaraz/free-programming-courses,
+Resources,CSEducation,Intro CS notebooks,https://github.com/alanedelman/ExploringIntroCS,Playing around with codes for Intro CS.
+Resources,DataScience,How To Choose A Data Science Project For Your Data Science Portfolio,http://www.getadatasciencejob.com/advice/how-to-choose-a-data-science-project-for-your-data-science-portfolio,
+Resources,DataScience,Data Science Specialization,https://datasciencespecialization.github.io,A community curated content directory.
+Resources,DataScience,Big Data vs. Ed Psychology : Work harder vs. work smarter,https://computinged.wordpress.com/2014/01/31/big-data-vs-old-psychology-work-harder-vs-work-smarter/,
+Resources,Cheatsheets,Python Basic Operators,http://www.tutorialspoint.com/python/python_basic_operators.htm,
+Resources,Cheatsheets,he python [decorator cheatsheet,http://www.pydanny.com/python-decorator-cheatsheet.html) by @PyDanny,
+Resources,Cheatsheets,30 Essential Python Tips and Tricks for Programmers,http://www.techbeamers.com/essential-python-tips-tricks-programmers/,
+Resources,PyCon,Xonsh Talk for PyCon 2016,https://github.com/xonsh/pycon2016),
+Resources,[PyData](http://pydata.org/),Determining Skill Levels,https://github.com/khwilson/pydata2014) talk at PyData2NYC 2014,
+Resources,[PyData](http://pydata.org/),014/February/21-23 [London-2014,http://pydata.org/ldn2014,
+Resources,[PyData](http://pydata.org/),013/November/08-10 [NewYork-2013,http://pydata.org/nyc2013,
+Resources,[PyData](http://pydata.org/),013/July/27-28 [Boston-2013,http://pydata.org/bos2013,
+Resources,[PyData](http://pydata.org/),013/March/18-20 [Silicon-Valley-2013,http://pydata.org/sv2013,
+Resources,[PyData](http://pydata.org/),013/October/26-27 [NewYork-2012,http://pydata.org/nyc2012,
+Resources,GENERALRESOURCES,"A curated list of awesome big data frameworks, ressources and other awesomeness",https://github.com/onurakpolat/awesome-bigdata#distributed-programming,
+Resources,GENERALRESOURCES,The definitive list of (awesome) lists curated on GitHub,https://github.com/jnv/lists#technical,
+Resources,GENERALRESOURCES,A curated list of awesome awesomeness - scroll down to the Python section,https://github.com/bayandin/awesome-awesomeness,
+Resources,GENERALRESOURCES,The Open-Source Data Science Masters,http://datasciencemasters.org,
+Resources,GENERALRESOURCES,LectureNotes,https://github.com/UWSEDS/LectureNotes,Lecture content for UW Software Engineering for Data Scientists.
+Resources,GENERALRESOURCES,The Elements of Python Style,https://github.com/amontalenti/elements-of-python-style),
+Resources,GENERALRESOURCES,Python Quick Reference,https://github.com/justmarkham/python-reference,
+Resources,Blogs,10 Myths of Enterprise Python,https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/,
+Resources,Organisations,Myria,http://myria.cs.washington.edu,"is a distributed, shared-nothing Big Data management system and Cloud service from the University of Washington, deriving requirements from real users and complex workflows, especially in science."
+Resources,Organisations,OSF.io,https://github.com/CenterForOpenScience/osf.io,"The Open Science Framework (OSF) supports the entire research lifecycle: planning, execution, reporting, archiving, and discovery."
+Resources,Organisations, list of [UK-based professional/ scientific organisations,https://docs.google.com/spreadsheets/d/1haSsyhY6bqjXJHIiCNaOCIqgCqmQqUVQEv55vewu93I/edit#gid=0,
+Resources,Tools,About-Code-Tool,https://github.com/dejacode/about-code-tool,It provides a simple way to document the provenance (origin and license) and other important or interesting information about third-party software components that you use in your project. [Website](http://aboutcode.org/)
+Resources,Videos,PyData Tutorial videos,http://vimeo.com/channels/612789,
+Resources,Videos,"uroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython",https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Stephen G. Johnson,
+Resources,Videos,Highlights from EuroSciPy,http://www.agilegeoscience.com/journal/2014/9/2/highlights-from-euroscipy.html,
+Resources,Videos,[Videos,https://www.youtube.com/user/europython2014/videos) from EuroPython-2014/July/21~27 @ Berlin,
+Resources,Videos,PyData@StrataNYC,http://strataconf.com/stratany2014/public/schedule/detail/37035?cmp=pe-strata-confreg-home-stny14_pydata)-2014/Oct/1,[Introduction to NumPy and Matplotlib](https://github.com/jakevdp/PyData2014) talk by Jake Vanderplas.
+Resources,Videos,yData-[Berlin-2014,http://pydata.org/berlin2014/) tal,"[Fast Serialization of Numpy Arrays with Bloscpack](https://github.com/esc/PyDataBerlin2014-bloscpack-talk), [Video](http://www.youtube.com/watch?v=TZdqeEd7iTM), [slides as PDF](http://slides.zetatech.org/haenel-bloscpack-talk-2014-PyDataBerlin.pdf) and [nbviewer](http://nbviewer.ipython.org/github/esc/PyDataBerlin2014-bloscpack-talk/blob/master/2014-07-results/neuronal.ipynb) NB's."
+Resources,Videos,yData-[Silicon-Valley-2014,http://pydata.org/sv2014)-2014/May/02-0,[Videos](https://www.youtube.com/user/PyDataTV).
+Resources,Videos,SciPy,https://conference.scipy.org/scipy2014/)-2014/July/06-1,[Videos are online](http://pyvideo.org/category/51/scipy-2014).
+Resources,WorkshopTutorials,python-bootcamp,https://github.com/profjsb/python-bootcamp,Bootcamp docs and lectures.
+Resources,WorkshopTutorials,cipy-2015 [tutorial workshops,http://www.scipy2015.scipy.org/ehome/115969/304620/?&) list,
+Resources,WorkshopTutorials,data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,"Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
+Resources,WorkshopTutorials,Python-data-intro,http://opentechschool.github.io/python-data-intro/,"Workshop material for ""Introduction to Data Processing with Python""."
+Resources,WorkshopTutorials,San Diego Python Users Group Presentations,https://github.com/pythonsd/presentations,
+Server,CRAWLERS,scrapy,http://scrapy.org/,A fast high-level web crawling and screen scraping framework for Python. [Source code](https://github.com/scrapy/scrapy).
+Server,CRAWLERS,scrapy-cluster,https://github.com/istresearch/scrapy-cluster,This Scrapy project uses Redis and Kafka to create a distributed on demand scraping cluster. [Documentation](http://scrapy-cluster.readthedocs.org/).
+Server,CRAWLERS,Soupy,https://github.com/ChrisBeaumont/soupy,A wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
+Server,Resources,image_project,https://github.com/IEPUG/image_project,"A group learning project to scrape flickr, extract some GPS EXIF info from the images, save the images to local storage, and insert some meta data into an sqlite database using SQLAlchemy."
+Server,Resources,Python Web Scraping Tutorial using BeautifulSoup,https://www.dataquest.io/blog/web-scraping-tutorial-python/),
+Server,BROWSER,Air,https://github.com/audreyr/air,An ultra-lightweight static site generator.
+Server,BROWSER,Brython,https://github.com/brython-dev/brython,a.k.a. `Browser Python` is an implementation of Python 3 running in the browser.
+Server,BROWSER,Ghost.py,https://github.com/jeanphix/Ghost.py,Webkit based scriptable web browser for python. Read the [Documentation](http://ghost-py.readthedocs.org/en/latest/).
+Server,BROWSER,pyotherside,http://thp.io/2011/pyotherside/,Asynchronous Python-3 Bindings for Qt-5. [Source code](https://github.com/thp/pyotherside)
+Server,BROWSER,Python-Progressbar,https://github.com/WoLpH/python-progressbar,A text progress bar library for Python. [Documentation](http://progressbar-2.readthedocs.org/en/latest/).
+Server,JAVASCRIPT,jiphy,https://github.com/timothycrosley/jiphy,Your client side done in a jiphy. Python to JavaScript 2-way converter.
+Server,[Network](https://en.wikipedia.org/wiki/Category:Network_protocols),RxPY,https://github.com/ReactiveX/RxPY,A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
+Server,[FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol),pyftpdlib,https://github.com/giampaolo/pyftpdlib,Extremely fast and scalable Python FTP server library.
+Server,TEMPLATES,cookiecutter-tapioca,https://github.com/vintasoftware/cookiecutter-tapioca,A cookiecutter template for new tapioca wrappers.
+Server,WEBFRAMEWORKS,Falcon,http://falconframework.org,A high-performance Python framework for building cloud APIs and web app backends.
+Server,WEBFRAMEWORKS,palladium,https://github.com/ottogroup/palladium,A pluggable framework for easily setting up predictive analytics services as web services and developing real-world machine learning solutions.
+Server,WEBFRAMEWORKS,redactvideo,https://github.com/seattle-police/redactvideo,A Web application for redacting and publishing police body worn video as efficiently as possible.
+Server,WEBFRAMEWORKS,Spyre,"https://github.com/adamhajari/spyre) : A Web Application Framework for providing a simple user interface for Python data projects and data visualization, so you'll also need pandas and matplotlib in addition to cherrypy, with jinja2 templating",
+Server,WEBFRAMEWORKS,Tornado,http://www.tornadoweb.org/,"A Python web framework and asynchronous networking library, originally developed at FriendFeed. [Source code](https://github.com/tornadoweb/tornado)."
+Server,Django,he [Django,https://djangoproject.com)-project,
+Server,Django,django-adminplus,https://github.com/jsocol/django-adminplus,Easily add custom views to the Django admin.
+Server,Django,django-mailgun,https://github.com/BradWhittington/django-mailgun,A Django email backend for Mailgun.
+Server,Resources,Hello Web App,http://hellowebapp.com,An Introduction to web app development using Python and Django with notes on how to package and install necessary files for [deployment on Heroku](https://github.com/hellowebapp/hellowebapp-deploy) and the [code repository](https://github.com/hellowebapp/hellowebapp-code) for Hello Web App.
+Server,WEB-SERVER,Just-Metadata,https://github.com/ChrisTruncer/Just-Metadata,A tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset. https://www.christophertruncer.com/just-metadata-intel-gathering-and-analysis-of-ip-metadata/
+Server,WEB-SERVER,python-webpack,https://github.com/markfinger/python-webpack,Python bindings to webpack.
+Server,WEB-SERVER,restcommander,https://github.com/eBay/restcommander,"Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers."
+Server,WEB-SERVER,thriftpy,https://github.com/eleme/thriftpy,Pure python implementation of Apache Thrift. [Documentation](https://thriftpy.readthedocs.org/).
+Server,WEB-SERVER,werkzeug,http://werkzeug.pocoo.org/,A flexible WSGI implementation and toolkit. [Source code](https://github.com/mitsuhiko/werkzeug).
+Server,Security,PenTestScripts,https://github.com/ChrisTruncer/PenTestScripts,Scripts that are useful for pen tests.
+Server,Security,PBP,https://github.com/stef/pbp,"A simple python wrapper and a command line interface around libsodium, to provide basic functionality resembling PGP."
+Server,Security,Simple-RBAC,https://github.com/tonyseek/simple-rbac,A simple role based access control utility for Python.
+Server,Security,SQLMap,http://sqlmap.org,Automatic SQL injection and database takeover tool. [Source code](https://github.com/sqlmapproject/sqlmap) on github.
+Server,Utilities,confix,https://github.com/giampaolo/confix,A language-agnostic configuration parser for Python.
+Server,Utilities,EyeWitness,https://github.com/ChrisTruncer/EyeWitness,"This utility is designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible."
+Statistics,COOKBOOKS,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
+Statistics,COOKBOOKS,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
+Statistics,Econometrics,HARK,https://github.com/econ-ark/HARK,Heterogenous Agents Resources & toolKit.
+Statistics,Econometrics,NYUecondata,https://github.com/NYUEcon/NYUecondata,This is a repository for handling certain datasets and doing simple plots. Supervised by Dave Backus.
+Statistics,Econometrics,QuantEcon.py,https://github.com/QuantEcon/QuantEcon.py,"A community based Python library for quantitative economics, the code is described at http://quant-econ.net/, a website dedicated to providing lectures that teach economics and programming authored by Thomas J. Sargent and [John Stachurski](http://jstac.github.io/quant-econ/)"
+Statistics,Resources,QuantEcon applications,https://github.com/QuantEcon/QuantEcon.applications,"A repository that houses example code, applications and teaching material related to QuantEcon."
+Statistics,Resources,Greene Econometrics,https://github.com/TomAugspurger/Greene_Econometrics,Working through the examples in the wonderful Econometric Analysis by William Greene.
+Statistics,Resources,An Introduction to Stock Market Data Analysis with Python (Part 1),https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/,
+Statistics,FinancialAccounting,autograd,https://github.com/HIPS/autograd,Computes derivatives of complicated numpy code.
+Statistics,FinancialAccounting,blpapi-py,https://github.com/filmackay/blpapi-py,Bloomberg Python API.
+Statistics,FinancialAccounting,DX,https://github.com/yhilpisch/dx,DX Analytics is a Python-based financial analytics library which allows the modeling of rather complex derivatives instruments and portfolios.
+Statistics,FinancialAccounting,Graphical-Lasso-in-Finance,https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance,Implementations of the graphical lasso method to estimation of covariance matrices in finance.
+Statistics,FinancialAccounting,i3,https://github.com/stuhlmueller/i3,Learning stochastic inverses for amortized inference in Bayesian networks.
+Statistics,FinancialAccounting,kcbo,https://github.com/HHammond/kcbo,A Bayesian testing framework written in Python.
+Statistics,FinancialAccounting,Pyfin,https://github.com/opendoor-labs/pyfin,"Basic options pricing in Python with basic Greeks calculation across valuation models, discrete dividends support in the lattice (binomial tree) and Monte Carlo simulation models."
+Statistics,FinancialAccounting,pyfolio,https://github.com/quantopian/pyfolio,Portfolio and risk analytics in Python.
+Statistics,FinancialAccounting,PyMC,https://github.com/pymc-devs/pymc,A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
+Statistics,FinancialAccounting,_Talk__ : [Bayesian Data Analysis with PyMC3,https://github.com/twiecki/pymc3_talk) by @twiecki,
+Statistics,FinancialAccounting,Bayesian pymc3 europy 2014 slides,http://twiecki.github.io/bayesian_pymc3_europy_ab.slides.html#/,
+Statistics,FinancialAccounting,PyMC3,https://github.com/pymc-devs/pymc3,A python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms.
+Statistics,FinancialAccounting,pysdmx,https://github.com/widukind/pysdmx,Python interface to SDMX endpoint provided by Eurostat.
+Statistics,FinancialAccounting,Zipline,https://github.com/quantopian/zipline,A Pythonic Algorithmic Trading Library.
+Statistics,FinancialAccounting,zipline-tensorboard,https://github.com/jimgoo/zipline-tensorboard,TensorBoard as a Zipline [dashboard](http://jimgoo.com/tensorboard-and-zipline/).
+Statistics,Resources,ISLR-python,https://github.com/JWarmenhoven/ISLR-python,"Python code for ""An Introduction to Statistical Learning"", by James, Witten, Hastie, Tibshirani, 2013."
+Statistics,Resources,ISLR chapters from R implemented in numpy,https://github.com/TomAugspurger/StatLearning/tree/master/python,
+Statistics,Resources,538model,https://github.com/jseabold/538model) - 538 Election Forecasting Model,Python scripts that replicates some features of Nate Silver's 538 Election Forecasting Model.
+Statistics,Optimization,Mystic,https://github.com/uqfoundation/mystic,highly-constrained non-convex optimization and uncertainty quantification.
+Statistics,Optimization,nelder-mead,https://github.com/fchollet/nelder-mead,Pure Python/Numpy implementation of the Nelder-Mead algorithm.
+Statistics,Optimization,hyperopt,http://hyperopt.github.io/hyperopt,Distributed Asynchronous Hyperparameter Optimization in Python.
+Statistics,STATISTICS,distcan,https://github.com/spencerlyon2/distcan,Probability distributions for python in their canonical form.
+Statistics,STATISTICS,emcee,http://dan.iel.fm/emcee,The Python ensemble sampling toolkit for affine-invariant MCMC. [Documentation](https://github.com/dfm/emcee)
+Statistics,STATISTICS,hypergrad,https://github.com/HIPS/hypergrad,Exploring differentiation w.r.t hyperparameters.
+Statistics,STATISTICS,mcnets,https://github.com/stuhlmueller/mcnets,Adaptive Markov chain networks.
+Statistics,STATISTICS,pandaSDMX,https://github.com/dr-leo/pandaSDMX,An Apache 2.0-licensed Python package to retrieve and acquire statistical data and metadata disseminated in SDMX format. It works well with the SDMX services of the European statistics office (Eurostat) and the European Central Bank (ECB).
+Statistics,STATISTICS,Patsy,https://github.com/pydata/patsy,Describing statistical models in Python using symbolic formulas.
+Statistics,STATISTICS,permute,https://github.com/statlab/permute,Permutation tests and confidence sets.
+Statistics,STATISTICS,pymbar,https://github.com/choderalab/pymbar,Statistically optimal analysis of samples from multiple equilibrium states.
+Statistics,STATISTICS,PyMix,https://pypi.python.org/pypi/pymix,The Python mixture package.
+Statistics,STATISTICS,pystatsd,https://github.com/jsocol/pystatsd,A Python client for statsd. [Documentation](http://statsd.readthedocs.org/en/latest/index.html)
+Statistics,Bayesian,bayesian-belief-networks,https://github.com/eBay/bayesian-belief-networks,"Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions."
+Statistics,Bayesian,Bumps,https://github.com/bumps/bumps,It provides data fitting and Bayesian uncertainty modeling for inverse problems.
+Statistics,Bayesian,DBDA-python,https://github.com/JWarmenhoven/DBDA-python,"Python code for the book `Doing Bayesian Data Analysis`, 2nd Edition (Kruschke, 2015)."
+Statistics,Bayesian,dora,https://github.com/NICTA/dora,A library for Bayesian active sampling with non-parametric models.
+Statistics,Bayesian,PRIMO,https://github.com/mbaumBielefeld/PRIMO,An implementation of a Bayesian Network in Python.
+Statistics,Bayesian,Pomegranate,https://github.com/jmschrei/pomegranate,"A package for graphical models and Bayesian statistics for Python, implemented in cython. [Documentation](http://pomegranate.readthedocs.org/en/latest/)."
+Statistics,Bayesian,SAMCNet,https://github.com/binarybana/samcnet,A toolkit and demonstration for Bayesian model averaging over objective functions defined over model classes of interest using advanced MCMC techniques.
+Statistics,Bayesian,Spearmint,https://github.com/HIPS/Spearmint,Bayesian optimization codebase.
+Statistics,Bayesian,YABN,https://github.com/jmschrei/yabn,Yet Another Bayesian Network.
+Statistics,Resources,Kalman-and-Bayesian-Filters-in-Python,https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python,"Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions."
+Statistics,Resources,Bayesian-Modelling-in-Python,https://github.com/markdregan/Bayesian-Modelling-in-Python,A python tutorial on bayesian modeling techniques (PYMC3).
+Statistics,Resources,Biostat 778,https://github.com/rdpeng/biostat778_notes,Advanced Statistical Computing.
+Statistics,Resources,stats_in_python_tutorial,http://gaelvaroquaux.github.io/stats_in_python_tutorial,Material for the statistics in Python tutorial. [Source](https://github.com/GaelVaroquaux/stats_in_python_tutorial) on github.
+Statistics,Resources,Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,Bayesian Methods for Hackers using Python and PyMC.
+Statistics,Resources,Frequentism and Bayesianism: What's the Big Deal?,https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014) by Jake Vanderplas at SciPy 2014,
+Statistics,Resources,Frequentism and Bayesianism IV: How to be a Bayesian in Python,http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/) by @jakevdp,
+Statistics,Resources,Doing bayesian data analysis,https://github.com/aloctavodia/Doing_bayesian_data_analysis,"This repository contains the Python/PyMC3 version of the R programs described in the great book Doing bayesian data analysis (first edition) by John K. Kruschke, A.K.A, the puppy book."
+Statistics,Resources,ThinkX,https://github.com/AllenDowney/ThinkX,This package contains support code for books by Allen B. Downey.
+Statistics,Resources,ThinkStats2,https://github.com/AllenDowney/ThinkStats2,"Text and supporting code for Think Stats, 2nd Edition."
+Statistics,Resources,ThinkPython2,https://github.com/AllenDowney/ThinkPython2,"LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey."
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,Time-series-classification-and-clustering,https://github.com/alexminnaar/time-series-classification-and-clustering,Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside.
+Statistics,Pandas,Pandas,http://pandas.pydata.org/,"A flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more."
+Statistics,Pandas,Pandas Documentation,http://pandas.pydata.org/pandas-docs/stable/,
+Statistics,Pandas,How to contribute to Pandas,http://pandas.pydata.org/pandas-docs/stable/contributing.html,
+Statistics,Pandas,pandas-finance,https://github.com/davidastephens/pandas-finance,High level API for access to and analysis of financial data.
+Statistics,Pandas,Pandashells,https://github.com/robdmc/pandashells,"An attempt to marry the expressive, concise workflow of the shell pipeline with the statistical and visualization tools of the python data-stack."
+Statistics,Pandas,pandasql,https://github.com/yhat/pandasql,Query pandas DataFrames using SQL syntax with SQLite.
+Statistics,Pandas,pandas_talib,https://github.com/femtotrader/pandas_talib,A Python Pandas implementation of technical analysis indicators.
+Statistics,Pandas,sandals,https://github.com/jbochi/sandals,Query pandas dataframes and objects using SQL.
+Statistics,Pandas,sql4pandas,https://github.com/keeganmccallum/sql4pandas,Efficient SQL bindings for the pandas data analysis library implemented entirely in python. Compile and execute SQL queries directly on pandas data frames without copying to an external database. It uses [sqlparse](https://pypi.python.org/pypi/sqlparse) at the backend.
+Statistics,Resources,modern-pandas,https://github.com/TomAugspurger/modern-pandas,A collection of notebooks behind @TomAugspurger's series on writing idiomatic pandas.
+Statistics,Resources,2015-EuroScipy-pandas-tutorial,https://github.com/jorisvandenbossche/2015-EuroScipy-pandas-tutorial,Material for the pandas tutorial at EuroScipy 2015.
+Statistics,Resources,Cohort Analysis with Python,http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/),
+Statistics,Resources,"aterials for [""Python for Data Analysis"" by Wes McKinney","https://github.com/pydata/pydata-book), published by O'Reilly Media",
+Statistics,Resources,Half day pandas tutorial,http://nbviewer.ipython.org/urls/gist.github.com/wesm/5773719/raw/1399562c0a02b9edc3d13c71a70387a31d87260b/tutorial.ipynb) at Pycon Singapore 2013 by Wes McKinney,
+Statistics,Resources,MultiIndex_Drop,https://www.wakari.io/sharing/bundle/quasiben_tr/MultiIndex_Drop,
+Statistics,Resources,Baby steps in Python – Exploratory analysis in Python (using Pandas),http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/,
+Statistics,Resources,Apache log analysis with Pandas,http://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb,
+Statistics,Resources,ata Science in Python: [Pandas Cheat Sheet,http://www.datasciencecentral.com/profiles/blogs/data-science-in-python-pandas-cheat-sheet,
+Statistics,RESOURCES,Elements of Statistical Learning,"http://statweb.stanford.edu/~tibs/ElemStatLearn/): Data Mining, Inference, and Prediction",
+Statistics,RESOURCES,fpp,https://www.otexts.org/fpp/,Forecasting principles and practice - a comprehensive introduction to forecasting methods.
+Statistics,RESOURCES,scipy-lectures,http://scipy-lectures.github.io,Tutorial material on the scientific Python ecosystem
+Statistics,RESOURCES,statlearning-notebooks,https://github.com/sujitpal/statlearning-notebooks,IPython notebooks for exercises covered in Stanford's online StatLearning class.
+Statistics,RESOURCES,Statistics and Data Mining with Open Source Tools,http://oswco.com/2013/mar/14/statistics-and-data-mining-open-source-tools/,
+Statistics,RESOURCES,Statistical Data Mining Tutorials,http://www.autonlab.org/tutorials/,
+Statistics,RESOURCES,Introduction to SciPy,http://www.johndcook.com/blog/2013/03/29/new-introduction-to-scipy/,
+Statistics,RESOURCES,IFA predictions : A notebook on [World Cup Learning predictions for world cup matches results since 1950,http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb,
+Statistics,RESOURCES,lass repository for [Fall-2013 Statistics-243,https://github.com/paciorek/stat243-fall-2013) (Intro to Statistical Computing) at UC Berkeley,
+Statistics,MOOC-Coursera.org,Data Science,https://www.coursera.org/specialization/jhudatascience/1,
+Statistics,MOOC-Coursera.org,The Data Scientist’s Toolbox,https://www.coursera.org/course/datascitoolbox,
+Statistics,MOOC-Coursera.org,Statistics: Making Sense of Data,https://www.coursera.org/course/introstats,
+Super-Computing,ComputerPerformance,Boxfish,https://github.com/scalability-llnl/boxfish,"A platform for visualizing performance data across the domains the data was collected, (e.g. communication groups) to another (e.g. hardware processes)."
+Super-Computing,ComputerPerformance,PeachPy,https://github.com/Maratyszcza/PeachPy,A Python framework for writing high-performance assembly kernels - an efficient Assembly Code-generator in Higher-level Python.
+Super-Computing,Cloud-Cluster,arrayfire-python,https://github.com/arrayfire/arrayfire-python,A high performance library for parallel computing with an easy-to-use API.
+Super-Computing,Cloud-Cluster,clusterlib,https://github.com/clusterlib/clusterlib,Tools to manage jobs on supercomputer. [Documentation](http://clusterlib.readthedocs.org/)
+Super-Computing,Cloud-Cluster,Curio,https://github.com/dabeaz/curio,The coroutine concurrency library.
+Super-Computing,Cloud-Cluster,lustre_kvm_quickstart,https://github.com/suykerbuyk/lustre_kvm_quickstart,Support scripts for the Lustre KVM. Quick Start Guide at :  http://wiki.lustre.org/KVM_Quick_Start_Guide
+Super-Computing,Cloud-Cluster,Pathos,https://github.com/uqfoundation/pathos,"A framework for parallel graph management and execution in heterogeneous computing. It primarily provides the communication mechanisms for configuring and launching parallel computations across heterogenous resources. Pathos provides configurable launchers for parallel and distributed computing, where each launcher contains the syntactic logic to configure and launch jobs in an execution environment."
+Super-Computing,Cloud-Cluster,Pyina,https://github.com/uqfoundation/pyina,a MPI-based parallel mapper and launcher.
+Super-Computing,Cloud-Cluster,Ufora,https://github.com/ufora/ufora,"A compiled, automatically parallel subset of python for data science and numerical computing."
+Super-Computing,AWS,AmazonEC2scripts,https://github.com/swederik/AmazonEC2scripts,Useful scripts to setup Amazon EC2 Cloud Compute servers for Neuroimaging.
+Super-Computing,AWS,Anaconda-ec2,https://github.com/ContinuumIO/anaconda-ec2,Anaconda plugin for StarCluster.
+Super-Computing,AWS,Boto,https://pypi.python.org/pypi/boto,A Python package that provides interfaces to Amazon Web Services. The [source code](https://github.com/boto/boto/) on github.
+Super-Computing,AWS,Cloudman,https://bitbucket.org/chapmanb/cloudman,Easily create a compute cluster on top of a cloud computing infrastructure.
+Super-Computing,AWS,kappa,https://github.com/garnaat/kappa,"Kappa is a command line tool that makes it easier to deploy, update, and test functions for AWS Lambda."
+Super-Computing,APACHE,SparklingPandas,https://github.com/holdenk/sparklingpandas,Make it easy to use the distributed computing power of [PySpark](http://spark.apache.org/) to scale your data anlysis with Pandas.
+Super-Computing,APACHE,Kazoo,https://github.com/python-zk/kazoo,A high-level Python library that makes it easier to use Apache Zookeeper. [Documentation](https://kazoo.readthedocs.org).
+Super-Computing,Hadoop,Hue,https://github.com/cloudera/hue,"A Web application for interacting with Apache Hadoop that supports a file and job browser, Hive, Pig, Impala, Spark, Oozie, HBase, Solr, Sqoop2, ZooKeeper and more."
+Super-Computing,Resources,Native Hadoop file system (HDFS) connectivity in Python,http//wesmckinney.com/blog/python-hdfs-interfaces/) ,
+Super-Computing,Resources,log post on [Querying 1.7 Billion Reddit Comments with Anaconda Platform Tools on Hadoop,https://www.continuum.io/blog/developer-blog/querying-17-billion-reddit-comments-anaconda-platform),
+Super-Computing,HPC,Dask,http://dask.pydata.org,Task scheduling and blocked algorithms for parallel processing. [Source code](https://github.com/ContinuumIO/dask) and [Documentation](https://dask.pydata.org/en/latest/).
+Super-Computing,HPC,Luigi,https://github.com/spotify/luigi,"A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
+Super-Computing,HPC,PySGE,https://github.com/jiahao/PySGE) : Low-level Python interface to Sun Grid Engine,
+Super-Computing,Resources,yData Paris [talk slides,https://serge-sans-paille.github.io/talks/pydata-2015-04-03.html#/0/1),
+Utilities,2to3,py3readiness,http://py3readiness.org, Python 3 support graph for most popular packages. [Source code](https://github.com/chhantyal/py3readiness).
+Utilities,2to3,python-future,http://python-future.org,"Easy, clean, reliable Python 2/3 compatibility. [Source code](https://github.com/PythonCharmers/python-future) and a [cheat sheet for writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html)."
+Utilities,2to3,Six,https://pypi.python.org/pypi/six,A Python 2-3 porting utility.
+Utilities,DOCUMENTATION,PythonTeX,https://github.com/gpoore/pythontex,"A LaTeX package that provides fast, user-friendly access to Python code entered within a TeX document to be executed, and the output to be included in the original document. It also provides syntax highlighting for code within LaTeX documents via the Pygments syntax highlighter. PythonTeX also provides support for Ruby, Julia, and Octave programming languages."
+Utilities,DOCUMENTATION,Scisphinx,https://github.com/numfocus/scisphinx,Sphinx extensions common to the scientific computing ecosystem.
+Utilities,IDE,anaconda-mode,https://github.com/proofit404/anaconda-mode,"Code navigation, documentation lookup and completion for Python."
+Utilities,IDE,autocomplete-python,https://github.com/sadovnychyi/autocomplete-python,Jedi-based Python autocomplete for [Atom](https://atom.io/packages/autocomplete-python).
+Utilities,IDE,Bugjar,https://github.com/pybee/bugjar,A interactive graphical debugger for Python code.
+Utilities,IDE,jedi,https://github.com/davidhalter/jedi,Awesome autocompletion and static analysis library for python.
+Utilities,IDE,MagicPython,https://github.com/MagicStack/MagicPython,Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+Utilities,IDE,pyzo,https://github.com/almarklein/pyzo,The Interactive editor for Python.
+Utilities,Zoof,Zoof,http://zoof.io,The Official repository - The IDE for dynamic coding. [Source code](https://github.com/zoofIO/zoof).
+Utilities,Zoof,flexx,https://github.com/zoofIO/flexx,A Python UI tookit based on web technology. [Documentation](http://flexx.readthedocs.org).
+Utilities,Zoof,flexx-notebooks,https://github.com/zoofIO/flexx-notebooks,Jupyter notebooks with Flexx examples.
+Utilities,[Jupyter](https://github.com/jupyter),bookmarkd,https://github.com/ryansb/bookmarkd,Markdown -> IPython conversion tool.
+Utilities,[Jupyter](https://github.com/jupyter),callipy,https://github.com/damiendr/callipy,Call IPython notebooks with arguments.
+Utilities,[Jupyter](https://github.com/jupyter),cite2c,https://github.com/takluyver/cite2c,Citations in the IPython Notebook.
+Utilities,[Jupyter](https://github.com/jupyter),Colaboratory,https://github.com/jupyter/colaboratory,Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
+Utilities,[Jupyter](https://github.com/jupyter),cookbook,http://ipython-books.github.io/cookbook/,"Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python. Get the [source code](https://github.com/ipython-books/cookbook-code)."
+Utilities,[Jupyter](https://github.com/jupyter),ipydb,https://github.com/jaysw/ipydb, Turn your IPython console into a cross-database SQL client. [Documentation](http://ipydb.readthedocs.org).
+Utilities,[Jupyter](https://github.com/jupyter),ipymd,https://github.com/rossant/ipymd) : Use the IPython notebook as an interactive Markdown editor,
+Utilities,[Jupyter](https://github.com/jupyter),ipyparallel,https://github.com/ipython/ipyparallel,Interactive Parallel Computing in Python. [Documentation](http://ipyparallel.readthedocs.org/).
+Utilities,[Jupyter](https://github.com/jupyter),Ipython_memory_usage,https://github.com/ianozsvald/ipython_memory_usage,This tool reports memory usage deltas for every command you type.
+Utilities,[Jupyter](https://github.com/jupyter),IPythonblocks,http://ipythonblocks.org,Practice Python with colored grids in the IPython Notebook. [Source code](https://github.com/jiffyclub/ipythonblocks) on GH.
+Utilities,[Jupyter](https://github.com/jupyter),ipython-sql,https://github.com/catherinedevlin/ipython-sql,"Introduces a `%sql` (or `%%sql`) magic for Jupyter/IPython. Connect to a database, using SQLAlchemy connect strings, then issue SQL commands within IPython or IPython Notebook."
+Utilities,[Jupyter](https://github.com/jupyter),jupyter_kernel_test,https://github.com/jupyter/jupyter_kernel_test,A tool for testing Jupyter kernels.
+Utilities,[Jupyter](https://github.com/jupyter),Multiuser-server,https://github.com/jupyter/multiuser-server,Multi-user server for Jupyter notebooks.
+Utilities,[Jupyter](https://github.com/jupyter),NBDiff,http://nbdiff.org,A diffing and merging tool for the IPython Notebook.
+Utilities,[Jupyter](https://github.com/jupyter),nbdime,https://github.com/jupyter/nbdime,Tools for diffing and merging of Jupyter notebooks. [Documentation](http://nbdime.readthedocs.io)
+Utilities,[Jupyter](https://github.com/jupyter),qtconsole,https://github.com/jupyter/qtconsole, Jupyter Qt Console - [stable release](http://jupyter.org/qtconsole/stable/).
+Utilities,[Jupyter](https://github.com/jupyter),RunIPy,https://github.com/paulgb/runipy,"Run IPython notebooks as command-line scripts, generate HTML reports."
+Utilities,[Jupyter](https://github.com/jupyter),Rodeo,https://github.com/yhat/rodeo/,"A data science IDE for Python - an alternative UI to the notebook for the IPython Kernel, heavily inspired by great projects like Sublime Text and Eclipse."
+Utilities,[Jupyter](https://github.com/jupyter),Introducing Rodeo,http://blog.yhathq.com/posts/introducing-rodeo.html),
+Utilities,[Jupyter](https://github.com/jupyter),sudospawner,https://github.com/jupyter/sudospawner,Spawn JupyterHub single-user servers with sudo.
+Utilities,[Jupyter](https://github.com/jupyter),vIPer,https://github.com/damianavila/vIPer,A new tool for IPython notebooks.
+Utilities,JupyterLab,JupyterLab,https://github.com/jupyter/jupyterlab,The computational environment.
+Utilities,JupyterLab, blog post [Walkthrough of Jupyter Lab Alpha,https://veekaybee.github.io/jupyter-lab/,
+Utilities,JupyterThemes,jupyter-themer,https://github.com/transcranial/jupyter-themer,Apply custom CSS styling to your jupyter notebooks.
+Utilities,Resources,Jupyter notebook beginner guide,https://github.com/tritemio/jupyter_notebook_beginner_guide,A brief guide to install and run Jupyter/IPython notebooks.
+Utilities,Resources,Run Jupyterhub on a Supercomputer,http://zonca.github.io/2015/04/jupyterhub-hpc.html),
+Utilities,Resources,IPython quick reference sheets,http://damontallen.github.io/IPython-quick-ref-sheets/,
+Utilities,Resources,ipython-in-depth,https://github.com/ipython/ipython-in-depth,"IPython in-depth Tutorial, first presented at PyCon 2012, is meant to be executed with IPython 2.0 or newer."
+Utilities,Resources,alk: [Project Jupyter,https://speakerdeck.com/fperez/project-jupyter) by Fernando Perez at Scipy-2014,
+Utilities,Resources,A gallery of interesting IPython Notebooks,https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks,
+Utilities,Resources,7 favorite IPython Notebooks,http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/,
+Utilities,Resources,"he EuroPython 2014 training session ""[Topic Modeling for Fun and Profit","https://github.com/piskvorky/topic_modeling_tutorial)""",
+Utilities,Resources,Networks meet Finance in Python - July 27 2014,https://github.com/mvaz/PyData2014-Berlin,
+Utilities,Resources,OsloWorkshop2014,https://github.com/jakevdp/OsloWorkshop2014,"Material for @jakevdp 's lectures at the University of Oslo, Dec 2014."
+Utilities,Resources,Running Jupyter with multiple Python and iPython paths,http://stackoverflow.com/questions/39007571/running-jupyter-with-multiple-python-and-ipython-paths/),
+Utilities,Resources,irill Pomogajko blogs on [Why I Don't Like Jupyter (FKA IPython Notebook),http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/),
+Utilities,TERMINAL,cookiecutter,https://github.com/audreyr/cookiecutter,"A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects."
+Utilities,TERMINAL,dotfiler,https://github.com/svetlyak40wt/dotfiler,"Shell agnostic git-based dotfiles package manager, written in Python."
+Utilities,TERMINAL,python-prompt-toolkit,https://github.com/jonathanslenders/python-prompt-toolkit,Library for building powerful interactive command lines in Python.
+Utilities,TERMINAL,pythonpy,https://github.com/Russell91/pythonpy,command line kung-fu with python.
+Utilities,TERMINAL,Xonsh_Kernel,https://github.com/Calysto/xonsh_kernel,Jupyter Kernel for Xonsh.
+Utilities,TERMINAL,xonda,https://github.com/gforsyth/xonda,This is a thin wrapper around conda for use with xonsh.
+Utilities,TERMINAL,xontrib-prompt-ret-code,https://github.com/Siecje/xontrib-prompt-ret-code,Adds return code info to xonsh prompt.
+Utilities,UTILS,free-labour,https://github.com/brettcannon/free-labour,Calculate your open source contributions.
+Utilities,UTILS,pandocfilters,https://github.com/jgm/pandocfilters,"A python module for writing pandoc filters, with a collection of examples."
+Utilities,UTILS,podoc,https://github.com/podoc/podoc,"A minimalistic pure Python pandoc clone, i.e. a markup document conversion library. Currently, it supports Markdown, Jupyter notebook, OpenDocument, O'Reilly Atlas, Python + comments. Support for ReST, LaTeX, HTML, AsciiDoc is planned."
+Utilities,UTILS,python-progressbar,https://github.com/niltonvolpato/python-progressbar,Text progress bar library for Python.
+Utilities,UTILS,Slides,https://github.com/mrocklin/slides,A template for slides using markdown.
+Utilities,Backups,attic,https://github.com/jborg/attic,Deduplicating backup program.
+Utilities,Backups,rotate-backups,https://github.com/xolox/python-rotate-backups,"Simple command line interface for backup rotation, also available via [PyPI](https://pypi.python.org/pypi/rotate-backups)."
+Utilities,WhatsApp,whatsapp-bot-seed,https://github.com/joaoricardo000/whatsapp-bot-seed,A
+Utilities,WhatsApp,whatsappcli,https://github.com/KarimJedda/whatsappcli,Control your server from Whatsapp.
+Utilities,WhatsApp,yowsup,https://github.com/tgalal/yowsup,The python WhatsApp library.
+Utilities,Twitter,followtrack,https://github.com/grote/followtrack,Keeps track of your Twitter followers and lets you know who unfollowed you.
+Utilities,Twitter,twitter-unfav,https://github.com/grote/twitter-unfav,A script to remove favorited tweets from Twitter for privacy reasons.
+Utilities,DesktopDocumentprocessing,Pweave,https://github.com/mpastell/Pweave,"A scientific report generator and a literate programming tool for Python. Pweave can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib. Pweave is inspired by Sweave, an excellent tool for R programmers, and the syntax is mostly compatible with it."
+Utilities,MTA,python-slimta,http://slimta.org/,"Lightweight, asynchronous SMTP libraries. [Source code](https://github.com/slimta/python-slimta)."
+Utilities,Open-Research-Tools,arxiv-sanity-preserver,https://github.com/karpathy/arxiv-sanity-preserver,"Web interface for browsing, search and filtering recent arxiv submissions. [Website](http://www.arxiv-sanity.com/)."
+Utilities,Open-Research-Tools,autograde,https://github.com/asutton/autograde,A set of tools that help automate the more mechanical aspects of grading.
+Utilities,Open-Research-Tools,Citer,https://github.com/mangecoeur/Citer,Citations from bibtex for Sublime Text 3.
+Utilities,Open-Research-Tools,depsy,http://depsy.org,Track the impact of research software. [Source code](https://github.com/impactstory/depsy).
+Utilities,Open-Research-Tools,depsy-research,https://github.com/Impactstory/depsy-research,Documentation and research output for Depsy.
+Utilities,Open-Research-Tools,duecredit,https://github.com/yarikoptic/duecredit,Automated collection and reporting of citations for used software/methods.
+Utilities,Open-Research-Tools,gradebook,https://github.com/jarrodmillman/gradebook,Tools for grading.
+Utilities,Open-Research-Tools,habanero,https://github.com/sckott/habanero,crossref search low level client.
+Utilities,Open-Research-Tools,sempervirens,https://github.com/njsmith/sempervirens,"An experimental prototype for gathering anonymous, opt-in usage data for open scientific software."
+Utilities,[ScientificWorkflow](https://en.wikipedia.org/wiki/Scientific_workflow_system),incubator-airflow,https://github.com/apache/incubator-airflow,"Airflow is a platform to programmatically author, schedule and monitor workflows."
+Utilities,TimeTracker,Meistercharts,https://github.com/mribeirodantas/meistercharts,Command line tool to generate charts out of CSV files exported from MeisterTask.
+Utilities,TimeTracker,Watson,http://tailordev.github.io/Watson/,A wonderful CLI to track your time! [Source code](https://github.com/TailorDev/Watson).
