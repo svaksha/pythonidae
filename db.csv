@@ -494,6 +494,9 @@ Computer-Graphics,GRAPHICS,PIL,http://www.pythonware.com/products/pil/,"Python I
 Computer-Graphics,GRAPHICS,pydeface,https://github.com/poldracklab/pydeface,A defacing utility for MRI images.
 Computer-Graphics,GRAPHICS,python-colormath,https://github.com/gtaylor/python-colormath,"A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org)."
 Computer-Graphics,Games,Panda3D,https://www.panda3d.org/,The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
+Computer-Graphics,OCR,EAST,https://github.com/argman/EAST,A tensorflow implementation of EAST text detector.
+Computer-Graphics,OCR,PaddleOCR,"https://github.com/PaddlePaddle/PaddleOCR):: aims to create multilingual and practical OCR tools that provide data annotation and synthesis tools, support training and helps users train better models and deploy on server, mobile, embedded and IoT devices",
+Computer-Graphics,OCR,Strabo text recognition deep learning,https://github.com/jamespjh/strabo-text-recognition-deep-learning): This project detects and recognizes text in maps. Input to the system is an image (`jpeg or png`). The output is a `geo json` image which contains the coordinates of the text in the map along with the recognized text in that area,
 Computer-Graphics,Video,submerger,https://github.com/grote/submerger, Merges subtitle files into one unified video file.
 Computer-Graphics,Resources,Bokeh Snake,https://github.com/akloster/bokeh-snake,This is an example on how to use Jupyter widgets and the Bokeh plotting library to implement a simple Snake Game.
 Computer-Graphics,Resources,OpenCV panorama stitching,http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/,Image stitching and panorama construction using Python and OpenCV.
@@ -635,6 +638,7 @@ Machines,GUI,PyGMI,https://github.com/Argonne-National-Laboratory/PyGMI,"Open so
 Machines,Robots,baldr,https://github.com/motet/baldr,A flight simulator for quadrotor drones written entirely in Python.
 Machines,Robots,DroneKit-Python,https://github.com/dronekit/dronekit-python,A library for communicating with Drones via MAVLink.
 Machines,Robots,UT : [Study of Exploration Algorithms in developmental robotics with Explauto,http://nbviewer.jupyter.org/github/sebastien-forestier/ExplorationAlgorithms/blob/master/main.ipynb,
+Machines,Robots,Caesar.jl,https://github.com/JuliaRobotics/Caesar.jl):: The Robot toolkit - Towards non-parametric and parametric navigation solutions,
 Machines,Tools,xlang,https://github.com/darpa-xdata/xlang,Tools for Cross-language data interoperability.
 Mathematics,CRYPTOGRAPHY,Cryptography,https://cryptography.io/,A package designed to expose cryptographic primitives and recipes to Python developers. [Source code](https://github.com/pyca/cryptography)
 Mathematics,CRYPTOGRAPHY,ed25519,https://github.com/pyca/ed25519,Optimized version of the reference implementation of Ed25519.

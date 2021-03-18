@@ -1,4 +1,4 @@
-**Hardware arch (ARM, CUDA, GPU, MIPS), API for Compilers, other software libraries,..**
+**Hardware arch (ARM, MIPS), API for Compilers, other software libraries,..**
 
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
@@ -44,6 +44,7 @@
 + [baldr](https://github.com/motet/baldr) :: A flight simulator for quadrotor drones written entirely in Python. 
 + [DroneKit-Python](https://github.com/dronekit/dronekit-python) :: A library for communicating with Drones via MAVLink.
 + TUT : [Study of Exploration Algorithms in developmental robotics with Explauto](http://nbviewer.jupyter.org/github/sebastien-forestier/ExplorationAlgorithms/blob/master/main.ipynb)
++ [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl):: The Robot toolkit - Towards non-parametric and parametric navigation solutions.
 
 ----
 

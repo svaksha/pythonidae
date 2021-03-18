@@ -6,6 +6,7 @@
 + [LICENSE](#license)
    + [Mirrors](#mirrors)
    + [Contributing Guidelines](#contributing-guidelines)
+   + [Stargazers](#stargazers)
 
 ----
 
@@ -53,3 +54,7 @@
 + For those unable to use git, create a github account, fork the 'pythonidae' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
 
+
+## Stargazers
+[![Stargazers over time](https://starchart.cc/svaksha/pythonidae.svg)](https://starchart.cc/svaksha/pythonidae)
+      

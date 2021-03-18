@@ -1,8 +1,11 @@
 **Graphics and other Visualization libraries and packages. Also includes relevant documentation/tutorials and blog links narrating user experiences and howto's.**
 
 + [ARTS & CRAFTS](#arts-&-crafts)
-+ [GRAPHICS](#graphics) 
++ [GRAPHICS](#graphics)
+   + [CUDA](#cuda) 
    + [Games](#games)
+   + [GPU](#gpu)
+   + [OCR](#ocr)
    + [Video](#video)
 + [INFOGRAPHICS](#infographics)
 + [Org-Enthought](#org-enthought)
@@ -44,11 +47,23 @@
 + [python-colormath](https://github.com/gtaylor/python-colormath) :: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org).
 
 
-### Games
+## CUDA
+ 
+ 
+## Games
 + [Panda3D](https://www.panda3d.org/) :: The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
 + [PySoy](http://www.pysoy.org/) is a 3D cloud game engine for Python. [Source code](http://hg.pysoy.org/pysoy)
 
-### Video
+## GPU
+
+## OCR
++ [EAST](https://github.com/argman/EAST) :: A tensorflow implementation of EAST text detector.
++ [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR):: aims to create multilingual and practical OCR tools that provide data annotation and synthesis tools, support training and helps users train better models and deploy on server, mobile, embedded and IoT devices.
++ [Strabo text recognition deep learning](https://github.com/jamespjh/strabo-text-recognition-deep-learning): This project detects and recognizes text in maps. Input to the system is an image (`jpeg or png`). The output is a `geo json` image which contains the coordinates of the text in the map along with the recognized text in that area.
+   + Forks:
+   + https://github.com/spatial-computing/strabo-text-recognition-deep-learning
+
+## Video
 + [submerger](https://github.com/grote/submerger) ::  Merges subtitle files into one unified video file.
 
 ###### Resources
