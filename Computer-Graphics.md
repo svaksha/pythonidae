@@ -44,6 +44,7 @@
 + [PCV](https://github.com/jesolem/PCV) :: An open source pure Python library for computer vision based on the book "Programming Computer Vision with Python" by Jan Erik Solem. 
 + [PIL](http://www.pythonware.com/products/pil/) :: Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3.
 + [pydeface](https://github.com/poldracklab/pydeface) :: A defacing utility for MRI images.
++ [pygfx](https://github.com/pygfx/pygfx) :: A render engine, inspired by ThreeJS, but for Python and targeting Vulkan/Metal/DX12 (via wgpu).
 + [python-colormath](https://github.com/gtaylor/python-colormath) :: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org).
 
 
@@ -55,6 +56,7 @@
 + [PySoy](http://www.pysoy.org/) is a 3D cloud game engine for Python. [Source code](http://hg.pysoy.org/pysoy)
 
 ## GPU
++ [wgpu-py](https://github.com/pygfx/wgpu-py):  Next generation GPU API for Python. 
 
 ## OCR
 + [EAST](https://github.com/argman/EAST) :: A tensorflow implementation of EAST text detector.
