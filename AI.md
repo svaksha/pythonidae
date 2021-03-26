@@ -6,10 +6,12 @@
    + [Deep Learning](#deep-learning)
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
+   + [GPU](#gpu)
 + [NLP](#nlp)
    + [Screen Reading](#screen-reading)
    + [Speech Recognition](#speech-recognition)
 + [REINFORCEMENT LEARNING](#reinforcement-learning)
++ [Reproducibility](#reproducibility)
 + [SUPERVISED LEARNING](#supervised-learning)
 + [UNSUPERVISED LEARNING](#unsupervised-learning)
    + [Neural Networks](#neural-networks)
@@ -118,7 +120,8 @@ for implementing a recommender system.
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
 
-
+## GPU
+* [cuML](https://github.com/rapidsai/cuml) :: is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
 ----
 
@@ -163,10 +166,16 @@ for implementing a recommender system.
 
 ----
 
-
 # [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
 + [bsuite](https://github.com/deepmind/bsuite) ::  A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent. 
 + [Tensortrade](https://github.com/notadamking/tensortrade) :: An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+
+
+----
+
+# [Reproducibility](https://en.wikipedia.org/wiki/Reproducibility)
+
+* [AIQC](https://github.com/aiqc/aiqc) :: is an open source framework for rapid & reproducible deep learning.
 
 
 ----

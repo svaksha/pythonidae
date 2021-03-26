@@ -492,8 +492,10 @@ Computer-Graphics,GRAPHICS,Data Animations With Python and MoviePy,https://zulko
 Computer-Graphics,GRAPHICS,PCV,https://github.com/jesolem/PCV,"An open source pure Python library for computer vision based on the book ""Programming Computer Vision with Python"" by Jan Erik Solem."
 Computer-Graphics,GRAPHICS,PIL,http://www.pythonware.com/products/pil/,"Python Imaging Library, now forked as [pillow](http://pillow.readthedocs.org/) to support Python3."
 Computer-Graphics,GRAPHICS,pydeface,https://github.com/poldracklab/pydeface,A defacing utility for MRI images.
+Computer-Graphics,GRAPHICS,pygfx,https://github.com/pygfx/pygfx,"A render engine, inspired by ThreeJS, but for Python and targeting Vulkan/Metal/DX12 (via wgpu)."
 Computer-Graphics,GRAPHICS,python-colormath,https://github.com/gtaylor/python-colormath,"A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org)."
 Computer-Graphics,Games,Panda3D,https://www.panda3d.org/,The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
+Computer-Graphics,GPU,wgpu-py,https://github.com/pygfx/wgpu-py):  Next generation GPU API for Python,
 Computer-Graphics,OCR,EAST,https://github.com/argman/EAST,A tensorflow implementation of EAST text detector.
 Computer-Graphics,OCR,PaddleOCR,"https://github.com/PaddlePaddle/PaddleOCR):: aims to create multilingual and practical OCR tools that provide data annotation and synthesis tools, support training and helps users train better models and deploy on server, mobile, embedded and IoT devices",
 Computer-Graphics,OCR,Strabo text recognition deep learning,https://github.com/jamespjh/strabo-text-recognition-deep-learning): This project detects and recognizes text in maps. Input to the system is an image (`jpeg or png`). The output is a `geo json` image which contains the coordinates of the text in the map along with the recognized text in that area,
@@ -512,6 +514,7 @@ Computer-Graphics,INFOGRAPHICS,Glue,https://github.com/glue-viz/glue,is a python
 Computer-Graphics,INFOGRAPHICS,GmtPy,http://emolch.github.com/gmtpy,A Python interface to GMT. [Tutorial](http://emolch.github.io/gmtpy/tutorial.html)
 Computer-Graphics,INFOGRAPHICS,Healpy,https://github.com/healpy/healpy,"A python package to manipulate healpix maps, based on the standard numeric and visualisation tools for Python, Numpy and matplotlib."
 Computer-Graphics,INFOGRAPHICS,HoloViews,http://ioam.github.io/holoviews,"A Python package for scientific and engineering data visualization that provides composable, sliceable, declarative data structures for building complex visualizations easily."
+Computer-Graphics,INFOGRAPHICS,napari,https://github.com/napari/napari,"is a fast, interactive, multi-dimensional image viewer for Python. It's designed for browsing, annotating, and analyzing large multi-dimensional images. It's built on top of Qt (for the GUI), vispy (for performant GPU-based rendering), and the scientific Python stack (numpy, scipy)."
 Computer-Graphics,INFOGRAPHICS,Matplotlib,http://matplotlib.org/,"is a 2D/3D plotting library that can be used in python scripts, the python and ipython shell (ala MATLAB or Mathematica), web application servers, etc.. to generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc, with just a few lines of code."
 Computer-Graphics,INFOGRAPHICS,mplot3d tutorial,http://matplotlib.org/1.3.1/mpl_toolkits/mplot3d/tutorial.html,
 Computer-Graphics,INFOGRAPHICS,Inset plots in Matplotlib,http://scipython.com/blog/inset-plots-in-matplotlib/),
