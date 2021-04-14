@@ -8,6 +8,7 @@
    + [Graph Theory](#graph-theory)
    + [GPU](#gpu)
 + [NLP](#nlp)
+   + [Digital Humanities](#digital-humanities)
    + [Screen Reading](#screen-reading)
    + [Speech Recognition](#speech-recognition)
 + [REINFORCEMENT LEARNING](#reinforcement-learning)
@@ -147,6 +148,8 @@ for implementing a recommender system.
 + [txtai](https://github.com/neuml/txtai):: builds an AI-powered index over sections of text & supports building text indices to perform similarity searches and create extractive question-answering based systems.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
 
+### Digital Humanities
++ [NLP-Notebooks-Newspaper-Collections](https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections) :: NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source. 
 
 ### Screen Reading
 + [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on.

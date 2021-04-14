@@ -75,6 +75,7 @@ AI,NLP,Suggester,https://github.com/valyala/suggester,The heart for full-text au
 AI,NLP,TextGridTools,https://github.com/hbuschme/TextGridTools,"Read, write, and manipulate Praat TextGrid files with Python."
 AI,NLP,txtai,https://github.com/neuml/txtai):: builds an AI-powered index over sections of text & supports building text indices to perform similarity searches and create extractive question-answering based systems,
 AI,NLP,word_cloud,https://github.com/amueller/word_cloud,A little word cloud generator in Python.
+AI,DigitalHumanities,NLP-Notebooks-Newspaper-Collections,https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections,NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source.
 AI,ScreenReading,wordgraph,https://github.com/tleeuwenburg/wordgraph,"This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on."
 AI,ScreenReading,STT with HMM,https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/, Single Speaker Speech Recognition with Hidden Markov Models.
 AI,SpeechRecognition,Speech recognition software for Linux,http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux,
