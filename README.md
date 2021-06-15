@@ -5,7 +5,8 @@
 + [INDEX](#index)
 + [LICENSE](#license)
    + [Mirrors](#mirrors)
-   + [Contributing Guidelines](#contributing-guidelines)
++ [CONTRIBUTE](#contribute)
+   + [BugReport-PullRequest](#bugreport-pullrequest)
    + [Stargazers](#stargazers)
 
 ----
@@ -46,12 +47,23 @@
 + [Bitbucket](https://bitbucket.org/svaksha/pythonidae) :: git clone git@bitbucket.org:svaksha/pythonidae.git
 + [GitLab](https://gitlab.com/svaksha/pythonidae) :: git clone git@gitlab.com:svaksha/pythonidae.git
 
-## Contributing Guidelines
-##### To submit a [PR](https://github.com/svaksha/pythonidae/pulls)
-+ Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
-+ For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
-+ For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](Resources.md) page.
-+ For those unable to use git, create a github account, fork the 'pythonidae' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+
+----
+
+# CONTRIBUTE
+
+[Contributions](https://github.com/svaksha/pythonidae/graphs/contributors) are welcome in the form of pull requests (PR). Please follow the [Python Community Code of Conduct](https://www.python.org/psf/conduct/).
+
+
+## BugReport-PullRequest
+
+__To submit a [PR](https://github.com/svaksha/pythonidae/pulls)__:
+
+1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a __new__ top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it via a BR (not in a PR ;-)).
+2. Fire a CLI and install [JuliaLang](https://github.com/JuliaLang). Then run the [pythonidae.jl](https://github.com/svaksha/pythonidae/blob/master/pythonidae.jl) script with `julia pythonidae.jl` which will run the [scraper](https://github.com/svaksha/pythonidae/blob/master/src/scrape.jl) file. Commit the `db.csv` file and open a PR.
+3. Fix broken links or outdated information and submit a bug report.
+4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](Resources.md) page.
+5. For those unable to use git, create a github account, fork the 'pythonidae' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
 
 

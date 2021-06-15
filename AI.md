@@ -135,18 +135,21 @@ for implementing a recommender system.
 + [Gensim](http://radimrehurek.com/gensim/) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora for natural language processing (NLP) and information retrieval (IR). [Source Code](https://github.com/piskvorky/gensim).
 + [Geiger](https://github.com/ftzeng/geiger) :: An automated system for grouping similar comments and then identifying the best representative from each group.
 + [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
++ [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) ::  A framework for detecting, highlighting and correcting grammatical errors on natural language text.
 + [IEPY](https://github.com/machinalis/iepy) :: An open source tool for Information Extraction focused on Relation Extraction.
 + [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
 + [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
 + [NLTK](http://www.nltk.org/) :: Natural Language ToolKit to manipulate human language data. [Source Code](https://github.com/nltk/nltk)
 + [nupic.fluent](https://github.com/numenta/nupic.fluent) :: A platform for building language / NLP-based applications using NuPIC and CEPT.
 + [Quepy](https://github.com/machinalis/quepy) :: A python framework to transform natural language questions to queries in a database query language.
++ [Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) :: Parrot is a paraphrase based utterance augmentation framework purpose built to accelerate training NLU models.
 + [PLY](https://github.com/dabeaz/ply) :: Python Lex-Yacc. http://www.dabeaz.com/ply/index.html
 + [SAMR](https://github.com/rafacarrascosa/samr) :: An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition.
 + [Suggester](https://github.com/valyala/suggester) :: The heart for full-text auto-complete web services.
 + [TextGridTools](https://github.com/hbuschme/TextGridTools) :: Read, write, and manipulate Praat TextGrid files with Python.
 + [txtai](https://github.com/neuml/txtai):: builds an AI-powered index over sections of text & supports building text indices to perform similarity searches and create extractive question-answering based systems.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
+
 
 ### Digital Humanities
 + [NLP-Notebooks-Newspaper-Collections](https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections) :: NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source. 
