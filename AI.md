@@ -1,14 +1,17 @@
-**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural, NLP...**
+**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
 
-+ [AI](#ai)
-+ [DATA SCIENCE](#data-science)
-+ [MACHINE LEARNING](#machine-learning])
-   + [Deep Learning](#deep-learning)
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
    + [Classification Algorithms](#classification-algorithms)
    + [Graph Theory](#graph-theory)
    + [GPU](#gpu)
-+ [NLP](#nlp)
-   + [Digital Humanities](#digital-humanities)
++ [§4. NLP](#4-NLP)
+   + [§4.1. Computational Linguistics](#4-1-Computational-Linguistics)
+        + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
+   + [§4.2. Digital Humanities](#4-2-Digital-Humanities)
    + [Screen Reading](#screen-reading)
    + [Speech Recognition](#speech-recognition)
 + [REINFORCEMENT LEARNING](#reinforcement-learning)
@@ -19,15 +22,15 @@
         + [Artificial Neural Network](#artificial-neural-network)
 
 ----
+----
 
-# AI
-
+# §1. AI <span id="1-AI"><span>
 + [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
 
 
 ----
 
-# DATA SCIENCE
+# §2. DATA SCIENCE <span id="#2-DATA-SCIENCE"><span>
 + [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
 + [gqn-datasets](https://github.com/deepmind/gqn-datasets) :: Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. 
 + [python-seminar](https://github.com/profjsb/python-seminar) :: Python Computing for Data Science.
@@ -40,7 +43,7 @@
 
 ----
 
-# MACHINE LEARNING
+# §3. MACHINE LEARNING <span id="3-MACHINE-LEARNING"><span>
 
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. 
    * Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
@@ -87,15 +90,19 @@ for implementing a recommender system.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
+----
 
-## [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+## §3.1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) span id="3-1-Deep-Learning"><span> 
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
 + [TRAINS](https://github.com/allegroai/trains) :: Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance.
-
 
 ##### Resources
 + [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) :: Deep Learning Tutorial notes and code. See the [wiki](http://deeplearning.net/tutorial) for more info.
 + Deep Learning [Part 1: Comparison of Symbolic Deep Learning Frameworks](https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/).
++ [handson-ml](https://github.com/ageron/handson-ml) :: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
++ [handson-ml2](https://github.com/ageron/handson-ml2) :: Version-2 of the series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. 
+
+----
 
 ## Classification Algorithms
 + [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm.
@@ -127,7 +134,7 @@ for implementing a recommender system.
 ----
 
 
-# NLP
+# §4. NLP  span id="4-NLP"><span> 
 
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [commonast](https://github.com/almarklein/commonast) :: A common AST description for Python.
@@ -151,15 +158,25 @@ for implementing a recommender system.
 + [word_cloud](https://github.com/amueller/word_cloud) :: A little word cloud generator in Python.
 
 
-### Digital Humanities
+## §4.1. [Computational Linguistics](https://en.wikipedia.org/wiki/Category:Computational_linguistics) span id="4-1-Computational-Linguistics"><span> 
++ [spaCy](https://github.com/explosion/spaCy) :: a library for advanced Natural Language Processing in Python and Cython; with pretrained pipelines and currently supports tokenization and training for 60+ languages that features neural network models for tagging, parsing, named entity recognition, text classification and more.
+
+### §4.1.1. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) span id="4-1-1-Named-Entity-Recognition"><span>    
++ [CLNER](https://github.com/Alibaba-NLP/CLNER) :: The code is for our ACL-IJCNLP 2021 paper "Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning".
++ [mt-dnn](https://github.com/namisan/mt-dnn) :: This PyTorch package implements the Multi-Task Deep Neural Networks (MT-DNN) for Natural Language Understanding.
+
+
+## §4.2. Digital Humanities span id="4-2-Digital-Humanities"><span>    
 + [NLP-Notebooks-Newspaper-Collections](https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections) :: NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source. 
 
-### Screen Reading
+
+## §4.3. Screen Reading
 + [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on.
 + __Resources__
    + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) ::  Single Speaker Speech Recognition with Hidden Markov Models.
 
-### Speech Recognition
+
+## §4.4. Speech Recognition
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 + [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets. http://parl.ai
