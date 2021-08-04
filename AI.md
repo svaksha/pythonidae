@@ -44,7 +44,7 @@
 
 ----
 
-# §3. MACHINE LEARNING <span id="3-MACHINE-LEARNING"><span>
+# §3. MACHINE LEARNING. <span id="3-MACHINE-LEARNING"><span>
 
 + [ConfidenceWeighted](https://github.com/echizentm/ConfidenceWeighted) :: Confidence weighted classifier. 
    * Papers : (http://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf) and (http://icml.cc/2012/papers/86.pdf)
@@ -166,7 +166,7 @@ for implementing a recommender system.
 + [mt-dnn](https://github.com/namisan/mt-dnn) :: This PyTorch package implements the Multi-Task Deep Neural Networks (MT-DNN) for Natural Language Understanding.
 
 
-## §4.2. Digital Humanities span id="4-2-Digital-Humanities"><span>    
+## §4.2. Digital Humanities. span id="4-2-Digital-Humanities"><span>    
 + [NLP-Notebooks-Newspaper-Collections](https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections) :: NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source. 
 
 
@@ -185,7 +185,8 @@ for implementing a recommender system.
 ##### Resources
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
 
-## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
+
+## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)).  span id="4-5-Transformers"><span>    
 + [BERT](https://github.com/google-research/bert) :: TensorFlow code and pre-trained models for 24 smaller BERT models (English only, uncased, trained with WordPiece masking) referenced in Well-Read Students Learn Better: On the Importance of Pre-training Compact Models.
 
 
