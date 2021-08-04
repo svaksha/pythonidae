@@ -15,10 +15,10 @@
    + [§4.3. Screen Reading](#4-3-Screen-Reading)
    + [§4.4. Speech Recognition](#4-4-Speech-Recognition)
    + [§4.5. Transformers](#4-5-Transformers)
-+ [REINFORCEMENT LEARNING](#reinforcement-learning)
-+ [Reproducibility](#reproducibility)
-+ [SUPERVISED LEARNING](#supervised-learning)
-+ [UNSUPERVISED LEARNING](#unsupervised-learning)
++ [§5. REINFORCEMENT LEARNING](#5-REINFORCEMENT-LEARNING)
++ [§6. Reproducibility](#6-Reproducibility)
++ [§7. SUPERVISED LEARNING](#7-SUPERVISED-LEARNING)
++ [§8. UNSUPERVISED LEARNING](#8-UNSUPERVISED-LEARNING)
    + [Neural Networks](#neural-networks)
         + [Artificial Neural Network](#artificial-neural-network)
 
@@ -92,7 +92,7 @@ for implementing a recommender system.
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
 
-## §3.1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) span id="3-1-Deep-Learning"><span> 
+## §3.1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning). span id="3-1-Deep-Learning"><span> 
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
 + [TRAINS](https://github.com/allegroai/trains) :: Auto-Magical Experiment Manager & Version Control for AI. Training production-grade deep learning models is a glorious but messy process. TRAINS tracks and controls the process by associating code version control, research projects, performance metrics, and model provenance.
 
@@ -117,7 +117,6 @@ for implementing a recommender system.
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
 
-
 ##### Resources
 + [Amazon Machine Learning: use cases and a real example in Python](http://cloudacademy.com/blog/aws-machine-learning/).
 + Some [machine learning libraries](http://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/)
@@ -128,7 +127,7 @@ for implementing a recommender system.
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
 
-## §3.4. GPU.  span id="3-4-GPU"><span> 
+## §3.4. GPU. span id="3-4-GPU"><span> 
 * [cuML](https://github.com/rapidsai/cuml) :: is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
 ----
@@ -161,8 +160,8 @@ for implementing a recommender system.
 ## §4.1. [Computational Linguistics](https://en.wikipedia.org/wiki/Category:Computational_linguistics) span id="4-1-Computational-Linguistics"><span> 
 + [spaCy](https://github.com/explosion/spaCy) :: a library for advanced Natural Language Processing in Python and Cython; with pretrained pipelines and currently supports tokenization and training for 60+ languages that features neural network models for tagging, parsing, named entity recognition, text classification and more.
 
-### §4.1.1. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) span id="4-1-1-Named-Entity-Recognition"><span>    
-+ [CLNER](https://github.com/Alibaba-NLP/CLNER) :: The code is for our ACL-IJCNLP 2021 paper "Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning".
+### §4.1.1. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition). span id="4-1-1-Named-Entity-Recognition"><span>    
++ [CLNER](https://github.com/Alibaba-NLP/CLNER) :: The code is for the ACL-IJCNLP 2021 paper "Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning".
 + [mt-dnn](https://github.com/namisan/mt-dnn) :: This PyTorch package implements the Multi-Task Deep Neural Networks (MT-DNN) for Natural Language Understanding.
 
 
@@ -188,7 +187,7 @@ for implementing a recommender system.
 
 ## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)).  span id="4-5-Transformers"><span>    
 + [BERT](https://github.com/google-research/bert) :: TensorFlow code and pre-trained models for 24 smaller BERT models (English only, uncased, trained with WordPiece masking) referenced in Well-Read Students Learn Better: On the Importance of Pre-training Compact Models.
-
++ [Transformers](https://github.com/huggingface/transformers) :: State-of-the-art Natural Language Processing for Jax, PyTorch and TensorFlow.
 
 ----
 
