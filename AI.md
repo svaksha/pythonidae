@@ -3,17 +3,18 @@
 
 + [§1. AI](#1-AI)
 + [§2. DATA SCIENCE](#2-DATA-SCIENCE)
-+ [§3. MACHINE LEARNING](3-MACHINE-LEARNING)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
    + [§3.1. Deep Learning](#3-1-Deep-Learning)
-   + [Classification Algorithms](#classification-algorithms)
-   + [Graph Theory](#graph-theory)
-   + [GPU](#gpu)
+   + [§3.2. Classification Algorithms](#3-2-Classification-Algorithms)
+   + [§3.3. Graph Theory](#3-3-Graph-Theory)
+   + [§3.4. GPU](#3-4-GPU)
 + [§4. NLP](#4-NLP)
    + [§4.1. Computational Linguistics](#4-1-Computational-Linguistics)
         + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
    + [§4.2. Digital Humanities](#4-2-Digital-Humanities)
-   + [Screen Reading](#screen-reading)
-   + [Speech Recognition](#speech-recognition)
+   + [§4.3. Screen Reading](#4-3-Screen-Reading)
+   + [§4.4. Speech Recognition](#4-4-Speech-Recognition)
+   + [§4.5. Transformers](#4-5-Transformers)
 + [REINFORCEMENT LEARNING](#reinforcement-learning)
 + [Reproducibility](#reproducibility)
 + [SUPERVISED LEARNING](#supervised-learning)
@@ -30,7 +31,7 @@
 
 ----
 
-# §2. DATA SCIENCE <span id="#2-DATA-SCIENCE"><span>
+# §2. DATA SCIENCE <span id="2-DATA-SCIENCE"><span>
 + [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
 + [gqn-datasets](https://github.com/deepmind/gqn-datasets) :: Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. 
 + [python-seminar](https://github.com/profjsb/python-seminar) :: Python Computing for Data Science.
@@ -90,7 +91,6 @@ for implementing a recommender system.
 + A HN site for [ML](http://news.startup.ml/).
 + [Source Code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) for the book [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book).
 
-----
 
 ## §3.1. [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) span id="3-1-Deep-Learning"><span> 
 + https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
@@ -102,9 +102,9 @@ for implementing a recommender system.
 + [handson-ml](https://github.com/ageron/handson-ml) :: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. 
 + [handson-ml2](https://github.com/ageron/handson-ml2) :: Version-2 of the series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. 
 
-----
 
-## Classification Algorithms
+
+## §3.2. Classification Algorithms. span id="3-2-Classification-Algorithms"><span> 
 + [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) :: Python implementation of KNN and DTW classification algorithm.
 
 ###### Resources
@@ -112,7 +112,7 @@ for implementing a recommender system.
 + Blog on [How To Implement Naive Bayes From Scratch in Python](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
 
-## Graph Theory
+## §3.3. Graph Theory. span id="3-3-Graph-Theory"><span> 
 + [fluffy-graph](https://github.com/vpavlenko/fluffy-graph) :: NP-hard game where you find isomorphic graphs.
 + [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) ::  Simple markov chain implementation in python.
 + [python-igraph](http://igraph.org/python/) :: Python interface for igraph. The [code and issue tracker](https://github.com/igraph/python-igraph) is on github.
@@ -128,13 +128,13 @@ for implementing a recommender system.
 + [How a Russian mathematician constructed a decision tree - by hand - to solve a medical problem](http://fastml.com/how-a-russian-mathematician-constructed-a-decision-tree-by-hand-to-solve-a-medical-problem/)
 + [MST](http://healthyalgorithms.wordpress.com/2009/01/13/aco-in-python-pads-for-minimum-spanning-trees/) →  python algorithms for minimum spanning trees.
 
-## GPU
+## §3.4. GPU.  span id="3-4-GPU"><span> 
 * [cuML](https://github.com/rapidsai/cuml) :: is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
 ----
 
 
-# §4. NLP  span id="4-NLP"><span> 
+# §4. NLP. span id="4-NLP"><span> 
 
 + [Broca](https://github.com/ftzeng/broca) :: Various useful NLP algos and utilities for rapid NLP prototyping.
 + [commonast](https://github.com/almarklein/commonast) :: A common AST description for Python.
@@ -182,9 +182,11 @@ for implementing a recommender system.
 + [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets. http://parl.ai
 + [speech-processing](https://github.com/hbuschme/speech-processing) :: A Python framework for speech processing.
 
-
 ##### Resources
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
+
+## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
++ [BERT](https://github.com/google-research/bert) :: TensorFlow code and pre-trained models for 24 smaller BERT models (English only, uncased, trained with WordPiece masking) referenced in Well-Read Students Learn Better: On the Importance of Pre-training Compact Models.
 
 
 ----
