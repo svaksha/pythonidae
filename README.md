@@ -24,7 +24,7 @@
 + [IO.md](https://github.com/svaksha/pythonidae/blob/master/IO.md) :: Input/Output functionality and support for file formats.
 + [Machines.md](https://github.com/svaksha/pythonidae/blob/master/Machines.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries for all kinds of Machine related software.
 + [Mathematics.md](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md) :: Mathematical software libraries, blogs, etc.. 
-+ [OpenDataScience.md](https://github.com/svaksha/Julia.jl/blob/master/OpenDataScience.md) :: OpenData + OpenScience + OpenResearch, Reproducible research, Free Data Sets, et al.
++ [OpenDataScience.md](https://github.com/svaksha/pythonidae/blob/master/OpenDataScience.md) :: OpenData + OpenScience + OpenResearch, Reproducible research, Free Data Sets, et al.
 + [Physics.md](https://github.com/svaksha/pythonidae/blob/master/Physics.md) :: software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/pythonidae/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
 + [Psychology.md](https://github.com/svaksha/pythonidae/blob/master/Psychology.md) :: software related to the explanation and prediction of behavior, thinking, emotions, motivations, relationships, potentials and pathologies.
