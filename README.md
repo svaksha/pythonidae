@@ -52,7 +52,10 @@
 
 # CONTRIBUTE
 
-[Contributions](https://github.com/svaksha/pythonidae/graphs/contributors) are welcome in the form of pull requests (PR). Please follow the [Python Community Code of Conduct](https://www.python.org/psf/conduct/).
+[Contributions](https://github.com/svaksha/pythonidae/graphs/contributors) are welcome in the form of pull requests (PR). 
+
+1. Please follow the [Python Community Code of Conduct](https://www.python.org/psf/conduct/).
+2. __Commercial Links__: Almost all the resources in this repo are Free/Libre software resources, so in the interest of continuing to maintain the "Libre" software spirit, please only submit those resources that are free without paid/commercial interests. 
 
 
 ## BugReport-PullRequest

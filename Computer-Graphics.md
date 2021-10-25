@@ -2,7 +2,6 @@
 
 + [ARTS & CRAFTS](#arts-&-crafts)
 + [GRAPHICS](#graphics)
-   + [CUDA](#cuda) 
    + [Games](#games)
    + [GPU](#gpu)
    + [OCR](#ocr)
@@ -47,9 +46,6 @@
 + [pygfx](https://github.com/pygfx/pygfx) :: A render engine, inspired by ThreeJS, but for Python and targeting Vulkan/Metal/DX12 (via wgpu).
 + [python-colormath](https://github.com/gtaylor/python-colormath) :: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK, with [Documentation](http://python-colormath.readthedocs.org).
 
-
-## CUDA
- 
  
 ## Games
 + [Panda3D](https://www.panda3d.org/) :: The Panda3D free open-source cross-platform game engine with excellent Python support. [Source code](https://github.com/panda3d/panda3d).
@@ -64,6 +60,7 @@
 + [Strabo text recognition deep learning](https://github.com/jamespjh/strabo-text-recognition-deep-learning): This project detects and recognizes text in maps. Input to the system is an image (`jpeg or png`). The output is a `geo json` image which contains the coordinates of the text in the map along with the recognized text in that area.
    + Forks:
    + https://github.com/spatial-computing/strabo-text-recognition-deep-learning
++ [Tesseract Wrappers](https://tesseract-ocr.github.io/tessdoc/AddOns.html#tesseract-wrappers) like [pytesseract](https://github.com/madmaze/pytesseract) and [tesserocr](https://github.com/sirfz/tesserocr).
 
 ## Video
 + [submerger](https://github.com/grote/submerger) ::  Merges subtitle files into one unified video file.

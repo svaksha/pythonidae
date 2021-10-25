@@ -19,19 +19,20 @@
 + [§6. Reproducibility](#6-Reproducibility)
 + [§7. SUPERVISED LEARNING](#7-SUPERVISED-LEARNING)
 + [§8. UNSUPERVISED LEARNING](#8-UNSUPERVISED-LEARNING)
-   + [Neural Networks](#neural-networks)
-        + [Artificial Neural Network](#artificial-neural-network)
+   + [§8.1. GAN](#8-1-GAN)
+   + [§8.2. Neural Networks](#8-2-Neural-Networks)
+        + [§8.2.1. Artificial Neural Network](#8-2-1-Artificial-Neural-Network)
 
 ----
 ----
 
-# §1. AI <span id="1-AI"><span>
+# §1. AI. <span id="1-AI"><span>
 + [simpleai](https://github.com/simpleai-team/simpleai) :: Simple artificial intelligence utilities.
 
 
 ----
 
-# §2. DATA SCIENCE <span id="2-DATA-SCIENCE"><span>
+# §2. DATA SCIENCE. <span id="2-DATA-SCIENCE"><span>
 + [engarde](https://github.com/TomAugspurger/engarde) :: A library for defensive data analysis.
 + [gqn-datasets](https://github.com/deepmind/gqn-datasets) :: Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. 
 + [python-seminar](https://github.com/profjsb/python-seminar) :: Python Computing for Data Science.
@@ -68,7 +69,7 @@
    + [PyML Tutorial](http://pyml.sourceforge.net/tutorial.html)
 + [Rambutan](https://github.com/jmschrei/rambutan) :: A python wrapper for caffe which aims at providing a simple, pythonic, interface for users so that users can define, train, and evaluate deep models in only a few lines of code. It requires that caffe and pycaffe are both built properly.   
 + [RAMP](https://github.com/kvh/ramp) :: Rapid Machine Learning Prototyping in Python.
-+ [python-recsys](https://github.com/ocelma/python-recsys) :: A python library 
++ [python-recsys](https://github.com/ocelma/python-recsys) :: A python library.
 for implementing a recommender system. 
 + [Sixpack](http://sixpack.seatgeek.com) :: a language-agnostic a/b-testing framework. [Documentation](https://github.com/seatgeek/sixpack)
 + [TPOT](https://github.com/EpistasisLab/tpot) :: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. A blog post explaining the same: http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
@@ -169,13 +170,13 @@ for implementing a recommender system.
 + [NLP-Notebooks-Newspaper-Collections](https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections) :: NLP Notebooks for Newspaper Collections are aimed particularly at digital humanities scholars who use newspapers as a source. 
 
 
-## §4.3. Screen Reading
+## §4.3. Screen Reading. span id="4-3-Screen-Reading"><span>    
 + [wordgraph](https://github.com/tleeuwenburg/wordgraph) :: This project supports creating English-language text from a graph description for those doing screen reading for vision-impaired people, or just people who like to listen to graphs while jogging, or just to get a handle on what's going on.
 + __Resources__
    + [STT with HMM](https://kastnerkyle.github.io/blog/2014/05/22/single-speaker-speech-recognition/) ::  Single Speaker Speech Recognition with Hidden Markov Models.
 
 
-## §4.4. Speech Recognition
+## §4.4. Speech Recognition.  span id="4-4-Speech-Recognition"><span>
 + [Speech recognition software for Linux](http://en.wikipedia.org/wiki/Speech_recognition_software_for_Linux)
 + [Dragonfly](https://code.google.com/p/dragonfly/) ::  Dragonfly is a speech recognition framework. It is a Python package which offers a high-level object model and allows its users to easily write scripts, macros, and programs which use speech recognition. [Documentation](https://pythonhosted.org/dragonfly/).
 + [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialog datasets. http://parl.ai
@@ -184,14 +185,14 @@ for implementing a recommender system.
 ##### Resources
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
 
-
-## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)).  span id="4-5-Transformers"><span>    
+## §4.5. [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)). <span id="4-5-Transformers"><span>
 + [BERT](https://github.com/google-research/bert) :: TensorFlow code and pre-trained models for 24 smaller BERT models (English only, uncased, trained with WordPiece masking) referenced in Well-Read Students Learn Better: On the Importance of Pre-training Compact Models.
 + [Transformers](https://github.com/huggingface/transformers) :: State-of-the-art Natural Language Processing for Jax, PyTorch and TensorFlow.
 
 ----
 
-# [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
+# §5. [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning) <span id="5-REINFORCEMENT-LEARNING"><span>
+
 + [bsuite](https://github.com/deepmind/bsuite) ::  A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent. 
 + [Tensortrade](https://github.com/notadamking/tensortrade) :: An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 
@@ -218,27 +219,25 @@ for implementing a recommender system.
 
 
 
-# [UNSUPERVISED LEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning)
+# §8. [UNSUPERVISED LEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning). <span id="8-UNSUPERVISED-LEARNING"><span>
 
-## [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+## §8.1. [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network). <span id="8-1-GAN"><span>
 * [Jokerise](https://github.com/junkwhinger/jokerise) :: Jokeriser with CycleGAN.
 
-## Neural Networks
+## §8.2. Neural Networks. <span id="8-2-Neural-Networks"><span>
 + [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
 + [BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) :: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
 + [NAMAS](https://github.com/facebook/NAMAS) :: Neural Attention Model for Abstractive Summarization.
 + [SparkNet](https://github.com/amplab/SparkNet) :: Distributed Neural Networks for Spark.
 
-### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+### §8.2.1. [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network). <span id="8-2-1-Artificial-Neural-Network"><span>
 + [pylearn2](https://github.com/lisa-lab/pylearn2) : A Machine Learning library based on Theano.
++ [Spiral](https://github.com/deepmind/spiral) :: A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
 + [Tensorflow](http://tensorflow.org) ::  Open source software library for numerical computation using data flow graphs. [Source code](https://github.com/tensorflow/tensorflow) on GH.
    + [models](https://github.com/tensorflow/models) :: Models built with TensorFlow.
    + Resources: [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) :: Simple tutorials using Google's TensorFlow Framework.
 + [theano-nlp](https://github.com/fchollet/theano-nlp) :: Tools and datasets for NLP in Theano.
 
-
-#### Pre-Trained Models
-+ [Spiral](https://github.com/deepmind/spiral) :: A pre-trained model for unconditional 19-step generation of CelebA-HQ images.
 
 
 ###### Resources
