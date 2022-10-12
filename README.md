@@ -1,6 +1,6 @@
 # Pythonidae
 
-[Pythonidae](http://svaksha.github.io/pythonidae) curates decibans of Python libraries and resources for scientific programming and mathematical and statistical computing. Some resources listed here may also use other languages like Go, Java, Julia, R-language, etc.. in their codebase.
+[Pythonidae](http://svaksha.github.io/pythonidae) curates decibans of [Python libraries](https://www.scaler.com/topics/python-libraries/) and resources for scientific programming and mathematical and statistical computing. Some resources listed here may also use other languages like Go, Java, Julia, R-language, etc.. in their codebase.
 
 + [INDEX](#index)
 + [LICENSE](#license)
