@@ -143,6 +143,7 @@ for implementing a recommender system.
 + [Geiger](https://github.com/ftzeng/geiger) :: An automated system for grouping similar comments and then identifying the best representative from each group.
 + [Glove-python](https://github.com/maciejkula/glove-python) :: Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
 + [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) ::  A framework for detecting, highlighting and correcting grammatical errors on natural language text.
++ [Haystack](https://github.com/deepset-ai/haystack) :: An open-source framework for building applications (agents, semantic search etc.) with Transformer models and LLMs.
 + [IEPY](https://github.com/machinalis/iepy) :: An open source tool for Information Extraction focused on Relation Extraction.
 + [JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer) :: A Japanese tokenizer with KyTea for nltk.
 + [Mykytea-python](https://github.com/chezou/Mykytea-python) :: Python wrapper for [KyTea](http://wp.me/pvR30-i1).
