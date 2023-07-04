@@ -223,6 +223,7 @@ for implementing a recommender system.
 
 ## §8.1. [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network). <span id="8-1-GAN"><span>
 * [Jokerise](https://github.com/junkwhinger/jokerise) :: Jokeriser with CycleGAN.
+* [joliGEN](https://github.com/jolibrain/joliGEN) :: Generative AI Image Toolset with GANs and Diffusion for Real-World Applications
 
 ## §8.2. Neural Networks. <span id="8-2-Neural-Networks"><span>
 + [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) :: Training Deep Neural Networks with binary weights during propagations.
