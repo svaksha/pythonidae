@@ -771,6 +771,7 @@ OpenDataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
 OpenDataScience,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org)."
 Physics,,Python-for-Signal-Processing,https://github.com/unpingco/Python-for-Signal-Processing,"Notebooks for ""Python for Signal Processing"" book."
 Physics,AstroPhysics,Astrophysics,https://github.com/eteq/astropysics,"A python library for astronomy/astrophysics calculations and data analysis, available as a [python package](http://packages.python.org/Astropysics/)."
+Physics,ComputationalPhysics,AgentFEM,https://github.com/haoming-luo/agentfem,"Python finite-element workflows built on FEniCSx for structural and thermal simulation, with editable models and CLI tools for checking, running and inspecting results. Requires a local solver environment."
 Physics,ComputationalPhysics,NUFFT,https://github.com/jakevdp/nufft,A pure-python implementation of the [NUFFT](http://www.cims.nyu.edu/cmcl/nufft/nufft.html) (Non-Uniform Fast Fourier Transform) and related algorithms.
 Physics,ComputationalPhysics,ToPy,https://github.com/williamhunter/topy,High performance topology optimization framework. Based on modified [SIMP](http://www.topopt.dtu.dk/files/matlab.pdf) algorithm.
 Physics,NuclearPhysics,Sandbox,https://github.com/ergs/sandbox,for [ERGS]( http://www.ergs.sc.edu) (Energy Research Group: Scopatz) projects.

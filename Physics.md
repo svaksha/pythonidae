@@ -18,6 +18,7 @@
 ----
 
 # Computational Physics
++ [AgentFEM](https://github.com/haoming-luo/agentfem) :: Python finite-element workflows built on FEniCSx for structural and thermal simulation, with editable models and CLI tools for checking, running and inspecting results. Requires a local solver environment.
 + [NUFFT](https://github.com/jakevdp/nufft) :: A pure-python implementation of the [NUFFT](http://www.cims.nyu.edu/cmcl/nufft/nufft.html) (Non-Uniform Fast Fourier Transform) and related algorithms.
 + [ToPy](https://github.com/williamhunter/topy) :: High performance topology optimization framework. Based on modified [SIMP](http://www.topopt.dtu.dk/files/matlab.pdf) algorithm.
 
